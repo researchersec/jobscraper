@@ -20,8 +20,8 @@ jobs:
       with:
         python-version: 3.x
 
-    - name: Install 'requests' module
-      run: pip install requests
+    - name: Install 'requests' and 'bs4' modules
+      run: pip install requests beautifulsoup4
 
     - name: Run scrape.py
       run: |
