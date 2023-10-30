@@ -1,0 +1,28 @@
+name: Auto Scrape and Push
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Run every 4 hours
+
+jobs:
+  scrape_and_push:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Run scrape.py
+      run: |
+        python scrape.py
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git add README.md
+        git commit -m "Auto scrape and update README.md"
+        git push
+
