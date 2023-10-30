@@ -1,7 +1,11 @@
 # Title: Group IT Manager
+
 Pub: 20-10-2023
+
 Company: Carsoe
+
 Location: Aalborg
+
 Job URL: https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2042&ProjectId=143718&DepartmentId=18956&MediaId=4617
 
 # Title: IT-supporter/IT Service Delivery Technician
