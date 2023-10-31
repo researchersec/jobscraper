@@ -3,6 +3,7 @@ import os
 from bs4 import BeautifulSoup
 import re
 
+#f
 criteria = "it-support"
 
 URL = f"https://www.jobindex.dk/jobsoegning/it/itdrift/region-nordjylland?q={criteria}&subid=1&subid=4&subid=6&subid=7&subid=93"
