@@ -29,13 +29,13 @@ Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&P
 
 
 # IT Supporter med flair for at arbejde med udvikling
-30-10-2023
+31-10-2023
 
 Hjørring Kommune
 
 Hjørring
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/it-supporter-med-flair-for-at-arbejde-med-udvikling-lja-85081206.aspx?jobId=LJA-85081206&list=SearchResultsJobsIds&index=8&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12041702/it-supporter-med-flair-for-at-arbejde-med-udvikling)
 
 
 # Systemadministrator
