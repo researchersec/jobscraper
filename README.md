@@ -28,6 +28,16 @@ Nørresundby
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143643&DepartmentId=18960&MediaId=4620)
 
 
+# IT Supporter med flair for at arbejde med udvikling
+30-10-2023
+
+Hjørring Kommune
+
+Hjørring
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/it-supporter-med-flair-for-at-arbejde-med-udvikling-lja-85081206.aspx?jobId=LJA-85081206&list=SearchResultsJobsIds&index=8&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Systemadministrator
 24-10-2023
 
