@@ -28,6 +28,16 @@ Løgstør
 Job URL: [link](https://logstordk.varbi.com/dk/what:job/jobID:668368/)
 
 
+# IT-Support og Onsite
+02-11-2023
+
+Region Nordjylland
+
+Aalborg
+
+Job URL: [link](https://rn.dk/genveje/karriere/ledige-job/job?jid=44718)
+
+
 # IT Supporter med flair for at arbejde med udvikling
 31-10-2023
 
