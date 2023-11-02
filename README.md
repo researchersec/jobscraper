@@ -1,3 +1,13 @@
+# IT-supporter
+02-11-2023
+
+Beritech A/S
+
+Nørresundby
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143643&DepartmentId=18960&MediaId=4620)
+
+
 # Group IT Manager
 20-10-2023
 
@@ -16,16 +26,6 @@ LOGSTOR Denmark Holding ApS
 Løgstør
 
 Job URL: [link](https://logstordk.varbi.com/dk/what:job/jobID:668368/)
-
-
-# IT-supporter
-02-11-2023
-
-Beritech A/S
-
-Nørresundby
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143643&DepartmentId=18960&MediaId=4620)
 
 
 # IT Supporter med flair for at arbejde med udvikling
