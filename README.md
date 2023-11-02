@@ -19,7 +19,7 @@ Job URL: [link](https://logstordk.varbi.com/dk/what:job/jobID:668368/)
 
 
 # IT-supporter
-05-10-2023
+02-11-2023
 
 Beritech A/S
 
