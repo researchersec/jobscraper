@@ -1,0 +1,33 @@
+name: Auto Scrape and Push
+
+on:
+  push:
+    branches:
+      - main  # Replace 'main' with the name of your default branch
+  schedule:
+    - cron: '0 */4 * * *'  # Run every 4 hours
+
+jobs:
+  scrape_and_push:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install 'requests' and 'bs4' modules
+      run: pip install requests beautifulsoup4
+
+    - name: Run scrape-lager.py
+      run: |
+        python scrape-lager.py
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git add lager/README.md
+        git commit -m "Auto scrape and update README.md"
+        git push
