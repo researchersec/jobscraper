@@ -14,7 +14,7 @@ soup = BeautifulSoup(page.content, "html.parser")
 results = soup.find_all("div", class_="jobsearch-result")
 
 
-with open("README.md", "w", encoding="utf-8") as file:
+with open("it/README.md", "w", encoding="utf-8") as file:
     for result in results:
         title_element = result.find("h4").find("a") if result.find("h4") else None
         company_element = result.find("div", class_="jix-toolbar-top__company").find("a")
