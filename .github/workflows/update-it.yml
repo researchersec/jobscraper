@@ -1,4 +1,4 @@
-name: Auto Scrape and Push
+name: Update IT Jobs
 
 on:
   push:
