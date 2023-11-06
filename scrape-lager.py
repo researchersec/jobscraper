@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import re
 
 
-URL = f"https://www.jobindex.dk/jobsoegning/industri/lager/region-nordjylland"
+URL = "https://www.jobindex.dk/jobsoegning/industri/lager/region-nordjylland"
 page = requests.get(URL)
 
 soup = BeautifulSoup(page.content, "html.parser")
