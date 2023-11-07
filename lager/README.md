@@ -28,16 +28,6 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
 
 
-# Lagermedarbejder
-18-10-2023
-
-Convert A/S
-
-Thisted
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/493717/lagermedarbejder)
-
-
 # Pladsmedarbejder
 17-10-2023
 
