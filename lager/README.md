@@ -88,13 +88,3 @@ Aalborg SV
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12018487/lagerekspedienter-coop-logistik-aalborg-distributions-center)
 
 
-# Motivated employees to Rokkedahl
-18-10-2023
-
-Rokkedahl Food Aps
-
-Nibe
-
-Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=186748)
-
-
