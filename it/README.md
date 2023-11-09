@@ -18,16 +18,6 @@ Aalborg
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2042&ProjectId=143718&DepartmentId=18956&MediaId=4617)
 
 
-# IT-supporter/IT Service Delivery Technician
-11-10-2023
-
-LOGSTOR Denmark Holding ApS
-
-Løgstør
-
-Job URL: [link](https://logstordk.varbi.com/dk/what:job/jobID:668368/)
-
-
 # IT-Support og Onsite
 03-11-2023
 
