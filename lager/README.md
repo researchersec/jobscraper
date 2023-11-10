@@ -78,13 +78,3 @@ Løgstør
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12021139/lagermedarbejdere)
 
 
-# Lagerekspedienter, Coop Logistik, Aalborg Distributions Center
-19-10-2023
-
-
-
-Aalborg SV
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12018487/lagerekspedienter-coop-logistik-aalborg-distributions-center)
-
-
