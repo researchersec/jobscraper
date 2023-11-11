@@ -68,13 +68,3 @@ Hjørring
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12041891/lagerindkoeber-reservedelsekspedient-soeges-til-vores-afdeling-i-hjoerring)
 
 
-# Lagermedarbejdere
-20-10-2023
-
-LOGSTOR DENMARK HOLDING ApS
-
-Løgstør
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12021139/lagermedarbejdere)
-
-
