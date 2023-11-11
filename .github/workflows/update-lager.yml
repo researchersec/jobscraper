@@ -27,7 +27,7 @@ jobs:
       run: |
         python scrape-lager.py
         git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
+        git config --global user.name "researchersec [bot]"
         git add lager/README.md
         git commit -m "Auto scrape and update README.md"
         git push
