@@ -24,22 +24,28 @@ jobs:
       run: pip install requests beautifulsoup4
 
     - name: Run scrape.py
-      run: |
-        python scrape-it.py
-        git config --global user.email "you@example.com"
-        git config --global user.name "researchersec [bot]"
+      run: 
 
-        ADDED_FILES=$(git diff --name-only)
-        DELETED_FILES=$(git diff --name-only --diff-filter=D)
+python scrape-it.py
+git config --global user.email "you@example.com"
+git config --global user.name "researchersec [bot]"
 
-        if [ -n "$ADDED_FILES" ]; then
-          git add .
-          git commit -m "Auto scrape and add/update files: $ADDED_FILES"
-        elif [ -n "$DELETED_FILES" ]; then
-          git add .
-          git commit -m "Auto scrape and delete files: $DELETED_FILES"
-        else
-          echo "No changes found."
-        fi
+ADDED_FILES=$(git diff --name-only --diff-filter=A)
+DELETED_FILES=$(git diff --name-only --diff-filter=D)
 
-        git push
+if [ -n "$ADDED_FILES" ]; then
+  git add $ADDED_FILES
+  git commit -m "Auto scrape and add/update files: $ADDED_FILES"
+fi
+
+if [ -n "$DELETED_FILES" ]; then
+  git rm $DELETED_FILES
+  git commit -m "Auto scrape and delete files: $DELETED_FILES"
+fi
+
+if [ -z "$ADDED_FILES" ] && [ -z "$DELETED_FILES" ]; then
+  echo "No changes found."
+fi
+
+git push
+
