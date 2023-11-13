@@ -1,3 +1,13 @@
+# Spare Parts Assistant
+13-11-2023
+
+Körber Supply Chain DK A/S
+
+Svenstrup
+
+Job URL: [link](https://jobs.koerber.com/supplychain/job/Svenstrup-Spare-Parts-Assistant/1005388301/)
+
+
 # Lagerchef til XL-BYG Nykøbing M
 24-10-2023
 
@@ -26,6 +36,16 @@ Nordic Computer A/S
 Nørresundby
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
+
+
+# JobTeam Vikar - og Rekrutteringsbureau
+13-11-2023
+
+
+
+Hjørring
+
+Job URL: [link](https://www.jobteam.dk/afdeling/6200U/Vikar-liste_P45/)
 
 
 # Lager og Logistikoperatør til Vedligeholdelsesområde Frederikshavn
