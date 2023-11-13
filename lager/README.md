@@ -38,16 +38,6 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
 
 
-# JobTeam Vikar - og Rekrutteringsbureau
-13-11-2023
-
-
-
-Hjørring
-
-Job URL: [link](https://www.jobteam.dk/afdeling/6200U/Vikar-liste_P45/)
-
-
 # Lager og Logistikoperatør til Vedligeholdelsesområde Frederikshavn
 08-11-2023
 
