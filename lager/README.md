@@ -28,16 +28,6 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
 
 
-# Pladsmedarbejder
-17-10-2023
-
-Bygma
-
-Thisted
-
-Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/pladsmedarbejder-til-bygma-thisted-ansoegningsfrist-12-november-2023/?utm_source=jobindex&utm_medium=&utm_campaign=pladsmedarbejder-thisted&utm_content=20231017-thisted)
-
-
 # Lager og Logistikoperatør til Vedligeholdelsesområde Frederikshavn
 08-11-2023
 
