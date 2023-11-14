@@ -1,13 +1,3 @@
-# IT-supporter
-02-11-2023
-
-Beritech A/S
-
-Nørresundby
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143643&DepartmentId=18960&MediaId=4620)
-
-
 # Group IT Manager
 20-10-2023
 
