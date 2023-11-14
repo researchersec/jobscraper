@@ -48,13 +48,3 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12042055/vi-soeger-it-specialister)
 
 
-# Systemadministrator
-24-10-2023
-
-IT Drift
-
-Aars
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12026901/systemadministrator)
-
-
