@@ -1,3 +1,13 @@
+# Dagrofa Foodservice Hjørring søger Barselsvikar
+14-11-2023
+
+Dagrofa Foodservice
+
+Hjørring
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146433&DepartmentId=19005&MediaId=4623)
+
+
 # Style and Customer Advisor
 10-11-2023
 
@@ -96,15 +106,5 @@ Bygma
 Thisted
 
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-thisted-ansoegningsfrist-19-november-2023/?utm_source=jobindex&utm_medium=&utm_campaign=s%C3%A6lger-thisted&utm_content=20231023-thisted)
-
-
-# Delikatesseassistent, SuperBrugsen, Skagen
-16-10-2023
-
-SuperBrugsen
-
-Skagen
-
-Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Skagen/780529602/)
 
 
