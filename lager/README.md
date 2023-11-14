@@ -1,3 +1,13 @@
+# 50 energiske lagermedarbejdere søges
+14-11-2023
+
+Vikar DK A/S
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/495925/50-energiske-lagermedarbejdere-soeges)
+
+
 # Spare Parts Assistant
 13-11-2023
 
@@ -46,16 +56,6 @@ Forsvaret
 Frederikshavn
 
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=186983&mediaId=4681)
-
-
-# Erfaren lagermedarbejder søges
-01-11-2023
-
-ERLING CHRISTENSEN MØBLER A/S
-
-Sindal
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12045034/erfaren-lagermedarbejder-soeges)
 
 
 # Lagerindkøber/Reservedelsekspedient søges til vores afdeling i Hjørring
