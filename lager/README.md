@@ -1,3 +1,13 @@
+# Driftsleder
+15-11-2023
+
+Lineage Logistics ApS
+
+Hanstholm
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/495963/driftsleder)
+
+
 # 50 energiske lagermedarbejdere søges
 14-11-2023
 
@@ -46,6 +56,16 @@ Nordic Computer A/S
 Nørresundby
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
+
+
+# Lager- og Logistikoperatører til Forsyningscenter Frederikshavn
+15-11-2023
+
+Forsvaret
+
+Frederikshavn
+
+Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=187146&mediaId=4681)
 
 
 # Lager og Logistikoperatør til Vedligeholdelsesområde Frederikshavn
