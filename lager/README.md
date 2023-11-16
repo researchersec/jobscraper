@@ -58,6 +58,16 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
 
 
+# Bliv en del af on-demandkorpset i Aalborg & omegn
+16-11-2023
+
+
+
+Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV, Aarhus C, Aarhus N, Aarhus V
+
+Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=187055)
+
+
 # Lager- og Logistikoperatører til Forsyningscenter Frederikshavn
 15-11-2023
 
