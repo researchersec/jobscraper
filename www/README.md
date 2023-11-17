@@ -1,3 +1,13 @@
+# Digitaliseringskonsulenter til HR
+17-11-2023
+
+Aalborg Universitet
+
+Aalborg Øst
+
+Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1216730)
+
+
 # Softwareudvikler til Studies&Me, en del af Sanos Group
 10-11-2023
 
