@@ -1,3 +1,13 @@
+# Køkkensælger Aalborg
+17-11-2023
+
+VORDINGBORG KØKKENET
+
+Aalborg SV
+
+Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/74ksaq/kokkensalger-aalborg)
+
+
 # Dagrofa Foodservice Hjørring søger Barselsvikar
 14-11-2023
 
