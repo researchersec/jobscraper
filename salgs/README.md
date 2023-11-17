@@ -98,13 +98,3 @@ Aalborg
 Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen-Vejg%C3%A5rd-%28Aalborg%29/781226302/)
 
 
-# Sælger
-24-10-2023
-
-Bygma
-
-Thisted
-
-Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-thisted-ansoegningsfrist-19-november-2023/?utm_source=jobindex&utm_medium=&utm_campaign=s%C3%A6lger-thisted&utm_content=20231023-thisted)
-
-
