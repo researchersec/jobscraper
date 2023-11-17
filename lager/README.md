@@ -48,16 +48,6 @@ Frederikshavn
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=144919&DepartmentId=18956&MediaId=4619)
 
 
-# Lagermedarbejder
-19-10-2023
-
-Nordic Computer A/S
-
-Nørresundby
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
-
-
 # Bliv en del af on-demandkorpset i Aalborg & omegn
 16-11-2023
 
