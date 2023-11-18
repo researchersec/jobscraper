@@ -38,16 +38,6 @@ Nykøbing M
 Job URL: [link](https://app.elvium.com/da/positions/23536/job_posting?referer_host=www.jobindex.dk)
 
 
-# Team Leader, Warehousing
-19-10-2023
-
-MAN Energy Solutions
-
-Frederikshavn
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=144919&DepartmentId=18956&MediaId=4619)
-
-
 # Bliv en del af on-demandkorpset i Aalborg & omegn
 16-11-2023
 
