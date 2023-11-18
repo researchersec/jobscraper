@@ -88,16 +88,6 @@ Farsø
 Job URL: [link](https://app.elvium.com/da/positions/23608/job_posting?referer_host=www.jobindex.dk)
 
 
-# Delikatesseassistent, Kvickly, Aars
-27-10-2023
-
-Kvickly
-
-Aars
-
-Job URL: [link](https://jobs.coop.dk/job/Delikatesse-assistent%2C-Kvickly%2C-Aars/781306302/)
-
-
 # Delikatesseassistent, SuperBrugsen Vejgård (Aalborg)
 26-10-2023
 
