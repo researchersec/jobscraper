@@ -38,6 +38,16 @@ Nykøbing M
 Job URL: [link](https://app.elvium.com/da/positions/23536/job_posting?referer_host=www.jobindex.dk)
 
 
+# Lagermedarbejder primært til plukning og pakning søges
+20-11-2023
+
+
+
+Svenstrup J
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12095738/lagermedarbejder-primaert-til-plukning-og-pakning-soeges)
+
+
 # Bliv en del af on-demandkorpset i Aalborg & omegn
 16-11-2023
 
