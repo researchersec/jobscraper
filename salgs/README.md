@@ -1,3 +1,13 @@
+# Flexjobber til butikken på Hurup Genbrugscenter
+20-11-2023
+
+THISTED KOMMUNE
+
+Hurup Thy
+
+Job URL: [link](https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=117046)
+
+
 # Køkkensælger Aalborg
 17-11-2023
 
