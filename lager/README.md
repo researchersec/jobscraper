@@ -38,6 +38,16 @@ Nykøbing M
 Job URL: [link](https://app.elvium.com/da/positions/23536/job_posting?referer_host=www.jobindex.dk)
 
 
+# Replenishment co-worker for night and morning shift, 10 hours per week, 005 warehouse
+20-11-2023
+
+IKEA
+
+Aalborg SV
+
+Job URL: [link](https://jobs.ikea.com/da/job/aalborg/replenishment-co-worker-for-night-and-morning-shift-10-hours-per-week-005-warehouse/24107/57516608816)
+
+
 # Lagermedarbejder primært til plukning og pakning søges
 20-11-2023
 
@@ -76,15 +86,5 @@ Forsvaret
 Frederikshavn
 
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=186983&mediaId=4681)
-
-
-# Lagerindkøber/Reservedelsekspedient søges til vores afdeling i Hjørring
-31-10-2023
-
-Nordjysk Lift ApS
-
-Hjørring
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12041891/lagerindkoeber-reservedelsekspedient-soeges-til-vores-afdeling-i-hjoerring)
 
 
