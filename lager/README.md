@@ -1,3 +1,13 @@
+# Danmarks førende dronevirksomhed søger kvalitets- og lagermedarbejder
+21-11-2023
+
+Sky-Watch
+
+Støvring
+
+Job URL: [link](https://www.jobindex.dk/img/pdf/16480_Skywatch_Jobopslag_lager_kvalitetsmedarbejder_NOV2023.pdf)
+
+
 # Driftsleder
 15-11-2023
 
@@ -36,6 +46,16 @@ XL-BYG
 Nykøbing M
 
 Job URL: [link](https://app.elvium.com/da/positions/23536/job_posting?referer_host=www.jobindex.dk)
+
+
+# Motiverede og stabile produktions- og lagermedarbejdere søges til Nordjylland!
+21-11-2023
+
+Flair
+
+Region Nordjylland
+
+Job URL: [link](https://www.flair.dk/ledige-stillinger/motiverede-og-stabile-produktions-og-lagermedarbejdere-soeges-til-nordjylland/?id=149079)
 
 
 # Replenishment co-worker for night and morning shift, 10 hours per week, 005 warehouse
