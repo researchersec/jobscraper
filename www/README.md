@@ -68,23 +68,3 @@ Aalborg
 Job URL: [link](https://career.shapingnewtomorrow.com/jobs/3046070-paid-social-media-display-specialist-m-f-d)
 
 
-# Linux Operations Engineer
-23-10-2023
-
-Netcompany A/S
-
-Aalborg, København K
-
-Job URL: [link](https://smrtr.io/gP-sr)
-
-
-# Erfaren Linux Operations Engineer
-23-10-2023
-
-Netcompany A/S
-
-Aalborg, København K
-
-Job URL: [link](https://smrtr.io/gvHYb)
-
-
