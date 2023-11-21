@@ -98,13 +98,3 @@ Farsø
 Job URL: [link](https://app.elvium.com/da/positions/23608/job_posting?referer_host=www.jobindex.dk)
 
 
-# Delikatesseassistent, SuperBrugsen Vejgård (Aalborg)
-26-10-2023
-
-SuperBrugsen
-
-Aalborg
-
-Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen-Vejg%C3%A5rd-%28Aalborg%29/781226302/)
-
-
