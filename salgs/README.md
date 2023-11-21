@@ -88,13 +88,3 @@ Aars
 Job URL: [link](https://bestseller-as.contactrh.com/jobs/10895/42018480/da_DK)
 
 
-# Salgsassistent med interesse for VVS, værktøj og beslag til XL-BYG’s byggemarked i Farsø
-30-10-2023
-
-XL-BYG
-
-Farsø
-
-Job URL: [link](https://app.elvium.com/da/positions/23608/job_posting?referer_host=www.jobindex.dk)
-
-
