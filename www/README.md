@@ -18,16 +18,6 @@ Aalborg Øst
 Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1216730)
 
 
-# Softwareudvikler til Studies&Me, en del af Sanos Group
-10-11-2023
-
-Sanos Group A/S
-
-Gandrup
-
-Job URL: [link](https://studiesandme.career.emply.com/ad/softwareudvikler-til-studiesme-en-del-af-sanos-group/38gdq3/en)
-
-
 # Grafisk designer til AAU Kommunikation og Public Affairs
 10-11-2023
 
