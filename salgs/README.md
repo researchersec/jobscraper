@@ -78,13 +78,3 @@ Aalborg Øst
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/4b40b0bd-5e96-47eb-b91a-73c16eec2c06)
 
 
-# Salgsassistent Vero Moda Aars
-31-10-2023
-
-VERO MODA
-
-Aars
-
-Job URL: [link](https://bestseller-as.contactrh.com/jobs/10895/42018480/da_DK)
-
-
