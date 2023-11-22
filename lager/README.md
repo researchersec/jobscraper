@@ -1,3 +1,23 @@
+# Cimbria søger truckfører
+22-11-2023
+
+A/S Cimbria
+
+Thisted
+
+Job URL: [link](https://www.jobindex.dk/img/pdf/Truckfoerer-3.pdf)
+
+
+# Truckfører
+22-11-2023
+
+A/S Cimbria
+
+Thisted
+
+Job URL: [link](https://www.jobindex.dk/img/pdf/Truckfoerer-4.pdf)
+
+
 # Danmarks førende dronevirksomhed søger kvalitets- og lagermedarbejder
 21-11-2023
 
@@ -36,6 +56,16 @@ Körber Supply Chain DK A/S
 Svenstrup
 
 Job URL: [link](https://jobs.koerber.com/supplychain/job/Svenstrup-Spare-Parts-Assistant/1005388301/)
+
+
+# Struktureret workshop medarbejder med hænderne skruet godt på
+22-11-2023
+
+
+
+Frederikshavn
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12100215/struktureret-workshop-medarbejder-med-haenderne-skruet-godt-paa)
 
 
 # Motiverede og stabile produktions- og lagermedarbejdere søges til Nordjylland!
