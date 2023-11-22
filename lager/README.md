@@ -38,16 +38,6 @@ Svenstrup
 Job URL: [link](https://jobs.koerber.com/supplychain/job/Svenstrup-Spare-Parts-Assistant/1005388301/)
 
 
-# Lagerchef til XL-BYG Nykøbing M
-24-10-2023
-
-XL-BYG
-
-Nykøbing M
-
-Job URL: [link](https://app.elvium.com/da/positions/23536/job_posting?referer_host=www.jobindex.dk)
-
-
 # Motiverede og stabile produktions- og lagermedarbejdere søges til Nordjylland!
 21-11-2023
 
