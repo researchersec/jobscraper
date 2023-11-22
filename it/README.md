@@ -18,13 +18,3 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12052096/it-support-og-onsite)
 
 
-# IT Supporter med flair for at arbejde med udvikling
-31-10-2023
-
-Hjørring Kommune
-
-Hjørring
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12041702/it-supporter-med-flair-for-at-arbejde-med-udvikling)
-
-
