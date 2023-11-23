@@ -1,3 +1,13 @@
+# Lagerchef/Warehouse Manager
+23-11-2023
+
+LOGSTOR Denmark Holding ApS
+
+Løgstør
+
+Job URL: [link](https://logstordk.varbi.com/dk/what:job/jobID:590374/)
+
+
 # Cimbria søger truckfører
 22-11-2023
 
@@ -116,15 +126,5 @@ Forsvaret
 Frederikshavn
 
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=187146&mediaId=4681)
-
-
-# Lager og Logistikoperatør til Vedligeholdelsesområde Frederikshavn
-08-11-2023
-
-Forsvaret
-
-Frederikshavn
-
-Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=186983&mediaId=4681)
 
 
