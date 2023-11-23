@@ -48,13 +48,3 @@ Aalborg, Copenhagen or Vilnius (Lithuania)
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143642&DepartmentId=18972&MediaId=5)
 
 
-# Lead Paid Social Media Specialist (m/f/d)
-03-11-2023
-
-Shaping New Tomorrow
-
-Aalborg
-
-Job URL: [link](https://career.shapingnewtomorrow.com/jobs/3046070-paid-social-media-display-specialist-m-f-d)
-
-
