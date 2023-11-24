@@ -1,3 +1,13 @@
+# Delikatesseassistent, SuperBrugsen Vejgård (Aalborg)
+24-11-2023
+
+SuperBrugsen
+
+Aalborg
+
+Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen-Vejg%C3%A5rd-%28Aalborg%29/781226302/)
+
+
 # Sælger
 23-11-2023
 
@@ -76,15 +86,5 @@ Louis Nielsen A/S
 Thisted
 
 Job URL: [link](https://join.specsavers.com/louis-nielsen/position/optiker-til-louis-nielsen-thisted/)
-
-
-# Butiksassistent under 18 år - Aalborg Ø
-02-11-2023
-
-Netto
-
-Aalborg Øst
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/4b40b0bd-5e96-47eb-b91a-73c16eec2c06)
 
 
