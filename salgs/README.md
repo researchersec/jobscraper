@@ -1,3 +1,13 @@
+# Delikatessemedarbejder Dagli'Brugsen Tranum
+24-11-2023
+
+Dagli'Brugsen
+
+Brovst
+
+Job URL: [link](https://jobs.coop.dk/job/Delikatessemedarbejder-Dagli&apos;Brugsen-Tranum/783145402/)
+
+
 # Delikatesseassistent, SuperBrugsen Vejgård (Aalborg)
 24-11-2023
 
@@ -76,15 +86,5 @@ Dagrofa Foodservice
 Frederikshavn
 
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146423&DepartmentId=19007&MediaId=4623)
-
-
-# Optiker til Louis Nielsen Thisted
-07-11-2023
-
-Louis Nielsen A/S
-
-Thisted
-
-Job URL: [link](https://join.specsavers.com/louis-nielsen/position/optiker-til-louis-nielsen-thisted/)
 
 
