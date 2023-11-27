@@ -8,16 +8,6 @@ Brovst
 Job URL: [link](https://jobs.coop.dk/job/Delikatessemedarbejder-Dagli&apos;Brugsen-Tranum/783145402/)
 
 
-# Delikatesseassistent, SuperBrugsen Vejgård (Aalborg)
-24-11-2023
-
-SuperBrugsen
-
-Aalborg
-
-Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen-Vejg%C3%A5rd-%28Aalborg%29/781226302/)
-
-
 # Sælger
 23-11-2023
 
