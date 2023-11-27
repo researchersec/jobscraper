@@ -1,3 +1,13 @@
+# Bliv salgsassistent
+27-11-2023
+
+Louis Nielsen A/S
+
+Hobro
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1728/salgsassistent-til-louis-nielsen-hobro)
+
+
 # Delikatessemedarbejder Dagli'Brugsen Tranum
 24-11-2023
 
@@ -36,16 +46,6 @@ VORDINGBORG KØKKENET
 Aalborg SV
 
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/74ksaq/kokkensalger-aalborg)
-
-
-# Dagrofa Foodservice Hjørring søger Barselsvikar
-14-11-2023
-
-Dagrofa Foodservice
-
-Hjørring
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146433&DepartmentId=19005&MediaId=4623)
 
 
 # Style and Customer Advisor
