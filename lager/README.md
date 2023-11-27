@@ -48,6 +48,16 @@ Svenstrup
 Job URL: [link](https://jobs.koerber.com/supplychain/job/Svenstrup-Spare-Parts-Assistant/1005388301/)
 
 
+# Lager og Logistikoperatør til Vedligeholdelsesområde Frederikshavn
+27-11-2023
+
+Forsvaret
+
+Frederikshavn
+
+Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=187452&mediaId=4681)
+
+
 # Struktureret workshop medarbejder med hænderne skruet godt på
 22-11-2023
 
