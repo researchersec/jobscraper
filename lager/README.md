@@ -108,13 +108,3 @@ Frederikshavn
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=187146&mediaId=4681)
 
 
-# Lager og Logistikoperatør til Vedligeholdelsesområde Frederikshavn
-08-11-2023
-
-Forsvaret
-
-Frederikshavn
-
-Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=186983&mediaId=4681)
-
-
