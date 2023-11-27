@@ -18,16 +18,6 @@ Aalborg Øst
 Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1216730)
 
 
-# Grafisk designer til AAU Kommunikation og Public Affairs
-10-11-2023
-
-Aalborg Universitet
-
-Aalborg Øst
-
-Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1216585)
-
-
 # PHP Software Developer
 09-11-2023
 
