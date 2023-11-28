@@ -48,6 +48,16 @@ Svenstrup
 Job URL: [link](https://jobs.koerber.com/supplychain/job/Svenstrup-Spare-Parts-Assistant/1005388301/)
 
 
+# Bliv en del af on-demandkorpset i Aalborg & omegen
+28-11-2023
+
+
+
+Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV, Aarhus C, Aarhus N, Aarhus V
+
+Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=187183)
+
+
 # Lager og Logistikoperatør til Vedligeholdelsesområde Frederikshavn
 27-11-2023
 
