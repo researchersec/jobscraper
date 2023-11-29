@@ -48,7 +48,7 @@ Svenstrup
 Job URL: [link](https://jobs.koerber.com/supplychain/job/Svenstrup-Spare-Parts-Assistant/1005388301/)
 
 
-# Bliv en del af on-demandkorpset i Aalborg & omegen
+# Bliv en del af on-demandkorpset i Aalborg & omegne
 28-11-2023
 
 
