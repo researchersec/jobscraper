@@ -68,16 +68,6 @@ Frederikshavn
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=187452&mediaId=4681)
 
 
-# Struktureret workshop medarbejder med hænderne skruet godt på
-22-11-2023
-
-
-
-Frederikshavn
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12100215/struktureret-workshop-medarbejder-med-haenderne-skruet-godt-paa)
-
-
 # Motiverede og stabile produktions- og lagermedarbejdere søges til Nordjylland!
 21-11-2023
 
