@@ -48,6 +48,16 @@ Svenstrup
 Job URL: [link](https://jobs.koerber.com/supplychain/job/Svenstrup-Spare-Parts-Assistant/1005388301/)
 
 
+# Engageret kollega til Hjælpemiddeldepotet
+30-11-2023
+
+Rebild Kommune
+
+Støvring
+
+Job URL: [link](https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1541&WebAdId=117487)
+
+
 # Bliv en del af on-demandkorpset i Aalborg & omegne
 28-11-2023
 
