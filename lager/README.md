@@ -8,6 +8,16 @@ Hjørring
 Job URL: [link](https://www.jobindex.dk/jobannonce/497102/indkoebs-og-lagerkoordinator)
 
 
+# Lagermedarbejder
+01-12-2023
+
+XL-BYG
+
+Thisted
+
+Job URL: [link](https://app.elvium.com/da/positions/24017/job_posting?referer_host=www.jobindex.dk)
+
+
 # Lagerchef/Warehouse Manager
 23-11-2023
 
@@ -126,15 +136,5 @@ Job URL: [link](https://www.jobindex.dk/jobannonce/r12095738/lagermedarbejder-pr
 Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV, Aarhus C, Aarhus N, Aarhus V
 
 Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=187055)
-
-
-# Lager- og Logistikoperatører til Forsyningscenter Frederikshavn
-15-11-2023
-
-Forsvaret
-
-Frederikshavn
-
-Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=187146&mediaId=4681)
 
 
