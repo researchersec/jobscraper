@@ -68,23 +68,3 @@ Vejen, Aalborg eller Thisted
 Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
 
 
-# Salgsassistent til Aalborg Station DSB 7-Eleven (8 timer pr. uge)
-10-11-2023
-
-DSB
-
-Aalborg
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=14&ProjectId=191846&DepartmentId=20079&MediaId=5)
-
-
-# Dagrofa Foodservice Frederikshavn søger en Salgsassistent
-09-11-2023
-
-Dagrofa Foodservice
-
-Frederikshavn
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146423&DepartmentId=19007&MediaId=4623)
-
-
