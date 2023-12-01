@@ -1,3 +1,13 @@
+# Indkøbs- og lagerkoordinator
+01-12-2023
+
+JS Proputec A/S
+
+Hjørring
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/497102/indkoebs-og-lagerkoordinator)
+
+
 # Lagerchef/Warehouse Manager
 23-11-2023
 
