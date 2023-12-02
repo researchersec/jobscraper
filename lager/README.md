@@ -118,16 +118,6 @@ Aalborg SV
 Job URL: [link](https://jobs.ikea.com/da/job/aalborg/replenishment-co-worker-for-night-and-morning-shift-10-hours-per-week-005-warehouse/24107/57516608816)
 
 
-# Lagermedarbejder primært til plukning og pakning søges
-20-11-2023
-
-
-
-Svenstrup J
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12095738/lagermedarbejder-primaert-til-plukning-og-pakning-soeges)
-
-
 # Bliv en del af on-demandkorpset i Aalborg & omegn
 16-11-2023
 
