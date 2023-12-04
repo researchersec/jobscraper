@@ -58,16 +58,6 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/495925/50-energiske-lagermedarbejdere-soeges)
 
 
-# Spare Parts Assistant
-13-11-2023
-
-Körber Supply Chain DK A/S
-
-Svenstrup
-
-Job URL: [link](https://jobs.koerber.com/supplychain/job/Svenstrup-Spare-Parts-Assistant/1005388301/)
-
-
 # Engageret kollega til Hjælpemiddeldepotet
 30-11-2023
 
