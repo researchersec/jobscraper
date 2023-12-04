@@ -1,3 +1,13 @@
+# E-Commerce Specialist Onsite Marketing & UX
+04-12-2023
+
+Shaping New Tomorrow
+
+Aalborg or Hamburg
+
+Job URL: [link](https://career.shapingnewtomorrow.com/jobs/3413385-e-commerce-specialist-onsite-marketing-ux)
+
+
 # Frontend Developer
 20-11-2023
 
