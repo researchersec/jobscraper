@@ -1,3 +1,13 @@
+# Delikatesseassistent, SuperBrugsen, Hadsund
+05-12-2023
+
+SuperBrugsen
+
+Hadsund
+
+Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Hadsund/783773602/)
+
+
 # Handelstrainee til XL-BYG Tømmergaarden i Løgstør
 01-12-2023
 
