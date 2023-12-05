@@ -108,16 +108,6 @@ Region Nordjylland
 Job URL: [link](https://www.flair.dk/ledige-stillinger/motiverede-og-stabile-produktions-og-lagermedarbejdere-soeges-til-nordjylland/?id=149079)
 
 
-# Replenishment co-worker for night and morning shift, 10 hours per week, 005 warehouse
-20-11-2023
-
-IKEA
-
-Aalborg SV
-
-Job URL: [link](https://jobs.ikea.com/da/job/aalborg/replenishment-co-worker-for-night-and-morning-shift-10-hours-per-week-005-warehouse/24107/57516608816)
-
-
 # Bliv en del af on-demandkorpset i Aalborg & omegn
 16-11-2023
 
