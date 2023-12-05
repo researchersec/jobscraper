@@ -1,3 +1,13 @@
+# Værkfører for lager og eksternt pakkeri
+05-12-2023
+
+dantoy A/S
+
+Hobro
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/497399/vaerkfoerer-for-lager-og-eksternt-pakkeri)
+
+
 # Indkøbs- og lagerkoordinator
 01-12-2023
 
