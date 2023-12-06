@@ -39,7 +39,7 @@ Job URL: [link](https://job.cykelgear.dk/jobs/2780916-php-software-developer?pro
 
 
 # Experienced Frontend Developers
-08-11-2023
+06-12-2023
 
 Continia Software A/S
 
