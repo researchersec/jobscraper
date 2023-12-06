@@ -88,13 +88,13 @@ Vejen, Aalborg eller Thisted
 Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
 
 
-# Teamkoordinator til Frugt og Grønt - Aalborg SV
-05-12-2023
+# Kalder alle Natteravne! Circle K Thisted søger nu deres nye sælger til nat på ca. 25 timer
+06-12-2023
 
-Bilka
+Circle K Danmark A/S
 
-Aalborg SV
+Thisted
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/7c15e138-140e-4e6e-824a-4f9ecf10ad2c)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12133656/kalder-alle-natteravne-circle-k-thisted-soeger-nu-deres-nye-saelger-til-nat-paa-ca-25-timer)
 
 
