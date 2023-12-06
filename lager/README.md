@@ -1,3 +1,13 @@
+# Nordværks genbrugsbutik søger medarbejder med interesse for genbrugsvarer
+06-12-2023
+
+Nordværk I/S
+
+Hjørring
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143602&DepartmentId=18961&MediaId=4629)
+
+
 # Værkfører for lager og eksternt pakkeri
 05-12-2023
 
