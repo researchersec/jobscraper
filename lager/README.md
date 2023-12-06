@@ -8,6 +8,16 @@ Hjørring
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143602&DepartmentId=18961&MediaId=4629)
 
 
+# Lagerchef til XL-BYG Tømmergaarden Nykøbing
+06-12-2023
+
+XL-BYG
+
+Nykøbing M
+
+Job URL: [link](https://app.elvium.com/da/positions/24072/job_posting?referer_host=www.jobindex.dk)
+
+
 # Værkfører for lager og eksternt pakkeri
 05-12-2023
 
@@ -56,16 +66,6 @@ Sky-Watch
 Støvring
 
 Job URL: [link](https://www.jobindex.dk/img/pdf/16480_Skywatch_Jobopslag_lager_kvalitetsmedarbejder_NOV2023.pdf)
-
-
-# Driftsleder
-15-11-2023
-
-Lineage Logistics ApS
-
-Hanstholm
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/495963/driftsleder)
 
 
 # 50 energiske lagermedarbejdere søges
