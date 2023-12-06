@@ -1,3 +1,13 @@
+# Nordværks genbrugsbutik søger medarbejder med interesse for genbrugsvarer
+06-12-2023
+
+Nordværk I/S
+
+Hjørring
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143602&DepartmentId=18961&MediaId=4629)
+
+
 # Delikatesseassistent, SuperBrugsen, Hadsund
 05-12-2023
 
@@ -56,16 +66,6 @@ Bygma
 Støvring
 
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-18-december-2023/?utm_source=jobindex&utm_medium=&utm_campaign=s%C3%A6lger-st%C3%B8vring&utm_content=20231123-st%C3%B8vring)
-
-
-# Flexjobber til butikken på Hurup Genbrugscenter
-20-11-2023
-
-THISTED KOMMUNE
-
-Hurup Thy
-
-Job URL: [link](https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=117046)
 
 
 # Køkkensælger Aalborg
