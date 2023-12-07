@@ -1,3 +1,13 @@
+# Lagermedarbejder
+07-12-2023
+
+Probeco A/S
+
+Løgstør
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/497648/lagermedarbejder)
+
+
 # Nordværks genbrugsbutik søger medarbejder med interesse for genbrugsvarer
 06-12-2023
 
