@@ -88,6 +88,16 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/495925/50-energiske-lagermedarbejdere-soeges)
 
 
+# Teamleder med ansvar for kvalitetskontrol, lager og indkøb
+07-12-2023
+
+
+
+Thisted
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/teamleder-med-ansvar-for-kvalitetskontrol-lager-og-indkoeb-lja-85158516.aspx?jobId=LJA-85158516&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Engageret kollega til Hjælpemiddeldepotet
 30-11-2023
 
