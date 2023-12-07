@@ -88,13 +88,13 @@ Vejen, Aalborg eller Thisted
 Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
 
 
-# Salgsassistent til bageriudsalget - Aalborg Øst
+# Butiksassistent - 30 timer - Hjørring
 07-12-2023
 
-føtex
+Lidl Danmark
 
-Aalborg Øst
+Hjørring
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/528c1d9b-148f-41d6-8a6c-111982827987)
+Job URL: [link](https://karriere.lidl.dk/ledige-stillinger/butiksassistent-30-timer-hjoerring-342862)
 
 
