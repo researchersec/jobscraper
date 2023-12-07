@@ -8,6 +8,16 @@ Thisted
 Job URL: [link](https://www.jobindex.dk/jobannonce/496863/klar-til-en-it-udfordring-join-inuit-som-it-supporter)
 
 
+# IT-Supporter til 1. level support
+07-12-2023
+
+Moment
+
+Aalborg
+
+Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=187292)
+
+
 # IT-SUPPORTER TIL AALBORG UNIVERSITET
 30-11-2023
 
