@@ -138,13 +138,3 @@ Region Nordjylland
 Job URL: [link](https://www.flair.dk/ledige-stillinger/motiverede-og-stabile-produktions-og-lagermedarbejdere-soeges-til-nordjylland/?id=149079)
 
 
-# Bliv en del af on-demandkorpset i Aalborg & omegn
-16-11-2023
-
-
-
-Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV, Aarhus C, Aarhus N, Aarhus V
-
-Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=187055)
-
-
