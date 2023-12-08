@@ -89,13 +89,13 @@ Job URL: [link](https://www.jobindex.dk/jobannonce/495925/50-energiske-lagermeda
 
 
 # Teamleder med ansvar for kvalitetskontrol, lager og indkøb
-07-12-2023
+08-12-2023
 
 
 
 Thisted
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/teamleder-med-ansvar-for-kvalitetskontrol-lager-og-indkoeb-lja-85158516.aspx?jobId=LJA-85158516&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12140110/teamleder-med-ansvar-for-kvalitetskontrol-lager-og-indkoeb)
 
 
 # Engageret kollega til Hjælpemiddeldepotet
