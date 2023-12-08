@@ -28,13 +28,3 @@ Aalborg
 Job URL: [link](https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=kmd&career_job_req_id=33209)
 
 
-# PHP Software Developer
-09-11-2023
-
-Cykelgear A/S
-
-Terndrup eller Aarhus C
-
-Job URL: [link](https://job.cykelgear.dk/jobs/2780916-php-software-developer?promotion=824649-trackable-share-link-software-developer)
-
-
