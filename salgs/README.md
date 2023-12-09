@@ -78,16 +78,6 @@ Aalborg SV
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/74ksaq/kokkensalger-aalborg)
 
 
-# Style and Customer Advisor
-10-11-2023
-
-Profil Optik
-
-Vejen, Aalborg eller Thisted
-
-Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
-
-
 # Butiksassistent - 30 timer - Hjørring
 07-12-2023
 
@@ -116,5 +106,15 @@ Lidl Danmark K/S
 Hjørring
 
 Job URL: [link](https://www.ungarbejde.dk/jobs/butiksassistent-30-timer-hjoerring-66179)
+
+
+# Salgsassistent Kasse, SuperBrugsen Vodskov
+06-12-2023
+
+SuperBrugsen
+
+Vodskov
+
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=150165)
 
 
