@@ -88,6 +88,16 @@ Aalborg SV
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/74ksaq/kokkensalger-aalborg)
 
 
+# REMA 1000 Nørresundby - Kassemedarbejder
+11-12-2023
+
+KLAPjob
+
+Nørresundby
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12145504/rema-1000-noerresundby-kassemedarbejder)
+
+
 # Butiksassistent - 30 timer - Hjørring
 07-12-2023
 
@@ -106,15 +116,5 @@ føtex
 Aalborg Øst
 
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/528c1d9b-148f-41d6-8a6c-111982827987)
-
-
-# Kalder alle Natteravne! Circle K Thisted søger nu deres nye sælger til nat på ca. 25 timer
-06-12-2023
-
-Circle K Danmark A/S
-
-Thisted
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12133656/kalder-alle-natteravne-circle-k-thisted-soeger-nu-deres-nye-saelger-til-nat-paa-ca-25-timer)
 
 
