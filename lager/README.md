@@ -68,16 +68,6 @@ Løgstør
 Job URL: [link](https://logstordk.varbi.com/dk/what:job/jobID:590374/)
 
 
-# Danmarks førende dronevirksomhed søger kvalitets- og lagermedarbejder
-21-11-2023
-
-Sky-Watch
-
-Støvring
-
-Job URL: [link](https://www.jobindex.dk/img/pdf/16480_Skywatch_Jobopslag_lager_kvalitetsmedarbejder_NOV2023.pdf)
-
-
 # 50 energiske lagermedarbejdere søges
 14-11-2023
 
