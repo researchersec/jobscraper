@@ -78,26 +78,6 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/495925/50-energiske-lagermedarbejdere-soeges)
 
 
-# Teamleder med ansvar for kvalitetskontrol, lager og indkøb
-08-12-2023
-
-
-
-Thisted
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12140110/teamleder-med-ansvar-for-kvalitetskontrol-lager-og-indkoeb)
-
-
-# Engageret kollega til Hjælpemiddeldepotet
-30-11-2023
-
-Rebild Kommune
-
-Støvring
-
-Job URL: [link](https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1541&WebAdId=117487)
-
-
 # Bliv en del af on-demandkorpset i Aalborg & omegne
 28-11-2023
 
