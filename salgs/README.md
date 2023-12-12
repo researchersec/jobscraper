@@ -108,13 +108,3 @@ Hjørring
 Job URL: [link](https://karriere.lidl.dk/ledige-stillinger/butiksassistent-30-timer-hjoerring-342862)
 
 
-# Salgsassistent til bageriudsalget - Aalborg Øst
-07-12-2023
-
-føtex
-
-Aalborg Øst
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/528c1d9b-148f-41d6-8a6c-111982827987)
-
-
