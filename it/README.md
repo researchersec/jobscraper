@@ -29,13 +29,13 @@ Job URL: [link](https://www.jobindex.dk/jobannonce/496863/klar-til-en-it-udfordr
 
 
 # Sikkerhedsbevidst linuxvant systemadministrator og IT-ansvarlig til NemTilmeld.dk
-08-12-2023
+12-12-2023
 
 NemTilmeld.dk ApS
 
 Nørresundby
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/sikkerhedsbevidst-linuxvant-systemadministrator-og-it-ansvarlig-til-ne-lja-85161867.aspx?jobId=LJA-85161867&list=SearchResultsJobsIds&index=17&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12147132/sikkerhedsbevidst-linuxvant-systemadministrator-og-it-ansvarlig-til-nemtilmelddk)
 
 
 # IT-Supporter til 1. level support
