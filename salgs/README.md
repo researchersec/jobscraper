@@ -88,6 +88,16 @@ Aalborg SV
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/74ksaq/kokkensalger-aalborg)
 
 
+# Salgsassistent deltid - 25 timer
+12-12-2023
+
+Elgiganten A/S
+
+Hjørring
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1548&ProjectId=161674&DepartmentId=19468&MediaId=4630&SkipAdvertisement=False&uiculture=da)
+
+
 # REMA 1000 Nørresundby - Kassemedarbejder
 11-12-2023
 
