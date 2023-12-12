@@ -1,3 +1,13 @@
+# IT-supporter til stort IT-center i Aalborg
+12-12-2023
+
+Udviklings- og Forenklingsstyrelsen
+
+Aalborg
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=175170&DepartmentId=9414&MediaId=3191)
+
+
 # Systemforvalter til Team Finance, Nykredit Digital Change and IT
 08-12-2023
 
