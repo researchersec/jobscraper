@@ -1,4 +1,14 @@
 # Lagermedarbejder
+12-12-2023
+
+Nordic Computer A/S
+
+Nørresundby
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
+
+
+# Lagermedarbejder
 07-12-2023
 
 Probeco A/S
@@ -76,6 +86,16 @@ Vikar DK A/S
 Aalborg
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/495925/50-energiske-lagermedarbejdere-soeges)
+
+
+# Teamleder til Nordens COOLESTE lager - dagshold
+12-12-2023
+
+Coolshop
+
+Nørresundby
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12147034/teamleder-til-nordens-cooleste-lager-dagshold)
 
 
 # Bliv en del af on-demandkorpset i Aalborg & omegne
