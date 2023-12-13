@@ -118,13 +118,3 @@ Frederikshavn
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=187452&mediaId=4681)
 
 
-# Motiverede og stabile produktions- og lagermedarbejdere søges til Nordjylland!
-21-11-2023
-
-Flair
-
-Region Nordjylland
-
-Job URL: [link](https://www.flair.dk/ledige-stillinger/motiverede-og-stabile-produktions-og-lagermedarbejdere-soeges-til-nordjylland/?id=149079)
-
-
