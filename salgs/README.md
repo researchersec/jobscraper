@@ -108,13 +108,13 @@ Aalborg SV
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/74ksaq/kokkensalger-aalborg)
 
 
-# REMA 1000 Nørresundby - Kassemedarbejder
-11-12-2023
+# Butiksassistent over 18 år Butik · Kirppu Hjørring
+13-12-2023
 
-KLAPjob
+Kirppu Danmark ApS
 
-Nørresundby
+Hjørring
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12145504/rema-1000-noerresundby-kassemedarbejder)
+Job URL: [link](https://jobs.kirppu.dk/jobs/3446800-butiksassistent-over-18-ar)
 
 
