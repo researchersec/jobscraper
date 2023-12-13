@@ -78,16 +78,6 @@ Løgstør
 Job URL: [link](https://logstordk.varbi.com/dk/what:job/jobID:590374/)
 
 
-# 50 energiske lagermedarbejdere søges
-14-11-2023
-
-Vikar DK A/S
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/495925/50-energiske-lagermedarbejdere-soeges)
-
-
 # Teamleder til Nordens COOLESTE lager - dagshold
 12-12-2023
 
