@@ -29,13 +29,13 @@ Job URL: [link](https://www.jobindex.dk/jobannonce/497678/systemforvalter-til-te
 
 
 # ITCN søger IT-medarbejder til vores hold i Nordjylland
-12-12-2023
+13-12-2023
 
 IT Center Nord
 
 Aalborg
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/itcn-soeger-it-medarbejder-til-vores-hold-i-nordjylland-lja-85171146.aspx?jobId=LJA-85171146&list=SearchResultsJobsIds&index=12&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12150296/itcn-soeger-it-medarbejder-til-vores-hold-i-nordjylland)
 
 
 # Sikkerhedsbevidst linuxvant systemadministrator og IT-ansvarlig til NemTilmeld.dk
