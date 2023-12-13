@@ -108,3 +108,23 @@ Hjørring
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1548&ProjectId=161674&DepartmentId=19468&MediaId=4630&SkipAdvertisement=False&uiculture=da)
 
 
+# REMA 1000 Nørresundby - Kassemedarbejder
+11-12-2023
+
+KLAPjob
+
+Nørresundby
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12145504/rema-1000-noerresundby-kassemedarbejder)
+
+
+# Butiksassistent - 30 timer - Hjørring
+07-12-2023
+
+Lidl Danmark
+
+Hjørring
+
+Job URL: [link](https://karriere.lidl.dk/ledige-stillinger/butiksassistent-30-timer-hjoerring-342862)
+
+
