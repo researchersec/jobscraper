@@ -88,7 +88,7 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12147034/teamleder-til-nordens-cooleste-lager-dagshold)
 
 
-# Bliv en del af on-demandkorpset i Aalborg & omegne
+# Bliv en del af on-demandkorpset i Aalborg & omegn
 28-11-2023
 
 
