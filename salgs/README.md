@@ -108,13 +108,13 @@ Aalborg SV
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/74ksaq/kokkensalger-aalborg)
 
 
-# Butiksassistent over 18 år Butik · Kirppu Hjørring
-13-12-2023
+# Salgsassistent til Flying Tiger Copenhagen, Frederikshavn
+14-12-2023
 
-Kirppu Danmark ApS
+Flying Tiger Copenhagen
 
-Hjørring
+Frederikshavn
 
-Job URL: [link](https://jobs.kirppu.dk/jobs/3446800-butiksassistent-over-18-ar)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1917&ProjectId=153132&DepartmentId=19021&MediaId=5&SkipAdvertisement=False)
 
 
