@@ -1,3 +1,13 @@
+# Salgsansvarlig
+14-12-2023
+
+Elgiganten A/S
+
+Hjørring
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1548&ProjectId=162265&DepartmentId=19468&MediaId=4619)
+
+
 # Salgsassistent deltid - 25 timer
 13-12-2023
 
@@ -106,15 +116,5 @@ VORDINGBORG KØKKENET
 Aalborg SV
 
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/74ksaq/kokkensalger-aalborg)
-
-
-# Salgsassistent til Flying Tiger Copenhagen, Frederikshavn
-14-12-2023
-
-Flying Tiger Copenhagen
-
-Frederikshavn
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1917&ProjectId=153132&DepartmentId=19021&MediaId=5&SkipAdvertisement=False)
 
 
