@@ -79,13 +79,13 @@ Job URL: [link](https://logstordk.varbi.com/dk/what:job/jobID:590374/)
 
 
 # Lagermedarbejder
-13-12-2023
+14-12-2023
 
-
+Klostermarken 20
 
 Hobro
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-lja-85173471.aspx?jobId=LJA-85173471&list=SearchResultsJobsIds&index=17&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12152984/lagermedarbejder)
 
 
 # Teamleder til Nordens COOLESTE lager - dagshold
