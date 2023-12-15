@@ -1,3 +1,13 @@
+# Bliv vores digitaliseringskonsulent og ban vejen for Danmarks mest digitale jobcenter!
+15-12-2023
+
+THISTED KOMMUNE
+
+Thisted
+
+Job URL: [link](https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=118132)
+
+
 # Experienced Frontend Developers
 06-12-2023
 
