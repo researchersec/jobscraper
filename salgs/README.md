@@ -1,3 +1,13 @@
+# Salgsassistent til Byggecenter i XL-BYG Fjerritslev
+15-12-2023
+
+XL-BYG
+
+Fjerritslev
+
+Job URL: [link](https://app.elvium.com/da/positions/24259/job_posting?referer_host=www.jobindex.dk)
+
+
 # Salgsansvarlig
 14-12-2023
 
