@@ -58,13 +58,3 @@ Aalborg
 Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=187292)
 
 
-# IT-SUPPORTER TIL AALBORG UNIVERSITET
-30-11-2023
-
-Aalborg Universitet
-
-Aalborg Øst
-
-Job URL: [link](http://www.peoplexs.com/Peoplexs22/CandidatesPortalNoLogin/Vacancy.cfm?PortalID=1968&VacatureID=1216894)
-
-
