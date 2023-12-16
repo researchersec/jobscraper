@@ -95,7 +95,7 @@ Job URL: [link](https://logstordk.varbi.com/dk/what:job/jobID:590374/)
 
 Hobro
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/terminal-lagermedarbejder-lja-85179454.aspx?jobId=LJA-85179454&list=SearchResultsJobsIds&index=13&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/terminal-lagermedarbejder-lja-85179454.aspx?jobId=LJA-85179454&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Er du vores nye lagermedarbejder?
@@ -105,7 +105,7 @@ Job URL: [link](https://www.nordjyskejob.dk/resultat/terminal-lagermedarbejder-l
 
 Aalborg
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/er-du-vores-nye-lagermedarbejder-lja-85179461.aspx?jobId=LJA-85179461&list=SearchResultsJobsIds&index=2&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/er-du-vores-nye-lagermedarbejder-lja-85179461.aspx?jobId=LJA-85179461&list=SearchResultsJobsIds&index=10&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Lagermedarbejder
