@@ -118,13 +118,3 @@ Støvring
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-18-december-2023/?utm_source=jobindex&utm_medium=&utm_campaign=s%C3%A6lger-st%C3%B8vring&utm_content=20231123-st%C3%B8vring)
 
 
-# Køkkensælger Aalborg
-17-11-2023
-
-VORDINGBORG KØKKENET
-
-Aalborg SV
-
-Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/74ksaq/kokkensalger-aalborg)
-
-
