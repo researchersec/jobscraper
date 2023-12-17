@@ -105,7 +105,7 @@ Job URL: [link](https://www.nordjyskejob.dk/resultat/terminal-lagermedarbejder-l
 
 Aalborg
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/er-du-vores-nye-lagermedarbejder-lja-85179461.aspx?jobId=LJA-85179461&list=SearchResultsJobsIds&index=10&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/er-du-vores-nye-lagermedarbejder-lja-85179461.aspx?jobId=LJA-85179461&list=SearchResultsJobsIds&index=12&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Lagermedarbejder
