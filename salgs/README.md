@@ -108,13 +108,13 @@ Støvring
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-18-december-2023/?utm_source=jobindex&utm_medium=&utm_campaign=s%C3%A6lger-st%C3%B8vring&utm_content=20231123-st%C3%B8vring)
 
 
-# Kalder alle Natteravne! Circle K Thisted søger nu deres nye sælger til nat på ca. 25 timer
-15-12-2023
+# Salgsassistent til Duty Free - Aalborg Lufthavn
+18-12-2023
 
-Circle K Danmark A/S
+Aalborg Lufthavn
 
-Thisted
+Nørresundby
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/kalder-alle-natteravne-circle-k-thisted-soeger-nu-deres-nye-saelger-til-lja-85179456.aspx?jobId=LJA-85179456&list=SearchResultsJobsIds&index=15&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://aal.hr-skyen.dk/show-job/176294)
 
 
