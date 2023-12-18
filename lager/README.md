@@ -78,16 +78,6 @@ Thisted
 Job URL: [link](https://app.elvium.com/da/positions/24017/job_posting?referer_host=www.jobindex.dk)
 
 
-# Lagerchef/Warehouse Manager
-23-11-2023
-
-LOGSTOR Denmark Holding ApS
-
-Løgstør
-
-Job URL: [link](https://logstordk.varbi.com/dk/what:job/jobID:590374/)
-
-
 # Terminal- / Lagermedarbejder
 15-12-2023
 
