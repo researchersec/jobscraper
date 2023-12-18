@@ -28,6 +28,16 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/497678/systemforvalter-til-team-finance-nykredit-digital-change-and-it)
 
 
+# It-supporter
+18-12-2023
+
+Beierholm – Statsautoriseret Revisionspartnerselskab
+
+Aalborg
+
+Job URL: [link](https://beierholm-career.talent-soft.com/job/job-erfaren-it-supporter_712.aspx)
+
+
 # ITCN søger IT-medarbejder til vores hold i Nordjylland
 13-12-2023
 
