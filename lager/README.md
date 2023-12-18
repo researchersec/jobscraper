@@ -78,6 +78,16 @@ Thisted
 Job URL: [link](https://app.elvium.com/da/positions/24017/job_posting?referer_host=www.jobindex.dk)
 
 
+# Er du vores nye lagermedarbejder?
+18-12-2023
+
+
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12162075/er-du-vores-nye-lagermedarbejder)
+
+
 # Terminal- / Lagermedarbejder
 15-12-2023
 
@@ -86,16 +96,6 @@ Job URL: [link](https://app.elvium.com/da/positions/24017/job_posting?referer_ho
 Hobro
 
 Job URL: [link](https://www.nordjyskejob.dk/resultat/terminal-lagermedarbejder-lja-85179454.aspx?jobId=LJA-85179454&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
-
-
-# Er du vores nye lagermedarbejder?
-15-12-2023
-
-
-
-Aalborg
-
-Job URL: [link](https://www.nordjyskejob.dk/resultat/er-du-vores-nye-lagermedarbejder-lja-85179461.aspx?jobId=LJA-85179461&list=SearchResultsJobsIds&index=12&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Lagermedarbejder
