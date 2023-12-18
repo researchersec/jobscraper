@@ -78,6 +78,26 @@ Thisted
 Job URL: [link](https://app.elvium.com/da/positions/24017/job_posting?referer_host=www.jobindex.dk)
 
 
+# Lager- og logistikoperatør ved Munderingssektionen i Hjørring
+18-12-2023
+
+Forsvaret
+
+Hjørring
+
+Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=187979&mediaId=4681)
+
+
+# Terminal- / Lagermedarbejder
+18-12-2023
+
+
+
+Hobro
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12162815/terminal-lagermedarbejder)
+
+
 # Er du vores nye lagermedarbejder?
 18-12-2023
 
@@ -86,16 +106,6 @@ Job URL: [link](https://app.elvium.com/da/positions/24017/job_posting?referer_ho
 Aalborg
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12162075/er-du-vores-nye-lagermedarbejder)
-
-
-# Terminal- / Lagermedarbejder
-15-12-2023
-
-
-
-Hobro
-
-Job URL: [link](https://www.nordjyskejob.dk/resultat/terminal-lagermedarbejder-lja-85179454.aspx?jobId=LJA-85179454&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Lagermedarbejder
