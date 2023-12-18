@@ -98,16 +98,6 @@ Hobro
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1728/salgsassistent-til-louis-nielsen-hobro)
 
 
-# Delikatessemedarbejder Dagli'Brugsen Tranum
-24-11-2023
-
-Dagli'Brugsen
-
-Brovst
-
-Job URL: [link](https://jobs.coop.dk/job/Delikatessemedarbejder-Dagli&apos;Brugsen-Tranum/783145402/)
-
-
 # Sælger
 23-11-2023
 
@@ -116,5 +106,15 @@ Bygma
 Støvring
 
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-18-december-2023/?utm_source=jobindex&utm_medium=&utm_campaign=s%C3%A6lger-st%C3%B8vring&utm_content=20231123-st%C3%B8vring)
+
+
+# Kalder alle Natteravne! Circle K Thisted søger nu deres nye sælger til nat på ca. 25 timer
+15-12-2023
+
+Circle K Danmark A/S
+
+Thisted
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/kalder-alle-natteravne-circle-k-thisted-soeger-nu-deres-nye-saelger-til-lja-85179456.aspx?jobId=LJA-85179456&list=SearchResultsJobsIds&index=15&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
