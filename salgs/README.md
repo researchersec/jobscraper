@@ -1,3 +1,13 @@
+# Butiksassistent - Aalborg
+18-12-2023
+
+Netto
+
+Aalborg
+
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/5f730e93-ff2d-4fe3-90d0-fa6505dca485)
+
+
 # Salgsassistent til Byggecenter i XL-BYG Fjerritslev
 15-12-2023
 
@@ -106,15 +116,5 @@ Bygma
 Støvring
 
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-18-december-2023/?utm_source=jobindex&utm_medium=&utm_campaign=s%C3%A6lger-st%C3%B8vring&utm_content=20231123-st%C3%B8vring)
-
-
-# Salgsassistent til Duty Free - Aalborg Lufthavn
-18-12-2023
-
-Aalborg Lufthavn
-
-Nørresundby
-
-Job URL: [link](https://aal.hr-skyen.dk/show-job/176294)
 
 
