@@ -58,13 +58,3 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12147132/sikkerhedsbevidst-linuxvant-systemadministrator-og-it-ansvarlig-til-nemtilmelddk)
 
 
-# IT-Supporter til 1. level support
-07-12-2023
-
-Moment
-
-Aalborg
-
-Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=187292)
-
-
