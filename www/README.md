@@ -38,13 +38,3 @@ Aalborg or Hamburg
 Job URL: [link](https://career.shapingnewtomorrow.com/jobs/3413385-e-commerce-specialist-onsite-marketing-ux)
 
 
-# Frontend Developer
-20-11-2023
-
-KMD A/S
-
-Aalborg
-
-Job URL: [link](https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=kmd&career_job_req_id=33209)
-
-
