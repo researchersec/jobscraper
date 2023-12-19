@@ -68,16 +68,6 @@ Hjørring
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143602&DepartmentId=18961&MediaId=4629)
 
 
-# Delikatesseassistent, SuperBrugsen, Hadsund
-05-12-2023
-
-SuperBrugsen
-
-Hadsund
-
-Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Hadsund/783773602/)
-
-
 # Handelstrainee til XL-BYG Tømmergaarden i Løgstør
 01-12-2023
 
@@ -108,13 +98,23 @@ Hobro
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1728/salgsassistent-til-louis-nielsen-hobro)
 
 
-# Sælger
-23-11-2023
+# Salgsassistent til Duty Free - Aalborg Lufthavn
+18-12-2023
 
-Bygma
+Aalborg Lufthavn
 
-Støvring
+Nørresundby
 
-Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-18-december-2023/?utm_source=jobindex&utm_medium=&utm_campaign=s%C3%A6lger-st%C3%B8vring&utm_content=20231123-st%C3%B8vring)
+Job URL: [link](https://aal.hr-skyen.dk/show-job/176294)
+
+
+# Kalder alle Natteravne! Circle K Thisted søger nu deres nye sælger til nat på ca. 25 timer
+18-12-2023
+
+Circle K Danmark A/S
+
+Thisted
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12162884/kalder-alle-natteravne-circle-k-thisted-soeger-nu-deres-nye-saelger-til-nat-paa-ca-25-timer)
 
 
