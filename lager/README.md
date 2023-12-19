@@ -138,13 +138,3 @@ Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV
 Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=187183)
 
 
-# Lager og Logistikoperatør til Vedligeholdelsesområde Frederikshavn
-27-11-2023
-
-Forsvaret
-
-Frederikshavn
-
-Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=187452&mediaId=4681)
-
-
