@@ -118,3 +118,13 @@ Thisted
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12162884/kalder-alle-natteravne-circle-k-thisted-soeger-nu-deres-nye-saelger-til-nat-paa-ca-25-timer)
 
 
+# Salgsassistent til Flying Tiger Copenhagen, Frederikshavn
+14-12-2023
+
+Flying Tiger Copenhagen
+
+Frederikshavn
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1917&ProjectId=153132&DepartmentId=19021&MediaId=5&SkipAdvertisement=False)
+
+
