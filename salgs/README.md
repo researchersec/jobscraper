@@ -1,3 +1,23 @@
+# Salgsassistent til vores butik i Aalborg Storcenter - 15 timer om ugen
+20-12-2023
+
+Deichmann Sko
+
+Aalborg SV
+
+Job URL: [link](https://www.deichmann-jobs.dk/job/?rmpage=job&rmjob=1034&rmlang=DK)
+
+
+# Salgstalent Aalborg
+20-12-2023
+
+VORDINGBORG KØKKENET
+
+Aalborg SV
+
+Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/a3xaf2/salgstalent-aalborg)
+
+
 # Butiksassistent - Aalborg
 18-12-2023
 
@@ -96,45 +116,5 @@ Louis Nielsen A/S
 Hobro
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1728/salgsassistent-til-louis-nielsen-hobro)
-
-
-# Medarbejder til delikatessen - Aalborg
-20-12-2023
-
-føtex
-
-Aalborg
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/bd8c3028-397b-43fb-b0a3-02abdc6df0a4)
-
-
-# Salgsassistent til Duty Free - Aalborg Lufthavn
-18-12-2023
-
-Aalborg Lufthavn
-
-Nørresundby
-
-Job URL: [link](https://aal.hr-skyen.dk/show-job/176294)
-
-
-# Kalder alle Natteravne! Circle K Thisted søger nu deres nye sælger til nat på ca. 25 timer
-18-12-2023
-
-Circle K Danmark A/S
-
-Thisted
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12162884/kalder-alle-natteravne-circle-k-thisted-soeger-nu-deres-nye-saelger-til-nat-paa-ca-25-timer)
-
-
-# Salgsassistent til Flying Tiger Copenhagen, Frederikshavn
-14-12-2023
-
-Flying Tiger Copenhagen
-
-Frederikshavn
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1917&ProjectId=153132&DepartmentId=19021&MediaId=5&SkipAdvertisement=False)
 
 
