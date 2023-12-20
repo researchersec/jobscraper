@@ -78,6 +78,16 @@ Thisted
 Job URL: [link](https://app.elvium.com/da/positions/24017/job_posting?referer_host=www.jobindex.dk)
 
 
+# Servicemedarbejder til truckkørsel søges for virksomhed i Nørresundby
+19-12-2023
+
+Thorn Vikar og Rekruttering A/S
+
+Nørresundby
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/servicemedarbejder-til-truckkoersel-soeges-for-virksomhed-i-noerresundby-lja-85187812.aspx?jobId=LJA-85187812&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Lager- og logistikoperatør ved Munderingssektionen i Hjørring
 18-12-2023
 
@@ -126,15 +136,5 @@ Coolshop
 Nørresundby
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12147034/teamleder-til-nordens-cooleste-lager-dagshold)
-
-
-# Bliv en del af on-demandkorpset i Aalborg & omegn
-28-11-2023
-
-
-
-Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV, Aarhus C, Aarhus N, Aarhus V
-
-Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=187183)
 
 
