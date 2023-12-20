@@ -98,6 +98,16 @@ Hobro
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1728/salgsassistent-til-louis-nielsen-hobro)
 
 
+# Medarbejder til delikatessen - Aalborg
+20-12-2023
+
+føtex
+
+Aalborg
+
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/bd8c3028-397b-43fb-b0a3-02abdc6df0a4)
+
+
 # Salgsassistent til Duty Free - Aalborg Lufthavn
 18-12-2023
 
