@@ -79,13 +79,13 @@ Job URL: [link](https://app.elvium.com/da/positions/24017/job_posting?referer_ho
 
 
 # Servicemedarbejder til truckkørsel søges for virksomhed i Nørresundby
-19-12-2023
+20-12-2023
 
 Thorn Vikar og Rekruttering A/S
 
 Nørresundby
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/servicemedarbejder-til-truckkoersel-soeges-for-virksomhed-i-noerresundby-lja-85187812.aspx?jobId=LJA-85187812&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12168014/servicemedarbejder-til-truckkoersel-soeges-for-virksomhed-i-noerresundby)
 
 
 # Lager- og logistikoperatør ved Munderingssektionen i Hjørring
