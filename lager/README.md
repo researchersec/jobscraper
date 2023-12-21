@@ -88,6 +88,16 @@ Frederikshavn
 Job URL: [link](https://dafolo.dk/lagermedarbejder-til-varemodtagelse.aspx?preview=true)
 
 
+# Fleksible og Udfordringsparate Personer Søges
+20-12-2023
+
+
+
+Thisted
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12171572/fleksible-og-udfordringsparate-personer-soeges)
+
+
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
 20-12-2023
 
