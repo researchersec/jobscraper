@@ -1,3 +1,13 @@
+# Fullstack Python Developer/Security Engineer – Cyber Defence Center
+21-12-2023
+
+itm8
+
+Aalborg, Aarhus, Kolding eller Herning
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/498867/fullstack-python-developer-security-engineer-cyber-defence-center)
+
+
 # Digital Marketer
 18-12-2023
 
