@@ -118,13 +118,13 @@ Frederikshavn
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12172822/butiksassistent-fuldtid-frederikshavn)
 
 
-# Salgsassistent Fuldtid
-20-12-2023
+# Butiksassistent - 25 timer - Hadsund
+21-12-2023
 
-Basic and More A/S
+Lidl Danmark K/S
 
-Aalborg SV
+Hadsund
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12168434/salgsassistent-fuldtid)
+Job URL: [link](https://www.ungarbejde.dk/jobs/butiksassistent-25-timer-hadsund-66740)
 
 
