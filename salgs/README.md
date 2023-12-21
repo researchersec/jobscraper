@@ -108,6 +108,16 @@ Hobro
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1728/salgsassistent-til-louis-nielsen-hobro)
 
 
+# Butiksassistent (fuldtid) - Frederikshavn
+21-12-2023
+
+Jem & Fix
+
+Frederikshavn
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12172822/butiksassistent-fuldtid-frederikshavn)
+
+
 # Salgsassistent Fuldtid
 20-12-2023
 
@@ -116,15 +126,5 @@ Basic and More A/S
 Aalborg SV
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12168434/salgsassistent-fuldtid)
-
-
-# Ledertrainee, Kvickly, Aars
-20-12-2023
-
-Kvickly
-
-Aars
-
-Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=150300)
 
 
