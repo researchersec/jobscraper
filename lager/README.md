@@ -1,3 +1,13 @@
+# Kundeservice- og salgssupportmedarbejder
+21-12-2023
+
+Overbeck Machinery ApS
+
+Aabybro
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/498889/kundeservice-og-salgssupportmedarbejder)
+
+
 # Lager- og Logistikoperatør
 15-12-2023
 
