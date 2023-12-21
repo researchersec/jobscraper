@@ -78,16 +78,6 @@ Hjørring
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/adrpkc/salgskonsulent-hjorring)
 
 
-# Nordværks genbrugsbutik søger medarbejder med interesse for genbrugsvarer
-06-12-2023
-
-Nordværk I/S
-
-Hjørring
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143602&DepartmentId=18961&MediaId=4629)
-
-
 # Handelstrainee til XL-BYG Tømmergaarden i Løgstør
 01-12-2023
 
@@ -116,5 +106,25 @@ Louis Nielsen A/S
 Hobro
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1728/salgsassistent-til-louis-nielsen-hobro)
+
+
+# Salgsassistent Fuldtid
+20-12-2023
+
+Basic and More A/S
+
+Aalborg SV
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12168434/salgsassistent-fuldtid)
+
+
+# Ledertrainee, Kvickly, Aars
+20-12-2023
+
+Kvickly
+
+Aars
+
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=150300)
 
 
