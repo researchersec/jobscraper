@@ -68,6 +68,16 @@ Thisted
 Job URL: [link](https://app.elvium.com/da/positions/24017/job_posting?referer_host=www.jobindex.dk)
 
 
+# Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
+21-12-2023
+
+
+
+Hanstholm
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12171590/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm)
+
+
 # Lagermedarbejder til varemodtagelse
 20-12-2023
 
@@ -86,16 +96,6 @@ Job URL: [link](https://dafolo.dk/lagermedarbejder-til-varemodtagelse.aspx?previ
 Thisted
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12171572/fleksible-og-udfordringsparate-personer-soeges)
-
-
-# Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
-20-12-2023
-
-
-
-Thisted
-
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm-lja-85190222.aspx?jobId=LJA-85190222&list=SearchResultsJobsIds&index=12&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Servicemedarbejder til truckkørsel søges for virksomhed i Nørresundby
