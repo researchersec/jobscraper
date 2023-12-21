@@ -28,16 +28,6 @@ Løgstør
 Job URL: [link](https://www.jobindex.dk/jobannonce/497648/lagermedarbejder)
 
 
-# Nordværks genbrugsbutik søger medarbejder med interesse for genbrugsvarer
-06-12-2023
-
-Nordværk I/S
-
-Hjørring
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143602&DepartmentId=18961&MediaId=4629)
-
-
 # Lagerchef til XL-BYG Tømmergaarden Nykøbing
 06-12-2023
 
