@@ -1,3 +1,13 @@
+# Genbrugsvejleder/servicemedarbejder
+22-12-2023
+
+Nordværk I/S
+
+Aalborg, Gandrup, Hals, Nibe eller Nørresundby
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143608&DepartmentId=18961&MediaId=4629)
+
+
 # Kundeservice- og salgssupportmedarbejder
 21-12-2023
 
