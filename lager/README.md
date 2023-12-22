@@ -58,16 +58,6 @@ Nykøbing M
 Job URL: [link](https://app.elvium.com/da/positions/24072/job_posting?referer_host=www.jobindex.dk)
 
 
-# Værkfører for lager og eksternt pakkeri
-05-12-2023
-
-dantoy A/S
-
-Hobro
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/497399/vaerkfoerer-for-lager-og-eksternt-pakkeri)
-
-
 # Indkøbs- og lagerkoordinator
 01-12-2023
 
@@ -136,16 +126,6 @@ Forsvaret
 Hjørring
 
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=187979&mediaId=4681)
-
-
-# Terminal- / Lagermedarbejder
-18-12-2023
-
-
-
-Hobro
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12162815/terminal-lagermedarbejder)
 
 
 # Er du vores nye lagermedarbejder?
