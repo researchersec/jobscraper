@@ -108,13 +108,13 @@ Hobro
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1728/salgsassistent-til-louis-nielsen-hobro)
 
 
-# Butiksassistent (fuldtid) - Frederikshavn
-21-12-2023
+# Butiksassistent - 30 timer - Hobro
+22-12-2023
 
-Jem & Fix
+Lidl Danmark
 
-Frederikshavn
+Hobro
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12172822/butiksassistent-fuldtid-frederikshavn)
+Job URL: [link](https://karriere.lidl.dk/ledige-stillinger/butiksassistent-30-timer-hobro-345340)
 
 
