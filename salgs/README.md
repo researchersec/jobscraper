@@ -118,13 +118,3 @@ Hobro
 Job URL: [link](https://karriere.lidl.dk/ledige-stillinger/butiksassistent-30-timer-hobro-345340)
 
 
-# Salgsassistent 8+ timer pr. uge Aalborg
-22-12-2023
-
-Nanna XL, Aalborg Storcenter
-
-Aalborg SV
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12177087/salgsassistent-8-timer-pr-uge-aalborg)
-
-
