@@ -98,16 +98,6 @@ Aalborg
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=145740&DepartmentId=18982&MediaId=59)
 
 
-# Bliv salgsassistent
-27-11-2023
-
-Louis Nielsen A/S
-
-Hobro
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1728/salgsassistent-til-louis-nielsen-hobro)
-
-
 # Butiksassistent - 30 timer - Hobro
 22-12-2023
 
@@ -116,5 +106,15 @@ Lidl Danmark
 Hobro
 
 Job URL: [link](https://karriere.lidl.dk/ledige-stillinger/butiksassistent-30-timer-hobro-345340)
+
+
+# Salgsassistent 8+ timer pr. uge Aalborg
+22-12-2023
+
+Nanna XL, Aalborg Storcenter
+
+Aalborg SV
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12177087/salgsassistent-8-timer-pr-uge-aalborg)
 
 
