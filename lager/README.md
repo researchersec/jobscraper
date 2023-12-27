@@ -68,16 +68,6 @@ Hjørring
 Job URL: [link](https://www.jobindex.dk/jobannonce/497102/indkoebs-og-lagerkoordinator)
 
 
-# Lagermedarbejder
-01-12-2023
-
-XL-BYG
-
-Thisted
-
-Job URL: [link](https://app.elvium.com/da/positions/24017/job_posting?referer_host=www.jobindex.dk)
-
-
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
 21-12-2023
 
