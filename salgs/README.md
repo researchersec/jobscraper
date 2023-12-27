@@ -1,3 +1,13 @@
+# Style and Customer Advisor
+27-12-2023
+
+Profil Optik
+
+Vejen, Aalborg eller Thisted
+
+Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
+
+
 # Salgsassistent til vores butik i Aalborg Storcenter - 15 timer om ugen
 20-12-2023
 
@@ -98,23 +108,13 @@ Aalborg
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=145740&DepartmentId=18982&MediaId=59)
 
 
-# Butiksassistent - 30 timer - Hobro
-22-12-2023
+# Salgsassistent til Kundeservice og kiosk - Nørresundby
+27-12-2023
 
-Lidl Danmark
+føtex
 
-Hobro
+Nørresundby
 
-Job URL: [link](https://karriere.lidl.dk/ledige-stillinger/butiksassistent-30-timer-hobro-345340)
-
-
-# Salgsassistent 8+ timer pr. uge Aalborg
-22-12-2023
-
-Nanna XL, Aalborg Storcenter
-
-Aalborg SV
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12177087/salgsassistent-8-timer-pr-uge-aalborg)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/bb7ea896-c4b6-4c3a-8031-523d7fc4cb9e)
 
 
