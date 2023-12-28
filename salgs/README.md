@@ -98,13 +98,3 @@ Løgstør
 Job URL: [link](https://app.elvium.com/da/positions/24022/job_posting?referer_host=www.jobindex.dk)
 
 
-# Personal Shopper
-30-11-2023
-
-CHANGE of Scandinavia A/S
-
-Aalborg
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=145740&DepartmentId=18982&MediaId=59)
-
-
