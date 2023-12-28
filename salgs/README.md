@@ -108,13 +108,3 @@ Aalborg
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=145740&DepartmentId=18982&MediaId=59)
 
 
-# Varepakker til BilkaToGo - Aalborg SV
-27-12-2023
-
-Bilka
-
-Aalborg SV
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/e6b8e53e-c952-498d-9e03-84638afe7cef)
-
-
