@@ -28,6 +28,16 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/497678/systemforvalter-til-team-finance-nykredit-digital-change-and-it)
 
 
+# IT-Supporter - Fellowmind Denmark A/S
+29-12-2023
+
+Fellowmind
+
+Aars
+
+Job URL: [link](https://career.fellowmind.dk/jobs/3472623-it-supporter)
+
+
 # It-supporter
 18-12-2023
 
