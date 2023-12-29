@@ -1,3 +1,13 @@
+# Fuldtids lagermedarbejder til bæredygtig IT-virksomhed
+29-12-2023
+
+Ping IT A/S
+
+Svenstrup J
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/499194/fuldtids-lagermedarbejder-til-baeredygtig-it-virksomhed)
+
+
 # Genbrugsvejleder/servicemedarbejder
 22-12-2023
 
