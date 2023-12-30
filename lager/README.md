@@ -68,16 +68,6 @@ Nykøbing M
 Job URL: [link](https://app.elvium.com/da/positions/24072/job_posting?referer_host=www.jobindex.dk)
 
 
-# Indkøbs- og lagerkoordinator
-01-12-2023
-
-JS Proputec A/S
-
-Hjørring
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/497102/indkoebs-og-lagerkoordinator)
-
-
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
 21-12-2023
 
