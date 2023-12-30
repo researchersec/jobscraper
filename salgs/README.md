@@ -88,13 +88,3 @@ Hjørring
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/adrpkc/salgskonsulent-hjorring)
 
 
-# Handelstrainee til XL-BYG Tømmergaarden i Løgstør
-01-12-2023
-
-XL-BYG
-
-Løgstør
-
-Job URL: [link](https://app.elvium.com/da/positions/24022/job_posting?referer_host=www.jobindex.dk)
-
-
