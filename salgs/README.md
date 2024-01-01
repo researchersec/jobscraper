@@ -88,3 +88,13 @@ Hjørring
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/adrpkc/salgskonsulent-hjorring)
 
 
+# Salgsassistent, deltid
+01-01-2024
+
+Elgiganten A/S
+
+Aalborg SV
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1548&ProjectId=162318&DepartmentId=19432&MediaId=4630&SkipAdvertisement=False&uiculture=da)
+
+
