@@ -28,16 +28,6 @@ Aalborg SV
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/a3xaf2/salgstalent-aalborg)
 
 
-# Butiksassistent - Aalborg
-18-12-2023
-
-Netto
-
-Aalborg
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/5f730e93-ff2d-4fe3-90d0-fa6505dca485)
-
-
 # Salgsassistent til Byggecenter i XL-BYG Fjerritslev
 15-12-2023
 
