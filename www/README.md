@@ -1,3 +1,13 @@
+# Lead Product Designer, Denmark
+02-01-2024
+
+Trackunit A/S
+
+Copenhagen, Aarhus, Kolding, or Aalborg
+
+Job URL: [link](https://trackunit.com/jobs/?hr=show-job/177731&linkref=163484&locale=en_US)
+
+
 # Fullstack Python Developer/Security Engineer – Cyber Defence Center
 21-12-2023
 
