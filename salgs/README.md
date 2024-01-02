@@ -1,3 +1,33 @@
+# Delikatesseassistent, SuperBrugsen, Støvring
+02-01-2024
+
+SuperBrugsen
+
+Støvring
+
+Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-St%C3%B8vring/785217102/)
+
+
+# Delikatesseassistent, SuperBrugsen, Øster Jølby
+02-01-2024
+
+SuperBrugsen
+
+Erslev
+
+Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-%C3%98ster-J%C3%B8lby/785216702/)
+
+
+# Delikatesseassistent, SuperBrugsen, Hadsund
+02-01-2024
+
+SuperBrugsen
+
+Hadsund
+
+Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Hadsund/785211502/)
+
+
 # Style and Customer Advisor
 27-12-2023
 
@@ -66,25 +96,5 @@ SPORT 24 A/S
 Aabybro
 
 Job URL: [link](https://app.elvium.com/da/positions/24108/job_posting?referer_host=www.jobindex.dk)
-
-
-# Salgskonsulent
-11-12-2023
-
-VORDINGBORG KØKKENET
-
-Hjørring
-
-Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/adrpkc/salgskonsulent-hjorring)
-
-
-# Salgsassistent, deltid
-01-01-2024
-
-Elgiganten A/S
-
-Aalborg SV
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1548&ProjectId=162318&DepartmentId=19432&MediaId=4630&SkipAdvertisement=False&uiculture=da)
 
 
