@@ -128,13 +128,3 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12162075/er-du-vores-nye-lagermedarbejder)
 
 
-# Lagermedarbejder
-14-12-2023
-
-Klostermarken 20
-
-Hobro
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12152984/lagermedarbejder)
-
-
