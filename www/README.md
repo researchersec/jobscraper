@@ -1,3 +1,13 @@
+# Experienced Frontend Developers
+03-01-2024
+
+Continia Software A/S
+
+Aalborg, Copenhagen or Vilnius (Lithuania)
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143642&DepartmentId=18972&MediaId=5)
+
+
 # Lead Product Designer, Denmark
 02-01-2024
 
@@ -36,15 +46,5 @@ THISTED KOMMUNE
 Thisted
 
 Job URL: [link](https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=118132)
-
-
-# Experienced Frontend Developers
-03-01-2024
-
-Continia Software A/S
-
-Aalborg, Copenhagen or Vilnius (Lithuania)
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143642&DepartmentId=18972&MediaId=5)
 
 
