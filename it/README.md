@@ -58,13 +58,3 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12150296/itcn-soeger-it-medarbejder-til-vores-hold-i-nordjylland)
 
 
-# Sikkerhedsbevidst linuxvant systemadministrator og IT-ansvarlig til NemTilmeld.dk
-12-12-2023
-
-NemTilmeld.dk ApS
-
-Nørresundby
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12147132/sikkerhedsbevidst-linuxvant-systemadministrator-og-it-ansvarlig-til-nemtilmelddk)
-
-
