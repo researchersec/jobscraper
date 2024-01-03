@@ -39,7 +39,7 @@ Job URL: [link](https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.asp
 
 
 # Experienced Frontend Developers
-06-12-2023
+03-01-2024
 
 Continia Software A/S
 
