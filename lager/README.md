@@ -48,26 +48,6 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
 
 
-# Lagermedarbejder søges til retur- og varemodtagelse på lagerhotel
-03-01-2024
-
-
-
-Hals
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12191833/lagermedarbejder-soeges-til-retur-og-varemodtagelse-paa-lagerhotel)
-
-
-# Lagermedarbejder søges til lagerhotel - ny afdeling i VH
-03-01-2024
-
-
-
-Vodskov
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12191831/lagermedarbejder-soeges-til-lagerhotel-ny-afdeling-i-vh)
-
-
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
 21-12-2023
 
