@@ -48,26 +48,6 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
 
 
-# Lagermedarbejder
-07-12-2023
-
-Probeco A/S
-
-Løgstør
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/497648/lagermedarbejder)
-
-
-# Lagerchef til XL-BYG Tømmergaarden Nykøbing
-06-12-2023
-
-XL-BYG
-
-Nykøbing M
-
-Job URL: [link](https://app.elvium.com/da/positions/24072/job_posting?referer_host=www.jobindex.dk)
-
-
 # Lagermedarbejder søges til retur- og varemodtagelse på lagerhotel
 03-01-2024
 
