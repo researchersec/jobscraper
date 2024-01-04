@@ -18,13 +18,3 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/497678/systemforvalter-til-team-finance-nykredit-digital-change-and-it)
 
 
-# ITCN søger IT-medarbejder til vores hold i Nordjylland
-13-12-2023
-
-IT Center Nord
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12150296/itcn-soeger-it-medarbejder-til-vores-hold-i-nordjylland)
-
-
