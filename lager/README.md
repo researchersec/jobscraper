@@ -48,6 +48,16 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
 
 
+# Lagermedarbejder (Hel- eller Deltid) (INTERNATIONALS WELCOME!)
+04-01-2024
+
+
+
+Nibe
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12195134/lagermedarbejder-hel-eller-deltid-internationals-welcome)
+
+
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
 21-12-2023
 
