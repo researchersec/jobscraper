@@ -88,16 +88,6 @@ Thisted
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12171572/fleksible-og-udfordringsparate-personer-soeges)
 
 
-# Servicemedarbejder til truckkørsel søges for virksomhed i Nørresundby
-20-12-2023
-
-Thorn Vikar og Rekruttering A/S
-
-Nørresundby
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12168014/servicemedarbejder-til-truckkoersel-soeges-for-virksomhed-i-noerresundby)
-
-
 # Lager- og logistikoperatør ved Munderingssektionen i Hjørring
 18-12-2023
 
