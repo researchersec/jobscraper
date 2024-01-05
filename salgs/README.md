@@ -1,3 +1,13 @@
+# Style and Customer Advisor
+05-01-2024
+
+Profil Optik
+
+Vejen, Aalborg eller Thisted
+
+Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
+
+
 # Delikatesseassistent, SuperBrugsen, Støvring
 02-01-2024
 
@@ -26,16 +36,6 @@ SuperBrugsen
 Hadsund
 
 Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Hadsund/785211502/)
-
-
-# Style and Customer Advisor
-05-01-2024
-
-Profil Optik
-
-Vejen, Aalborg eller Thisted
-
-Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
 
 
 # Salgsassistent til vores butik i Aalborg Storcenter - 15 timer om ugen
