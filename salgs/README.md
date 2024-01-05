@@ -29,7 +29,7 @@ Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C
 
 
 # Style and Customer Advisor
-27-12-2023
+05-01-2024
 
 Profil Optik
 
