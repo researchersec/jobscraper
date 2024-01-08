@@ -38,16 +38,6 @@ Hadsund
 Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Hadsund/785211502/)
 
 
-# Salgsassistent til vores butik i Aalborg Storcenter - 15 timer om ugen
-20-12-2023
-
-Deichmann Sko
-
-Aalborg SV
-
-Job URL: [link](https://www.deichmann-jobs.dk/job/?rmpage=job&rmjob=1034&rmlang=DK)
-
-
 # Salgstalent Aalborg
 20-12-2023
 
