@@ -68,16 +68,6 @@ Hanstholm
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12171590/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm)
 
 
-# Lagermedarbejder til varemodtagelse
-20-12-2023
-
-Dafolo A/S
-
-Frederikshavn
-
-Job URL: [link](https://dafolo.dk/lagermedarbejder-til-varemodtagelse.aspx?preview=true)
-
-
 # Fleksible og Udfordringsparate Personer Søges
 20-12-2023
 
