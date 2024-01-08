@@ -48,6 +48,16 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
 
 
+# Motivated employees to Rokkedahl
+08-01-2024
+
+Rokkedahl
+
+Nibe
+
+Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=187513)
+
+
 # Lagermedarbejder (Hel- eller Deltid) (INTERNATIONALS WELCOME!)
 04-01-2024
 
