@@ -1,3 +1,13 @@
+# Digital Ekspert til vores driftsafdeling
+09-01-2024
+
+MAN Energy Solutions
+
+Frederikshavn
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145030&DepartmentId=19149&MediaId=4619)
+
+
 # Teknisk IT-supporter
 09-01-2024
 
