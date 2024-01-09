@@ -1,3 +1,13 @@
+# Dygtig og dedikeret sælger søges til ILVA Frederikshavn
+09-01-2024
+
+ILVA
+
+Frederikshavn
+
+Job URL: [link](https://ilva.youngcrm.com/jobportal/9285)
+
+
 # Style and Customer Advisor
 05-01-2024
 
