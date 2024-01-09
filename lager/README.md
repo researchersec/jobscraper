@@ -88,23 +88,3 @@ Thisted
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12171572/fleksible-og-udfordringsparate-personer-soeges)
 
 
-# Lager- og logistikoperatør ved Munderingssektionen i Hjørring
-18-12-2023
-
-Forsvaret
-
-Hjørring
-
-Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=187979&mediaId=4681)
-
-
-# Er du vores nye lagermedarbejder?
-18-12-2023
-
-
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12162075/er-du-vores-nye-lagermedarbejder)
-
-
