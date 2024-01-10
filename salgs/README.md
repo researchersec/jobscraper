@@ -1,3 +1,13 @@
+# Studiejob/weekendsælger søges til ILVA Aalborg C
+10-01-2024
+
+ILVA
+
+Aalborg
+
+Job URL: [link](https://ilva.youngcrm.com/jobportal/9294)
+
+
 # Dygtig og dedikeret sælger søges til ILVA Frederikshavn
 09-01-2024
 
@@ -86,15 +96,5 @@ Elgiganten A/S
 Hjørring
 
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1548&ProjectId=161674&DepartmentId=19468&MediaId=4619)
-
-
-# Kalder alle Natteravne! Circle K Nykøbing Mors søger en sælger på 25-30 timer til aften- og nattevagter
-09-01-2024
-
-Circle K Danmark A/S
-
-Nykøbing M
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12206947/kalder-alle-natteravne-circle-k-nykoebing-mors-soeger-en-saelger-paa-25-30-timer-til-aften-og-nattevagter)
 
 
