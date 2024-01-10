@@ -68,6 +68,26 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
 
 
+# Truckfører med overblik og erfaring søges
+10-01-2024
+
+
+
+Dronninglund
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12210161/truckfoerer-med-overblik-og-erfaring-soeges)
+
+
+# Lager- og logistikoperatør/Lagermedarbejder
+10-01-2024
+
+VMS Group A/S
+
+Frederikshavn
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12210270/lager-og-logistikoperatoer-lagermedarbejder)
+
+
 # Motivated employees to Rokkedahl
 08-01-2024
 
