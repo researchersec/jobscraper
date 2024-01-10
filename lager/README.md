@@ -1,3 +1,23 @@
+# Lagermedarbejder
+10-01-2024
+
+Soft & Teknik A/S
+
+Frederikshavn
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/499891/lagermand)
+
+
+# Engageret Lagermedarbejder søges til XL-BYG Farsøs ekspeditionslager
+10-01-2024
+
+XL-BYG
+
+Farsø
+
+Job URL: [link](https://app.elvium.com/da/positions/24535/job_posting?referer_host=www.jobindex.dk)
+
+
 # Fuldtids lagermedarbejder til bæredygtig IT-virksomhed
 29-12-2023
 
