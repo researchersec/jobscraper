@@ -88,13 +88,13 @@ Hjørring
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1548&ProjectId=161674&DepartmentId=19468&MediaId=4619)
 
 
-# Spil sammen med SPORT 24 OUTLET Aabybro som vores nye sælger
-12-12-2023
+# Kalder alle Natteravne! Circle K Nykøbing Mors søger en sælger på 25-30 timer til aften- og nattevagter
+09-01-2024
 
-SPORT 24 A/S
+Circle K Danmark A/S
 
-Aabybro
+Nykøbing M
 
-Job URL: [link](https://app.elvium.com/da/positions/24108/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12206947/kalder-alle-natteravne-circle-k-nykoebing-mors-soeger-en-saelger-paa-25-30-timer-til-aften-og-nattevagter)
 
 
