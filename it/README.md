@@ -1,3 +1,13 @@
+# IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
+10-01-2024
+
+itm8
+
+Aalborg, Viby J, Herning, Kolding eller København
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/499672/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
+
+
 # Digital Ekspert til vores driftsafdeling
 09-01-2024
 
@@ -26,5 +36,15 @@ Nykredit
 Aalborg
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/499667/systemforvalter-til-team-finance-nykredit-digital-change-and-it)
+
+
+# IT-supporter til Vesthimmerlands Kommune
+10-01-2024
+
+IT Drift
+
+Aars
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12210445/it-supporter-til-vesthimmerlands-kommune)
 
 
