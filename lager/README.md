@@ -68,6 +68,16 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
 
 
+# Forklift driver for night and morning shift, 10 hours per week, Aalborg
+10-01-2024
+
+IKEA
+
+Aalborg SV
+
+Job URL: [link](https://jobs.ikea.com/da/job/aalborg/forklift-driver-for-night-and-morning-shift-10-hours-per-week-aalborg/24107/59794836416)
+
+
 # Truckfører med overblik og erfaring søges
 10-01-2024
 
