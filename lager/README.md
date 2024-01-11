@@ -128,13 +128,3 @@ Hanstholm
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12171590/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm)
 
 
-# Fleksible og Udfordringsparate Personer Søges
-20-12-2023
-
-
-
-Thisted
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12171572/fleksible-og-udfordringsparate-personer-soeges)
-
-
