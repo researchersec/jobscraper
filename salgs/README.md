@@ -108,3 +108,13 @@ Aalborg SV
 Job URL: [link](https://jobs.ikea.com/da/job/aalborg/replenishment-co-worker-for-night-and-morning-shifts-10-hours-per-week-aalborg/24107/59760880064)
 
 
+# Butiksassistent - 37 timer - Hirtshals
+09-01-2024
+
+Lidl Danmark K/S
+
+Hirtshals
+
+Job URL: [link](https://www.ungarbejde.dk/jobs/butiksassistent-37-timer-hirtshals-67395)
+
+
