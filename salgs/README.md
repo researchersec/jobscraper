@@ -88,13 +88,23 @@ Hjørring
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1548&ProjectId=162265&DepartmentId=19468&MediaId=4619)
 
 
-# Salgsassistent deltid - 25 timer
-13-12-2023
+# Kalder alle Natteravne! Circle K Nykøbing Mors søger en sælger på 25-30 timer til aften- og nattevagter
+09-01-2024
 
-Elgiganten A/S
+Circle K Danmark A/S
 
-Hjørring
+Nykøbing M
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1548&ProjectId=161674&DepartmentId=19468&MediaId=4619)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12206947/kalder-alle-natteravne-circle-k-nykoebing-mors-soeger-en-saelger-paa-25-30-timer-til-aften-og-nattevagter)
+
+
+# Replenishment co-worker for night and morning shifts, 10 hours per week, Aalborg
+09-01-2024
+
+IKEA
+
+Aalborg SV
+
+Job URL: [link](https://jobs.ikea.com/da/job/aalborg/replenishment-co-worker-for-night-and-morning-shifts-10-hours-per-week-aalborg/24107/59760880064)
 
 
