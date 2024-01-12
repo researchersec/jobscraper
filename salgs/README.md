@@ -78,6 +78,16 @@ Fjerritslev
 Job URL: [link](https://app.elvium.com/da/positions/24259/job_posting?referer_host=www.jobindex.dk)
 
 
+# Medarbejder til delikatessen - Thisted
+12-01-2024
+
+føtex
+
+Thisted
+
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/e75fe1bb-26b3-4c3d-a448-46d47e38133b)
+
+
 # Sælger med interesse for fotografering
 11-01-2024
 
@@ -106,15 +116,5 @@ IKEA
 Aalborg SV
 
 Job URL: [link](https://jobs.ikea.com/da/job/aalborg/replenishment-co-worker-for-night-and-morning-shifts-10-hours-per-week-aalborg/24107/59760880064)
-
-
-# Butiksassistent - 37 timer - Hirtshals
-09-01-2024
-
-Lidl Danmark K/S
-
-Hirtshals
-
-Job URL: [link](https://www.ungarbejde.dk/jobs/butiksassistent-37-timer-hirtshals-67395)
 
 
