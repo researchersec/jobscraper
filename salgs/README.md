@@ -1,3 +1,13 @@
+# Trælastsælger til Hanstholm
+12-01-2024
+
+XL-BYG
+
+Hanstholm
+
+Job URL: [link](https://app.elvium.com/da/positions/24564/job_posting?referer_host=www.jobindex.dk)
+
+
 # Studiejob/weekendsælger søges til ILVA Aalborg C
 10-01-2024
 
@@ -66,16 +76,6 @@ VORDINGBORG KØKKENET
 Aalborg SV
 
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/a3xaf2/salgstalent-aalborg)
-
-
-# Salgsassistent til Byggecenter i XL-BYG Fjerritslev
-15-12-2023
-
-XL-BYG
-
-Fjerritslev
-
-Job URL: [link](https://app.elvium.com/da/positions/24259/job_posting?referer_host=www.jobindex.dk)
 
 
 # Medarbejder til delikatessen - Thisted
