@@ -58,16 +58,6 @@ Gistrup
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2279&ProjectId=143642&DepartmentId=18989&MediaId=4614)
 
 
-# Lagermedarbejder
-12-12-2023
-
-Nordic Computer A/S
-
-Nørresundby
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/493806/lagermedarbejder)
-
-
 # NOWAS A/S søger medarbejder til forsendelsen
 11-01-2024
 
