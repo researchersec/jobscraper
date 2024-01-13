@@ -48,13 +48,3 @@ Aalborg
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1702&ProjectId=143754&DepartmentId=18981&MediaId=4616)
 
 
-# Bliv vores digitaliseringskonsulent og ban vejen for Danmarks mest digitale jobcenter!
-15-12-2023
-
-THISTED KOMMUNE
-
-Thisted
-
-Job URL: [link](https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=118132)
-
-
