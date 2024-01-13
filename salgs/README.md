@@ -78,3 +78,13 @@ Aalborg SV
 Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/a3xaf2/salgstalent-aalborg)
 
 
+# Medarbejder til delikatessen - Thisted
+12-01-2024
+
+føtex
+
+Thisted
+
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/e75fe1bb-26b3-4c3d-a448-46d47e38133b)
+
+
