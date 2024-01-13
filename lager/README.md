@@ -48,16 +48,6 @@ Aabybro
 Job URL: [link](https://www.jobindex.dk/jobannonce/498889/kundeservice-og-salgssupportmedarbejder)
 
 
-# Lager- og Logistikoperatør
-15-12-2023
-
-Larsen HR
-
-Gistrup
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2279&ProjectId=143642&DepartmentId=18989&MediaId=4614)
-
-
 # NOWAS A/S søger medarbejder til forsendelsen
 11-01-2024
 
