@@ -1,3 +1,13 @@
+# RTC Transport er på udkig efter ny teamleder
+15-01-2024
+
+RTC Transport A/S
+
+Støvring
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2566&ProjectId=143596&DepartmentId=18977&MediaId=4629)
+
+
 # Chef for Lager og logistik
 15-01-2024
 
