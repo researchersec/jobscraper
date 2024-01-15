@@ -1,3 +1,13 @@
+# Chef for Lager og logistik
+15-01-2024
+
+Curia
+
+Hirtshals
+
+Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22141&locale=da_DK)
+
+
 # Lagermedarbejder
 10-01-2024
 
@@ -46,6 +56,16 @@ Overbeck Machinery ApS
 Aabybro
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/498889/kundeservice-og-salgssupportmedarbejder)
+
+
+# Fourcom søger Lagermedarbejder
+15-01-2024
+
+FOURCOM ApS
+
+Aalborg Øst
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12222762/fourcom-soeger-lagermedarbejder)
 
 
 # NOWAS A/S søger medarbejder til forsendelsen
