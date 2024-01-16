@@ -68,6 +68,16 @@ Aabybro
 Job URL: [link](https://www.jobindex.dk/jobannonce/498889/kundeservice-og-salgssupportmedarbejder)
 
 
+# Lagermedarbejder søges til engrosvirksomhed ved Aalborg (Sønderholm)
+16-01-2024
+
+NORDIQ A/S
+
+Nibe
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12224892/lagermedarbejder-soeges-til-engrosvirksomhed-ved-aalborg-soenderholm)
+
+
 # Fourcom søger Lagermedarbejder
 15-01-2024
 
