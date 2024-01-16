@@ -48,16 +48,6 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/499667/systemforvalter-til-team-finance-nykredit-digital-change-and-it)
 
 
-# Premier Is søger en IT-supporter til deres IT-team i Thisted
-15-01-2024
-
-TALENTO ApS
-
-Thisted
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12223217/premier-is-soeger-en-it-supporter-til-deres-it-team-i-thisted)
-
-
 # IT-supporter til Vesthimmerlands Kommune
 10-01-2024
 
