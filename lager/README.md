@@ -68,6 +68,16 @@ Aabybro
 Job URL: [link](https://www.jobindex.dk/jobannonce/498889/kundeservice-og-salgssupportmedarbejder)
 
 
+# Vi søger lagermedarbejder med chaufføropgaver. B-kørekort OBS på kort frist!
+16-01-2024
+
+
+
+Hobro
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12225675/vi-soeger-lagermedarbejder-med-chauffoeropgaver-b-koerekort-obs-paa-kort-frist)
+
+
 # Lagermedarbejder søges til engrosvirksomhed ved Aalborg (Sønderholm)
 16-01-2024
 
