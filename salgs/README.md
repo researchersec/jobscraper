@@ -98,13 +98,13 @@ Erslev
 Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-%C3%98ster-J%C3%B8lby/785216702/)
 
 
-# Assistent til bageriudsalget - Hjørring
+# Ledertrainee, Kvickly, Aars
 22-01-2024
 
-føtex
+Kvickly
 
-Hjørring
+Aars
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/94b54953-bb65-4408-81c3-7c8a49f83002)
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=150616)
 
 
