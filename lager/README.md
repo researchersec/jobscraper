@@ -98,3 +98,13 @@ Frederikshavn
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12210270/lager-og-logistikoperatoer-lagermedarbejder)
 
 
+# Fleksibel produktionsmedarbejder til aften- og natarbejde
+04-01-2024
+
+Det Nordjyske Mediehus
+
+Aalborg
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/fleksibel-produktionsmedarbejder-til-aften-og-natarbejde-lja-85224136.aspx?jobId=LJA-85224136&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
