@@ -58,16 +58,6 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12231127/engageret-ekspedient-til-noerresundby)
 
 
-# Vi søger lagermedarbejder med chaufføropgaver. B-kørekort OBS på kort frist!
-16-01-2024
-
-
-
-Hobro
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12225675/vi-soeger-lagermedarbejder-med-chauffoeropgaver-b-koerekort-obs-paa-kort-frist)
-
-
 # Fourcom søger Lagermedarbejder
 15-01-2024
 
