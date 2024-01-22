@@ -1,3 +1,33 @@
+# Dygtig salgsassistent søges til vor butik i Aalborg Storcenter
+19-01-2024
+
+Thiele A/S
+
+Aalborg SV
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/500818/dygtig-salgsassistent-soeges-til-vor-butik-i-aalborg-storcenter)
+
+
+# Trælastsælger til ny XL-BYG forretning i Hune
+18-01-2024
+
+XL-BYG
+
+Blokhus
+
+Job URL: [link](https://app.elvium.com/da/positions/24638/job_posting?referer_host=www.jobindex.dk)
+
+
+# Blomsterdekoratør/blomsterbinder
+17-01-2024
+
+Bloom By Lene
+
+Aars
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/500604/blomsterdekoratoer-blomsterbinder)
+
+
 # Salgsassistent
 15-01-2024
 
@@ -68,23 +98,13 @@ Erslev
 Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-%C3%98ster-J%C3%B8lby/785216702/)
 
 
-# Delikatesseassistent, SuperBrugsen, Hadsund
-02-01-2024
+# Assistent til bageriudsalget - Hjørring
+22-01-2024
 
-SuperBrugsen
+føtex
 
-Hadsund
+Hjørring
 
-Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Hadsund/785211502/)
-
-
-# Salgstalent Aalborg
-20-12-2023
-
-VORDINGBORG KØKKENET
-
-Aalborg SV
-
-Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/a3xaf2/salgstalent-aalborg)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/94b54953-bb65-4408-81c3-7c8a49f83002)
 
 
