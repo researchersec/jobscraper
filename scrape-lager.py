@@ -19,7 +19,7 @@ with open("lager/README.md", "w", encoding="utf-8") as file:
             if result.find("div", class_="jobad-element-area")
             else None
         )
-        link_element = result.find("a", class_="btn btn-sm btn-primary")
+        link_element = link_element = result.find("a", class_="btn btn-sm btn-block btn-primary d-md-none mt-2 seejobmobil")
         pub_element = result.find("div", class_="jix-toolbar__pubdate")
 
         if (
