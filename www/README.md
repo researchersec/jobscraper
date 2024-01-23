@@ -18,16 +18,6 @@ Vejle og Aalborg SV
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143733&DepartmentId=18959&MediaId=4617)
 
 
-# Digital Marketing Manager
-12-01-2024
-
-DEAS
-
-Aalborg
-
-Job URL: [link](https://job.deasgroup.com/ad/digital-marketing-manager/aq9ghj/da)
-
-
 # Experienced Frontend Developers
 03-01-2024
 
