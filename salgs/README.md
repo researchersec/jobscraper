@@ -98,3 +98,13 @@ Erslev
 Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-%C3%98ster-J%C3%B8lby/785216702/)
 
 
+# REMA 1000 Frederikshavn - Søger medarbejder til kassen
+23-01-2024
+
+KLAPjob
+
+Frederikshavn
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12242395/rema-1000-frederikshavn-soeger-medarbejder-til-kassen)
+
+
