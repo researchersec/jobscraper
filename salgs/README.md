@@ -98,13 +98,13 @@ Erslev
 Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-%C3%98ster-J%C3%B8lby/785216702/)
 
 
-# REMA 1000 Frederikshavn - Søger medarbejder til kassen
-23-01-2024
+# Klitgaard ure søger passioneret medarbejder til fuldtid
+24-01-2024
 
-KLAPjob
+Klitgaard v/Kenneth Klitgaard Sørensen
 
-Frederikshavn
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12242395/rema-1000-frederikshavn-soeger-medarbejder-til-kassen)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/klitgaard-ure-soeger-passioneret-medarbejder-til-fuldtid-lja-85277896.aspx?jobId=LJA-85277896&list=SearchResultsJobsIds&index=16&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
