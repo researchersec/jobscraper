@@ -1,3 +1,13 @@
+# Global manager til Service Delivery – IT-support til grøn energi
+24-01-2024
+
+Eurowind Energy A/S
+
+Hobro
+
+Job URL: [link](https://eurowindenergy.com/dk/karriere?hr=show-job/181175&locale=en_US)
+
+
 # IT-specialist med flair for applikationsdrift
 11-01-2024
 
