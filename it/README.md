@@ -58,13 +58,3 @@ Aalborg
 Job URL: [link](https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1217780)
 
 
-# IT-supporter til Vesthimmerlands Kommune
-10-01-2024
-
-IT Drift
-
-Aars
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12210445/it-supporter-til-vesthimmerlands-kommune)
-
-
