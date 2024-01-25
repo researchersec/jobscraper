@@ -109,12 +109,12 @@ Job URL: [link](https://www.jobindex.dk/jobannonce/r12247717/kalder-alle-supersa
 
 
 # Klitgaard ure søger passioneret medarbejder til fuldtid
-24-01-2024
+25-01-2024
 
 Klitgaard v/Kenneth Klitgaard Sørensen
 
 Aalborg
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/klitgaard-ure-soeger-passioneret-medarbejder-til-fuldtid-lja-85277896.aspx?jobId=LJA-85277896&list=SearchResultsJobsIds&index=16&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12248245/klitgaard-ure-soeger-passioneret-medarbejder-til-fuldtid)
 
 
