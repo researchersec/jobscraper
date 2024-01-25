@@ -98,6 +98,16 @@ Erslev
 Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-%C3%98ster-J%C3%B8lby/785216702/)
 
 
+# Kalder alle supersælgere! Circle K Hadsund søger en sælger på 25 timer til deres team
+25-01-2024
+
+CIRCLE K DANMARK A/S
+
+Hadsund
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12247717/kalder-alle-supersaelgere-circle-k-hadsund-soeger-en-saelger-paa-25-timer-til-deres-team)
+
+
 # Klitgaard ure søger passioneret medarbejder til fuldtid
 24-01-2024
 
