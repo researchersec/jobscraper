@@ -48,6 +48,16 @@ Hobro
 Job URL: [link](https://www.jobindex.dk/img/pdf/IT_Supporter_1223.pdf)
 
 
+# Sikkerhedsbevidst linuxvant systemadministrator og IT-ansvarlig til NemTilmeld.dk
+25-01-2024
+
+NemTilmeld.dk ApS
+
+Nørresundby
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12248201/sikkerhedsbevidst-linuxvant-systemadministrator-og-it-ansvarlig-til-nemtilmelddk)
+
+
 # IT-SIKKERHEDSSPECIALIST TIL AALBORG UNIVERSITET
 18-01-2024
 
