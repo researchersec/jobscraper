@@ -8,16 +8,6 @@ Hobro
 Job URL: [link](https://eurowindenergy.com/dk/karriere?hr=show-job/181175&locale=en_US)
 
 
-# IT-specialist med flair for applikationsdrift
-11-01-2024
-
-Nordjyllands Trafikselskab
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/500139/it-specialist-med-flair-for-applikationsdrift)
-
-
 # IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
 10-01-2024
 
