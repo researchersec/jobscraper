@@ -118,3 +118,13 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12248245/klitgaard-ure-soeger-passioneret-medarbejder-til-fuldtid)
 
 
+# REMA 1000 Frederikshavn - Søger medarbejder til kassen
+23-01-2024
+
+KLAPjob
+
+Frederikshavn
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12242395/rema-1000-frederikshavn-soeger-medarbejder-til-kassen)
+
+
