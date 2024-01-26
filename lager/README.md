@@ -1,3 +1,23 @@
+# Specialarbejder til sorteringsanlæg for plast og metal
+26-01-2024
+
+Verdis A/S
+
+Aalborg Øst
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/501399/specialarbejder-til-sorteringsanlaeg-for-plast-og-metal)
+
+
+# Lagermedarbejder
+26-01-2024
+
+Nordic Computer A/S
+
+Nørresundby
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/501354/lagermedarbejder)
+
+
 # Reservedelsspecialister
 17-01-2024
 
@@ -56,16 +76,6 @@ REFAKO APS
 Nørresundby
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12231127/engageret-ekspedient-til-noerresundby)
-
-
-# Fourcom søger Lagermedarbejder
-15-01-2024
-
-FOURCOM ApS
-
-Aalborg Øst
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12222762/fourcom-soeger-lagermedarbejder)
 
 
 # NOWAS A/S søger medarbejder til forsendelsen
