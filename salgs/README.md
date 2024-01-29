@@ -78,16 +78,6 @@ Vejen, Aalborg eller Thisted
 Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
 
 
-# Delikatesseassistent, SuperBrugsen, Støvring
-02-01-2024
-
-SuperBrugsen
-
-Støvring
-
-Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-St%C3%B8vring/785217102/)
-
-
 # Kalder alle supersælgere! Circle K Hadsund søger en sælger på 25 timer til deres team
 25-01-2024
 
