@@ -1,3 +1,13 @@
+# Erfaren lagermedarbejder
+29-01-2024
+
+N.G.P Tobacco ApS
+
+Aalborg SV
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/501508/erfaren-lagermedarbejder)
+
+
 # Specialarbejder til sorteringsanlæg for plast og metal
 26-01-2024
 
