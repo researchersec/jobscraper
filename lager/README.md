@@ -68,16 +68,6 @@ Farsø
 Job URL: [link](https://app.elvium.com/da/positions/24535/job_posting?referer_host=www.jobindex.dk)
 
 
-# Engageret ekspedient til Nørresundby
-18-01-2024
-
-REFAKO APS
-
-Nørresundby
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12231127/engageret-ekspedient-til-noerresundby)
-
-
 # NOWAS A/S søger medarbejder til forsendelsen
 11-01-2024
 
