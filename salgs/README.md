@@ -48,16 +48,6 @@ Hanstholm
 Job URL: [link](https://app.elvium.com/da/positions/24564/job_posting?referer_host=www.jobindex.dk)
 
 
-# Studiejob/weekendsælger søges til ILVA Aalborg C
-10-01-2024
-
-ILVA
-
-Aalborg
-
-Job URL: [link](https://ilva.youngcrm.com/jobportal/9294)
-
-
 # Dygtig og dedikeret sælger søges til ILVA Frederikshavn
 09-01-2024
 
@@ -78,6 +68,26 @@ Vejen, Aalborg eller Thisted
 Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
 
 
+# Møbelsælger til vores butik i Hjørring
+29-01-2024
+
+My Home Møbler/Domino møbler
+
+Hjørring
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12257631/moebelsaelger-til-vores-butik-i-hjoerring)
+
+
+# Blomsterdekoratør/Sælger i Sinnerup Aalborg
+29-01-2024
+
+Sinnerup Aalborg
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12257618/blomsterdekoratoer-saelger-i-sinnerup-aalborg)
+
+
 # Kalder alle supersælgere! Circle K Hadsund søger en sælger på 25 timer til deres team
 25-01-2024
 
@@ -86,25 +96,5 @@ CIRCLE K DANMARK A/S
 Hadsund
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12247717/kalder-alle-supersaelgere-circle-k-hadsund-soeger-en-saelger-paa-25-timer-til-deres-team)
-
-
-# Klitgaard ure søger passioneret medarbejder til fuldtid
-25-01-2024
-
-Klitgaard v/Kenneth Klitgaard Sørensen
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12248245/klitgaard-ure-soeger-passioneret-medarbejder-til-fuldtid)
-
-
-# REMA 1000 Frederikshavn - Søger medarbejder til kassen
-23-01-2024
-
-KLAPjob
-
-Frederikshavn
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12242395/rema-1000-frederikshavn-soeger-medarbejder-til-kassen)
 
 
