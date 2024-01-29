@@ -28,16 +28,6 @@ Frederikshavn
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145030&DepartmentId=19149&MediaId=4619)
 
 
-# Teknisk IT-supporter
-09-01-2024
-
-DS Stålkonstruktion A/S
-
-Hobro
-
-Job URL: [link](https://www.jobindex.dk/img/pdf/IT_Supporter_1223.pdf)
-
-
 # Sikkerhedsbevidst linuxvant systemadministrator og IT-ansvarlig til NemTilmeld.dk
 25-01-2024
 
