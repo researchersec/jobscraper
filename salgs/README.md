@@ -88,16 +88,6 @@ Støvring
 Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-St%C3%B8vring/785217102/)
 
 
-# Delikatesseassistent, SuperBrugsen, Øster Jølby
-02-01-2024
-
-SuperBrugsen
-
-Erslev
-
-Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-%C3%98ster-J%C3%B8lby/785216702/)
-
-
 # Kalder alle supersælgere! Circle K Hadsund søger en sælger på 25 timer til deres team
 25-01-2024
 
@@ -116,5 +106,15 @@ Klitgaard v/Kenneth Klitgaard Sørensen
 Aalborg
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12248245/klitgaard-ure-soeger-passioneret-medarbejder-til-fuldtid)
+
+
+# REMA 1000 Frederikshavn - Søger medarbejder til kassen
+23-01-2024
+
+KLAPjob
+
+Frederikshavn
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12242395/rema-1000-frederikshavn-soeger-medarbejder-til-kassen)
 
 
