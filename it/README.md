@@ -38,6 +38,26 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12248201/sikkerhedsbevidst-linuxvant-systemadministrator-og-it-ansvarlig-til-nemtilmelddk)
 
 
+# IT Operations Center Specialist
+22-01-2024
+
+Fellowmind
+
+Aars
+
+Job URL: [link](https://career.fellowmind.dk/jobs/2520282-it-operations-center-specialist)
+
+
+# IT-Supporter
+22-01-2024
+
+Fellowmind
+
+Vejle, Aars
+
+Job URL: [link](https://career.fellowmind.dk/jobs/3472623-it-supporter)
+
+
 # IT-SIKKERHEDSSPECIALIST TIL AALBORG UNIVERSITET
 18-01-2024
 
