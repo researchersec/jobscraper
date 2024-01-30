@@ -68,6 +68,36 @@ Vejen, Aalborg eller Thisted
 Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
 
 
+# Assistance til Beauté Pacifiques stand i Salling Aalborg
+30-01-2024
+
+BEAUTE PACIFIQUE APS
+
+Aalborg
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/assistance-til-beaut-pacifiques-stand-i-salling-aalborg-lja-85291873.aspx?jobId=LJA-85291873&list=SearchResultsJobsIds&index=13&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
+# Kalder alle Natteravne! Circle K Hjørring søger nu deres nye nattesælger på 15-25 timer om ugen
+30-01-2024
+
+CIRCLE K DANMARK A/S
+
+Hjørring
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/kalder-alle-natteravne-circle-k-hjoerring-soeger-nu-deres-nye-nattesaelg-lja-85291875.aspx?jobId=LJA-85291875&list=SearchResultsJobsIds&index=15&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
+# Slagtersvend, Kvickly, Vestbyen (Aalborg)
+30-01-2024
+
+Kvickly
+
+Aalborg
+
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=150732)
+
+
 # Møbelsælger til vores butik i Hjørring
 29-01-2024
 
@@ -76,25 +106,5 @@ My Home Møbler/Domino møbler
 Hjørring
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12257631/moebelsaelger-til-vores-butik-i-hjoerring)
-
-
-# Blomsterdekoratør/Sælger i Sinnerup Aalborg
-29-01-2024
-
-Sinnerup Aalborg
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12257618/blomsterdekoratoer-saelger-i-sinnerup-aalborg)
-
-
-# Kalder alle supersælgere! Circle K Hadsund søger en sælger på 25 timer til deres team
-25-01-2024
-
-CIRCLE K DANMARK A/S
-
-Hadsund
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12247717/kalder-alle-supersaelgere-circle-k-hadsund-soeger-en-saelger-paa-25-timer-til-deres-team)
 
 
