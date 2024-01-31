@@ -78,6 +78,16 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12262917/assistance-til-beaut-pacifiques-stand-i-salling-aalborg)
 
 
+# REMA 1000 Nørresundby - Kassemedarbejder
+31-01-2024
+
+KLAPjob
+
+Nørresundby
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12263264/rema-1000-noerresundby-kassemedarbejder)
+
+
 # Kalder alle Natteravne! Circle K Hjørring søger nu deres nye nattesælger på 15-25 timer om ugen
 30-01-2024
 
@@ -96,15 +106,5 @@ Kvickly
 Aalborg
 
 Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=150732)
-
-
-# Møbelsælger til vores butik i Hjørring
-29-01-2024
-
-My Home Møbler/Domino møbler
-
-Hjørring
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12257631/moebelsaelger-til-vores-butik-i-hjoerring)
 
 
