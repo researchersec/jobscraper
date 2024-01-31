@@ -38,13 +38,3 @@ Aalborg, Copenhagen or Vilnius (Lithuania)
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143642&DepartmentId=18972&MediaId=5)
 
 
-# Lead Product Designer, Denmark
-02-01-2024
-
-Trackunit ApS
-
-Copenhagen, Aarhus, Kolding, or Aalborg
-
-Job URL: [link](https://trackunit.com/jobs/?hr=show-job/177731&linkref=163484&locale=en_US)
-
-
