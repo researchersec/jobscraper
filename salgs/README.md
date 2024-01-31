@@ -88,6 +88,16 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12263264/rema-1000-noerresundby-kassemedarbejder)
 
 
+# Beauty Advisor - Clarins & Elizabeth Arden Skønhed · Rødovre
+31-01-2024
+
+Magasin
+
+Arden, Rødovre
+
+Job URL: [link](https://karriere.magasin.dk/jobs/3575764-beauty-advisor-clarins-elizabeth-arden)
+
+
 # Kalder alle Natteravne! Circle K Hjørring søger nu deres nye nattesælger på 15-25 timer om ugen
 30-01-2024
 
@@ -95,16 +105,6 @@ CIRCLE K DANMARK A/S
 
 Hjørring
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/kalder-alle-natteravne-circle-k-hjoerring-soeger-nu-deres-nye-nattesaelg-lja-85291875.aspx?jobId=LJA-85291875&list=SearchResultsJobsIds&index=15&querydesc=SearchJobQueryDescription&viewedfrom=1)
-
-
-# Slagtersvend, Kvickly, Vestbyen (Aalborg)
-30-01-2024
-
-Kvickly
-
-Aalborg
-
-Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=150732)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/kalder-alle-natteravne-circle-k-hjoerring-soeger-nu-deres-nye-nattesaelg-lja-85291875.aspx?jobId=LJA-85291875&list=SearchResultsJobsIds&index=3&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
