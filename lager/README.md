@@ -38,16 +38,6 @@ Aalborg SV, Hornslet, Vrå eller Ringsted
 Job URL: [link](https://elgaardmancom.dk/rekruttering/ledige-stillinger/?hr=show-job%2F180167%26locale%3Dda_DK)
 
 
-# RTC Transport er på udkig efter ny teamleder
-15-01-2024
-
-RTC Transport A/S
-
-Støvring
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2566&ProjectId=143596&DepartmentId=18977&MediaId=4629)
-
-
 # Chef for Lager og logistik
 15-01-2024
 
@@ -89,13 +79,13 @@ Job URL: [link](https://www.jobindex.dk/jobannonce/r12262968/lagermedarbejder)
 
 
 # Lagermedarbejder søges til deltidsstilling
-30-01-2024
+31-01-2024
 
-
+RTC Transport A/S - Støvring
 
 Støvring
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-soeges-til-deltidsstilling-lja-85292217.aspx?jobId=LJA-85292217&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12263495/lagermedarbejder-soeges-til-deltidsstilling)
 
 
 # NOWAS A/S søger medarbejder til forsendelsen
