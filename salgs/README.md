@@ -69,13 +69,13 @@ Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advis
 
 
 # Assistance til Beauté Pacifiques stand i Salling Aalborg
-30-01-2024
+31-01-2024
 
 BEAUTE PACIFIQUE APS
 
 Aalborg
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/assistance-til-beaut-pacifiques-stand-i-salling-aalborg-lja-85291873.aspx?jobId=LJA-85291873&list=SearchResultsJobsIds&index=13&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12262917/assistance-til-beaut-pacifiques-stand-i-salling-aalborg)
 
 
 # Kalder alle Natteravne! Circle K Hjørring søger nu deres nye nattesælger på 15-25 timer om ugen
