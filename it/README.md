@@ -48,16 +48,6 @@ Aars
 Job URL: [link](https://career.fellowmind.dk/jobs/2520282-it-operations-center-specialist)
 
 
-# IT-Supporter
-22-01-2024
-
-Fellowmind
-
-Vejle, Aars
-
-Job URL: [link](https://career.fellowmind.dk/jobs/3472623-it-supporter)
-
-
 # IT-SIKKERHEDSSPECIALIST TIL AALBORG UNIVERSITET
 18-01-2024
 
