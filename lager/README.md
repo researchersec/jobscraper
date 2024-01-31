@@ -79,13 +79,13 @@ Job URL: [link](https://app.elvium.com/da/positions/24535/job_posting?referer_ho
 
 
 # Lagermedarbejder
-30-01-2024
+31-01-2024
 
 LOGSTOR DENMARK HOLDING ApS
 
 Løgstør
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-lja-85291876.aspx?jobId=LJA-85291876&list=SearchResultsJobsIds&index=16&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12262968/lagermedarbejder)
 
 
 # Lagermedarbejder søges til deltidsstilling
