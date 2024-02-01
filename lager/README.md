@@ -98,23 +98,3 @@ Løgstør
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12212946/nowas-a-s-soeger-medarbejder-til-forsendelsen)
 
 
-# Truckfører med overblik og erfaring søges
-10-01-2024
-
-
-
-Dronninglund
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12210161/truckfoerer-med-overblik-og-erfaring-soeges)
-
-
-# Lager- og logistikoperatør/Lagermedarbejder
-10-01-2024
-
-VMS Group A/S
-
-Frederikshavn
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12210270/lager-og-logistikoperatoer-lagermedarbejder)
-
-
