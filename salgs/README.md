@@ -1,3 +1,23 @@
+# Ekstern sælger
+01-02-2024
+
+Bygma
+
+Hjørring
+
+Job URL: [link](https://www.bygmajob.dk/ekstern-saelger-til-bygma-hjoerring-ansoegningsfrist-28-februar-2024/)
+
+
+# Salgsassistent til vores butik i Frederikshavn - 10 timer om ugen
+01-02-2024
+
+Deichmann Sko
+
+Frederikshavn
+
+Job URL: [link](https://www.deichmann-jobs.dk/job/?rmpage=job&rmjob=1065&rmlang=DK)
+
+
 # Dygtig salgsassistent søges til vor butik i Aalborg Storcenter
 19-01-2024
 
@@ -68,43 +88,13 @@ Vejen, Aalborg eller Thisted
 Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
 
 
-# Assistance til Beauté Pacifiques stand i Salling Aalborg
-31-01-2024
-
-BEAUTE PACIFIQUE APS
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12262917/assistance-til-beaut-pacifiques-stand-i-salling-aalborg)
-
-
-# REMA 1000 Nørresundby - Kassemedarbejder
-31-01-2024
-
-KLAPjob
-
-Nørresundby
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12263264/rema-1000-noerresundby-kassemedarbejder)
-
-
-# Beauty Advisor - Clarins & Elizabeth Arden Skønhed · Rødovre
-31-01-2024
-
-Magasin
-
-Arden, Rødovre
-
-Job URL: [link](https://karriere.magasin.dk/jobs/3575764-beauty-advisor-clarins-elizabeth-arden)
-
-
 # Kalder alle Natteravne! Circle K Hjørring søger nu deres nye nattesælger på 15-25 timer om ugen
-30-01-2024
+01-02-2024
 
 CIRCLE K DANMARK A/S
 
 Hjørring
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/kalder-alle-natteravne-circle-k-hjoerring-soeger-nu-deres-nye-nattesaelg-lja-85291875.aspx?jobId=LJA-85291875&list=SearchResultsJobsIds&index=3&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12266573/kalder-alle-natteravne-circle-k-hjoerring-soeger-nu-deres-nye-nattesaelger-paa-15-25-timer-om-ugen)
 
 
