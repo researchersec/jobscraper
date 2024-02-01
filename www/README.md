@@ -28,13 +28,3 @@ Vejle og Aalborg SV
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143733&DepartmentId=18959&MediaId=4617)
 
 
-# Experienced Frontend Developers
-03-01-2024
-
-Continia Software A/S
-
-Aalborg, Copenhagen or Vilnius (Lithuania)
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143642&DepartmentId=18972&MediaId=5)
-
-
