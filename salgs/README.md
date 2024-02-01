@@ -1,3 +1,33 @@
+# Salgstalent Aalborg
+01-02-2024
+
+VORDINGBORG KØKKENET
+
+Aalborg SV
+
+Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/pqrdsw/salgstalent-aalborg)
+
+
+# Butiksassistent under 18 år - Aalborg
+01-02-2024
+
+Netto
+
+Aalborg
+
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/bc23d4af-bf59-4ebb-8679-9ba802ab5c46)
+
+
+# Optiker til Louis Nielsen Aalborg
+01-02-2024
+
+Louis Nielsen A/S
+
+Aalborg
+
+Job URL: [link](https://join.specsavers.com/louis-nielsen/position/optiker-til-louis-nielsen-aalborg/)
+
+
 # Ekstern sælger
 01-02-2024
 
@@ -76,25 +106,5 @@ ILVA
 Frederikshavn
 
 Job URL: [link](https://ilva.youngcrm.com/jobportal/9285)
-
-
-# Style and Customer Advisor
-05-01-2024
-
-Profil Optik
-
-Vejen, Aalborg eller Thisted
-
-Job URL: [link](https://job.profiloptik.dk/jobs/2791576-style-and-customer-advisor)
-
-
-# Kalder alle Natteravne! Circle K Hjørring søger nu deres nye nattesælger på 15-25 timer om ugen
-01-02-2024
-
-CIRCLE K DANMARK A/S
-
-Hjørring
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12266573/kalder-alle-natteravne-circle-k-hjoerring-soeger-nu-deres-nye-nattesaelger-paa-15-25-timer-om-ugen)
 
 
