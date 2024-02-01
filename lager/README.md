@@ -8,16 +8,6 @@ Aalborg SV
 Job URL: [link](https://www.jobindex.dk/jobannonce/501508/erfaren-lagermedarbejder)
 
 
-# Specialarbejder til sorteringsanlæg for plast og metal
-26-01-2024
-
-Verdis A/S
-
-Aalborg Øst
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/501399/specialarbejder-til-sorteringsanlaeg-for-plast-og-metal)
-
-
 # Lagermedarbejder
 26-01-2024
 
@@ -76,16 +66,6 @@ LOGSTOR DENMARK HOLDING ApS
 Løgstør
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12262968/lagermedarbejder)
-
-
-# Lagermedarbejder søges til deltidsstilling
-31-01-2024
-
-RTC Transport A/S - Støvring
-
-Støvring
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12263495/lagermedarbejder-soeges-til-deltidsstilling)
 
 
 # NOWAS A/S søger medarbejder til forsendelsen
