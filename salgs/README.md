@@ -1,3 +1,13 @@
+# Erfaren deltidssælger søges til ILVA Aalborg SV
+02-02-2024
+
+ILVA
+
+Aalborg SV
+
+Job URL: [link](https://ilva.youngcrm.com/jobportal/9398)
+
+
 # Salgstalent Aalborg
 01-02-2024
 
@@ -56,16 +66,6 @@ Thiele A/S
 Aalborg SV
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/500818/dygtig-salgsassistent-soeges-til-vor-butik-i-aalborg-storcenter)
-
-
-# Trælastsælger til ny XL-BYG forretning i Hune
-18-01-2024
-
-XL-BYG
-
-Blokhus
-
-Job URL: [link](https://app.elvium.com/da/positions/24638/job_posting?referer_host=www.jobindex.dk)
 
 
 # Blomsterdekoratør/blomsterbinder
