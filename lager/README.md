@@ -88,13 +88,3 @@ Løgstør
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12262968/lagermedarbejder)
 
 
-# NOWAS A/S søger medarbejder til forsendelsen
-11-01-2024
-
-
-
-Løgstør
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12212946/nowas-a-s-soeger-medarbejder-til-forsendelsen)
-
-
