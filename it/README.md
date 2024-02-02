@@ -28,6 +28,16 @@ Frederikshavn
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145030&DepartmentId=19149&MediaId=4619)
 
 
+# IT-Specialist til Lokal IT Servicecenter på Flyvestation Aalborg med fast tilknytning til Specialoperationskommandoen
+02-02-2024
+
+Forsvaret
+
+Vadum
+
+Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=188932&mediaId=4681)
+
+
 # Sikkerhedsbevidst linuxvant systemadministrator og IT-ansvarlig til NemTilmeld.dk
 25-01-2024
 
