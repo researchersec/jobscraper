@@ -38,6 +38,16 @@ Vadum
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=188932&mediaId=4681)
 
 
+# It konsulent til spændende stilling i ServiceSupport-team
+02-02-2024
+
+Mariagerfjord Kommune
+
+Hadsund
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/it-konsulent-til-spaendende-stilling-i-servicesupport-team-lja-85310386.aspx?jobId=LJA-85310386&list=SearchResultsJobsIds&index=12&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Sikkerhedsbevidst linuxvant systemadministrator og IT-ansvarlig til NemTilmeld.dk
 25-01-2024
 
