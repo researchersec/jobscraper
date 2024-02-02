@@ -1,3 +1,13 @@
+# Lagermedarbejder til XL-BYG Nykøbing
+02-02-2024
+
+XL-BYG
+
+Nykøbing M
+
+Job URL: [link](https://app.elvium.com/da/positions/24894/job_posting?referer_host=www.jobindex.dk)
+
+
 # Erfaren lagermedarbejder
 29-01-2024
 
@@ -48,6 +58,16 @@ Farsø
 Job URL: [link](https://app.elvium.com/da/positions/24535/job_posting?referer_host=www.jobindex.dk)
 
 
+# Lagermedarbejder
+02-02-2024
+
+Scandinavian Medical Solutions A/S
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12269852/lagermedarbejder)
+
+
 # Ferieafløserjob, sommer 2024, til lager Coop Logistik, Aalborg Distributionscenter
 01-02-2024
 
@@ -56,16 +76,6 @@ Job URL: [link](https://app.elvium.com/da/positions/24535/job_posting?referer_ho
 Aalborg SV
 
 Job URL: [link](https://www.nordjyskejob.dk/resultat/ferieafloeserjob-sommer-2024-til-lager-coop-logistik-aalborg-distrib-lja-85298696.aspx?jobId=LJA-85298696&list=SearchResultsJobsIds&index=9&querydesc=SearchJobQueryDescription&viewedfrom=1)
-
-
-# Lagermedarbejder
-01-02-2024
-
-Scandinavian Medical Solutions A/S
-
-Aalborg
-
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-lja-85298240.aspx?jobId=LJA-85298240&list=SearchResultsJobsIds&index=10&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Lagermedarbejder
