@@ -98,13 +98,3 @@ Hanstholm
 Job URL: [link](https://app.elvium.com/da/positions/24564/job_posting?referer_host=www.jobindex.dk)
 
 
-# Dygtig og dedikeret sælger søges til ILVA Frederikshavn
-09-01-2024
-
-ILVA
-
-Frederikshavn
-
-Job URL: [link](https://ilva.youngcrm.com/jobportal/9285)
-
-
