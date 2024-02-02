@@ -38,16 +38,6 @@ Hirtshals
 Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22141&locale=da_DK)
 
 
-# Lagermedarbejder
-10-01-2024
-
-Soft & Teknik A/S
-
-Frederikshavn
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/499891/lagermand)
-
-
 # Engageret Lagermedarbejder søges til XL-BYG Farsøs ekspeditionslager
 10-01-2024
 
