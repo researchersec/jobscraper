@@ -58,6 +58,16 @@ Farsø
 Job URL: [link](https://app.elvium.com/da/positions/24535/job_posting?referer_host=www.jobindex.dk)
 
 
+# Facade renovering Nordjylland - North of Denmark
+02-02-2024
+
+
+
+Dronninglund
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/facade-renovering-nordjylland-north-of-denmark-lja-85310363.aspx?jobId=LJA-85310363&list=SearchResultsJobsIds&index=19&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Ferieafløserjob, sommer 2024, til lager Coop Logistik, Aalborg Distributionscenter
 02-02-2024
 
