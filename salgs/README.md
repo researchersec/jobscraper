@@ -1,3 +1,13 @@
+# Salgsassistent til det maritime marked søges!
+02-02-2024
+
+Dansk Marine Center - Bådudstyr ApS
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/501978/salgsassistent-til-det-maritime-marked-soeges)
+
+
 # Erfaren deltidssælger søges til ILVA Aalborg SV
 02-02-2024
 
@@ -86,15 +96,5 @@ Meny
 Støvring
 
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146562&DepartmentId=19133&MediaId=4623)
-
-
-# Trælastsælger til Hanstholm
-12-01-2024
-
-XL-BYG
-
-Hanstholm
-
-Job URL: [link](https://app.elvium.com/da/positions/24564/job_posting?referer_host=www.jobindex.dk)
 
 
