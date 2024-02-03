@@ -45,7 +45,7 @@ Mariagerfjord Kommune
 
 Hadsund
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/it-konsulent-til-spaendende-stilling-i-servicesupport-team-lja-85310386.aspx?jobId=LJA-85310386&list=SearchResultsJobsIds&index=12&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/it-konsulent-til-spaendende-stilling-i-servicesupport-team-lja-85310386.aspx?jobId=LJA-85310386&list=SearchResultsJobsIds&index=6&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Sikkerhedsbevidst linuxvant systemadministrator og IT-ansvarlig til NemTilmeld.dk
