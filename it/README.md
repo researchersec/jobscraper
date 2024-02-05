@@ -1,3 +1,13 @@
+# IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
+05-02-2024
+
+itm8
+
+Aalborg, Viby J, Herning, Kolding eller København
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/499672/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
+
+
 # Global manager til Service Delivery – IT-support til grøn energi
 24-01-2024
 
@@ -6,16 +16,6 @@ Eurowind Energy A/S
 Hobro
 
 Job URL: [link](https://eurowindenergy.com/dk/karriere?hr=show-job/181175&locale=en_US)
-
-
-# IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
-10-01-2024
-
-itm8
-
-Aalborg, Viby J, Herning, Kolding eller København
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/499672/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
 
 
 # Digital Ekspert til vores driftsafdeling
