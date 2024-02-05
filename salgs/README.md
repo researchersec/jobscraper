@@ -1,3 +1,13 @@
+# Dagrofa Foodservice Hjørring søger salgsassistent til grøntafdeling
+05-02-2024
+
+Dagrofa Foodservice
+
+Hjørring
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146606&DepartmentId=19005&MediaId=4623)
+
+
 # Salgsassistent til det maritime marked søges!
 02-02-2024
 
