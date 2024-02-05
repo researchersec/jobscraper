@@ -65,7 +65,7 @@ Job URL: [link](https://app.elvium.com/da/positions/24535/job_posting?referer_ho
 
 Dronninglund
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/facade-renovering-nordjylland-north-of-denmark-lja-85310363.aspx?jobId=LJA-85310363&list=SearchResultsJobsIds&index=2&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/facade-renovering-nordjylland-north-of-denmark-lja-85310363.aspx?jobId=LJA-85310363&list=SearchResultsJobsIds&index=6&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Ferieafløserjob, sommer 2024, til lager Coop Logistik, Aalborg Distributionscenter
