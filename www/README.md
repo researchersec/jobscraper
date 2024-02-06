@@ -1,3 +1,13 @@
+# Senior Frontend Software Engineer, Denmark
+06-02-2024
+
+Trackunit ApS
+
+Aalborg or Kolding
+
+Job URL: [link](https://trackunit.com/jobs/?hr=show-job/183305&linkref=173333&locale=en_US)
+
+
 # Fullstack Python Developer/Security Engineer – Cyber Defence Center
 24-01-2024
 
