@@ -98,13 +98,3 @@ Aars
 Job URL: [link](https://www.jobindex.dk/jobannonce/500604/blomsterdekoratoer-blomsterbinder)
 
 
-# Salgsassistent
-15-01-2024
-
-Meny
-
-Støvring
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146562&DepartmentId=19133&MediaId=4623)
-
-
