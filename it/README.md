@@ -28,6 +28,16 @@ Hobro
 Job URL: [link](https://eurowindenergy.com/dk/karriere?hr=show-job/181175&locale=en_US)
 
 
+# Sikkerhedsbevidst Linux-vant systemadministrator og IT-ansvarlig til NemTilmeld.dk
+06-02-2024
+
+Nemtilmeld.DK ApS
+
+Nørresundby
+
+Job URL: [link](https://www.it-jobbank.dk/c?t=h1440450&ctx=j&utm_source=partner&utm_medium=jobindex&utm_campaign=jobannonce)
+
+
 # It konsulent til spændende stilling i ServiceSupport-team
 05-02-2024
 
@@ -46,16 +56,6 @@ Forsvaret
 Vadum
 
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=188932&mediaId=4681)
-
-
-# Sikkerhedsbevidst linuxvant systemadministrator og IT-ansvarlig til NemTilmeld.dk
-25-01-2024
-
-NemTilmeld.dk ApS
-
-Nørresundby
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12248201/sikkerhedsbevidst-linuxvant-systemadministrator-og-it-ansvarlig-til-nemtilmelddk)
 
 
 # IT Operations Center Specialist
