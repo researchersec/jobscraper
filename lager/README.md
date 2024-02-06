@@ -58,6 +58,16 @@ Farsø
 Job URL: [link](https://app.elvium.com/da/positions/24535/job_posting?referer_host=www.jobindex.dk)
 
 
+# Lagermedarbejder primært til plukning og pakning søges
+06-02-2024
+
+
+
+Svenstrup J
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-primaert-til-plukning-og-pakning-soeges-lja-85317150.aspx?jobId=LJA-85317150&list=SearchResultsJobsIds&index=18&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Ferieafløserjob, sommer 2024, til lager Coop Logistik, Aalborg Distributionscenter
 02-02-2024
 
