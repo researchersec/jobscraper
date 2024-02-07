@@ -58,24 +58,34 @@ Farsø
 Job URL: [link](https://app.elvium.com/da/positions/24535/job_posting?referer_host=www.jobindex.dk)
 
 
+# ITLAGERSALG.DK MANGLER HÆNDER!
+07-02-2024
+
+EasyRecycle ApS
+
+Frederikshavn
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/itlagersalgdk-mangler-haender-lja-85318825.aspx?jobId=LJA-85318825&list=SearchResultsJobsIds&index=20&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Lagermedarbejder primært til plukning og pakning søges
-06-02-2024
+07-02-2024
 
 
 
 Svenstrup J
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-primaert-til-plukning-og-pakning-soeges-lja-85317150.aspx?jobId=LJA-85317150&list=SearchResultsJobsIds&index=18&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12282188/lagermedarbejder-primaert-til-plukning-og-pakning-soeges)
 
 
-# Ferieafløserjob, sommer 2024, til lager Coop Logistik, Aalborg Distributionscenter
-02-02-2024
+# Lagermedarbejder primært til plukning og pakning søges
+07-02-2024
 
 
 
-Aalborg SV
+Svenstrup J
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12270319/ferieafloeserjob-sommer-2024-til-lager-coop-logistik-aalborg-distributionscenter)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12282192/lagermedarbejder-primaert-til-plukning-og-pakning-soeges)
 
 
 # Lagermedarbejder
