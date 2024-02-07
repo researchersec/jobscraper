@@ -1,3 +1,23 @@
+# Personal Shopper
+07-02-2024
+
+CHANGE of Scandinavia A/S
+
+Hjørring
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=145847&DepartmentId=18982&MediaId=5)
+
+
+# Personal Shopper
+07-02-2024
+
+CHANGE of Scandinavia A/S
+
+Thisted
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=145846&DepartmentId=18982&MediaId=595)
+
+
 # Dagrofa Foodservice Hjørring søger salgsassistent til grøntafdeling
 05-02-2024
 
