@@ -1,3 +1,13 @@
+# SharePoint Administrator with experience in Power platform
+07-02-2024
+
+Wrist Ship Supply
+
+Nørresundby
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/502397/sharepoint-administrator-with-experience-in-power-platform)
+
+
 # Senior Frontend Software Engineer, Denmark
 06-02-2024
 
