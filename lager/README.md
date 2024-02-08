@@ -1,3 +1,13 @@
+# Erfaren lager- & logistikmedarbejder søges til vores koncern
+08-02-2024
+
+BM Corporation Danmark A/S
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/img/pdf/bm_corporation_20240208sul.pdf)
+
+
 # Lagermedarbejder til XL-BYG Nykøbing
 02-02-2024
 
@@ -49,13 +59,13 @@ Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22141&locale=da_DK)
 
 
 # ITLAGERSALG.DK MANGLER HÆNDER!
-07-02-2024
+08-02-2024
 
 EasyRecycle ApS
 
 Frederikshavn
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/itlagersalgdk-mangler-haender-lja-85318825.aspx?jobId=LJA-85318825&list=SearchResultsJobsIds&index=20&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12285407/itlagersalgdk-mangler-haender)
 
 
 # Lagermedarbejder primært til plukning og pakning søges
