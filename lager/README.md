@@ -48,16 +48,6 @@ Hirtshals
 Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22141&locale=da_DK)
 
 
-# Engageret Lagermedarbejder søges til XL-BYG Farsøs ekspeditionslager
-10-01-2024
-
-XL-BYG
-
-Farsø
-
-Job URL: [link](https://app.elvium.com/da/positions/24535/job_posting?referer_host=www.jobindex.dk)
-
-
 # ITLAGERSALG.DK MANGLER HÆNDER!
 07-02-2024
 
