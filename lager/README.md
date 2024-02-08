@@ -58,6 +58,16 @@ Hirtshals
 Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22141&locale=da_DK)
 
 
+# Ferieafløserjob, sommer 2024, til lager Coop Logistik, Aalborg Distributionscenter
+08-02-2024
+
+
+
+Aalborg SV
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/ferieafloeserjob-sommer-2024-til-lager-coop-logistik-aalborg-distrib-lja-85320628.aspx?jobId=LJA-85320628&list=SearchResultsJobsIds&index=19&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # ITLAGERSALG.DK MANGLER HÆNDER!
 08-02-2024
 
