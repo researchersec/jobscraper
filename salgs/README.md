@@ -68,16 +68,6 @@ Aalborg
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/bc23d4af-bf59-4ebb-8679-9ba802ab5c46)
 
 
-# Optiker til Louis Nielsen Aalborg
-01-02-2024
-
-Louis Nielsen A/S
-
-Aalborg
-
-Job URL: [link](https://join.specsavers.com/louis-nielsen/position/optiker-til-louis-nielsen-aalborg/)
-
-
 # Ekstern sælger
 01-02-2024
 
