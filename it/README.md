@@ -78,13 +78,3 @@ Aars
 Job URL: [link](https://career.fellowmind.dk/jobs/2520282-it-operations-center-specialist)
 
 
-# IT-SIKKERHEDSSPECIALIST TIL AALBORG UNIVERSITET
-18-01-2024
-
-Aalborg Universitet
-
-Aalborg
-
-Job URL: [link](https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1217780)
-
-
