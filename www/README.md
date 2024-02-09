@@ -1,3 +1,13 @@
+# Teknisk SEO-specialist og hjemmesideentusiast
+09-02-2024
+
+VELA
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/502562/teknisk-seo-specialist-og-hjemmesideentusiast)
+
+
 # SharePoint Administrator with experience in Power platform
 07-02-2024
 
