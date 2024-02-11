@@ -65,7 +65,7 @@ Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22141&locale=da_DK)
 
 Hanstholm
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm-lja-85322334.aspx?jobId=LJA-85322334&list=SearchResultsJobsIds&index=7&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm-lja-85322334.aspx?jobId=LJA-85322334&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Lageransvarlig
@@ -75,7 +75,7 @@ Kildespring A/S
 
 Sindal
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lageransvarlig-lja-85322400.aspx?jobId=LJA-85322400&list=SearchResultsJobsIds&index=10&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/lageransvarlig-lja-85322400.aspx?jobId=LJA-85322400&list=SearchResultsJobsIds&index=1&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # ITLAGERSALG.DK MANGLER HÆNDER!
