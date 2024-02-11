@@ -88,16 +88,6 @@ Frederikshavn
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12285407/itlagersalgdk-mangler-haender)
 
 
-# Lagermedarbejder primært til plukning og pakning søges
-07-02-2024
-
-
-
-Svenstrup J
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12282188/lagermedarbejder-primaert-til-plukning-og-pakning-soeges)
-
-
 # Ferieafløserjob, sommer 2024, til lager Coop Logistik, Aalborg Distributionscenter
 02-02-2024
 
