@@ -1,3 +1,13 @@
+# Indkøber/koordinator til teknisk afdeling
+12-02-2024
+
+Tican Fresh Meat A/S
+
+Thisted
+
+Job URL: [link](https://www.jobindex.dk/img/pdf/20240209_Indkoeber_tekn_afd.pdf)
+
+
 # Erfaren lager- & logistikmedarbejder søges til vores koncern
 08-02-2024
 
@@ -26,16 +36,6 @@ N.G.P Tobacco ApS
 Aalborg SV
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/501508/erfaren-lagermedarbejder)
-
-
-# Lagermedarbejder
-26-01-2024
-
-Nordic Computer A/S
-
-Nørresundby
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/501354/lagermedarbejder)
 
 
 # Reservedelsspecialister
