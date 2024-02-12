@@ -78,6 +78,26 @@ Sindal
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12294134/lageransvarlig)
 
 
+# Lagermedarbejder til Pigenmedstigen-shop.dk
+12-02-2024
+
+
+
+Hjallerup
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-til-pigenmedstigen-shopdk-lja-85327311.aspx?jobId=LJA-85327311&list=SearchResultsJobsIds&index=3&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
+# Lager medarbejder med værksted og intern salgs funktioner
+12-02-2024
+
+
+
+Hjørring
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/lager-medarbejder-med-vaerksted-og-intern-salgs-funktioner-lja-85327212.aspx?jobId=LJA-85327212&list=SearchResultsJobsIds&index=11&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # ITLAGERSALG.DK MANGLER HÆNDER!
 08-02-2024
 
