@@ -59,23 +59,23 @@ Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22141&locale=da_DK)
 
 
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
-09-02-2024
+12-02-2024
 
 
 
 Hanstholm
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm-lja-85322334.aspx?jobId=LJA-85322334&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12294348/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm)
 
 
 # Lageransvarlig
-09-02-2024
+12-02-2024
 
 Kildespring A/S
 
 Sindal
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lageransvarlig-lja-85322400.aspx?jobId=LJA-85322400&list=SearchResultsJobsIds&index=1&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12294134/lageransvarlig)
 
 
 # ITLAGERSALG.DK MANGLER HÆNDER!
