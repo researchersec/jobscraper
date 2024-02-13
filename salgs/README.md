@@ -1,3 +1,23 @@
+# Sælger til byggemarked hos XL-BYG Kås
+13-02-2024
+
+XL-BYG
+
+Pandrup
+
+Job URL: [link](https://app.elvium.com/da/positions/25051/job_posting?referer_host=www.jobindex.dk)
+
+
+# SÆLGER til trælast hos XL-BYG Kås
+13-02-2024
+
+XL-BYG
+
+Pandrup
+
+Job URL: [link](https://app.elvium.com/da/positions/25050/job_posting?referer_host=www.jobindex.dk)
+
+
 # Personal Shopper
 07-02-2024
 
@@ -96,15 +116,5 @@ Thiele A/S
 Aalborg SV
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/500818/dygtig-salgsassistent-soeges-til-vor-butik-i-aalborg-storcenter)
-
-
-# Blomsterdekoratør/blomsterbinder
-17-01-2024
-
-Bloom By Lene
-
-Aars
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/500604/blomsterdekoratoer-blomsterbinder)
 
 
