@@ -68,13 +68,3 @@ Vadum
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=188932&mediaId=4681)
 
 
-# IT Operations Center Specialist
-22-01-2024
-
-Fellowmind
-
-Aars
-
-Job URL: [link](https://career.fellowmind.dk/jobs/2520282-it-operations-center-specialist)
-
-
