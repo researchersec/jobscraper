@@ -48,16 +48,6 @@ Aalborg SV, Hornslet, Vrå eller Ringsted
 Job URL: [link](https://elgaardmancom.dk/rekruttering/ledige-stillinger/?hr=show-job%2F180167%26locale%3Dda_DK)
 
 
-# Chef for Lager og logistik
-15-01-2024
-
-Curia
-
-Hirtshals
-
-Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22141&locale=da_DK)
-
-
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
 12-02-2024
 
