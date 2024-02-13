@@ -85,7 +85,7 @@ Job URL: [link](https://www.jobindex.dk/jobannonce/r12294134/lageransvarlig)
 
 Hjørring
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lager-medarbejder-med-vaerksted-og-intern-salgs-funktioner-lja-85327212.aspx?jobId=LJA-85327212&list=SearchResultsJobsIds&index=11&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/lager-medarbejder-med-vaerksted-og-intern-salgs-funktioner-lja-85327212.aspx?jobId=LJA-85327212&list=SearchResultsJobsIds&index=2&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # ITLAGERSALG.DK MANGLER HÆNDER!
