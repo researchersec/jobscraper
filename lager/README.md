@@ -48,6 +48,16 @@ Aalborg SV, Hornslet, Vrå eller Ringsted
 Job URL: [link](https://elgaardmancom.dk/rekruttering/ledige-stillinger/?hr=show-job%2F180167%26locale%3Dda_DK)
 
 
+# Lagermedarbejder til Pigenmedstigen-shop.dk
+13-02-2024
+
+
+
+Hjallerup
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12297481/lagermedarbejder-til-pigenmedstigen-shopdk)
+
+
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
 12-02-2024
 
@@ -66,16 +76,6 @@ Kildespring A/S
 Sindal
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12294134/lageransvarlig)
-
-
-# Lagermedarbejder til Pigenmedstigen-shop.dk
-12-02-2024
-
-
-
-Hjallerup
-
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-til-pigenmedstigen-shopdk-lja-85327311.aspx?jobId=LJA-85327311&list=SearchResultsJobsIds&index=3&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Lager medarbejder med værksted og intern salgs funktioner
