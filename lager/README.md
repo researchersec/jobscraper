@@ -48,6 +48,16 @@ Aalborg SV, Hornslet, Vrå eller Ringsted
 Job URL: [link](https://elgaardmancom.dk/rekruttering/ledige-stillinger/?hr=show-job%2F180167%26locale%3Dda_DK)
 
 
+# Lager medarbejder med værksted og intern salgs funktioner
+14-02-2024
+
+
+
+Hjørring
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12299711/lager-medarbejder-med-vaerksted-og-intern-salgs-funktioner)
+
+
 # Lagermedarbejder til Pigenmedstigen-shop.dk
 13-02-2024
 
@@ -76,16 +86,6 @@ Kildespring A/S
 Sindal
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12294134/lageransvarlig)
-
-
-# Lager medarbejder med værksted og intern salgs funktioner
-12-02-2024
-
-
-
-Hjørring
-
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lager-medarbejder-med-vaerksted-og-intern-salgs-funktioner-lja-85327212.aspx?jobId=LJA-85327212&list=SearchResultsJobsIds&index=2&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # ITLAGERSALG.DK MANGLER HÆNDER!
