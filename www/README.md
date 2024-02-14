@@ -49,7 +49,7 @@ Job URL: [link](https://xci.teamtailor.com/jobs/3218939-ui-frontend-developer?pr
 
 
 # UI/UX Manager
-17-01-2024
+14-02-2024
 
 Unik System Design A/S
 
