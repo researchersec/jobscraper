@@ -8,6 +8,16 @@ Thisted
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=145846&DepartmentId=18982&MediaId=595)
 
 
+# Gartner/anlægsgartner
+14-02-2024
+
+Brønderslev Planteskole Nygårdsminde ApS
+
+Brønderslev
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/503028/gartner-anlaegsgartner)
+
+
 # Sælger til byggemarked hos XL-BYG Kås
 13-02-2024
 
@@ -106,15 +116,5 @@ Deichmann Sko
 Frederikshavn
 
 Job URL: [link](https://www.deichmann-jobs.dk/job/?rmpage=job&rmjob=1065&rmlang=DK)
-
-
-# Dygtig salgsassistent søges til vor butik i Aalborg Storcenter
-19-01-2024
-
-Thiele A/S
-
-Aalborg SV
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/500818/dygtig-salgsassistent-soeges-til-vor-butik-i-aalborg-storcenter)
 
 
