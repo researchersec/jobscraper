@@ -1,3 +1,13 @@
+# UI/UX Manager
+14-02-2024
+
+Unik System Design A/S
+
+Vejle og Aalborg SV
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143733&DepartmentId=18959&MediaId=4617)
+
+
 # Teknisk SEO-specialist og hjemmesideentusiast
 09-02-2024
 
@@ -46,15 +56,5 @@ XCI A/S
 Aalborg Øst
 
 Job URL: [link](https://xci.teamtailor.com/jobs/3218939-ui-frontend-developer?promotion=885403-jobindex)
-
-
-# UI/UX Manager
-14-02-2024
-
-Unik System Design A/S
-
-Vejle og Aalborg SV
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143733&DepartmentId=18959&MediaId=4617)
 
 
