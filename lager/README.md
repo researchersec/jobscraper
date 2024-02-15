@@ -38,16 +38,6 @@ Aalborg SV
 Job URL: [link](https://www.jobindex.dk/jobannonce/501508/erfaren-lagermedarbejder)
 
 
-# Reservedelsspecialister
-17-01-2024
-
-Elgaard Mancom
-
-Aalborg SV, Hornslet, Vrå eller Ringsted
-
-Job URL: [link](https://elgaardmancom.dk/rekruttering/ledige-stillinger/?hr=show-job%2F180167%26locale%3Dda_DK)
-
-
 # Lager medarbejder med værksted og intern salgs funktioner
 14-02-2024
 
