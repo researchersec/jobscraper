@@ -48,16 +48,6 @@ Hjørring
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12299711/lager-medarbejder-med-vaerksted-og-intern-salgs-funktioner)
 
 
-# Lagermedarbejder til Pigenmedstigen-shop.dk
-13-02-2024
-
-
-
-Hjallerup
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12297481/lagermedarbejder-til-pigenmedstigen-shopdk)
-
-
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
 12-02-2024
 
