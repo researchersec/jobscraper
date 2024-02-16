@@ -8,16 +8,6 @@ Kokkedal, Aarhus V, Svenstrup J
 Job URL: [link](https://www.comm2ig.dk/karriere/dispatcher/)
 
 
-# Digital Ekspert til vores driftsafdeling
-06-02-2024
-
-MAN Energy Solutions
-
-Frederikshavn
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145030&DepartmentId=19149&MediaId=4619)
-
-
 # IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
 05-02-2024
 
