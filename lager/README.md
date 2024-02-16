@@ -1,3 +1,13 @@
+# Lagerforvalter
+16-02-2024
+
+XL-BYG
+
+Hjørring
+
+Job URL: [link](https://app.elvium.com/da/positions/25109/job_posting?referer_host=www.jobindex.dk)
+
+
 # Indkøber/koordinator til teknisk afdeling
 12-02-2024
 
