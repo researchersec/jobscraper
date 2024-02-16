@@ -48,13 +48,3 @@ Aalborg, Aarhus, Kolding eller Herning
 Job URL: [link](https://www.jobindex.dk/jobannonce/498867/fullstack-python-developer-security-engineer-cyber-defence-center)
 
 
-# UI/Frontend Developer
-18-01-2024
-
-XCI A/S
-
-Aalborg Øst
-
-Job URL: [link](https://xci.teamtailor.com/jobs/3218939-ui-frontend-developer?promotion=885403-jobindex)
-
-
