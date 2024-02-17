@@ -48,13 +48,3 @@ Hadsund
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12275710/it-konsulent-til-spaendende-stilling-i-servicesupport-team)
 
 
-# IT-Specialist til Lokal IT Servicecenter på Flyvestation Aalborg med fast tilknytning til Specialoperationskommandoen
-02-02-2024
-
-Forsvaret
-
-Vadum
-
-Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=188932&mediaId=4681)
-
-
