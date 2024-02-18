@@ -48,6 +48,16 @@ Aalborg SV
 Job URL: [link](https://www.jobindex.dk/jobannonce/501508/erfaren-lagermedarbejder)
 
 
+# Logistikmedarbejder søges til Logistikafdelingen på Sygehusapoteket i Aalborg
+18-02-2024
+
+Region Nordjylland
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12308379/logistikmedarbejder-soeges-til-logistikafdelingen-paa-sygehusapoteket-i-aalborg)
+
+
 # Lager medarbejder med værksted og intern salgs funktioner
 14-02-2024
 
@@ -106,15 +116,5 @@ Scandinavian Medical Solutions A/S
 Aalborg
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12269852/lagermedarbejder)
-
-
-# Lagermedarbejder
-31-01-2024
-
-LOGSTOR DENMARK HOLDING ApS
-
-Løgstør
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12262968/lagermedarbejder)
 
 
