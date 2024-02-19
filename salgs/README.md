@@ -1,3 +1,13 @@
+# Spil sammen med SPORT 24 OUTLET Aalborg som vores nye sælger
+19-02-2024
+
+SPORT 24 A/S
+
+Aalborg SV
+
+Job URL: [link](https://app.elvium.com/da/positions/25114/job_posting?referer_host=www.jobindex.dk)
+
+
 # Personal Shopper
 14-02-2024
 
@@ -96,25 +106,5 @@ Netto
 Aalborg
 
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/bc23d4af-bf59-4ebb-8679-9ba802ab5c46)
-
-
-# Ekstern sælger
-01-02-2024
-
-Bygma
-
-Hjørring
-
-Job URL: [link](https://www.bygmajob.dk/ekstern-saelger-til-bygma-hjoerring-ansoegningsfrist-28-februar-2024/)
-
-
-# Salgsassistent til vores butik i Frederikshavn - 10 timer om ugen
-01-02-2024
-
-Deichmann Sko
-
-Frederikshavn
-
-Job URL: [link](https://www.deichmann-jobs.dk/job/?rmpage=job&rmjob=1065&rmlang=DK)
 
 
