@@ -48,6 +48,16 @@ Aalborg SV
 Job URL: [link](https://www.jobindex.dk/jobannonce/501508/erfaren-lagermedarbejder)
 
 
+# Lager- og logistikoperatør/Lagermedarbejder
+19-02-2024
+
+VMS Group A/S
+
+Frederikshavn
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/lager-og-logistikoperatoerlagermedarbejder-lja-85339660.aspx?jobId=LJA-85339660&list=SearchResultsJobsIds&index=17&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Logistikmedarbejder søges til Logistikafdelingen på Sygehusapoteket i Aalborg
 18-02-2024
 
@@ -106,15 +116,5 @@ Scandinavian Medical Solutions A/S
 Aalborg
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12269852/lagermedarbejder)
-
-
-# Lagermedarbejder
-31-01-2024
-
-LOGSTOR DENMARK HOLDING ApS
-
-Løgstør
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12262968/lagermedarbejder)
 
 
