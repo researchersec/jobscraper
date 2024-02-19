@@ -8,6 +8,16 @@ Aalborg SV
 Job URL: [link](https://app.elvium.com/da/positions/25114/job_posting?referer_host=www.jobindex.dk)
 
 
+# Butikskonsulent – mød kunderne i Danmarks største Norlys butik
+19-02-2024
+
+Norlys
+
+Aalborg
+
+Job URL: [link](https://norlys.dk/job/ledige-stillinger/butikskonsulent-moed-kunderne-i-danmarks-stoerste-norlys-butik/)
+
+
 # Personal Shopper
 14-02-2024
 
@@ -86,25 +96,5 @@ ILVA
 Aalborg SV
 
 Job URL: [link](https://ilva.youngcrm.com/jobportal/9398)
-
-
-# Salgstalent Aalborg
-01-02-2024
-
-VORDINGBORG KØKKENET
-
-Aalborg SV
-
-Job URL: [link](https://app.jobmatchprofile.com/gxcdrk/vordingborg-kokkenet-as/pqrdsw/salgstalent-aalborg)
-
-
-# Butiksassistent under 18 år - Aalborg
-01-02-2024
-
-Netto
-
-Aalborg
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/bc23d4af-bf59-4ebb-8679-9ba802ab5c46)
 
 
