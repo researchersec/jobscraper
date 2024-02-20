@@ -38,16 +38,6 @@ Nykøbing M
 Job URL: [link](https://app.elvium.com/da/positions/24894/job_posting?referer_host=www.jobindex.dk)
 
 
-# Erfaren lagermedarbejder
-29-01-2024
-
-N.G.P Tobacco ApS
-
-Aalborg SV
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/501508/erfaren-lagermedarbejder)
-
-
 # Lager- og logistikoperatør/Lagermedarbejder
 19-02-2024
 
@@ -56,16 +46,6 @@ VMS Group A/S
 Frederikshavn
 
 Job URL: [link](https://www.nordjyskejob.dk/resultat/lager-og-logistikoperatoerlagermedarbejder-lja-85339660.aspx?jobId=LJA-85339660&list=SearchResultsJobsIds&index=17&querydesc=SearchJobQueryDescription&viewedfrom=1)
-
-
-# Logistikmedarbejder søges til Logistikafdelingen på Sygehusapoteket i Aalborg
-18-02-2024
-
-Region Nordjylland
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12308379/logistikmedarbejder-soeges-til-logistikafdelingen-paa-sygehusapoteket-i-aalborg)
 
 
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
