@@ -45,7 +45,7 @@ VMS Group A/S
 
 Frederikshavn
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lager-og-logistikoperatoerlagermedarbejder-lja-85339660.aspx?jobId=LJA-85339660&list=SearchResultsJobsIds&index=17&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/lager-og-logistikoperatoerlagermedarbejder-lja-85339660.aspx?jobId=LJA-85339660&list=SearchResultsJobsIds&index=7&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Logistikmedarbejder søges til Logistikafdelingen på Sygehusapoteket i Aalborg
