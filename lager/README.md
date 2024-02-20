@@ -48,6 +48,16 @@ Frederikshavn
 Job URL: [link](https://www.nordjyskejob.dk/resultat/lager-og-logistikoperatoerlagermedarbejder-lja-85339660.aspx?jobId=LJA-85339660&list=SearchResultsJobsIds&index=17&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
+# Logistikmedarbejder søges til Logistikafdelingen på Sygehusapoteket i Aalborg
+18-02-2024
+
+Region Nordjylland
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12308379/logistikmedarbejder-soeges-til-logistikafdelingen-paa-sygehusapoteket-i-aalborg)
+
+
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
 12-02-2024
 
