@@ -118,3 +118,13 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12269852/lagermedarbejder)
 
 
+# Lagermedarbejder
+31-01-2024
+
+LOGSTOR DENMARK HOLDING ApS
+
+Løgstør
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12262968/lagermedarbejder)
+
+
