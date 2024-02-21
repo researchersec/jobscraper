@@ -28,16 +28,6 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/img/pdf/bm_corporation_20240208sul.pdf)
 
 
-# Lagermedarbejder til XL-BYG Nykøbing
-02-02-2024
-
-XL-BYG
-
-Nykøbing M
-
-Job URL: [link](https://app.elvium.com/da/positions/24894/job_posting?referer_host=www.jobindex.dk)
-
-
 # Logistikmedarbejder søges til Logistikafdelingen på Sygehusapoteket i Aalborg
 18-02-2024
 
