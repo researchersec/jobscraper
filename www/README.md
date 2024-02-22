@@ -48,13 +48,3 @@ Aalborg or Kolding
 Job URL: [link](https://trackunit.com/jobs/?hr=show-job/183305&linkref=173333&locale=en_US)
 
 
-# Fullstack Python Developer/Security Engineer – Cyber Defence Center
-24-01-2024
-
-itm8
-
-Aalborg, Aarhus, Kolding eller Herning
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/498867/fullstack-python-developer-security-engineer-cyber-defence-center)
-
-
