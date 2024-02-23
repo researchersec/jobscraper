@@ -1,3 +1,13 @@
+# Kafferister
+23-02-2024
+
+Bentax A/S
+
+Svenstrup J
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/503695/kafferister)
+
+
 # Lagerforvalter
 16-02-2024
 
