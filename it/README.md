@@ -38,13 +38,3 @@ Nørresundby
 Job URL: [link](https://www.it-jobbank.dk/c?t=h1440450&ctx=j&utm_source=partner&utm_medium=jobindex&utm_campaign=jobannonce)
 
 
-# It konsulent til spændende stilling i ServiceSupport-team
-05-02-2024
-
-Mariagerfjord Kommune
-
-Hadsund
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12275710/it-konsulent-til-spaendende-stilling-i-servicesupport-team)
-
-
