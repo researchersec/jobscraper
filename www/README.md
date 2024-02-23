@@ -45,6 +45,6 @@ Trackunit ApS
 
 Aalborg or Kolding
 
-Job URL: [link](https://trackunit.com/jobs/?hr=show-job/183305&linkref=173333&locale=en_US)
+Job URL: [link](https://careers.trackunit.com/jobs/3648952-senior-frontend-software-engineer)
 
 
