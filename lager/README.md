@@ -68,23 +68,3 @@ Frederikshavn
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12285407/itlagersalgdk-mangler-haender)
 
 
-# Ferieafløserjob, sommer 2024, til lager Coop Logistik, Aalborg Distributionscenter
-02-02-2024
-
-
-
-Aalborg SV
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12270319/ferieafloeserjob-sommer-2024-til-lager-coop-logistik-aalborg-distributionscenter)
-
-
-# Lagermedarbejder
-02-02-2024
-
-Scandinavian Medical Solutions A/S
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12269852/lagermedarbejder)
-
-
