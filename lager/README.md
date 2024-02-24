@@ -48,16 +48,6 @@ Hanstholm
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12294348/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm)
 
 
-# Lageransvarlig
-12-02-2024
-
-Kildespring A/S
-
-Sindal
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12294134/lageransvarlig)
-
-
 # ITLAGERSALG.DK MANGLER HÆNDER!
 08-02-2024
 
