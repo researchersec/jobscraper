@@ -1,3 +1,13 @@
+# Pladsmedarbejder til Bygma Aalborg logistik
+26-02-2024
+
+Bygma
+
+Aalborg
+
+Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/pladsmedarbejder-til-bygma-aalborg-logistik-ansoegningsfrist-24-marts-2024/)
+
+
 # Lagerforvalter
 16-02-2024
 
