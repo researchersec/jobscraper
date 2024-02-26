@@ -18,16 +18,6 @@ Aalborg SV
 Job URL: [link](https://app.elvium.com/da/positions/25114/job_posting?referer_host=www.jobindex.dk)
 
 
-# Butikskonsulent – mød kunderne i Danmarks største Norlys butik
-19-02-2024
-
-Norlys
-
-Aalborg
-
-Job URL: [link](https://norlys.dk/job/ledige-stillinger/butikskonsulent-moed-kunderne-i-danmarks-stoerste-norlys-butik/)
-
-
 # Personal Shopper
 14-02-2024
 
