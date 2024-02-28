@@ -1,3 +1,13 @@
+# Digital Marketing Specialist med stærk teknisk indsigt
+28-02-2024
+
+TECHCOLLEGE
+
+Aalborg
+
+Job URL: [link](https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=972)
+
+
 # Digital Marketing Specialist
 16-02-2024
 
