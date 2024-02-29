@@ -8,6 +8,16 @@ Aalborg
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/pladsmedarbejder-til-bygma-aalborg-logistik-ansoegningsfrist-24-marts-2024/)
 
 
+# Logistikmedarbejder søges til Logistikafdelingen på Sygehusapoteket i Aalborg
+18-02-2024
+
+Region Nordjylland
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12308379/logistikmedarbejder-soeges-til-logistikafdelingen-paa-sygehusapoteket-i-aalborg)
+
+
 # Lagerforvalter
 16-02-2024
 
@@ -28,26 +38,6 @@ Thisted
 Job URL: [link](https://www.jobindex.dk/img/pdf/20240209_Indkoeber_tekn_afd.pdf)
 
 
-# Erfaren lager- & logistikmedarbejder søges til vores koncern
-08-02-2024
-
-BM Corporation Danmark A/S
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/img/pdf/bm_corporation_20240208sul.pdf)
-
-
-# Logistikmedarbejder søges til Logistikafdelingen på Sygehusapoteket i Aalborg
-18-02-2024
-
-Region Nordjylland
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12308379/logistikmedarbejder-soeges-til-logistikafdelingen-paa-sygehusapoteket-i-aalborg)
-
-
 # Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
 12-02-2024
 
@@ -56,6 +46,16 @@ Job URL: [link](https://www.jobindex.dk/jobannonce/r12308379/logistikmedarbejder
 Hanstholm
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12294348/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm)
+
+
+# Erfaren lager- & logistikmedarbejder søges til vores koncern
+08-02-2024
+
+BM Corporation Danmark A/S
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/img/pdf/bm_corporation_20240208sul.pdf)
 
 
 # ITLAGERSALG.DK MANGLER HÆNDER!
