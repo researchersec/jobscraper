@@ -8,16 +8,6 @@ Aalborg
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/pladsmedarbejder-til-bygma-aalborg-logistik-ansoegningsfrist-24-marts-2024/)
 
 
-# Logistikmedarbejder søges til Logistikafdelingen på Sygehusapoteket i Aalborg
-18-02-2024
-
-Region Nordjylland
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12308379/logistikmedarbejder-soeges-til-logistikafdelingen-paa-sygehusapoteket-i-aalborg)
-
-
 # Lagerforvalter
 16-02-2024
 
