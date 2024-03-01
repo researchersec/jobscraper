@@ -1,3 +1,13 @@
+# Sælger
+01-03-2024
+
+Bygma
+
+Støvring
+
+Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-26-marts-2024/)
+
+
 # Salgsassistent til vores butik i Kennedy Arkaden i Aalborg - 5 timer om ugen
 21-02-2024
 
@@ -76,15 +86,5 @@ Dagrofa Foodservice
 Hjørring
 
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146606&DepartmentId=19005&MediaId=4623)
-
-
-# Salgsassistent til det maritime marked søges!
-02-02-2024
-
-Dansk Marine Center - Bådudstyr ApS
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/501978/salgsassistent-til-det-maritime-marked-soeges)
 
 
