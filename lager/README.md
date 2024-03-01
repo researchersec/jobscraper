@@ -58,13 +58,3 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/img/pdf/bm_corporation_20240208sul.pdf)
 
 
-# ITLAGERSALG.DK MANGLER HÆNDER!
-08-02-2024
-
-EasyRecycle ApS
-
-Frederikshavn
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12285407/itlagersalgdk-mangler-haender)
-
-
