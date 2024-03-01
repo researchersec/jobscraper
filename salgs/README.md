@@ -88,3 +88,13 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/501978/salgsassistent-til-det-maritime-marked-soeges)
 
 
+# Erfaren deltidssælger søges til ILVA Aalborg SV
+02-02-2024
+
+ILVA
+
+Aalborg SV
+
+Job URL: [link](https://ilva.youngcrm.com/jobportal/9398)
+
+
