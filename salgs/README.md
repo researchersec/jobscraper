@@ -88,3 +88,13 @@ Hjørring
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146606&DepartmentId=19005&MediaId=4623)
 
 
+# Salgsassistent til Maxi Zoo Hobro, 25 timer om ugen
+01-03-2024
+
+Maxi Zoo
+
+Hobro
+
+Job URL: [link](https://maxi-zoo.hr-skyen.dk/show-job/187681&locale=da_DK)
+
+
