@@ -88,13 +88,13 @@ Hjørring
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146606&DepartmentId=19005&MediaId=4623)
 
 
-# Salgsassistent til Maxi Zoo Hobro, 25 timer om ugen
-01-03-2024
+# Vinsælger - Aalborg SV
+02-03-2024
 
-Maxi Zoo
+Bilka
 
-Hobro
+Aalborg SV
 
-Job URL: [link](https://maxi-zoo.hr-skyen.dk/show-job/187681&locale=da_DK)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/f514fd0d-90ab-4706-ba8d-aaf32d09fce7)
 
 
