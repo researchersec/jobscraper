@@ -3,9 +3,7 @@ import os
 from bs4 import BeautifulSoup
 import re
 
-criteria = "it-support"
-
-URL = f"https://www.jobindex.dk/jobsoegning/it/itdrift/region-nordjylland?q={criteria}&subid=1&subid=4&subid=6&subid=7&subid=93"
+URL = "https://www.jobindex.dk/jobsoegning/it/itdrift/region-nordjylland"
 page = requests.get(URL)
 
 soup = BeautifulSoup(page.content, "html.parser")
