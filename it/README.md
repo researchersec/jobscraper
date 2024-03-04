@@ -118,26 +118,6 @@ Aalborg
 Job URL: [link](https://norlys.dk/job/ledige-stillinger/billing-configuration-specialist-vaer-med-til-at-forme-fremtidens-afregningsloesning/)
 
 
-# Microsoft Power Platform-konsulent
-16-02-2024
-
-Aalborg Universitet
-
-Aalborg Øst
-
-Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218025)
-
-
-# AI-konsulent til Copilot
-16-02-2024
-
-Aalborg Universitet
-
-Aalborg
-
-Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218024)
-
-
 # Customer Support Specialist, Denmark
 14-02-2024
 
@@ -166,6 +146,16 @@ Netic A/S
 Aalborg Øst, Aarhus N, Nordhavn
 
 Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F174884%26locale%3Den_US)
+
+
+# Skarp supporttekniker med analytisk snilde og rejselyst
+12-02-2024
+
+Hviid & Larsen ApS
+
+Aars
+
+Job URL: [link](http://www.hviidoglarsen.dk/jobs?hr=show-job/184498&linkref=175494&locale=da_DK)
 
 
 # NetScaler Specialist – bliv en del af itm8
