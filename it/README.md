@@ -138,24 +138,24 @@ Copenhagen or Nørresundby
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143650&DepartmentId=18974&MediaId=5)
 
 
-# Solution Sales – Cloud
-12-02-2024
+# Intern IT-supporter til leasingvirksomhed i vækst
+04-03-2024
 
-Netic A/S
+Krone Kapital A/S
 
-Aalborg Øst, Aarhus N, Nordhavn
+Nykøbing M
 
-Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F174884%26locale%3Den_US)
+Job URL: [link](https://www.jobindex.dk/jobannonce/504307/intern-it-supporter-til-leasingvirksomhed-i-vaekst)
 
 
-# Skarp supporttekniker med analytisk snilde og rejselyst
-12-02-2024
+# Spændende Karrieremulighed: IT-talent søges til vores team i Nordjylland!
+04-03-2024
 
-Hviid & Larsen ApS
+IT Center Nord
 
-Aars
+Aalborg
 
-Job URL: [link](http://www.hviidoglarsen.dk/jobs?hr=show-job/184498&linkref=175494&locale=da_DK)
+Job URL: [link](https://itcn.dk/job/?id=975)
 
 
 # NetScaler Specialist – bliv en del af itm8
