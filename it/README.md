@@ -128,14 +128,14 @@ Aalborg or Copenhagen
 Job URL: [link](https://careers.trackunit.com/jobs/3648918-customer-support-specialist)
 
 
-# Business Central Support Engineers
-13-02-2024
+# Senior Technology Infrastructure Specialist
+05-03-2024
 
-Continia Software A/S
+Specsavers
 
-Copenhagen or Nørresundby
+Aalborg or Nordhavn
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143650&DepartmentId=18974&MediaId=5)
+Job URL: [link](https://join.specsavers.com/ne/position/senior-technology-infrastructure-specialist-2/)
 
 
 # Intern IT-supporter til leasingvirksomhed i vækst
