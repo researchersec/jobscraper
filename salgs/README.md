@@ -8,16 +8,6 @@ Støvring
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-26-marts-2024/)
 
 
-# Salgsassistent til vores butik i Kennedy Arkaden i Aalborg - 5 timer om ugen
-21-02-2024
-
-Deichmann Sko
-
-Aalborg
-
-Job URL: [link](https://www.deichmann-jobs.dk/job/?rmpage=job&rmjob=1081&rmlang=DK)
-
-
 # Spil sammen med SPORT 24 OUTLET Aalborg som vores nye sælger
 19-02-2024
 
