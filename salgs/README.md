@@ -78,16 +78,6 @@ Hjørring
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=145847&DepartmentId=18982&MediaId=5)
 
 
-# Dagrofa Foodservice Hjørring søger salgsassistent til grøntafdeling
-05-02-2024
-
-Dagrofa Foodservice
-
-Hjørring
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146606&DepartmentId=19005&MediaId=4623)
-
-
 # Vinsælger - Aalborg SV
 02-03-2024
 
@@ -96,5 +86,15 @@ Bilka
 Aalborg SV
 
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/f514fd0d-90ab-4706-ba8d-aaf32d09fce7)
+
+
+# Salgsassistent til Maxi Zoo Hobro, 25 timer om ugen
+01-03-2024
+
+Maxi Zoo
+
+Hobro
+
+Job URL: [link](https://maxi-zoo.hr-skyen.dk/show-job/187681&locale=da_DK)
 
 
