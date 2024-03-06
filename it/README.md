@@ -118,14 +118,14 @@ Aalborg
 Job URL: [link](https://norlys.dk/job/ledige-stillinger/billing-configuration-specialist-vaer-med-til-at-forme-fremtidens-afregningsloesning/)
 
 
-# Customer Support Specialist, Denmark
-14-02-2024
+# IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
+06-03-2024
 
-Trackunit ApS
+itm8
 
-Aalborg or Copenhagen
+Aalborg, Viby J, Herning, Kolding eller København
 
-Job URL: [link](https://careers.trackunit.com/jobs/3648918-customer-support-specialist)
+Job URL: [link](https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
 
 
 # Er du vores nye teknisk it-medarbejder inden for operativ teknik (OT)?
