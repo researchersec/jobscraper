@@ -28,23 +28,3 @@ Vejle og Aalborg SV
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143733&DepartmentId=18959&MediaId=4617)
 
 
-# Teknisk SEO-specialist og hjemmesideentusiast
-09-02-2024
-
-VELA
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/502562/teknisk-seo-specialist-og-hjemmesideentusiast)
-
-
-# Senior Frontend Software Engineer, Denmark
-06-02-2024
-
-Trackunit ApS
-
-Aalborg or Kolding
-
-Job URL: [link](https://careers.trackunit.com/jobs/3648952-senior-frontend-software-engineer)
-
-
