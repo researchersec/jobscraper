@@ -128,14 +128,14 @@ Aalborg or Copenhagen
 Job URL: [link](https://careers.trackunit.com/jobs/3648918-customer-support-specialist)
 
 
-# Business Central Support Engineers
-13-02-2024
+# Er du vores nye teknisk it-medarbejder inden for operativ teknik (OT)?
+06-03-2024
 
-Continia Software A/S
+Frederikshavn Forsyning A/S
 
-Copenhagen or Nørresundby
+Frederikshavn
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143650&DepartmentId=18974&MediaId=5)
+Job URL: [link](https://forsyningen.emply.net/recruitment/vacancyAd.aspx?publishingId=2ac02b22-a627-462c-b416-37abf47c9ab5)
 
 
 # Intern IT-supporter til leasingvirksomhed i vækst
