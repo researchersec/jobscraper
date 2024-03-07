@@ -138,7 +138,7 @@ Aalborg, Viby J, Herning, Kolding eller København
 Job URL: [link](https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
 
 
-# Er du vores nye teknisk it-medarbejder inden for operativ teknik (OT)?
+# Er du vores nye teknisk it-medarbejder inden for Operationel Teknologi (OT)?
 06-03-2024
 
 Frederikshavn Forsyning A/S
