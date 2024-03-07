@@ -58,6 +58,16 @@ Pandrup
 Job URL: [link](https://app.elvium.com/da/positions/25050/job_posting?referer_host=www.jobindex.dk)
 
 
+# Frederikshavn, Hjørringvej - Butiksmedarbejder OVER 18 år
+07-03-2024
+
+Normal A/S
+
+Frederikshavn
+
+Job URL: [link](https://www.ungarbejde.dk/jobs/frederikshavn-hjoerringvej-butiksmedarbejder-over-18-aar-70035)
+
+
 # Delikatesseassistent, Brugsen Sulsted
 05-03-2024
 
@@ -66,15 +76,5 @@ Brugsen
 Sulsted
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12343093/delikatesseassistent-brugsen-sulsted)
-
-
-# Vinsælger - Aalborg SV
-02-03-2024
-
-Bilka
-
-Aalborg SV
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/f514fd0d-90ab-4706-ba8d-aaf32d09fce7)
 
 
