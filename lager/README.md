@@ -29,7 +29,7 @@ Job URL: [link](https://www.jobindex.dk/img/pdf/20240209_Indkoeber_tekn_afd.pdf)
 
 
 # Erfaren lager- & logistikmedarbejder søges til vores koncern
-08-02-2024
+07-03-2024
 
 BM Corporation Danmark A/S
 
