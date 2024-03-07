@@ -1,11 +1,11 @@
-# Sælger til Hobro
+# Fuldtidssælger til Hobro - start hurtigst muligt
 06-03-2024
 
 JYSK
 
 Hobro
 
-Job URL: [link](https://jobs.smartrecruiters.com/JYSK/743999972145924-s-lger-til-hobro-skabelon-jdk?trid=9c834889-bbb7-437c-a553-3bcb9710b121)
+Job URL: [link](https://jobs.smartrecruiters.com/JYSK/743999972414813-fuldtidss-lger-til-hobro-start-hurtigst-muligt?trid=9c834889-bbb7-437c-a553-3bcb9710b121)
 
 
 # Salgsassistent deltid - Elgiganten Hjørring
