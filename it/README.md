@@ -108,14 +108,24 @@ Svenstrup J
 Job URL: [link](https://careers.arla.com/job/Svenstrup-J-IT-Specialist%2C-Production-IT%2C-Arla-Foods-AKAFA-Svenstrup-J/1037744901/)
 
 
-# Billing Configuration Specialist – Vær med til at forme fremtidens afregningsløsning
-19-02-2024
+# Infrastrukturkonsulent med ekspertise i Microsoft 365
+07-03-2024
 
-Norlys
+Unik System Design A/S
 
-Aalborg
+Vejle eller Aalborg SV
 
-Job URL: [link](https://norlys.dk/job/ledige-stillinger/billing-configuration-specialist-vaer-med-til-at-forme-fremtidens-afregningsloesning/)
+Job URL: [link](https://unik.dk/stilling/infrastrukturkonsulent-med-ekspertise-i-microsoft-365/)
+
+
+# Infrastrukturtekniker med fokus på hardware
+07-03-2024
+
+Unik System Design A/S
+
+Vejle eller Aalborg SV
+
+Job URL: [link](https://unik.dk/stilling/driftstekniker-til-hosting/)
 
 
 # IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
