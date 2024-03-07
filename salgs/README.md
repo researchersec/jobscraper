@@ -8,16 +8,6 @@ Hobro
 Job URL: [link](https://jobs.smartrecruiters.com/JYSK/743999972414813-fuldtidss-lger-til-hobro-start-hurtigst-muligt?trid=9c834889-bbb7-437c-a553-3bcb9710b121)
 
 
-# Salgsassistent deltid - Elgiganten Hjørring
-06-03-2024
-
-Elgiganten A/S
-
-Hjørring
-
-Job URL: [link](https://web103.reachmee.com/ext/I022/2126/job?site=15&lang=DK&validator=3cc71ec923ccaf7527e8b30ecbdf32c0&job_id=578)
-
-
 # Sælger
 01-03-2024
 
@@ -76,5 +66,15 @@ Brugsen
 Sulsted
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12343093/delikatesseassistent-brugsen-sulsted)
+
+
+# Vinsælger - Aalborg SV
+02-03-2024
+
+Bilka
+
+Aalborg SV
+
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/f514fd0d-90ab-4706-ba8d-aaf32d09fce7)
 
 
