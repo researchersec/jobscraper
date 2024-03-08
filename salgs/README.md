@@ -8,6 +8,16 @@ Hobro
 Job URL: [link](https://jobs.smartrecruiters.com/JYSK/743999972414813-fuldtidss-lger-til-hobro-start-hurtigst-muligt?trid=9c834889-bbb7-437c-a553-3bcb9710b121)
 
 
+# Salgsassistent deltid - Elgiganten Hjørring
+06-03-2024
+
+Elgiganten A/S
+
+Hjørring
+
+Job URL: [link](https://web103.reachmee.com/ext/I022/2126/job?site=15&lang=DK&validator=3cc71ec923ccaf7527e8b30ecbdf32c0&job_id=578)
+
+
 # Sælger
 01-03-2024
 
