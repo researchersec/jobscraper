@@ -98,14 +98,14 @@ Aalborg Øst
 Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218239)
 
 
-# IT Specialist, Production IT, Arla Foods AKAFA - Svenstrup J
-19-02-2024
+# Infrastructure Architect
+08-03-2024
 
-Arla Foods amba
+KMD A/S
 
-Svenstrup J
+Ballerup, Aalborg eller Odense
 
-Job URL: [link](https://careers.arla.com/job/Svenstrup-J-IT-Specialist%2C-Production-IT%2C-Arla-Foods-AKAFA-Svenstrup-J/1037744901/)
+Job URL: [link](https://career5.successfactors.eu/sfcareer/jobreqcareer?jobId=33350&company=kmd)
 
 
 # Infrastrukturkonsulent med ekspertise i Microsoft 365
