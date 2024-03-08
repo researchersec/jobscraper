@@ -78,6 +78,16 @@ Pandrup
 Job URL: [link](https://app.elvium.com/da/positions/25050/job_posting?referer_host=www.jobindex.dk)
 
 
+# Delikatesseassistent, SuperBrugsen Kongerslev
+08-03-2024
+
+SuperBrugsen
+
+Kongerslev
+
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151159)
+
+
 # Frederikshavn, Hjørringvej - Butiksmedarbejder OVER 18 år
 07-03-2024
 
