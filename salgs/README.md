@@ -1,3 +1,13 @@
+# Salgsassistent til Aalborg Station DSB 7-Eleven (6 timer pr. uge)
+08-03-2024
+
+DSB
+
+Aalborg
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=14&ProjectId=192028&DepartmentId=20079&MediaId=5)
+
+
 # Fuldtidssælger til Hobro - start hurtigst muligt
 06-03-2024
 
@@ -76,15 +86,5 @@ Normal A/S
 Frederikshavn
 
 Job URL: [link](https://www.ungarbejde.dk/jobs/frederikshavn-hjoerringvej-butiksmedarbejder-over-18-aar-70035)
-
-
-# Delikatesseassistent, Brugsen Sulsted
-05-03-2024
-
-Brugsen
-
-Sulsted
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12343093/delikatesseassistent-brugsen-sulsted)
 
 
