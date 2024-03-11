@@ -98,14 +98,14 @@ Svenstrup J
 Job URL: [link](https://careers.arla.com/job/Svenstrup-J-IT-Specialist%2C-Production-IT%2C-Arla-Foods-AKAFA-Svenstrup-J/1037744901/)
 
 
-# Billing Configuration Specialist – Vær med til at forme fremtidens afregningsløsning
-19-02-2024
+# License Manager
+11-03-2024
 
-Norlys
+Telenor
 
 Aalborg
 
-Job URL: [link](https://norlys.dk/job/ledige-stillinger/billing-configuration-specialist-vaer-med-til-at-forme-fremtidens-afregningsloesning/)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145769&DepartmentId=18957&MediaId=5)
 
 
 # Infrastructure Architect
