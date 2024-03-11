@@ -8,16 +8,6 @@ Aalborg
 Job URL: [link](https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=972)
 
 
-# Digital Marketing Specialist
-16-02-2024
-
-Funart, Blokhus P/S
-
-Pandrup
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/503186/digital-marketing-specialist)
-
-
 # UI/UX Manager
 14-02-2024
 
