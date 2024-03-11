@@ -88,14 +88,24 @@ Aalborg
 Job URL: [link](https://norlys.dk/job/ledige-stillinger/billing-delivery-manager-vaer-med-til-at-sikre-leverancer-til-fremtidens-afregningsloesning/)
 
 
-# DATA SCIENTIST TIL CLAAUDIA-TEAMET
-20-02-2024
+# IT Specialist, Production IT, Arla Foods AKAFA - Svenstrup J
+19-02-2024
 
-Aalborg Universitet
+Arla Foods amba
 
-Aalborg Øst
+Svenstrup J
 
-Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218239)
+Job URL: [link](https://careers.arla.com/job/Svenstrup-J-IT-Specialist%2C-Production-IT%2C-Arla-Foods-AKAFA-Svenstrup-J/1037744901/)
+
+
+# Billing Configuration Specialist – Vær med til at forme fremtidens afregningsløsning
+19-02-2024
+
+Norlys
+
+Aalborg
+
+Job URL: [link](https://norlys.dk/job/ledige-stillinger/billing-configuration-specialist-vaer-med-til-at-forme-fremtidens-afregningsloesning/)
 
 
 # Infrastructure Architect
@@ -176,15 +186,5 @@ itm8
 Herning, Viby J, København Ø, Kolding, Aalborg SØ
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/501994/netscaler-specialist-bliv-en-del-af-itm8)
-
-
-# Systemadministrator søges til Platform-teamet
-01-03-2024
-
-Aalborg Universitet
-
-Aalborg Øst
-
-Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218245)
 
 
