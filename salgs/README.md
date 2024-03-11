@@ -78,23 +78,13 @@ Pandrup
 Job URL: [link](https://app.elvium.com/da/positions/25050/job_posting?referer_host=www.jobindex.dk)
 
 
-# Medarbejder til delikatessen - Hjørring
+# Ledertrainee, Kvickly, Nørresundby
 11-03-2024
 
-føtex
+Kvickly
 
-Hjørring
+Nørresundby
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/5b4cf0e2-afd1-4500-9ab3-ce129864fc33)
-
-
-# Vinsælger - Hobro
-11-03-2024
-
-føtex
-
-Hobro
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/3168e172-3be0-47a3-a38d-1c63819773bf)
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151189)
 
 
