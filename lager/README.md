@@ -18,6 +18,16 @@ Hjørring
 Job URL: [link](https://app.elvium.com/da/positions/25109/job_posting?referer_host=www.jobindex.dk)
 
 
+# Sabbatår (tidsbegrænset ansættelse) som laboratoriemedhjælper
+12-03-2024
+
+SGS Analytics Denmark A/S
+
+Nørresundby
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/505175/sabbataar-tidsbegraenset-ansaettelse-som-laboratoriemedhjaelper)
+
+
 # Erfaren lager- & logistikmedarbejder søges til vores koncern
 07-03-2024
 
