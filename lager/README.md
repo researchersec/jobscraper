@@ -38,6 +38,16 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/505285/medarbejder-til-afdeling-for-lager-reservedele)
 
 
+# Lager- og logistikmedarbejder søges
+12-03-2024
+
+
+
+Svenstrup J
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/lager-og-logistikmedarbejder-soeges-lja-85377169.aspx?jobId=LJA-85377169&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Erfaren lager- & logistikmedarbejder søges til vores koncern
 07-03-2024
 
