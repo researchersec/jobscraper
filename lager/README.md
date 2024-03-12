@@ -18,16 +18,6 @@ Hjørring
 Job URL: [link](https://app.elvium.com/da/positions/25109/job_posting?referer_host=www.jobindex.dk)
 
 
-# Indkøber/koordinator til teknisk afdeling
-12-02-2024
-
-Tican Fresh Meat A/S
-
-Thisted
-
-Job URL: [link](https://www.jobindex.dk/img/pdf/20240209_Indkoeber_tekn_afd.pdf)
-
-
 # Erfaren lager- & logistikmedarbejder søges til vores koncern
 07-03-2024
 
