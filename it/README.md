@@ -78,14 +78,14 @@ Aalborg Øst
 Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F147510%26locale%3Dda_DK)
 
 
-# Billing Delivery Manager – Vær med til at sikre leverancer til fremtidens afregningsløsning
-20-02-2024
+# Business Central Support Engineers
+12-03-2024
 
-Norlys
+Continia Software A/S
 
-Aalborg
+Copenhagen or Nørresundby
 
-Job URL: [link](https://norlys.dk/job/ledige-stillinger/billing-delivery-manager-vaer-med-til-at-sikre-leverancer-til-fremtidens-afregningsloesning/)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143650&DepartmentId=18974&MediaId=5)
 
 
 # License Manager
