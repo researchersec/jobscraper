@@ -68,14 +68,14 @@ Aalborg Øst
 Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK)
 
 
-# Driftskonsulent med interesse for Linux og Windows
-20-02-2024
+# Kvik IT-supporter med flair for god service
+12-03-2024
 
-Netic A/S
+Bone Consult A/S
 
-Aalborg Øst
+Aalborg SV
 
-Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F147510%26locale%3Dda_DK)
+Job URL: [link](https://www.jobindex.dk/jobannonce/505252/kvik-it-supporter-med-flair-for-god-service)
 
 
 # Business Central Support Engineers
