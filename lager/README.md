@@ -28,6 +28,16 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/505175/sabbataar-tidsbegraenset-ansaettelse-som-laboratoriemedhjaelper)
 
 
+# Medarbejder til Afdeling for Lager/Reservedele
+12-03-2024
+
+Erik Maibom A/S
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/505285/medarbejder-til-afdeling-for-lager-reservedele)
+
+
 # Erfaren lager- & logistikmedarbejder søges til vores koncern
 07-03-2024
 
