@@ -88,13 +88,3 @@ Aalborg SV
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/71464624-7e32-48fd-8785-51686daabb91)
 
 
-# Ledertrainee, Kvickly, Nørresundby
-11-03-2024
-
-Kvickly
-
-Nørresundby
-
-Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151189)
-
-
