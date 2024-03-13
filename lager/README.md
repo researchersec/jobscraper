@@ -18,6 +18,26 @@ Hjørring
 Job URL: [link](https://app.elvium.com/da/positions/25109/job_posting?referer_host=www.jobindex.dk)
 
 
+# STARK Aabybro søger alsidig Sælger til Trælasten
+13-03-2024
+
+STARK Danmark
+
+Aabybro
+
+Job URL: [link](https://stark.wd3.myworkdayjobs.com/STARK-Denmark/job/Aabybro/STARK-Aabybro-sger-alsidig-Slger-til-Trlasten_JR18616)
+
+
+# Lager- og logistikmedarbejder søges
+13-03-2024
+
+
+
+Svenstrup J
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12360892/lager-og-logistikmedarbejder-soeges)
+
+
 # Sabbatår (tidsbegrænset ansættelse) som laboratoriemedhjælper
 12-03-2024
 
@@ -36,16 +56,6 @@ Erik Maibom A/S
 Aalborg
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/505285/medarbejder-til-afdeling-for-lager-reservedele)
-
-
-# Lager- og logistikmedarbejder søges
-12-03-2024
-
-
-
-Svenstrup J
-
-Job URL: [link](https://www.nordjyskejob.dk/resultat/lager-og-logistikmedarbejder-soeges-lja-85377169.aspx?jobId=LJA-85377169&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Erfaren lager- & logistikmedarbejder søges til vores koncern
