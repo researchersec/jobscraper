@@ -58,26 +58,6 @@ Brønderslev
 Job URL: [link](https://www.jobindex.dk/jobannonce/503028/gartner-anlaegsgartner)
 
 
-# Sælger til byggemarked hos XL-BYG Kås
-13-02-2024
-
-XL-BYG
-
-Pandrup
-
-Job URL: [link](https://app.elvium.com/da/positions/25051/job_posting?referer_host=www.jobindex.dk)
-
-
-# SÆLGER til trælast hos XL-BYG Kås
-13-02-2024
-
-XL-BYG
-
-Pandrup
-
-Job URL: [link](https://app.elvium.com/da/positions/25050/job_posting?referer_host=www.jobindex.dk)
-
-
 # Medarbejder til slagterafdelingen - Aalborg SV
 12-03-2024
 
@@ -86,5 +66,15 @@ Bilka
 Aalborg SV
 
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/71464624-7e32-48fd-8785-51686daabb91)
+
+
+# Ledertrainee, Kvickly, Nørresundby
+11-03-2024
+
+Kvickly
+
+Nørresundby
+
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151189)
 
 
