@@ -9,7 +9,7 @@ Job URL: [link](https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.asp
 
 
 # UI/UX Manager
-14-02-2024
+13-03-2024
 
 Unik System Design A/S
 
