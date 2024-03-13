@@ -58,14 +58,14 @@ Aars
 Job URL: [link](https://www.himmerland.dk/om-himmerland/jobs/ledige-stillinger/omraadeansvarlig-for-it-sikkerhed/)
 
 
-# Solution Architect til CTO Office
-20-02-2024
+# Er du vores nye interne IT-supporter?
+13-03-2024
 
-Netic A/S
+Induflex A/S
 
-Aalborg Øst
+Støvring
 
-Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK)
+Job URL: [link](https://www.jobindex.dk/jobannonce/505287/er-du-vores-nye-interne-it-supporter)
 
 
 # Kvik IT-supporter med flair for god service
