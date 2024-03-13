@@ -68,6 +68,16 @@ Brønderslev
 Job URL: [link](https://www.jobindex.dk/jobannonce/503028/gartner-anlaegsgartner)
 
 
+# Butiksassistent (fuldtid) - Frederikshavn
+13-03-2024
+
+JEM & FIX A/S
+
+Frederikshavn
+
+Job URL: [link](https://www.jemogfix.dk/job-karriere/ledige-stillinger/stillingsopslag/?VID=B10-03-24)
+
+
 # Møbelsælger til vores butik i Aalborg
 13-03-2024
 
@@ -86,15 +96,5 @@ Sinnerup Aalborg
 Aalborg
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12360782/erfaren-livsstilssaelger-med-flair-for-mode)
-
-
-# Medarbejder til slagterafdelingen - Aalborg SV
-12-03-2024
-
-Bilka
-
-Aalborg SV
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/71464624-7e32-48fd-8785-51686daabb91)
 
 
