@@ -28,6 +28,16 @@ Aabybro
 Job URL: [link](https://stark.wd3.myworkdayjobs.com/STARK-Denmark/job/Aabybro/STARK-Aabybro-sger-alsidig-Slger-til-Trlasten_JR18616)
 
 
+# Warehouse Manager, Germany
+13-03-2024
+
+Coolshop
+
+Nørresundby
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/warehouse-manager-germany-lja-85379161.aspx?jobId=LJA-85379161&list=SearchResultsJobsIds&index=12&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Lager- og logistikmedarbejder søges
 13-03-2024
 
