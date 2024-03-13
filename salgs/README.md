@@ -58,6 +58,16 @@ Brønderslev
 Job URL: [link](https://www.jobindex.dk/jobannonce/503028/gartner-anlaegsgartner)
 
 
+# Erfaren livsstilssælger med flair for mode
+13-03-2024
+
+Sinnerup Aalborg
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12360782/erfaren-livsstilssaelger-med-flair-for-mode)
+
+
 # Medarbejder til slagterafdelingen - Aalborg SV
 12-03-2024
 
