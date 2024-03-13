@@ -1,3 +1,13 @@
+# STARK Aabybro søger alsidig Sælger til Trælasten
+13-03-2024
+
+STARK Danmark
+
+Aabybro
+
+Job URL: [link](https://stark.wd3.myworkdayjobs.com/STARK-Denmark/job/Aabybro/STARK-Aabybro-sger-alsidig-Slger-til-Trlasten_JR18616)
+
+
 # Salgsassistent til Aalborg Station DSB 7-Eleven (6 timer pr. uge)
 08-03-2024
 
@@ -58,6 +68,16 @@ Brønderslev
 Job URL: [link](https://www.jobindex.dk/jobannonce/503028/gartner-anlaegsgartner)
 
 
+# Møbelsælger til vores butik i Aalborg
+13-03-2024
+
+My Home Møbler/Domino møbler
+
+Aalborg SV
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12361132/moebelsaelger-til-vores-butik-i-aalborg)
+
+
 # Erfaren livsstilssælger med flair for mode
 13-03-2024
 
@@ -76,15 +96,5 @@ Bilka
 Aalborg SV
 
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/71464624-7e32-48fd-8785-51686daabb91)
-
-
-# Ledertrainee, Kvickly, Nørresundby
-11-03-2024
-
-Kvickly
-
-Nørresundby
-
-Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151189)
 
 
