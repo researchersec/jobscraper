@@ -29,5 +29,6 @@ jobs:
         git config --global user.email "you@example.com"
         git config --global user.name "researchersec [bot]"
         git add lager/README.md
+        git add lager/data.json
         git commit -m "Auto scrape and update README.md"
         git push
