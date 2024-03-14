@@ -61,7 +61,7 @@ for result in results_sorted:
         job_listings.append(job_listing)
 
         # Write to README.md
-        with open("lager/README.md", "a", encoding="utf-8") as file:
+        with open("lager/README.md", "w", encoding="utf-8") as file:
             file.write(f"# {title}\n")
             file.write(f"{pub_date}\n\n")
             file.write(f"{company}\n\n")
