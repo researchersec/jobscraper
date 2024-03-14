@@ -70,4 +70,4 @@ for result in results_sorted:
 
 # Write to JSON file
 with open("lager/data.json", "w") as json_file:
-    json.dump(job_listings, json_file, indent=4)
+    json.dump(job_listings, json_file, indent=4, ensure_ascii=False)
