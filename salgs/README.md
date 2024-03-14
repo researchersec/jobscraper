@@ -58,33 +58,23 @@ Aalborg SV
 Job URL: [link](https://app.elvium.com/da/positions/25114/job_posting?referer_host=www.jobindex.dk)
 
 
-# Butiksassistent (fuldtid) - Frederikshavn
-13-03-2024
+# Butiksansvarlig til Spangsbergs fabriksudsalg i Hjørring
+14-03-2024
 
-JEM & FIX A/S
+Spangsberg Chokoladefabrik A/S
 
-Frederikshavn
+Hjørring
 
-Job URL: [link](https://www.jemogfix.dk/job-karriere/ledige-stillinger/stillingsopslag/?VID=B10-03-24)
-
-
-# Møbelsælger til vores butik i Aalborg
-13-03-2024
-
-My Home Møbler/Domino møbler
-
-Aalborg SV
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12361132/moebelsaelger-til-vores-butik-i-aalborg)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12364361/butiksansvarlig-til-spangsbergs-fabriksudsalg-i-hjoerring)
 
 
-# Erfaren livsstilssælger med flair for mode
-13-03-2024
+# Butiksassistent til Spangsbergs fabriksudsalg i Hjørring
+14-03-2024
 
-Sinnerup Aalborg
+Spangsberg Chokoladefabrik A/S
 
-Aalborg
+Hjørring
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12360782/erfaren-livsstilssaelger-med-flair-for-mode)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12364363/butiksassistent-til-spangsbergs-fabriksudsalg-i-hjoerring)
 
 
