@@ -18,6 +18,16 @@ Hjørring
 Job URL: [link](https://app.elvium.com/da/positions/25109/job_posting?referer_host=www.jobindex.dk)
 
 
+# Indkøber/koordinator til teknisk afdeling
+14-03-2024
+
+Tican Fresh Meat A/S
+
+Thisted
+
+Job URL: [link](https://www.jobindex.dk/img/pdf/20240209_Indkoeber_tekn_afd.pdf)
+
+
 # STARK Aabybro søger alsidig Sælger til Trælasten
 13-03-2024
 
