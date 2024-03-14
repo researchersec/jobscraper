@@ -58,16 +58,6 @@ Aalborg SV
 Job URL: [link](https://app.elvium.com/da/positions/25114/job_posting?referer_host=www.jobindex.dk)
 
 
-# Gartner/anlægsgartner
-14-02-2024
-
-Brønderslev Planteskole Nygårdsminde ApS
-
-Brønderslev
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/503028/gartner-anlaegsgartner)
-
-
 # Butiksassistent (fuldtid) - Frederikshavn
 13-03-2024
 
@@ -86,5 +76,15 @@ My Home Møbler/Domino møbler
 Aalborg SV
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12361132/moebelsaelger-til-vores-butik-i-aalborg)
+
+
+# Erfaren livsstilssælger med flair for mode
+13-03-2024
+
+Sinnerup Aalborg
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12360782/erfaren-livsstilssaelger-med-flair-for-mode)
 
 
