@@ -51,7 +51,6 @@ for result in results_sorted:
         job_URL = link_element.get("href")
         pub_date = get_pub_date(result)
         
-        # Create a dictionary for the job listing
         job_listing = {
             "pub_date": pub_date,
             "title": title,
