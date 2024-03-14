@@ -22,7 +22,7 @@ def get_pub_date(result):
 # Sort the results by publication date
 results_sorted = sorted(results, key=lambda result: get_pub_date(result), reverse=True)
 
-with open("it/README.md", "a", encoding="utf-8") as file:
+with open("it/README.md", "w", encoding="utf-8") as file:
     for result in results_sorted:
         title_element = result.find("h4").find("a") if result.find("h4") else None
         company_element = result.find("div", class_="jix-toolbar-top__company").find("a")
