@@ -48,6 +48,16 @@ Skovlunde, Aalborg eller Viby
 Job URL: [link](https://www.jobindex.dk/jobannonce/501301/erfaren-infrastrukturkonsulent)
 
 
+# Operational Technology (OT) Security Specialist
+15-03-2024
+
+Eurowind Energy A/S
+
+Hobro
+
+Job URL: [link](https://eurowindenergy.com/career?hr=show-job/183819&locale=en_US#hrskyen)
+
+
 # Product owner til AI
 15-03-2024
 
