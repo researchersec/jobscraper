@@ -48,14 +48,14 @@ Skovlunde, Aalborg eller Viby
 Job URL: [link](https://www.jobindex.dk/jobannonce/501301/erfaren-infrastrukturkonsulent)
 
 
-# Vi mangler en områdeansvarlig for IT-sikkerhed – er det dig?
-22-02-2024
+# Product owner til AI
+15-03-2024
 
-Himmerland Forsikring
+Spar Nord Bank A/S
 
-Aars
+Aalborg
 
-Job URL: [link](https://www.himmerland.dk/om-himmerland/jobs/ledige-stillinger/omraadeansvarlig-for-it-sikkerhed/)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1148&ProjectId=144979&DepartmentId=19209&MediaId=59)
 
 
 # Er du vores nye interne IT-supporter?
