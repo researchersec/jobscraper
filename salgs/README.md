@@ -78,13 +78,3 @@ Hjørring
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12364363/butiksassistent-til-spangsbergs-fabriksudsalg-i-hjoerring)
 
 
-# Butiksassistent (fuldtid) - Frederikshavn
-13-03-2024
-
-JEM & FIX A/S
-
-Frederikshavn
-
-Job URL: [link](https://www.jemogfix.dk/job-karriere/ledige-stillinger/stillingsopslag/?VID=B10-03-24)
-
-
