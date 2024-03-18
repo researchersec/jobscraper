@@ -1,3 +1,33 @@
+# All-round medarbejder til ny afdeling hos Trailergaarden Gantrup A/S i Haverslev (Rebild kommune)
+18-03-2024
+
+Trailergaarden Gantrup A/S
+
+Nørager
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/505668/all-round-medarbejder-til-ny-afdeling-hos-trailergaarden-gantrup-a-s-i-haverslev-rebild-kommune)
+
+
+# Bliv salgsassistent
+18-03-2024
+
+Louis Nielsen A/S
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1857/bliv-salgsassistent-aalborg-c)
+
+
+# Bliv salgsassistent
+18-03-2024
+
+Louis Nielsen A/S
+
+Frederikshavn
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1856/bliv-salgsassistent-frederikshavn)
+
+
 # STARK Aabybro søger alsidig Sælger til Trælasten
 13-03-2024
 
@@ -58,33 +88,13 @@ Aalborg SV
 Job URL: [link](https://app.elvium.com/da/positions/25114/job_posting?referer_host=www.jobindex.dk)
 
 
-# Butiksansvarlig til Spangsbergs fabriksudsalg i Hjørring
-14-03-2024
+# Salgsassistent til Hus og Have - Aalborg SV
+18-03-2024
 
-Spangsberg Chokoladefabrik A/S
+Bilka
 
-Hjørring
+Aalborg SV
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12364361/butiksansvarlig-til-spangsbergs-fabriksudsalg-i-hjoerring)
-
-
-# Butiksassistent til Spangsbergs fabriksudsalg i Hjørring
-14-03-2024
-
-Spangsberg Chokoladefabrik A/S
-
-Hjørring
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12364363/butiksassistent-til-spangsbergs-fabriksudsalg-i-hjoerring)
-
-
-# Butiksassistent (fuldtid) - Frederikshavn
-13-03-2024
-
-JEM & FIX A/S
-
-Frederikshavn
-
-Job URL: [link](https://www.jemogfix.dk/job-karriere/ledige-stillinger/stillingsopslag/?VID=B10-03-24)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/c467f3b6-ef76-4fad-a9c3-e480a4d0a335)
 
 
