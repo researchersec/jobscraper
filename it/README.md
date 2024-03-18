@@ -28,14 +28,14 @@ Aalborg Øst
 Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F182642%26locale%3Dda_DK)
 
 
-# Linux Operations Engineer
-26-02-2024
+# Solution Specialist – Network
+18-03-2024
 
-Netcompany A/S
+itm8
 
-Aalborg eller København K
+Herning, Aalborg SØ eller Viby J
 
-Job URL: [link](https://smrtr.io/gP-sr)
+Job URL: [link](https://www.jobindex.dk/jobannonce/505751/solution-specialist-network)
 
 
 # IT-sikkerhedskonsulent
