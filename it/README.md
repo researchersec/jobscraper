@@ -38,14 +38,14 @@ Aalborg eller København K
 Job URL: [link](https://smrtr.io/gP-sr)
 
 
-# Erfaren infrastrukturkonsulent
-23-02-2024
+# IT-sikkerhedskonsulent
+18-03-2024
 
-itm8
+Sparekassen Danmark
 
-Skovlunde, Aalborg eller Viby
+Hobro
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/501301/erfaren-infrastrukturkonsulent)
+Job URL: [link](https://www.jobindex.dk/jobannonce/505636/it-sikkerhedskonsulent)
 
 
 # Operational Technology (OT) Security Specialist
