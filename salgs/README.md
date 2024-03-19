@@ -78,23 +78,23 @@ Støvring
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-26-marts-2024/)
 
 
-# Salgsassistent til Hus og Have - Aalborg SV
-18-03-2024
+# Lidl i Aalborg - Søger butiksmedhjælper
+19-03-2024
 
-Bilka
+KLAPjob
+
+Aalborg Øst
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12373131/lidl-i-aalborg-soeger-butiksmedhjaelper)
+
+
+# Lidl i Aalborg - Søger butiksmedhjælper
+19-03-2024
+
+KLAPjob
 
 Aalborg SV
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/c467f3b6-ef76-4fad-a9c3-e480a4d0a335)
-
-
-# Bliv Sælger hos GreenMind (Aalborg)
-18-03-2024
-
-GreenMind
-
-Aalborg SV
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12371743/bliv-saelger-hos-greenmind-aalborg)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12373130/lidl-i-aalborg-soeger-butiksmedhjaelper)
 
 
