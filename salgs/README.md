@@ -88,13 +88,3 @@ Aalborg Øst
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12373131/lidl-i-aalborg-soeger-butiksmedhjaelper)
 
 
-# Lidl i Aalborg - Søger butiksmedhjælper
-19-03-2024
-
-KLAPjob
-
-Aalborg SV
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12373130/lidl-i-aalborg-soeger-butiksmedhjaelper)
-
-
