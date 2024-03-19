@@ -78,16 +78,6 @@ Støvring
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-26-marts-2024/)
 
 
-# Spil sammen med SPORT 24 OUTLET Aalborg som vores nye sælger
-19-02-2024
-
-SPORT 24 A/S
-
-Aalborg SV
-
-Job URL: [link](https://app.elvium.com/da/positions/25114/job_posting?referer_host=www.jobindex.dk)
-
-
 # Salgsassistent til Hus og Have - Aalborg SV
 18-03-2024
 
@@ -96,5 +86,15 @@ Bilka
 Aalborg SV
 
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/c467f3b6-ef76-4fad-a9c3-e480a4d0a335)
+
+
+# Bliv Sælger hos GreenMind (Aalborg)
+18-03-2024
+
+GreenMind
+
+Aalborg SV
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12371743/bliv-saelger-hos-greenmind-aalborg)
 
 
