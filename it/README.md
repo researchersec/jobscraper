@@ -18,14 +18,24 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/504171/bliv-driftskonsulent-og-supporter)
 
 
-# Senior Network Consultant
-29-02-2024
+# Solution Architect til CTO Office
+19-03-2024
 
 Netic A/S
 
 Aalborg Øst
 
-Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F182642%26locale%3Dda_DK)
+Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK)
+
+
+# Driftskonsulent med interesse for Linux og Windows
+19-03-2024
+
+Netic A/S
+
+Aalborg Øst
+
+Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F147510%26locale%3Dda_DK)
 
 
 # Solution Specialist – Network
@@ -166,16 +176,6 @@ Frederikshavn Forsyning A/S
 Frederikshavn
 
 Job URL: [link](https://forsyningen.emply.net/recruitment/vacancyAd.aspx?publishingId=2ac02b22-a627-462c-b416-37abf47c9ab5)
-
-
-# Intern IT-supporter til leasingvirksomhed i vækst
-04-03-2024
-
-Krone Kapital A/S
-
-Nykøbing M
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/504307/intern-it-supporter-til-leasingvirksomhed-i-vaekst)
 
 
 # Spændende Karrieremulighed: IT-talent søges til vores team i Nordjylland!
