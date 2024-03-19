@@ -38,6 +38,16 @@ Aalborg Øst
 Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F147510%26locale%3Dda_DK)
 
 
+# Vil du være med til at uddanne fremtidens bedste data-teknikere? - Genopslag
+19-03-2024
+
+TECHCOLLEGE
+
+Aalborg Øst
+
+Job URL: [link](https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=977)
+
+
 # Solution Specialist – Network
 18-03-2024
 
@@ -176,16 +186,6 @@ Frederikshavn Forsyning A/S
 Frederikshavn
 
 Job URL: [link](https://forsyningen.emply.net/recruitment/vacancyAd.aspx?publishingId=2ac02b22-a627-462c-b416-37abf47c9ab5)
-
-
-# Spændende Karrieremulighed: IT-talent søges til vores team i Nordjylland!
-04-03-2024
-
-IT Center Nord
-
-Aalborg
-
-Job URL: [link](https://itcn.dk/job/?id=975)
 
 
 # NetScaler Specialist – bliv en del af itm8
