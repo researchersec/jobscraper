@@ -8,14 +8,14 @@ Nørager
 Job URL: [link](https://www.jobindex.dk/jobannonce/504176/it-supporter-fuldtid)
 
 
-# Bliv driftskonsulent og supporter
-29-02-2024
+# Technical Support Specialist
+20-03-2024
 
-FieldService
+Trackunit ApS
 
-Aalborg
+Aalborg or Copenhagen
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/504171/bliv-driftskonsulent-og-supporter)
+Job URL: [link](https://careers.trackunit.com/jobs/3720173-technical-support-specialist?promotion=953667-jobindex)
 
 
 # Solution Architect til CTO Office
