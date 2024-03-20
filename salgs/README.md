@@ -1,3 +1,13 @@
+# Butiksassistent/daglig Ansvarlig
+20-03-2024
+
+Danish Agro Shoppen
+
+Dronninglund
+
+Job URL: [link](https://danishagro.dk/karriere/job-detalje?jobId=144825)
+
+
 # All-round medarbejder til ny afdeling hos Trailergaarden Gantrup A/S i Haverslev (Rebild kommune)
 18-03-2024
 
@@ -76,15 +86,5 @@ Bygma
 Støvring
 
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-26-marts-2024/)
-
-
-# Lidl i Aalborg - Søger butiksmedhjælper
-19-03-2024
-
-KLAPjob
-
-Aalborg Øst
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12373131/lidl-i-aalborg-soeger-butiksmedhjaelper)
 
 
