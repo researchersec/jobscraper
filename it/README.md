@@ -8,6 +8,16 @@ Nørager
 Job URL: [link](https://www.jobindex.dk/jobannonce/504176/it-supporter-fuldtid)
 
 
+# Bliv driftskonsulent og supporter
+29-02-2024
+
+FieldService
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/504171/bliv-driftskonsulent-og-supporter)
+
+
 # Technical Support Specialist
 20-03-2024
 
@@ -86,16 +96,6 @@ Spar Nord Bank A/S
 Aalborg
 
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1148&ProjectId=144979&DepartmentId=19209&MediaId=59)
-
-
-# Er du vores nye interne IT-supporter?
-13-03-2024
-
-Induflex A/S
-
-Støvring
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/505287/er-du-vores-nye-interne-it-supporter)
 
 
 # Kvik IT-supporter med flair for god service
