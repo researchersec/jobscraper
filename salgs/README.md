@@ -38,16 +38,6 @@ Frederikshavn
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1856/bliv-salgsassistent-frederikshavn)
 
 
-# STARK Aabybro søger alsidig Sælger til Trælasten
-13-03-2024
-
-STARK Danmark
-
-Aabybro
-
-Job URL: [link](https://stark.wd3.myworkdayjobs.com/STARK-Denmark/job/Aabybro/STARK-Aabybro-sger-alsidig-Slger-til-Trlasten_JR18616)
-
-
 # Salgsassistent til Aalborg Station DSB 7-Eleven (6 timer pr. uge)
 08-03-2024
 
@@ -86,5 +76,15 @@ Bygma
 Støvring
 
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-26-marts-2024/)
+
+
+# Salgsassistent - barselsvikariat, Hobro
+21-03-2024
+
+Harald Nyborg A/S
+
+Hobro
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12379692/salgsassistent-barselsvikariat-hobro)
 
 
