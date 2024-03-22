@@ -8,14 +8,14 @@ Nørager
 Job URL: [link](https://www.jobindex.dk/jobannonce/504176/it-supporter-fuldtid)
 
 
-# Bliv driftskonsulent og supporter
-29-02-2024
+# Erfaren infrastrukturkonsulent
+22-03-2024
 
-FieldService
+itm8
 
-Aalborg
+Skovlunde, Aalborg eller Viby
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/504171/bliv-driftskonsulent-og-supporter)
+Job URL: [link](https://www.jobindex.dk/jobannonce/501301/erfaren-infrastrukturkonsulent)
 
 
 # Technical Support Specialist
