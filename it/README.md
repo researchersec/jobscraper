@@ -1,11 +1,21 @@
-# IT-Supporter - Fuldtid
-29-02-2024
+# IT Business Analyst
+22-03-2024
 
-Audionord International A/S
+Blue Power Partners A/S
 
-Nørager
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/504176/it-supporter-fuldtid)
+Job URL: [link](https://app.elvium.com/en/positions/25699/job_posting)
+
+
+# Systemejer med projektledererfaring til Motorregisteret
+22-03-2024
+
+Udviklings- og Forenklingsstyrelsen
+
+Frederiksberg eller Aalborg
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=178507&DepartmentId=9414&MediaId=3191)
 
 
 # Erfaren infrastrukturkonsulent
@@ -186,15 +196,5 @@ Frederikshavn Forsyning A/S
 Frederikshavn
 
 Job URL: [link](https://forsyningen.emply.net/recruitment/vacancyAd.aspx?publishingId=2ac02b22-a627-462c-b416-37abf47c9ab5)
-
-
-# NetScaler Specialist – bliv en del af itm8
-01-03-2024
-
-itm8
-
-Herning, Viby J, København Ø, Kolding, Aalborg SØ
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/501994/netscaler-specialist-bliv-en-del-af-itm8)
 
 
