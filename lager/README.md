@@ -1,10 +1,10 @@
-# Lager- og logistikoperatør søges til Supply Chain Division, Munderingssektionen i Hjørring
-07-03-2024
+# Medarbejder til Afdeling for Lager/Reservedele
+12-03-2024
 
-Forsvaret
+Erik Maibom A/S
 
-Hjørring
+Aalborg
 
-Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=189778&mediaId=4681)
+Job URL: [link](https://www.jobindex.dk/jobannonce/505285/medarbejder-til-afdeling-for-lager-reservedele)
 
 
