@@ -138,6 +138,16 @@ Copenhagen or Nørresundby
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143650&DepartmentId=18974&MediaId=5)
 
 
+# License Manager
+11-03-2024
+
+Telenor
+
+Aalborg
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145769&DepartmentId=18957&MediaId=5)
+
+
 # DevOps engineer til Cloud-team
 11-03-2024
 
@@ -186,15 +196,5 @@ itm8
 Aalborg, Viby J, Herning, Kolding eller København
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
-
-
-# Er du vores nye teknisk it-medarbejder inden for Operationel Teknologi (OT)?
-06-03-2024
-
-Frederikshavn Forsyning A/S
-
-Frederikshavn
-
-Job URL: [link](https://forsyningen.emply.net/recruitment/vacancyAd.aspx?publishingId=2ac02b22-a627-462c-b416-37abf47c9ab5)
 
 
