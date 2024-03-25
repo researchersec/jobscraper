@@ -1,3 +1,13 @@
+# IT-supporter
+25-03-2024
+
+Fjordland
+
+Skive eller Thisted
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2824&ProjectId=143593&DepartmentId=18956&MediaId=5&SkipAdvertisement=False)
+
+
 # Linux Operations Engineer
 25-03-2024
 
@@ -186,15 +196,5 @@ Unik System Design A/S
 Vejle eller Aalborg SV
 
 Job URL: [link](https://unik.dk/stilling/driftstekniker-til-hosting/)
-
-
-# IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
-06-03-2024
-
-itm8
-
-Aalborg, Viby J, Herning, Kolding eller København
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
 
 
