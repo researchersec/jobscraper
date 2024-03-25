@@ -1,3 +1,33 @@
+# Deltidssælger til ILVA Hjørring
+25-03-2024
+
+ILVA
+
+Hjørring
+
+Job URL: [link](https://ilva.youngcrm.com/jobportal/9631)
+
+
+# Fuldtidssælger til ILVA Hjørring
+25-03-2024
+
+ILVA
+
+Hjørring
+
+Job URL: [link](https://ilva.youngcrm.com/jobportal/9632)
+
+
+# Deltidssælger til ILVA Aalborg C
+25-03-2024
+
+ILVA
+
+Aalborg
+
+Job URL: [link](https://ilva.youngcrm.com/jobportal/9633)
+
+
 # Butiksassistent/daglig Ansvarlig
 20-03-2024
 
@@ -48,16 +78,6 @@ Aalborg
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=14&ProjectId=192028&DepartmentId=20079&MediaId=5)
 
 
-# Fuldtidssælger til Hobro - start hurtigst muligt
-06-03-2024
-
-JYSK
-
-Hobro
-
-Job URL: [link](https://jobs.smartrecruiters.com/JYSK/743999972414813-fuldtidss-lger-til-hobro-start-hurtigst-muligt?trid=9c834889-bbb7-437c-a553-3bcb9710b121)
-
-
 # Salgsassistent deltid - Elgiganten Hjørring
 06-03-2024
 
@@ -76,15 +96,5 @@ Bygma
 Støvring
 
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-26-marts-2024/)
-
-
-# Salgsassistent - barselsvikariat, Hobro
-21-03-2024
-
-Harald Nyborg A/S
-
-Hobro
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12379692/salgsassistent-barselsvikariat-hobro)
 
 
