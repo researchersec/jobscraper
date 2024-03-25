@@ -1,3 +1,13 @@
+# Linux Operations Engineer
+25-03-2024
+
+Netcompany A/S
+
+Aalborg eller København K
+
+Job URL: [link](https://smrtr.io/gP-sr)
+
+
 # IT Business Analyst
 22-03-2024
 
@@ -186,15 +196,5 @@ itm8
 Aalborg, Viby J, Herning, Kolding eller København
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
-
-
-# Er du vores nye teknisk it-medarbejder inden for Operationel Teknologi (OT)?
-06-03-2024
-
-Frederikshavn Forsyning A/S
-
-Frederikshavn
-
-Job URL: [link](https://forsyningen.emply.net/recruitment/vacancyAd.aspx?publishingId=2ac02b22-a627-462c-b416-37abf47c9ab5)
 
 
