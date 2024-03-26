@@ -1,3 +1,13 @@
+# Teknisk supporter med højt serviceniveau
+26-03-2024
+
+FastTrack Software ApS
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/506551/teknisk-supporter-med-hoejt-serviceniveau)
+
+
 # IT-supporter
 25-03-2024
 
@@ -186,15 +196,5 @@ Unik System Design A/S
 Vejle eller Aalborg SV
 
 Job URL: [link](https://unik.dk/stilling/infrastrukturkonsulent-med-ekspertise-i-microsoft-365/)
-
-
-# Infrastrukturtekniker med fokus på hardware
-07-03-2024
-
-Unik System Design A/S
-
-Vejle eller Aalborg SV
-
-Job URL: [link](https://unik.dk/stilling/driftstekniker-til-hosting/)
 
 
