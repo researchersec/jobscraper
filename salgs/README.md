@@ -88,13 +88,13 @@ Hjørring
 Job URL: [link](https://web103.reachmee.com/ext/I022/2126/job?site=15&lang=DK&validator=3cc71ec923ccaf7527e8b30ecbdf32c0&job_id=578)
 
 
-# Sælger
-01-03-2024
+# Ledertrainee, Kvickly, Aars
+26-03-2024
 
-Bygma
+Kvickly
 
-Støvring
+Aars
 
-Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-stoevring-ansoegningsfrist-26-marts-2024/)
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151315)
 
 
