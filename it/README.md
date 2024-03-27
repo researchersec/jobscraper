@@ -1,3 +1,23 @@
+# IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
+27-03-2024
+
+itm8
+
+Aalborg, Viby J, Herning, Kolding eller København
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
+
+
+# Serviceminded IT-supporter til international vækstvirksomhed
+27-03-2024
+
+Curia
+
+Hirtshals
+
+Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22184&locale=da_DK)
+
+
 # Teknisk supporter med højt serviceniveau
 26-03-2024
 
@@ -176,25 +196,5 @@ Aalborg Universitet
 Aalborg
 
 Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218241)
-
-
-# Infrastructure Architect
-08-03-2024
-
-KMD A/S
-
-Ballerup, Aalborg eller Odense
-
-Job URL: [link](https://career5.successfactors.eu/sfcareer/jobreqcareer?jobId=33350&company=kmd)
-
-
-# Infrastrukturkonsulent med ekspertise i Microsoft 365
-07-03-2024
-
-Unik System Design A/S
-
-Vejle eller Aalborg SV
-
-Job URL: [link](https://unik.dk/stilling/infrastrukturkonsulent-med-ekspertise-i-microsoft-365/)
 
 
