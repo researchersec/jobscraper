@@ -88,13 +88,13 @@ Hjørring
 Job URL: [link](https://web103.reachmee.com/ext/I022/2126/job?site=15&lang=DK&validator=3cc71ec923ccaf7527e8b30ecbdf32c0&job_id=578)
 
 
-# Ledertrainee, Kvickly, Aars
-26-03-2024
+# Vis yderligere 2
+27-03-2024
 
-Kvickly
+Magasin
 
-Aars
+Aalborg, Aarhus
 
-Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151315)
+Job URL: [link](https://karriere.magasin.dk/jobs/show_more?page=2)
 
 
