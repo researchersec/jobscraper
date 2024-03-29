@@ -68,16 +68,6 @@ Frederikshavn
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1856/bliv-salgsassistent-frederikshavn)
 
 
-# Salgsassistent til Aalborg Station DSB 7-Eleven (6 timer pr. uge)
-08-03-2024
-
-DSB
-
-Aalborg
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=14&ProjectId=192028&DepartmentId=20079&MediaId=5)
-
-
 # Salgsassistent deltid - Elgiganten Hjørring
 06-03-2024
 
@@ -96,5 +86,15 @@ Magasin
 Aalborg, Aarhus
 
 Job URL: [link](https://karriere.magasin.dk/jobs/show_more?page=2)
+
+
+# Ledertrainee, Kvickly, Aars
+26-03-2024
+
+Kvickly
+
+Aars
+
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151315)
 
 
