@@ -1,3 +1,13 @@
+# NetScaler Specialist – bliv en del af itm8
+29-03-2024
+
+itm8
+
+Herning, Viby J, København Ø, Kolding, Aalborg SØ
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/501994/netscaler-specialist-bliv-en-del-af-itm8)
+
+
 # IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
 27-03-2024
 
@@ -186,15 +196,5 @@ Telenor
 Aalborg
 
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145769&DepartmentId=18957&MediaId=5)
-
-
-# DevOps engineer til Cloud-team
-11-03-2024
-
-Aalborg Universitet
-
-Aalborg
-
-Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218241)
 
 
