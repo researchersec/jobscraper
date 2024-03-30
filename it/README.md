@@ -178,16 +178,6 @@ Aalborg SV
 Job URL: [link](https://www.jobindex.dk/jobannonce/505252/kvik-it-supporter-med-flair-for-god-service)
 
 
-# Business Central Support Engineers
-12-03-2024
-
-Continia Software A/S
-
-Copenhagen or Nørresundby
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143650&DepartmentId=18974&MediaId=5)
-
-
 # License Manager
 11-03-2024
 
@@ -196,5 +186,15 @@ Telenor
 Aalborg
 
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145769&DepartmentId=18957&MediaId=5)
+
+
+# DevOps engineer til Cloud-team
+11-03-2024
+
+Aalborg Universitet
+
+Aalborg
+
+Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218241)
 
 
