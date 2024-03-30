@@ -98,3 +98,13 @@ Aars
 Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151315)
 
 
+# Ledertrainee, SuperBrugsen Hadsund
+26-03-2024
+
+SuperBrugsen
+
+Hadsund
+
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151316)
+
+
