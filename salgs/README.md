@@ -78,6 +78,16 @@ Hjørring
 Job URL: [link](https://web103.reachmee.com/ext/I022/2126/job?site=15&lang=DK&validator=3cc71ec923ccaf7527e8b30ecbdf32c0&job_id=578)
 
 
+# Medarbejder til delikatessen - Aalborg
+30-03-2024
+
+føtex
+
+Aalborg
+
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/cdb7ac7f-7389-4135-a603-1e19d3dd1e84)
+
+
 # Vis yderligere 2
 27-03-2024
 
