@@ -1,3 +1,23 @@
+# Sommerassistance hos Imerco Skagen
+02-04-2024
+
+Imerco
+
+Skagen
+
+Job URL: [link](https://imerco.career.emply.com/ad/sommerassistance-hos-imerco-skagen/adef60/da)
+
+
+# Sælger
+02-04-2024
+
+Bygma
+
+Sæby
+
+Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-saeby-ansoegningsfrist-29-april-2024/)
+
+
 # Deltidssælger til ILVA Hjørring
 25-03-2024
 
@@ -78,43 +98,13 @@ Hjørring
 Job URL: [link](https://web103.reachmee.com/ext/I022/2126/job?site=15&lang=DK&validator=3cc71ec923ccaf7527e8b30ecbdf32c0&job_id=578)
 
 
-# Medarbejder til delikatessen - Aalborg
-30-03-2024
+# Kasseassistent - Aalborg
+02-04-2024
 
 føtex
 
 Aalborg
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/cdb7ac7f-7389-4135-a603-1e19d3dd1e84)
-
-
-# Vis yderligere 2
-27-03-2024
-
-Magasin
-
-Aalborg, Aarhus
-
-Job URL: [link](https://karriere.magasin.dk/jobs/show_more?page=2)
-
-
-# Ledertrainee, Kvickly, Aars
-26-03-2024
-
-Kvickly
-
-Aars
-
-Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151315)
-
-
-# Ledertrainee, SuperBrugsen Hadsund
-26-03-2024
-
-SuperBrugsen
-
-Hadsund
-
-Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151316)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/fc3a69f6-e883-4dbd-8cbe-8aa9e172749a)
 
 
