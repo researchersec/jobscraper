@@ -98,13 +98,13 @@ Hjørring
 Job URL: [link](https://web103.reachmee.com/ext/I022/2126/job?site=15&lang=DK&validator=3cc71ec923ccaf7527e8b30ecbdf32c0&job_id=578)
 
 
-# Kasseassistent - Aalborg
+# Delikatesseassistent, SuperBrugsen Kongerslev
 02-04-2024
 
-føtex
+SuperBrugsen
 
-Aalborg
+Kongerslev
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/fc3a69f6-e883-4dbd-8cbe-8aa9e172749a)
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=151363)
 
 
