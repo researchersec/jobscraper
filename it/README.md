@@ -178,16 +178,6 @@ Aalborg SV
 Job URL: [link](https://www.jobindex.dk/jobannonce/505252/kvik-it-supporter-med-flair-for-god-service)
 
 
-# License Manager
-11-03-2024
-
-Telenor
-
-Aalborg
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145769&DepartmentId=18957&MediaId=5)
-
-
 # DevOps engineer til Cloud-team
 11-03-2024
 
@@ -196,5 +186,15 @@ Aalborg Universitet
 Aalborg
 
 Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218241)
+
+
+# Bliv driftskonsulent og supporter
+02-04-2024
+
+FieldService
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/504171/bliv-driftskonsulent-og-supporter)
 
 
