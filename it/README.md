@@ -178,14 +178,14 @@ Aalborg SV
 Job URL: [link](https://www.jobindex.dk/jobannonce/505252/kvik-it-supporter-med-flair-for-god-service)
 
 
-# DevOps engineer til Cloud-team
-11-03-2024
+# IT-supporter
+03-04-2024
 
-Aalborg Universitet
+Dolle A/S
 
-Aalborg
+Frøstrup
 
-Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218241)
+Job URL: [link](https://www.jobindex.dk/jobannonce/506967/it-supporter)
 
 
 # Bliv driftskonsulent og supporter
