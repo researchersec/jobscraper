@@ -1,10 +1,10 @@
-# Pakning af fiskekasser i Strandby – Ca. 20-30 timer
+# NOWAS A/S søger lagermedarbejder (barselsvikariat)
 03-04-2024
 
 
 
-Strandby
+Løgstør
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12400192/pakning-af-fiskekasser-i-strandby-ca-20-30-timer)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/nowas-as-soeger-lagermedarbejder-barselsvikariat-lja-85415408.aspx?jobId=LJA-85415408&list=SearchResultsJobsIds&index=14&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
