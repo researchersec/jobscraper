@@ -1,3 +1,13 @@
+# Delikatesseassistent
+03-04-2024
+
+Meny
+
+Hobro
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146754&DepartmentId=19074&MediaId=4623)
+
+
 # Sommerassistance hos Imerco Skagen
 02-04-2024
 
