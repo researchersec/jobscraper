@@ -98,16 +98,6 @@ Frederikshavn
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1856/bliv-salgsassistent-frederikshavn)
 
 
-# Salgsassistent deltid - Elgiganten Hjørring
-06-03-2024
-
-Elgiganten A/S
-
-Hjørring
-
-Job URL: [link](https://web103.reachmee.com/ext/I022/2126/job?site=15&lang=DK&validator=3cc71ec923ccaf7527e8b30ecbdf32c0&job_id=578)
-
-
 # Butiksassistent til ny butik i Thisted (deltid)
 03-04-2024
 
@@ -116,5 +106,15 @@ GEjSER - Aalborg
 Thisted
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12401204/butiksassistent-til-ny-butik-i-thisted-deltid)
+
+
+# Assistancer til vores drift team Operations · Aalborg
+03-04-2024
+
+Magasin
+
+Aalborg
+
+Job URL: [link](https://karriere.magasin.dk/jobs/3784110-assistancer-til-vores-drift-team)
 
 
