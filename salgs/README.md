@@ -1,3 +1,13 @@
+# Resultatorienteret sælger med stort drive
+04-04-2024
+
+Kvik A/S
+
+Aalborg SV
+
+Job URL: [link](https://kvik.easycruit.com/intranet/dkstores/vacancy/3330249/223417?iso=dk)
+
+
 # Butiksassistent under 18 år - Aalborg
 04-04-2024
 
@@ -106,25 +116,5 @@ Louis Nielsen A/S
 Frederikshavn
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1856/bliv-salgsassistent-frederikshavn)
-
-
-# Butiksassistent til ny butik i Thisted (deltid)
-03-04-2024
-
-GEjSER - Aalborg
-
-Thisted
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12401204/butiksassistent-til-ny-butik-i-thisted-deltid)
-
-
-# Assistancer til vores drift team Operations · Aalborg
-03-04-2024
-
-Magasin
-
-Aalborg
-
-Job URL: [link](https://karriere.magasin.dk/jobs/3784110-assistancer-til-vores-drift-team)
 
 
