@@ -78,16 +78,6 @@ Frederiksberg eller Aalborg
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=178507&DepartmentId=9414&MediaId=3191)
 
 
-# Erfaren infrastrukturkonsulent
-22-03-2024
-
-itm8
-
-Skovlunde, Aalborg eller Viby
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/501301/erfaren-infrastrukturkonsulent)
-
-
 # Technical Support Specialist
 20-03-2024
 
@@ -176,6 +166,16 @@ Bone Consult A/S
 Aalborg SV
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/505252/kvik-it-supporter-med-flair-for-god-service)
+
+
+# DevOps engineer til Cloud-team
+11-03-2024
+
+Aalborg Universitet
+
+Aalborg
+
+Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218241)
 
 
 # IT-supporter
