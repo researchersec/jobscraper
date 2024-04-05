@@ -1,7 +1,7 @@
 # Marketing Generalist
 25-03-2024
 
-Gatehouse Maritime
+Gatehouse A/S
 
 Nørresundby
 
