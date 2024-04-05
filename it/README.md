@@ -158,16 +158,6 @@ Aalborg
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1148&ProjectId=144979&DepartmentId=19209&MediaId=59)
 
 
-# Kvik IT-supporter med flair for god service
-12-03-2024
-
-Bone Consult A/S
-
-Aalborg SV
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/505252/kvik-it-supporter-med-flair-for-god-service)
-
-
 # Er du DS Smiths nye SAP Application Specialist?
 05-04-2024
 
