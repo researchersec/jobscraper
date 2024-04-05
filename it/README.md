@@ -168,14 +168,14 @@ Aalborg SV
 Job URL: [link](https://www.jobindex.dk/jobannonce/505252/kvik-it-supporter-med-flair-for-god-service)
 
 
-# DevOps engineer til Cloud-team
-11-03-2024
+# Er du DS Smiths nye SAP Application Specialist?
+05-04-2024
 
-Aalborg Universitet
+DS Smith Packaging Denmark A/S
 
-Aalborg
+Vejle, Grenaa, Taulov
 
-Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1218241)
+Job URL: [link](https://www.jobindex.dk/jobannonce/506527/er-du-ds-smiths-nye-sap-application-specialist)
 
 
 # IT-supporter
