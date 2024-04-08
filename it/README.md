@@ -148,6 +148,16 @@ Aalborg
 Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1148&ProjectId=144979&DepartmentId=19209&MediaId=59)
 
 
+# Team Lead for IT Operation Center
+08-04-2024
+
+Fellowmind
+
+Aars
+
+Job URL: [link](https://career.fellowmind.dk/jobs/3802000-team-lead-for-it-operation-center)
+
+
 # Er du DS Smiths nye SAP Application Specialist?
 05-04-2024
 
