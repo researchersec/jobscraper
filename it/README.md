@@ -108,16 +108,6 @@ Aalborg Øst
 Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F147510%26locale%3Dda_DK)
 
 
-# Vil du være med til at uddanne fremtidens bedste data-teknikere? - Genopslag
-19-03-2024
-
-TECHCOLLEGE
-
-Aalborg Øst
-
-Job URL: [link](https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=977)
-
-
 # Solution Specialist – Network
 18-03-2024
 
@@ -166,6 +156,16 @@ DS Smith Packaging Denmark A/S
 Vejle, Grenaa, Taulov
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/506527/er-du-ds-smiths-nye-sap-application-specialist)
+
+
+# IT-supporter til IT og Digitalisering
+05-04-2024
+
+Rebild Kommune
+
+Støvring
+
+Job URL: [link](https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1541&WebAdId=122626)
 
 
 # IT-supporter
