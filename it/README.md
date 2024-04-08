@@ -158,16 +158,6 @@ Vejle, Grenaa, Taulov
 Job URL: [link](https://www.jobindex.dk/jobannonce/506527/er-du-ds-smiths-nye-sap-application-specialist)
 
 
-# IT-supporter til IT og Digitalisering
-05-04-2024
-
-Rebild Kommune
-
-Støvring
-
-Job URL: [link](https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1541&WebAdId=122626)
-
-
 # IT-supporter
 03-04-2024
 
