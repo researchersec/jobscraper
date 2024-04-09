@@ -1,3 +1,13 @@
+# Bliv salgsassistent
+09-04-2024
+
+Louis Nielsen A/S
+
+Aalborg SV
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1885/salgsassistent-til-louis-nielsen-aalborg-storcenter)
+
+
 # Er du vores nye butikssælger i INTERSPORT Outlet?
 08-04-2024
 
@@ -96,16 +106,6 @@ Danish Agro Shoppen
 Dronninglund
 
 Job URL: [link](https://danishagro.dk/karriere/job-detalje?jobId=144825)
-
-
-# All-round medarbejder til ny afdeling hos Trailergaarden Gantrup A/S i Haverslev (Rebild kommune)
-18-03-2024
-
-Trailergaarden Gantrup A/S
-
-Nørager
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/505668/all-round-medarbejder-til-ny-afdeling-hos-trailergaarden-gantrup-a-s-i-haverslev-rebild-kommune)
 
 
 # Bliv salgsassistent
