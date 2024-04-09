@@ -68,16 +68,6 @@ Aalborg
 Job URL: [link](https://app.elvium.com/en/positions/25699/job_posting)
 
 
-# Systemejer med projektledererfaring til Motorregisteret
-22-03-2024
-
-Udviklings- og Forenklingsstyrelsen
-
-Frederiksberg eller Aalborg
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=178507&DepartmentId=9414&MediaId=3191)
-
-
 # Technical Support Specialist
 20-03-2024
 
@@ -136,16 +126,6 @@ Eurowind Energy A/S
 Hobro
 
 Job URL: [link](https://eurowindenergy.com/career?hr=show-job/183819&locale=en_US#hrskyen)
-
-
-# Product owner til AI
-15-03-2024
-
-Spar Nord Bank A/S
-
-Aalborg
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1148&ProjectId=144979&DepartmentId=19209&MediaId=59)
 
 
 # Team Lead for IT Operation Center
