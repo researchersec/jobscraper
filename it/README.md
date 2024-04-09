@@ -128,14 +128,24 @@ Hobro
 Job URL: [link](https://eurowindenergy.com/career?hr=show-job/183819&locale=en_US#hrskyen)
 
 
-# Team Lead for IT Operation Center
-08-04-2024
+# IT-Supporter
+09-04-2024
 
-Fellowmind
+Aalborg Kommune
 
-Aars
+Aalborg
 
-Job URL: [link](https://career.fellowmind.dk/jobs/3802000-team-lead-for-it-operation-center)
+Job URL: [link](https://www.aalborg.dk/job-og-karriere/vis-job?id=19632)
+
+
+# IT-specialist til Lokal IT Servicecenter Hjørring
+09-04-2024
+
+Forsvaret
+
+Hjørring
+
+Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=190426&mediaId=4681)
 
 
 # Er du DS Smiths nye SAP Application Specialist?
