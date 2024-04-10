@@ -128,6 +128,16 @@ Hobro
 Job URL: [link](https://eurowindenergy.com/career?hr=show-job/183819&locale=en_US#hrskyen)
 
 
+# Hydrema Group søger kollega til afdelingen for produktsupport
+10-04-2024
+
+Hviid & Larsen ApS
+
+Støvring
+
+Job URL: [link](https://www.hviidoglarsen.dk/jobs?hr=show-job/193285&linkref=190969&locale=da_DK)
+
+
 # IT-Supporter
 09-04-2024
 
@@ -136,16 +146,6 @@ Aalborg Kommune
 Aalborg
 
 Job URL: [link](https://www.aalborg.dk/job-og-karriere/vis-job?id=19632)
-
-
-# IT-specialist til Lokal IT Servicecenter Hjørring
-09-04-2024
-
-Forsvaret
-
-Hjørring
-
-Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=190426&mediaId=4681)
 
 
 # Er du DS Smiths nye SAP Application Specialist?
