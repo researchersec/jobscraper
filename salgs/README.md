@@ -1,3 +1,23 @@
+# Sælger 30-37 timer
+10-04-2024
+
+SPORT 24 A/S
+
+Frederikshavn
+
+Job URL: [link](https://app.elvium.com/da/positions/25887/job_posting?referer_host=www.jobindex.dk)
+
+
+# Sælger
+10-04-2024
+
+Bygma
+
+Hjørring
+
+Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-hjoerring-ansoegningsfrist-7-maj-2024/)
+
+
 # Bliv salgsassistent
 09-04-2024
 
