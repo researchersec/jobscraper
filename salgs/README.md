@@ -1,3 +1,13 @@
+# Vi søger en faguddannet salgsassistent til vores butikker i Aalborg Storcenter og Friis Shopping
+11-04-2024
+
+Vibholm Guld og Sølv ApS
+
+Aalborg
+
+Job URL: [link](https://vibholm.dk/blogs/ledige-stillinger?hr=show-job%2F187854%26locale%3Dda_DK)
+
+
 # Sælger 30-37 timer
 10-04-2024
 
@@ -136,15 +146,5 @@ Louis Nielsen A/S
 Aalborg
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1857/bliv-salgsassistent-aalborg-c)
-
-
-# Bliv salgsassistent
-18-03-2024
-
-Louis Nielsen A/S
-
-Frederikshavn
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1856/bliv-salgsassistent-frederikshavn)
 
 
