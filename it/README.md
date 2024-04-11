@@ -128,6 +128,16 @@ Hobro
 Job URL: [link](https://eurowindenergy.com/career?hr=show-job/183819&locale=en_US#hrskyen)
 
 
+# En­tu­si­a­stisk Junior DevOps-konsulent til in­nova­tivt SaaS-projekt
+11-04-2024
+
+Unik System Design A/S
+
+Vejle eller Aalborg SV
+
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143723&DepartmentId=18965&MediaId=4617)
+
+
 # Hydrema Group søger kollega til afdelingen for produktsupport
 10-04-2024
 
@@ -136,16 +146,6 @@ Hviid & Larsen ApS
 Støvring
 
 Job URL: [link](https://www.hviidoglarsen.dk/jobs?hr=show-job/193285&linkref=190969&locale=da_DK)
-
-
-# IT-Supporter
-09-04-2024
-
-Aalborg Kommune
-
-Aalborg
-
-Job URL: [link](https://www.aalborg.dk/job-og-karriere/vis-job?id=19632)
 
 
 # Er du DS Smiths nye SAP Application Specialist?
