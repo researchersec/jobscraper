@@ -138,13 +138,3 @@ Dronninglund
 Job URL: [link](https://danishagro.dk/karriere/job-detalje?jobId=144825)
 
 
-# Bliv salgsassistent
-18-03-2024
-
-Louis Nielsen A/S
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1857/bliv-salgsassistent-aalborg-c)
-
-
