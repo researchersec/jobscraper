@@ -128,13 +128,13 @@ Aalborg
 Job URL: [link](https://ilva.youngcrm.com/jobportal/9633)
 
 
-# Butiksassistent/daglig Ansvarlig
-20-03-2024
+# Bliv salgsassistent
+18-03-2024
 
-Danish Agro Shoppen
+Louis Nielsen A/S
 
-Dronninglund
+Aalborg
 
-Job URL: [link](https://danishagro.dk/karriere/job-detalje?jobId=144825)
+Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1857/bliv-salgsassistent-aalborg-c)
 
 
