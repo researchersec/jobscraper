@@ -99,7 +99,7 @@ Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F147510%26l
 
 
 # Solution Specialist – Network
-18-03-2024
+15-04-2024
 
 itm8
 
@@ -109,7 +109,7 @@ Job URL: [link](https://www.jobindex.dk/jobannonce/505751/solution-specialist-ne
 
 
 # IT-sikkerhedskonsulent
-18-03-2024
+15-04-2024
 
 Sparekassen Danmark
 
