@@ -1,3 +1,23 @@
+# Junior UX designer for Energy Solutions
+15-04-2024
+
+KMD A/S
+
+Ballerup, Aalborg, Odense SØ
+
+Job URL: [link](https://career5.successfactors.eu/sfcareer/jobreqcareer?jobId=33458&company=kmd)
+
+
+# Senior UX designer for Energy Solutions
+15-04-2024
+
+KMD A/S
+
+Ballerup, Aalborg, Odense SØ
+
+Job URL: [link](https://career5.successfactors.eu/sfcareer/jobreqcareer?jobId=33459&company=kmd)
+
+
 # Marketing Generalist
 25-03-2024
 
