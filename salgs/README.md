@@ -1,3 +1,13 @@
+# Sælger til XL-PROcenter, XL-BYG Løgstør
+15-04-2024
+
+XL-BYG
+
+Løgstør
+
+Job URL: [link](https://app.elvium.com/da/positions/25934/job_posting?referer_host=www.jobindex.dk)
+
+
 # Vi søger en faguddannet salgsassistent til vores butikker i Aalborg Storcenter og Friis Shopping
 11-04-2024
 
@@ -126,15 +136,5 @@ Louis Nielsen A/S
 Aalborg
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1857/bliv-salgsassistent-aalborg-c)
-
-
-# Bliv salgsassistent
-18-03-2024
-
-Louis Nielsen A/S
-
-Frederikshavn
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1856/bliv-salgsassistent-frederikshavn)
 
 
