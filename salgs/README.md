@@ -118,16 +118,6 @@ Hjørring
 Job URL: [link](https://ilva.youngcrm.com/jobportal/9632)
 
 
-# Deltidssælger til ILVA Aalborg C
-25-03-2024
-
-ILVA
-
-Aalborg
-
-Job URL: [link](https://ilva.youngcrm.com/jobportal/9633)
-
-
 # Bliv salgsassistent
 18-03-2024
 
@@ -136,5 +126,15 @@ Louis Nielsen A/S
 Aalborg
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1857/bliv-salgsassistent-aalborg-c)
+
+
+# Bliv salgsassistent
+18-03-2024
+
+Louis Nielsen A/S
+
+Frederikshavn
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1856/bliv-salgsassistent-frederikshavn)
 
 
