@@ -79,7 +79,7 @@ Job URL: [link](https://careers.trackunit.com/jobs/3720173-technical-support-spe
 
 
 # Solution Architect til CTO Office
-19-03-2024
+16-04-2024
 
 Netic A/S
 
@@ -89,7 +89,7 @@ Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26l
 
 
 # Driftskonsulent med interesse for Linux og Windows
-19-03-2024
+16-04-2024
 
 Netic A/S
 
