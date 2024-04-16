@@ -118,13 +118,13 @@ Hjørring
 Job URL: [link](https://ilva.youngcrm.com/jobportal/9631)
 
 
-# Chaufør / Servicemedarbejder
+# Style and Customer Advisor - Støvring
 15-04-2024
 
-INDKILDE AUTO A/S
+Profil Optik
 
-Aalborg SV
+Støvring
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/chaufoer-servicemedarbejder-lja-85435784.aspx?jobId=LJA-85435784&list=SearchResultsJobsIds&index=12&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://job.profiloptik.dk/jobs/3898822-style-and-customer-advisor-stoevring)
 
 
