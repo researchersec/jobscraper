@@ -118,23 +118,13 @@ Hjørring
 Job URL: [link](https://ilva.youngcrm.com/jobportal/9631)
 
 
-# Bliv salgsassistent
-18-03-2024
+# Chaufør / Servicemedarbejder
+15-04-2024
 
-Louis Nielsen A/S
+INDKILDE AUTO A/S
 
-Aalborg
+Aalborg SV
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1857/bliv-salgsassistent-aalborg-c)
-
-
-# Bliv salgsassistent
-18-03-2024
-
-Louis Nielsen A/S
-
-Frederikshavn
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1856/bliv-salgsassistent-frederikshavn)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/chaufoer-servicemedarbejder-lja-85435784.aspx?jobId=LJA-85435784&list=SearchResultsJobsIds&index=12&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
