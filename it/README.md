@@ -118,14 +118,14 @@ Hobro
 Job URL: [link](https://www.jobindex.dk/jobannonce/505636/it-sikkerhedskonsulent)
 
 
-# Operational Technology (OT) Security Specialist
-15-03-2024
+# IT-konsulent til Digitalisering og IT i Region Nordjylland
+15-04-2024
 
-Eurowind Energy A/S
+Region Nordjylland
 
-Hobro
+Aalborg
 
-Job URL: [link](https://eurowindenergy.com/career?hr=show-job/183819&locale=en_US#hrskyen)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12427075/it-konsulent-til-digitalisering-og-it-i-region-nordjylland)
 
 
 # En­tu­si­a­stisk Junior DevOps-konsulent til in­nova­tivt SaaS-projekt
