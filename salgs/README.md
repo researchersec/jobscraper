@@ -1,3 +1,13 @@
+# Ahlsell søger 2 interne projektkonsulenter til sags- og projektstyring af større byggesager
+17-04-2024
+
+Ahlsell
+
+Aalborg eller Vallensbæk
+
+Job URL: [link](https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16109)
+
+
 # Sælger til XL-PROcenter, XL-BYG Løgstør
 15-04-2024
 
@@ -119,12 +129,12 @@ Job URL: [link](https://ilva.youngcrm.com/jobportal/9631)
 
 
 # ASSISTANCEMEDARBEJDER - MODE OG BOLIG (MIDLERTIDIGT VIKARIAT)
-16-04-2024
+17-04-2024
 
 BAHNE SØRENSEN A/S Fisketorvets Shopping Center
 
 Hjørring
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/assistancemedarbejder-mode-og-bolig-midlertidigt-vikariat-lja-85437702.aspx?jobId=LJA-85437702&list=SearchResultsJobsIds&index=8&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12432069/assistancemedarbejder-mode-og-bolig-midlertidigt-vikariat)
 
 
