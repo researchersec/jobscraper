@@ -128,3 +128,13 @@ Hjørring
 Job URL: [link](https://www.nordjyskejob.dk/resultat/assistancemedarbejder-mode-og-bolig-midlertidigt-vikariat-lja-85437702.aspx?jobId=LJA-85437702&list=SearchResultsJobsIds&index=8&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
+# Style and Customer Advisor - Støvring
+15-04-2024
+
+Profil Optik
+
+Støvring
+
+Job URL: [link](https://job.profiloptik.dk/jobs/3898822-style-and-customer-advisor-stoevring)
+
+
