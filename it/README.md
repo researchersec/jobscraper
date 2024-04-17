@@ -68,16 +68,6 @@ Aalborg
 Job URL: [link](https://app.elvium.com/en/positions/25699/job_posting)
 
 
-# Technical Support Specialist
-20-03-2024
-
-Trackunit ApS
-
-Aalborg or Copenhagen
-
-Job URL: [link](https://careers.trackunit.com/jobs/3720173-technical-support-specialist?promotion=953667-jobindex)
-
-
 # Solution Architect til CTO Office
 16-04-2024
 
@@ -126,6 +116,16 @@ Sparekassen Danmark
 Hobro
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/505636/it-sikkerhedskonsulent)
+
+
+# IT-konsulent til Digitalisering og IT i Region Nordjylland
+15-04-2024
+
+Region Nordjylland
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12427075/it-konsulent-til-digitalisering-og-it-i-region-nordjylland)
 
 
 # En­tu­si­a­stisk Junior DevOps-konsulent til in­nova­tivt SaaS-projekt
