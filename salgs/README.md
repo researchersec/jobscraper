@@ -128,13 +128,13 @@ Hjørring
 Job URL: [link](https://ilva.youngcrm.com/jobportal/9631)
 
 
-# ASSISTANCEMEDARBEJDER - MODE OG BOLIG (MIDLERTIDIGT VIKARIAT)
-17-04-2024
+# Style and Customer Advisor - Aars
+18-04-2024
 
-BAHNE SØRENSEN A/S Fisketorvets Shopping Center
+Profil Optik
 
-Hjørring
+Aars
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12432069/assistancemedarbejder-mode-og-bolig-midlertidigt-vikariat)
+Job URL: [link](https://job.profiloptik.dk/jobs/4020225-style-and-customer-advisor-aars)
 
 
