@@ -128,13 +128,13 @@ Hjørring
 Job URL: [link](https://ilva.youngcrm.com/jobportal/9631)
 
 
-# Style and Customer Advisor - Aars
-18-04-2024
+# Kasseassistent - Frederikshavn
+19-04-2024
 
-Profil Optik
+føtex
 
-Aars
+Frederikshavn
 
-Job URL: [link](https://job.profiloptik.dk/jobs/4020225-style-and-customer-advisor-aars)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/d0653c7f-9ec0-4805-b5e2-f1fd0d5c5487)
 
 
