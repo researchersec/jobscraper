@@ -68,6 +68,26 @@ Aalborg
 Job URL: [link](https://app.elvium.com/en/positions/25699/job_posting)
 
 
+# Er du vores nye IT- servicecenter leder på Aalborg Kaserne?
+19-04-2024
+
+Forsvaret
+
+Nørresundby
+
+Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=190628&mediaId=4681)
+
+
+# Sikkerhedsbevidst systemadministrator og IT-ansvarlig til NemTilmeld.dk
+19-04-2024
+
+NemTilmeld.dk ApS
+
+Nørresundby
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/sikkerhedsbevidst-systemadministrator-og-it-ansvarlig-til-nemtilmelddk-lja-85442528.aspx?jobId=LJA-85442528&list=SearchResultsJobsIds&index=10&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Solution Architect til CTO Office
 16-04-2024
 
@@ -86,16 +106,6 @@ Netic A/S
 Aalborg Øst
 
 Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F147510%26locale%3Dda_DK)
-
-
-# IT-Supporter til 1. level support
-16-04-2024
-
-Skatteforvaltningen
-
-Aalborg
-
-Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=188691)
 
 
 # Solution Specialist – Network
