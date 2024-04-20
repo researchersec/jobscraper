@@ -58,16 +58,6 @@ Aalborg eller København K
 Job URL: [link](https://smrtr.io/gP-sr)
 
 
-# IT Business Analyst
-22-03-2024
-
-Blue Power Partners A/S
-
-Aalborg
-
-Job URL: [link](https://app.elvium.com/en/positions/25699/job_posting)
-
-
 # Er du vores nye IT- servicecenter leder på Aalborg Kaserne?
 19-04-2024
 
@@ -86,6 +76,16 @@ NemTilmeld.dk ApS
 Nørresundby
 
 Job URL: [link](https://www.nordjyskejob.dk/resultat/sikkerhedsbevidst-systemadministrator-og-it-ansvarlig-til-nemtilmelddk-lja-85442528.aspx?jobId=LJA-85442528&list=SearchResultsJobsIds&index=10&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
+# Databaseserver administrator til Digitalisering og IT i Region Nordjylland
+19-04-2024
+
+Region Nordjylland
+
+Aalborg
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/databaseserver-administrator-til-digitalisering-og-it-i-region-nordjyl-lja-85442655.aspx?jobId=LJA-85442655&list=SearchResultsJobsIds&index=11&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Solution Architect til CTO Office
