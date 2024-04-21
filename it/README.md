@@ -65,7 +65,7 @@ NemTilmeld.dk ApS
 
 Nørresundby
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/sikkerhedsbevidst-systemadministrator-og-it-ansvarlig-til-nemtilmelddk-lja-85442528.aspx?jobId=LJA-85442528&list=SearchResultsJobsIds&index=5&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/sikkerhedsbevidst-systemadministrator-og-it-ansvarlig-til-nemtilmelddk-lja-85442528.aspx?jobId=LJA-85442528&list=SearchResultsJobsIds&index=16&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Databaseserver administrator til Digitalisering og IT i Region Nordjylland
@@ -75,7 +75,7 @@ Region Nordjylland
 
 Aalborg
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/databaseserver-administrator-til-digitalisering-og-it-i-region-nordjyl-lja-85442655.aspx?jobId=LJA-85442655&list=SearchResultsJobsIds&index=6&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/databaseserver-administrator-til-digitalisering-og-it-i-region-nordjyl-lja-85442655.aspx?jobId=LJA-85442655&list=SearchResultsJobsIds&index=4&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Solution Architect til CTO Office
