@@ -38,16 +38,6 @@ Aalborg
 Job URL: [link](https://www.jobindex.dk/jobannonce/506551/teknisk-supporter-med-hoejt-serviceniveau)
 
 
-# IT-supporter
-25-03-2024
-
-Fjordland
-
-Skive eller Thisted
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2824&ProjectId=143593&DepartmentId=18956&MediaId=5&SkipAdvertisement=False)
-
-
 # Linux Operations Engineer
 25-03-2024
 
