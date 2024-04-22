@@ -48,6 +48,16 @@ Aalborg eller København K
 Job URL: [link](https://smrtr.io/gP-sr)
 
 
+# Sikkerhedsbevidst systemadministrator og IT-ansvarlig til NemTilmeld.dk
+22-04-2024
+
+NemTilmeld.dk ApS
+
+Nørresundby
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12441202/sikkerhedsbevidst-systemadministrator-og-it-ansvarlig-til-nemtilmelddk)
+
+
 # Er du vores nye IT- servicecenter leder på Aalborg Kaserne?
 19-04-2024
 
@@ -56,16 +66,6 @@ Forsvaret
 Nørresundby
 
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=190628&mediaId=4681)
-
-
-# Sikkerhedsbevidst systemadministrator og IT-ansvarlig til NemTilmeld.dk
-19-04-2024
-
-NemTilmeld.dk ApS
-
-Nørresundby
-
-Job URL: [link](https://www.nordjyskejob.dk/resultat/sikkerhedsbevidst-systemadministrator-og-it-ansvarlig-til-nemtilmelddk-lja-85442528.aspx?jobId=LJA-85442528&list=SearchResultsJobsIds&index=16&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Databaseserver administrator til Digitalisering og IT i Region Nordjylland
