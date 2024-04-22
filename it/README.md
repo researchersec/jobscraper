@@ -39,7 +39,7 @@ Job URL: [link](https://www.jobindex.dk/jobannonce/506551/teknisk-supporter-med-
 
 
 # Linux Operations Engineer
-25-03-2024
+22-04-2024
 
 Netcompany A/S
 
