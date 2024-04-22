@@ -58,6 +58,16 @@ Nørresundby
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12441202/sikkerhedsbevidst-systemadministrator-og-it-ansvarlig-til-nemtilmelddk)
 
 
+# Databaseserver administrator til Digitalisering og IT i Region Nordjylland
+22-04-2024
+
+Region Nordjylland
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12441331/databaseserver-administrator-til-digitalisering-og-it-i-region-nordjylland)
+
+
 # Er du vores nye IT- servicecenter leder på Aalborg Kaserne?
 19-04-2024
 
@@ -66,16 +76,6 @@ Forsvaret
 Nørresundby
 
 Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=190628&mediaId=4681)
-
-
-# Databaseserver administrator til Digitalisering og IT i Region Nordjylland
-19-04-2024
-
-Region Nordjylland
-
-Aalborg
-
-Job URL: [link](https://www.nordjyskejob.dk/resultat/databaseserver-administrator-til-digitalisering-og-it-i-region-nordjyl-lja-85442655.aspx?jobId=LJA-85442655&list=SearchResultsJobsIds&index=4&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
 # Solution Architect til CTO Office
