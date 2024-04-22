@@ -105,7 +105,7 @@ Imerco
 
 Skagen
 
-Job URL: [link](https://imerco.career.emply.com/ad/sommerassistance-hos-imerco-skagen/adef60/da)
+Job URL: [link](https://job.imerco.dk/ad/sommerassistance-hos-imerco-skagen/adef60/da)
 
 
 # Sælger
