@@ -118,16 +118,6 @@ Sæby
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-saeby-ansoegningsfrist-29-april-2024/)
 
 
-# Deltidssælger til ILVA Hjørring
-25-03-2024
-
-ILVA
-
-Hjørring
-
-Job URL: [link](https://ilva.youngcrm.com/jobportal/9631)
-
-
 # Kasseassistent - Frederikshavn
 19-04-2024
 
@@ -136,5 +126,15 @@ føtex
 Frederikshavn
 
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/d0653c7f-9ec0-4805-b5e2-f1fd0d5c5487)
+
+
+# Aalborg Bispensgade - Butiksmedarbejder OVER 18 år (sabbatår)
+17-04-2024
+
+Normal A/S
+
+Aalborg
+
+Job URL: [link](https://www.ungarbejde.dk/jobs/aalborg-bispensgade-butiksmedarbejder-over-18-aar-sabbataar-71570)
 
 
