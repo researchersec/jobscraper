@@ -118,6 +118,16 @@ Sæby
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-saeby-ansoegningsfrist-29-april-2024/)
 
 
+# Salgsassistent til Kundeservice, kiosk og bageriudsalg - Hobro
+23-04-2024
+
+føtex
+
+Hobro
+
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/2bf7342e-3820-46eb-8fd8-056e3864e1e1)
+
+
 # Kasseassistent - Frederikshavn
 19-04-2024
 
@@ -126,15 +136,5 @@ føtex
 Frederikshavn
 
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/d0653c7f-9ec0-4805-b5e2-f1fd0d5c5487)
-
-
-# Aalborg Bispensgade - Butiksmedarbejder OVER 18 år (sabbatår)
-17-04-2024
-
-Normal A/S
-
-Aalborg
-
-Job URL: [link](https://www.ungarbejde.dk/jobs/aalborg-bispensgade-butiksmedarbejder-over-18-aar-sabbataar-71570)
 
 
