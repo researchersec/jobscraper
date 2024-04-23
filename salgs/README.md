@@ -118,23 +118,23 @@ Sæby
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-saeby-ansoegningsfrist-29-april-2024/)
 
 
-# Salgsassistent til Kundeservice, kiosk og bageriudsalg - Hobro
+# Kundeservicemedarbejder til Kasselinjen, 25 timer pr. uge, Aalborg
 23-04-2024
 
-føtex
+IKEA
 
-Hobro
+Aalborg SV
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/2bf7342e-3820-46eb-8fd8-056e3864e1e1)
+Job URL: [link](https://jobs.ikea.com/da/job/aalborg/kundeservicemedarbejder-til-kasselinjen-25-timer-pr-uge-aalborg/24107/64314429680)
 
 
-# Kasseassistent - Frederikshavn
-19-04-2024
+# Medarbejder til købmanden på Skagen Sydstrand Camping
+23-04-2024
 
-føtex
+Skagen Sydstrand Camping Bunken
 
-Frederikshavn
+Ålbæk
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/d0653c7f-9ec0-4805-b5e2-f1fd0d5c5487)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12443546/medarbejder-til-koebmanden-paa-skagen-sydstrand-camping)
 
 
