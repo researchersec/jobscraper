@@ -128,13 +128,3 @@ Skagen Sydstrand Camping Bunken
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12443546/medarbejder-til-koebmanden-paa-skagen-sydstrand-camping)
 
 
-# Salgsassistent til Kundeservice, kiosk og bageriudsalg - Hobro
-23-04-2024
-
-føtex
-
-Hobro
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/2bf7342e-3820-46eb-8fd8-056e3864e1e1)
-
-
