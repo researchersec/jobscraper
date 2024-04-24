@@ -118,13 +118,3 @@ Aalborg SV
 Job URL: [link](https://jobs.ikea.com/da/job/aalborg/kundeservicemedarbejder-til-kasselinjen-25-timer-pr-uge-aalborg/24107/64314429680)
 
 
-# Medarbejder til købmanden på Skagen Sydstrand Camping
-23-04-2024
-
-Skagen Sydstrand Camping Bunken
-
-Ålbæk
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12443546/medarbejder-til-koebmanden-paa-skagen-sydstrand-camping)
-
-
