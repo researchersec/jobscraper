@@ -28,16 +28,6 @@ Hirtshals
 Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22184&locale=da_DK)
 
 
-# Teknisk supporter med højt serviceniveau
-26-03-2024
-
-FastTrack Software ApS
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/506551/teknisk-supporter-med-hoejt-serviceniveau)
-
-
 # Linux Operations Engineer
 22-04-2024
 
@@ -98,6 +88,16 @@ Aalborg Øst
 Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F147510%26locale%3Dda_DK)
 
 
+# IT-Supporter til 1. level support
+16-04-2024
+
+Skatteforvaltningen
+
+Aalborg
+
+Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=188691)
+
+
 # Solution Specialist – Network
 15-04-2024
 
@@ -136,16 +136,6 @@ Hviid & Larsen ApS
 Støvring
 
 Job URL: [link](https://www.hviidoglarsen.dk/jobs?hr=show-job/193285&linkref=190969&locale=da_DK)
-
-
-# Er du DS Smiths nye SAP Application Specialist?
-05-04-2024
-
-DS Smith Packaging Denmark A/S
-
-Vejle, Grenaa, Taulov
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/506527/er-du-ds-smiths-nye-sap-application-specialist)
 
 
 # IT-supporter
