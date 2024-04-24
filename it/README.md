@@ -118,6 +118,16 @@ Hobro
 Job URL: [link](https://www.jobindex.dk/jobannonce/505636/it-sikkerhedskonsulent)
 
 
+# IT-konsulent til Digitalisering og IT i Region Nordjylland
+15-04-2024
+
+Region Nordjylland
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12427075/it-konsulent-til-digitalisering-og-it-i-region-nordjylland)
+
+
 # En­tu­si­a­stisk Junior DevOps-konsulent til in­nova­tivt SaaS-projekt
 11-04-2024
 
@@ -136,16 +146,6 @@ Hviid & Larsen ApS
 Støvring
 
 Job URL: [link](https://www.hviidoglarsen.dk/jobs?hr=show-job/193285&linkref=190969&locale=da_DK)
-
-
-# IT-supporter
-03-04-2024
-
-Dolle A/S
-
-Frøstrup
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/506967/it-supporter)
 
 
 # Bliv driftskonsulent og supporter
