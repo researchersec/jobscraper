@@ -28,6 +28,16 @@ Hirtshals
 Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22184&locale=da_DK)
 
 
+# IT Administrator
+24-04-2024
+
+THISTED FJERRITSLEV CEMENTVAREFABRIK A/S
+
+Thisted
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/it-administrator-lja-85450687.aspx?jobId=LJA-85450687&list=SearchResultsJobsIds&index=17&querydesc=SearchJobQueryDescription&viewedfrom=1)
+
+
 # Linux Operations Engineer
 22-04-2024
 
@@ -116,16 +126,6 @@ Sparekassen Danmark
 Hobro
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/505636/it-sikkerhedskonsulent)
-
-
-# IT-konsulent til Digitalisering og IT i Region Nordjylland
-15-04-2024
-
-Region Nordjylland
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12427075/it-konsulent-til-digitalisering-og-it-i-region-nordjylland)
 
 
 # En­tu­si­a­stisk Junior DevOps-konsulent til in­nova­tivt SaaS-projekt
