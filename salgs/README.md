@@ -88,16 +88,6 @@ Aalborg
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/8e87c552-076a-4ef4-be57-d796a110f635)
 
 
-# Delikatesseassistent
-03-04-2024
-
-Meny
-
-Hobro
-
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146754&DepartmentId=19074&MediaId=4623)
-
-
 # Sommerassistance hos Imerco Skagen
 02-04-2024
 
@@ -136,5 +126,15 @@ Skagen Sydstrand Camping Bunken
 Ålbæk
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/r12443546/medarbejder-til-koebmanden-paa-skagen-sydstrand-camping)
+
+
+# Salgsassistent til Kundeservice, kiosk og bageriudsalg - Hobro
+23-04-2024
+
+føtex
+
+Hobro
+
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/2bf7342e-3820-46eb-8fd8-056e3864e1e1)
 
 
