@@ -19,13 +19,13 @@ Job URL: [link](https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsul
 
 
 # IT Administrator
-24-04-2024
+25-04-2024
 
 THISTED FJERRITSLEV CEMENTVAREFABRIK A/S
 
 Thisted
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/it-administrator-lja-85450687.aspx?jobId=LJA-85450687&list=SearchResultsJobsIds&index=17&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12448841/it-administrator)
 
 
 # Linux Operations Engineer
