@@ -8,16 +8,6 @@ Aalborg eller Vallensbæk
 Job URL: [link](https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16109)
 
 
-# Sælger til XL-PROcenter, XL-BYG Løgstør
-15-04-2024
-
-XL-BYG
-
-Løgstør
-
-Job URL: [link](https://app.elvium.com/da/positions/25934/job_posting?referer_host=www.jobindex.dk)
-
-
 # Vi søger en faguddannet salgsassistent til vores butikker i Aalborg Storcenter og Friis Shopping
 11-04-2024
 
@@ -108,13 +98,13 @@ Sæby
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-saeby-ansoegningsfrist-29-april-2024/)
 
 
-# Kundeservicemedarbejder til Kasselinjen, 25 timer pr. uge, Aalborg
-23-04-2024
+# Salgsassistent til bageriudsalget - Aalborg
+25-04-2024
 
-IKEA
+føtex
 
-Aalborg SV
+Aalborg
 
-Job URL: [link](https://jobs.ikea.com/da/job/aalborg/kundeservicemedarbejder-til-kasselinjen-25-timer-pr-uge-aalborg/24107/64314429680)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/a82993a5-a775-4ad7-8300-04cec9dfc79b)
 
 
