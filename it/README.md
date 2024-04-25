@@ -18,16 +18,6 @@ Aalborg, Viby J, Herning, Kolding eller København
 Job URL: [link](https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
 
 
-# Serviceminded IT-supporter til international vækstvirksomhed
-27-03-2024
-
-Curia
-
-Hirtshals
-
-Job URL: [link](https://www.curia.dk/ledige-stillinger?jobid=22184&locale=da_DK)
-
-
 # IT Administrator
 24-04-2024
 
@@ -126,6 +116,16 @@ Sparekassen Danmark
 Hobro
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/505636/it-sikkerhedskonsulent)
+
+
+# IT-konsulent til Digitalisering og IT i Region Nordjylland
+15-04-2024
+
+Region Nordjylland
+
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12427075/it-konsulent-til-digitalisering-og-it-i-region-nordjylland)
 
 
 # En­tu­si­a­stisk Junior DevOps-konsulent til in­nova­tivt SaaS-projekt
