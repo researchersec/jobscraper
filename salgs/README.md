@@ -98,13 +98,3 @@ Sæby
 Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-saeby-ansoegningsfrist-29-april-2024/)
 
 
-# Salgsassistent til bageriudsalget - Aalborg
-25-04-2024
-
-føtex
-
-Aalborg
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/a82993a5-a775-4ad7-8300-04cec9dfc79b)
-
-
