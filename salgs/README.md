@@ -1,3 +1,13 @@
+# Fuldtidssælger til ILVA Hjørring
+26-04-2024
+
+ILVA
+
+Hjørring
+
+Job URL: [link](https://ilva.youngcrm.com/jobportal/9766)
+
+
 # Ahlsell søger 2 interne projektkonsulenter til sags- og projektstyring af større byggesager
 17-04-2024
 
@@ -66,15 +76,5 @@ Kvik A/S
 Aalborg SV
 
 Job URL: [link](https://kvik.easycruit.com/intranet/dkstores/vacancy/3330249/223417?iso=dk)
-
-
-# Butiksassistent under 18 år - Aalborg
-04-04-2024
-
-Netto
-
-Aalborg
-
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/8e87c552-076a-4ef4-be57-d796a110f635)
 
 
