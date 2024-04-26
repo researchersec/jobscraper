@@ -29,6 +29,7 @@ jobs:
         git config --global user.email "you@example.com"
         git config --global user.name "researchersec [bot]"
         git add it/README.md
+        git add it/data.json
         git commit -m "Auto scrape and update it/README.md"
         git push
 
