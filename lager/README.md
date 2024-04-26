@@ -1,10 +1,10 @@
-# NOWAS A/S søger lagermedarbejder (barselsvikariat)
-04-04-2024
+# Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
+05-04-2024
 
 
 
-Løgstør
+Hanstholm
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12403448/nowas-a-s-soeger-lagermedarbejder-barselsvikariat)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12406238/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm)
 
 
