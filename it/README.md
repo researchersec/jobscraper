@@ -18,6 +18,16 @@ Aalborg, Viby J, Herning, Kolding eller København
 Job URL: [link](https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
 
 
+# Field Service Engineer / tekniker med interesse i spændet mellem IT og automation
+26-04-2024
+
+ABB A/S
+
+Middelfart, Aalborg, Ballerup
+
+Job URL: [link](https://careers.abb/global/en/job/88070610/Field-Service-Engineer-tekniker-med-interesse-i-sp%C3%A6ndet-mellem-IT-og-automation)
+
+
 # IT Administrator
 25-04-2024
 
@@ -88,16 +98,6 @@ Aalborg Øst
 Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F147510%26locale%3Dda_DK)
 
 
-# IT-Supporter til 1. level support
-16-04-2024
-
-Skatteforvaltningen
-
-Aalborg
-
-Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=188691)
-
-
 # Solution Specialist – Network
 15-04-2024
 
@@ -116,16 +116,6 @@ Sparekassen Danmark
 Hobro
 
 Job URL: [link](https://www.jobindex.dk/jobannonce/505636/it-sikkerhedskonsulent)
-
-
-# IT-konsulent til Digitalisering og IT i Region Nordjylland
-15-04-2024
-
-Region Nordjylland
-
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12427075/it-konsulent-til-digitalisering-og-it-i-region-nordjylland)
 
 
 # En­tu­si­a­stisk Junior DevOps-konsulent til in­nova­tivt SaaS-projekt
