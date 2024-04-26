@@ -78,23 +78,3 @@ Aalborg
 Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/8e87c552-076a-4ef4-be57-d796a110f635)
 
 
-# Sommerassistance hos Imerco Skagen
-02-04-2024
-
-Imerco
-
-Skagen
-
-Job URL: [link](https://job.imerco.dk/ad/sommerassistance-hos-imerco-skagen/adef60/da)
-
-
-# Sælger
-02-04-2024
-
-Bygma
-
-Sæby
-
-Job URL: [link](https://www.bygmajob.dk/se-vores-ledige-stillinger/saelger-til-bygma-saeby-ansoegningsfrist-29-april-2024/)
-
-
