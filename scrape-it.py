@@ -2,6 +2,7 @@ import requests
 import os
 from bs4 import BeautifulSoup
 import re
+import json
 
 URL = "https://www.jobindex.dk/jobsoegning/it/itdrift/region-nordjylland"
 page = requests.get(URL)
@@ -22,22 +23,51 @@ def get_pub_date(result):
 # Sort the results by publication date
 results_sorted = sorted(results, key=lambda result: get_pub_date(result), reverse=True)
 
-with open("it/README.md", "w", encoding="utf-8") as file:
-    for result in results_sorted:
-        title_element = result.find("h4").find("a") if result.find("h4") else None
-        company_element = result.find("div", class_="jix-toolbar-top__company").find("a")
-        location_element = result.find("div", class_="jobad-element-area").find("span") if result.find("div", class_="jobad-element-area") else None
-        link_element = result.find("a", class_="btn btn-sm btn-block btn-primary d-md-none mt-2 seejobmobil")
+# List to store job listings
+job_listings = []
 
-        if title_element is not None and company_element is not None and location_element is not None:
-            title = title_element.text.strip()
-            company = company_element.text.strip()
-            location = location_element.text.strip()
-            job_URL = link_element.get("href")
-            pub_date = get_pub_date(result)
+for result in results_sorted:
+    title_element = result.find("h4").find("a") if result.find("h4") else None
+    company_element = result.find("div", class_="jix-toolbar-top__company")
+    location_element = (
+        result.find("div", class_="jobad-element-area").find("span")
+        if result.find("div", class_="jobad-element-area")
+        else None
+    )
+    link_element = result.find("a", class_="btn btn-sm btn-block btn-primary d-md-none mt-2 seejobmobil")
+    
+    if (
+        title_element is not None
+        and company_element is not None
+        and location_element is not None
+    ):
+        title = title_element.text.strip() if title_element else ""
+        company = (
+            company_element.find("a").text.strip()
+            if company_element.find("a")
+            else ""
+        )
+        location = location_element.text.strip()
+        job_URL = link_element.get("href")
+        pub_date = get_pub_date(result)
+        
+        job_listing = {
+            "pub_date": pub_date,
+            "title": title,
+            "company": company,
+            "location": location,
+            "job_URL": job_URL
+        }
+        job_listings.append(job_listing)
 
+        # Write to README.md
+        with open("it/README.md", "w", encoding="utf-8") as file:
             file.write(f"# {title}\n")
             file.write(f"{pub_date}\n\n")
             file.write(f"{company}\n\n")
             file.write(f"{location}\n\n")
             file.write(f"Job URL: [link]({job_URL})\n\n\n")
+
+# Write to JSON file
+with open("it/data.json", "w") as json_file:
+    json.dump(job_listings, json_file, indent=4, ensure_ascii=False)
