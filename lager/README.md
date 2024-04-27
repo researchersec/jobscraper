@@ -1,10 +1,10 @@
-# Lagermedarbejder med Truckerfaring i Fiskeindustrien - HANSTHOLM
-05-04-2024
+# Bliv en del af on-demandkorpset i Aalborg & omegn
+10-04-2024
 
 
 
-Hanstholm
+Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV, Aarhus C, Aarhus N, Aarhus V
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12406238/lagermedarbejder-med-truckerfaring-i-fiskeindustrien-hanstholm)
+Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=188598)
 
 
