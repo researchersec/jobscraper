@@ -1,10 +1,10 @@
-# Butiksassistent under 18 år - Aalborg
-04-04-2024
+# Sommerassistance hos Imerco Skagen
+02-04-2024
 
-Netto
+Imerco
 
-Aalborg
+Skagen
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/8e87c552-076a-4ef4-be57-d796a110f635)
+Job URL: [link](https://job.imerco.dk/ad/sommerassistance-hos-imerco-skagen/adef60/da)
 
 
