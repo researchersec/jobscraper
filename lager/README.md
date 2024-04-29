@@ -1,10 +1,10 @@
-# Bliv en del af on-demandkorpset i Aalborg & omegn
-10-04-2024
+# SISSEL EDELBO ApS søger en medarbejder til vores lager med sans for detaljen
+12-04-2024
 
 
 
-Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV, Aarhus C, Aarhus N, Aarhus V
+Aalborg
 
-Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=188598)
+Job URL: [link](https://ase-rekruttering.career.emply.com/ad/sissel-edelbo-aps-soger-en-medarbejder-til-vores-lager-med-sans-for-detaljen/koai2k/da)
 
 

@@ -1,5 +1,26 @@
 [
     {
+        "pub_date": "29-04-2024",
+        "title": "Lagermedarbejdere til sommersæsonen",
+        "company": "Color Line, Danmark A/S",
+        "location": "Hirtshals",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1327&ProjectId=144207&DepartmentId=18960&MediaId=5"
+    },
+    {
+        "pub_date": "29-04-2024",
+        "title": "Lagermedarbejder",
+        "company": "SAWO A/S",
+        "location": "Støvring",
+        "job_URL": "https://www.sawo.dk/da/job-i-sawo/lagermedarbejder-sawo-stovring"
+    },
+    {
+        "pub_date": "29-04-2024",
+        "title": "NOWAS A/S søger lagermedarbejder (barselsvikariat)",
+        "company": "",
+        "location": "Løgstør",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/nowas-as-soeger-lagermedarbejder-barselsvikariat-lja-85458575.aspx?jobId=LJA-85458575&list=SearchResultsJobsIds&index=1&querydesc=SearchJobQueryDescription&viewedfrom=1"
+    },
+    {
         "pub_date": "26-04-2024",
         "title": "Productdata & Stock Coordinator",
         "company": "Vilofarm",
@@ -68,12 +89,5 @@
         "company": "",
         "location": "Aalborg",
         "job_URL": "https://ase-rekruttering.career.emply.com/ad/sissel-edelbo-aps-soger-en-medarbejder-til-vores-lager-med-sans-for-detaljen/koai2k/da"
-    },
-    {
-        "pub_date": "10-04-2024",
-        "title": "Bliv en del af on-demandkorpset i Aalborg & omegn",
-        "company": "",
-        "location": "Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV, Aarhus C, Aarhus N, Aarhus V",
-        "job_URL": "https://mit.moment.dk/jobopslag/vis?no=188598"
     }
 ]
