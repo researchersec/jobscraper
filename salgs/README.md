@@ -1,10 +1,10 @@
-# Resultatorienteret sælger med stort drive
+# Butiksassistent under 18 år - Aalborg
 04-04-2024
 
-Kvik A/S
+Netto
 
-Aalborg SV
+Aalborg
 
-Job URL: [link](https://kvik.easycruit.com/intranet/dkstores/vacancy/3330249/223417?iso=dk)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/8e87c552-076a-4ef4-be57-d796a110f635)
 
 

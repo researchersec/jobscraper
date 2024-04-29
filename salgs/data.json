@@ -1,12 +1,5 @@
 [
     {
-        "pub_date": "26-04-2024",
-        "title": "Fuldtidssælger til ILVA Hjørring",
-        "company": "ILVA",
-        "location": "Hjørring",
-        "job_URL": "https://ilva.youngcrm.com/jobportal/9766"
-    },
-    {
         "pub_date": "17-04-2024",
         "title": "Ahlsell søger 2 interne projektkonsulenter til sags- og projektstyring af større byggesager",
         "company": "Ahlsell",
@@ -54,5 +47,12 @@
         "company": "Kvik A/S",
         "location": "Aalborg SV",
         "job_URL": "https://kvik.easycruit.com/intranet/dkstores/vacancy/3330249/223417?iso=dk"
+    },
+    {
+        "pub_date": "04-04-2024",
+        "title": "Butiksassistent under 18 år - Aalborg",
+        "company": "Netto",
+        "location": "Aalborg",
+        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/8e87c552-076a-4ef4-be57-d796a110f635"
     }
 ]
