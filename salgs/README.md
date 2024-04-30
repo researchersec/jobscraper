@@ -1,10 +1,10 @@
-# Sommerassistance hos Imerco Skagen
-02-04-2024
+# Resultatorienteret sælger med stort drive
+04-04-2024
 
-Imerco
+Kvik A/S
 
-Skagen
+Aalborg SV
 
-Job URL: [link](https://job.imerco.dk/ad/sommerassistance-hos-imerco-skagen/adef60/da)
+Job URL: [link](https://kvik.easycruit.com/intranet/dkstores/vacancy/3330249/223417?iso=dk)
 
 
