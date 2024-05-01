@@ -1,10 +1,10 @@
-# Danmarks førende dronevirksomhed søger Marketing Specialist
-18-04-2024
+# Customer Experience Manager
+29-04-2024
 
-Sky-Watch
+Telenor
 
-Støvring
+Aalborg og København SV
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/508118/danmarks-foerende-dronevirksomhed-soeger-marketing-specialist)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145795&DepartmentId=18957&MediaId=5)
 
 
