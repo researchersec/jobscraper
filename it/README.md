@@ -1,10 +1,10 @@
-# Bliv driftskonsulent og supporter
-02-04-2024
+# IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
+01-05-2024
 
-FieldService
+itm8
 
-Aalborg
+Aalborg, Viby J, Herning, Kolding eller København
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/504171/bliv-driftskonsulent-og-supporter)
+Job URL: [link](https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
 
 

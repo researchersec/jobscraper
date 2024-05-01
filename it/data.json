@@ -14,13 +14,6 @@
         "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/erfaren-raadgiver-til-it-revision-sikkerhed-aarhus"
     },
     {
-        "pub_date": "27-03-2024",
-        "title": "IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser",
-        "company": "itm8",
-        "location": "Aalborg, Viby J, Herning, Kolding eller København",
-        "job_URL": "https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser"
-    },
-    {
         "pub_date": "26-04-2024",
         "title": "Field Service Engineer / tekniker med interesse i spændet mellem IT og automation",
         "company": "ABB A/S",
@@ -110,5 +103,12 @@
         "company": "FieldService",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/504171/bliv-driftskonsulent-og-supporter"
+    },
+    {
+        "pub_date": "01-05-2024",
+        "title": "IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser",
+        "company": "itm8",
+        "location": "Aalborg, Viby J, Herning, Kolding eller København",
+        "job_URL": "https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser"
     }
 ]
