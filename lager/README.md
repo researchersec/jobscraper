@@ -1,10 +1,10 @@
-# SISSEL EDELBO ApS søger en medarbejder til vores lager med sans for detaljen
-12-04-2024
+# Lagermedarbejder søges til køle- frysehus
+01-05-2024
 
 
 
-Aalborg
+Hobro
 
-Job URL: [link](https://ase-rekruttering.career.emply.com/ad/sissel-edelbo-aps-soger-en-medarbejder-til-vores-lager-med-sans-for-detaljen/koai2k/da)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12460810/lagermedarbejder-soeges-til-koele-frysehus)
 
 
