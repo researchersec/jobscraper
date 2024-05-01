@@ -1,10 +1,10 @@
-# Senior UX designer for Energy Solutions
-15-04-2024
+# Danmarks førende dronevirksomhed søger Marketing Specialist
+18-04-2024
 
-KMD A/S
+Sky-Watch
 
-Ballerup, Aalborg, Odense SØ
+Støvring
 
-Job URL: [link](https://career5.successfactors.eu/sfcareer/jobreqcareer?jobId=33459&company=kmd)
+Job URL: [link](https://www.jobindex.dk/jobannonce/508118/danmarks-foerende-dronevirksomhed-soeger-marketing-specialist)
 
 
