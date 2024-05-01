@@ -1,10 +1,10 @@
-# Resultatorienteret sælger med stort drive
-04-04-2024
+# Dagrofa Foodservice Hjørring søger en Sæsonmedarbejder til sommerferien på 25-37 timer
+01-05-2024
 
-Kvik A/S
+Dagrofa Foodservice
 
-Aalborg SV
+Hjørring
 
-Job URL: [link](https://kvik.easycruit.com/intranet/dkstores/vacancy/3330249/223417?iso=dk)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146812&DepartmentId=19005&MediaId=4623)
 
 
