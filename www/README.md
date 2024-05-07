@@ -1,10 +1,10 @@
-# Customer Experience Manager
-29-04-2024
+# Marketing Koordinator Lyngsoe Systems Library Solutions
+07-05-2024
 
-Telenor
+Hviid & Larsen ApS
 
-Aalborg og København SV
+Aars
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145795&DepartmentId=18957&MediaId=5)
+Job URL: [link](https://www.hviidoglarsen.dk/jobs?hr=show-job/198000&linkref=199163&locale=da_DK)
 
 
