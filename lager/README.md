@@ -1,10 +1,10 @@
-# Lagermedarbejder søges til køle- frysehus
+# Fuldtids Barselsvikar til Logistikservice
 01-05-2024
 
+PWT Group A/S
 
+Aalborg Øst
 
-Hobro
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12460810/lagermedarbejder-soeges-til-koele-frysehus)
+Job URL: [link](https://pwt.youngcrm.com/jobportal/9792?utm_source=youngcrm&utm_medium=notification&utm_campaign=media)
 
 
