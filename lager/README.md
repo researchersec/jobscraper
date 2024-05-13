@@ -1,10 +1,10 @@
-# Fuldtids Barselsvikar til Logistikservice
-01-05-2024
+# Lagerchef hos Taabbel Hanstholm
+03-05-2024
 
-PWT Group A/S
 
-Aalborg Øst
 
-Job URL: [link](https://pwt.youngcrm.com/jobportal/9792?utm_source=youngcrm&utm_medium=notification&utm_campaign=media)
+Hanstholm
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12467101/lagerchef-hos-taabbel-hanstholm)
 
 
