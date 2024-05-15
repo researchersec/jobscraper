@@ -36,13 +36,6 @@
     },
     {
         "pub_date": "14-05-2024",
-        "title": "Forklift driver for night and morning shift, 10 hours per week, Aalborg",
-        "company": "IKEA",
-        "location": "Aalborg SV",
-        "job_URL": "https://jobs.ikea.com/da/job/aalborg/forklift-driver-for-night-and-morning-shift-10-hours-per-week-aalborg/24107/65178368240"
-    },
-    {
-        "pub_date": "14-05-2024",
         "title": "Truckfører til pluk og udlevering, 10 timer ugentligt, Aalborg",
         "company": "IKEA",
         "location": "Aalborg SV",
@@ -103,5 +96,12 @@
         "company": "Forsvaret",
         "location": "Pandrup",
         "job_URL": "https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=190917&mediaId=4681"
+    },
+    {
+        "pub_date": "03-05-2024",
+        "title": "Lagerchef hos Taabbel Hanstholm",
+        "company": "",
+        "location": "Hanstholm",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12467101/lagerchef-hos-taabbel-hanstholm"
     }
 ]

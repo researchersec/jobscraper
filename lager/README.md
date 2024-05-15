@@ -1,10 +1,10 @@
-# Lager- og logistikoperatører til Forsvarets nye lagerfacilitet i Pandrup
+# Lagerchef hos Taabbel Hanstholm
 03-05-2024
 
-Forsvaret
 
-Pandrup
 
-Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=190917&mediaId=4681)
+Hanstholm
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12467101/lagerchef-hos-taabbel-hanstholm)
 
 
