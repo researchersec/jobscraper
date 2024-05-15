@@ -5,6 +5,6 @@ Itm8
 
 Herning, København Ø, Kolding, Aalborg SØ, Viby J
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/504756/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1449663/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
 
 
