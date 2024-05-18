@@ -28,13 +28,6 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/h1462751/er-du-vores-nye-lager-og-produktionsmedarbejder"
     },
     {
-        "pub_date": "19-04-2024",
-        "title": "Warehouse Manager",
-        "company": "GPV International A/S",
-        "location": "Aars",
-        "job_URL": "https://app.jobmatchprofile.com/mahht7"
-    },
-    {
         "pub_date": "17-05-2024",
         "title": "Vi søger to lagermedarbejdere",
         "company": "Nordic Computer A/S",
@@ -91,10 +84,17 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/r12475136/itlagersalgdk-mangler-haender"
     },
     {
-        "pub_date": "06-05-2024",
-        "title": "Lagermedarbejder Park og vej",
-        "company": "Hjørring Kommune",
-        "location": "Hjørring",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12471800/lagermedarbejder-park-og-vej"
+        "pub_date": "03-05-2024",
+        "title": "Lager- og logistikoperatører til Forsvarets nye lagerfacilitet i Pandrup",
+        "company": "Forsvaret",
+        "location": "Pandrup",
+        "job_URL": "https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=190917&mediaId=4681"
+    },
+    {
+        "pub_date": "03-05-2024",
+        "title": "Lagerchef hos Taabbel Hanstholm",
+        "company": "",
+        "location": "Hanstholm",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12467101/lagerchef-hos-taabbel-hanstholm"
     }
 ]

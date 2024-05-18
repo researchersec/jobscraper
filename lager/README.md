@@ -1,10 +1,10 @@
-# Lagermedarbejder Park og vej
-06-05-2024
+# Lagerchef hos Taabbel Hanstholm
+03-05-2024
 
-Hjørring Kommune
 
-Hjørring
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12471800/lagermedarbejder-park-og-vej)
+Hanstholm
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12467101/lagerchef-hos-taabbel-hanstholm)
 
 
