@@ -1,10 +1,10 @@
-# Lager- og logistikoperatører til Forsvarets nye lagerfacilitet i Pandrup
-03-05-2024
+# Lagermedarbejder med lager erfaring og interesse i intern salg søges
+08-05-2024
 
-Forsvaret
 
-Pandrup
 
-Job URL: [link](https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=190917&mediaId=4681)
+Hjørring
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12482168/lagermedarbejder-med-lager-erfaring-og-interesse-i-intern-salg-soeges)
 
 
