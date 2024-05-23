@@ -1,10 +1,10 @@
-# Marketing Koordinator Lyngsoe Systems Library Solutions
-07-05-2024
+# Digital marketingspecialist og webmaster
+08-05-2024
 
-Hviid & Larsen ApS
+Miljømærkning Danmark
 
-Aars
+København eller Løgstør
 
-Job URL: [link](https://www.hviidoglarsen.dk/jobs?hr=show-job/198000&linkref=199163&locale=da_DK)
+Job URL: [link](https://ecolabel.career.emply.com/ad/digital-marketingspecialist-og-webmaster/2nlqmq/da)
 
 
