@@ -21,6 +21,20 @@
         "job_URL": "https://vilofarm.dk/karriere/jobdetaljeside?jobId=144866"
     },
     {
+        "pub_date": "24-05-2024",
+        "title": "Lageransvarlig",
+        "company": "Advanced Industries Packaging A/S",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/img/pdf/Advanced-Industries-Lageransvarlig.pdf"
+    },
+    {
+        "pub_date": "24-05-2024",
+        "title": "Butler-loftet.dk søger en ny medarbejder til vores lager i Nørresundby",
+        "company": "",
+        "location": "Nørresundby",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/butler-loftetdk-soeger-en-ny-medarbejder-til-vores-lager-i-noerresundby-lja-85499811.aspx?jobId=LJA-85499811&list=SearchResultsJobsIds&index=7&querydesc=SearchJobQueryDescription&viewedfrom=1"
+    },
+    {
         "pub_date": "23-05-2024",
         "title": "Assistent til Coop Logistik, Aalborg Distributionscenter",
         "company": "Coop Logistik",
@@ -89,12 +103,5 @@
         "company": "",
         "location": "Hjørring",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12482168/lagermedarbejder-med-lager-erfaring-og-interesse-i-intern-salg-soeges"
-    },
-    {
-        "pub_date": "03-05-2024",
-        "title": "Lager- og logistikoperatører til Forsvarets nye lagerfacilitet i Pandrup",
-        "company": "Forsvaret",
-        "location": "Pandrup",
-        "job_URL": "https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=190917&mediaId=4681"
     }
 ]
