@@ -1,10 +1,10 @@
-# Lagermedarbejder med lager erfaring og interesse i intern salg søges
+# Lagermedarbejder primært til plukning og pakning søges
 08-05-2024
 
 
 
-Hjørring
+Svenstrup J
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12482168/lagermedarbejder-med-lager-erfaring-og-interesse-i-intern-salg-soeges)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12478935/lagermedarbejder-primaert-til-plukning-og-pakning-soeges)
 
 
