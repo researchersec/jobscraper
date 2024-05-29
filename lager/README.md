@@ -1,10 +1,10 @@
-# Lagermedarbejder primært til plukning og pakning søges
+# Lagermedarbejder
 08-05-2024
 
+DSI Dantech
 
+Aalborg
 
-Svenstrup J
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12478935/lagermedarbejder-primaert-til-plukning-og-pakning-soeges)
+Job URL: [link](https://dsidantech.com/career?hr=show-job%2F198132%26locale%3Dda_DK)
 
 

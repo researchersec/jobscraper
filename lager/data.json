@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "29-05-2024",
+        "title": "Lagermedarbejder",
+        "company": "GLOBAL BOILER AALBORG A/S",
+        "location": "Svenstrup J",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12524881/lagermedarbejder"
+    },
+    {
         "pub_date": "28-05-2024",
         "title": "Lagerassistent fuld tid til vores logistikafdeling",
         "company": "PWT Group A/S",
@@ -12,13 +19,6 @@
         "company": "FF TOOL",
         "location": "Aalborg Øst",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12522551/lagermedarbejder"
-    },
-    {
-        "pub_date": "28-05-2024",
-        "title": "Lagermedarbejder",
-        "company": "GLOBAL BOILER AALBORG A/S",
-        "location": "Svenstrup J",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/lagermedarbejder-lja-85516428.aspx?jobId=LJA-85516428&list=SearchResultsJobsIds&index=3&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "pub_date": "27-05-2024",
@@ -84,24 +84,10 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/r12499943/lagerekspedient"
     },
     {
-        "pub_date": "14-05-2024",
-        "title": "Truckfører til pluk og udlevering, 10 timer ugentligt, Aalborg",
-        "company": "IKEA",
-        "location": "Aalborg SV",
-        "job_URL": "https://jobs.ikea.com/da/job/aalborg/truckf-rer-til-pluk-og-udlevering-10-timer-ugentligt-aalborg/24107/65180027232"
-    },
-    {
         "pub_date": "08-05-2024",
         "title": "Lagermedarbejder",
         "company": "DSI Dantech",
         "location": "Aalborg",
         "job_URL": "https://dsidantech.com/career?hr=show-job%2F198132%26locale%3Dda_DK"
-    },
-    {
-        "pub_date": "08-05-2024",
-        "title": "Lagermedarbejder primært til plukning og pakning søges",
-        "company": "",
-        "location": "Svenstrup J",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12478935/lagermedarbejder-primaert-til-plukning-og-pakning-soeges"
     }
 ]
