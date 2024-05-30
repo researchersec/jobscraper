@@ -1,10 +1,10 @@
-# Reservedelsekspedient
-02-05-2024
+# Kom med ombord, vi søger ny salgsassistent
+03-05-2024
 
-Almas Park & Fritid A/S
+Dansk Marine Center - Bådudstyr ApS
 
-Aalborg SØ
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/img/pdf/AlmasPark-Reservedelsekspedient-24.pdf)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1466180/kom-med-ombord-vi-soeger-ny-salgsassistent)
 
 

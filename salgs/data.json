@@ -1,5 +1,19 @@
 [
     {
+        "pub_date": "30-05-2024",
+        "title": "Medarbejder til delikatessen - Frederikshavn",
+        "company": "føtex",
+        "location": "Frederikshavn",
+        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/c4991cb8-fc17-4a68-8f47-5bc751fd3b65"
+    },
+    {
+        "pub_date": "30-05-2024",
+        "title": "Hvis du vil udvikle dig, kan du blive sælger i thansen!",
+        "company": "T. Hansen Gruppen A/S",
+        "location": "Aalborg SV",
+        "job_URL": "https://www.jobindex.dk/jobannonce/reportage/774/thansen-saelger-til-butik"
+    },
+    {
         "pub_date": "29-05-2024",
         "title": "Butikssælger",
         "company": "INTERSPORT",
@@ -47,12 +61,5 @@
         "company": "Dansk Marine Center - Bådudstyr ApS",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1466180/kom-med-ombord-vi-soeger-ny-salgsassistent"
-    },
-    {
-        "pub_date": "02-05-2024",
-        "title": "Reservedelsekspedient",
-        "company": "Almas Park & Fritid A/S",
-        "location": "Aalborg SØ",
-        "job_URL": "https://www.jobindex.dk/img/pdf/AlmasPark-Reservedelsekspedient-24.pdf"
     }
 ]
