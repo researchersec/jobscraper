@@ -1,10 +1,10 @@
-# Digital marketingspecialist og webmaster
-08-05-2024
+# Global Lead, Digital Campaigns & Content
+14-05-2024
 
-Miljømærkning Danmark
+Bavarian Nordic A/S
 
-København eller Løgstør
+Switzerland, Germany, Denmark, or UK
 
-Job URL: [link](https://ecolabel.career.emply.com/ad/digital-marketingspecialist-og-webmaster/2nlqmq/da)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1576&ProjectId=146862&DepartmentId=18964&MediaId=4625)
 
 
