@@ -14,6 +14,13 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/r12525548/it-konsulent-med-gode-kommunikationsevner-og-lyst-til-at-arbejde-med-at-bringe-sundhedsvaesenet-taet-paa-borgeren"
     },
     {
+        "pub_date": "29-05-2024",
+        "title": "Vi søger en kompetent og engageret Intune-specialist til vores Cloud & Mobility team",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/vi-soeger-en-kompetent-og-engageret-intune-specialist-til-vores-cloud-lja-85518455.aspx?jobId=LJA-85518455&list=SearchResultsJobsIds&index=11&querydesc=SearchJobQueryDescription&viewedfrom=1"
+    },
+    {
         "pub_date": "28-05-2024",
         "title": "Senior Security Advisor",
         "company": "Telenor",
@@ -117,12 +124,5 @@
         "company": "XCI A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://xci.teamtailor.com/jobs/4264617-systemkonsulent?promotion=1005550-jobindex"
-    },
-    {
-        "pub_date": "01-05-2024",
-        "title": "IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser",
-        "company": "Itm8",
-        "location": "Herning, København Ø, Kolding, Aalborg SØ, Viby J",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1449663/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser"
     }
 ]

@@ -1,10 +1,10 @@
-# IT-infrastrukturkonsulent – få frihed og udvikling (næsten) uden grænser
-01-05-2024
+# Systemkonsulent
+02-05-2024
 
-Itm8
+XCI A/S
 
-Herning, København Ø, Kolding, Aalborg SØ, Viby J
+Aalborg Øst
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1449663/it-infrastrukturkonsulent-faa-frihed-og-udvikling-naesten-uden-graenser)
+Job URL: [link](https://xci.teamtailor.com/jobs/4264617-systemkonsulent?promotion=1005550-jobindex)
 
 
