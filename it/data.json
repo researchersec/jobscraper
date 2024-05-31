@@ -77,6 +77,13 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/h1472123/teknisk-supporter-m-mekanikerbaggrund"
     },
     {
+        "pub_date": "27-05-2024",
+        "title": "Fællesregional Systemadministrator til ”National og Tværsektoriel IT”",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12518933/faellesregional-systemadministrator-til-national-og-tvaersektoriel-it"
+    },
+    {
         "pub_date": "23-05-2024",
         "title": "Erfaren IT-administrator til intern IT-afdeling",
         "company": "Beierholm – Statsautoriseret Revisionspartnerselskab",
@@ -117,12 +124,5 @@
         "company": "Outline Vinduer A/S",
         "location": "Farsø",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1467443/dataanalytiker-med-gode-it-faerdigheder-og-flair-for-systemforstaaelse"
-    },
-    {
-        "pub_date": "02-05-2024",
-        "title": "Systemkonsulent",
-        "company": "XCI A/S",
-        "location": "Aalborg Øst",
-        "job_URL": "https://xci.teamtailor.com/jobs/4264617-systemkonsulent?promotion=1005550-jobindex"
     }
 ]
