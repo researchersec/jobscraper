@@ -1,10 +1,10 @@
-# Kom med ombord, vi søger ny salgsassistent
-03-05-2024
+# Proff værktøjssælger til XL-BYG Farsø
+06-05-2024
 
-Dansk Marine Center - Bådudstyr ApS
+XL-BYG
 
-Aalborg
+Farsø
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1466180/kom-med-ombord-vi-soeger-ny-salgsassistent)
+Job URL: [link](https://app.elvium.com/da/positions/26243/job_posting?referer_host=www.jobindex.dk)
 
 
