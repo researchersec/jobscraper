@@ -14,13 +14,6 @@
         "job_URL": "https://itcn.dk/job/?id=992"
     },
     {
-        "pub_date": "31-05-2024",
-        "title": "Vi søger en IT-supporter til det nye E-Team, hvor digitalisering skal gå hånd i hånd med sundhedsfaglige og pædagogiske",
-        "company": "Hjørring Kommune",
-        "location": "Hjørring",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/vi-soeger-en-it-supporter-til-det-nye-e-team-hvor-digitalisering-skal-lja-85521721.aspx?jobId=LJA-85521721&list=SearchResultsJobsIds&index=20&querydesc=SearchJobQueryDescription&viewedfrom=1"
-    },
-    {
         "pub_date": "30-05-2024",
         "title": "Vi søger en kompetent og engageret Intune-specialist til vores Cloud & Mobility team",
         "company": "Region Nordjylland",
@@ -131,5 +124,12 @@
         "company": "Outline Vinduer A/S",
         "location": "Farsø",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1467443/dataanalytiker-med-gode-it-faerdigheder-og-flair-for-systemforstaaelse"
+    },
+    {
+        "pub_date": "03-06-2024",
+        "title": "Vi søger en IT-supporter til det nye E-Team, hvor digitalisering skal gå hånd i hånd med sundhedsfaglige og pædagogiske kompe...",
+        "company": "Hjørring Kommune",
+        "location": "Hjørring",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12536679/vi-soeger-en-it-supporter-til-det-nye-e-team-hvor-digitalisering-skal-gaa-haand-i-haand-med-sundhedsfaglige-og-paedagogiske-kompe"
     }
 ]

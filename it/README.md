@@ -1,10 +1,10 @@
-# Dataanalytiker med gode IT-færdigheder og flair for systemforståelse
-08-05-2024
+# Vi søger en IT-supporter til det nye E-Team, hvor digitalisering skal gå hånd i hånd med sundhedsfaglige og pædagogiske kompe...
+03-06-2024
 
-Outline Vinduer A/S
+Hjørring Kommune
 
-Farsø
+Hjørring
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1467443/dataanalytiker-med-gode-it-faerdigheder-og-flair-for-systemforstaaelse)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12536679/vi-soeger-en-it-supporter-til-det-nye-e-team-hvor-digitalisering-skal-gaa-haand-i-haand-med-sundhedsfaglige-og-paedagogiske-kompe)
 
 
