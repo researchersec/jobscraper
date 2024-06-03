@@ -1,10 +1,10 @@
-# Faglært sælger til Dame i Salling Aalborg
+# Personal Shopper
 03-06-2024
 
-Salling
+CHANGE of Scandinavia A/S
 
-Aalborg
+Thisted
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/34e500b5-ce80-427c-88c7-7ac856b42e4a)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146137&DepartmentId=18981&MediaId=59)
 
 
