@@ -1,10 +1,10 @@
-# Kasseassistent - Aalborg
-01-06-2024
+# Faglært sælger til Dame i Salling Aalborg
+03-06-2024
 
-føtex
+Salling
 
 Aalborg
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/4245a8ab-918c-4529-8c14-e276df01c56d)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/34e500b5-ce80-427c-88c7-7ac856b42e4a)
 
 
