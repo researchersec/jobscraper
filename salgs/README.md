@@ -1,10 +1,10 @@
-# Personal Shopper
+# Kalder alle supersælgere! Circle K Hadsund søger en sælger på 25 timer til deres team
 03-06-2024
 
-CHANGE of Scandinavia A/S
+CIRCLE K DANMARK A/S
 
-Thisted
+Hadsund
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146137&DepartmentId=18981&MediaId=59)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/kalder-alle-supersaelgere-circle-k-hadsund-soeger-en-saelger-paa-25-timer-lja-85526241.aspx?jobId=LJA-85526241&list=SearchResultsJobsIds&index=1&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
