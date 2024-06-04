@@ -1,10 +1,10 @@
-# Lagermedarbejder
-08-05-2024
+# Local surplus food organisation is looking for a refugee from Ukraine
+04-06-2024
 
-DSI Dantech
 
-Aalborg
 
-Job URL: [link](https://dsidantech.com/career?hr=show-job%2F198132%26locale%3Dda_DK)
+Aalborg Øst
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12539661/local-surplus-food-organisation-is-looking-for-a-refugee-from-ukraine)
 
 

@@ -56,13 +56,6 @@
         "job_URL": "https://www.nordjyskejob.dk/resultat/fleksibel-produktionsmedarbejder-til-aften-og-natarbejde-lja-85497987.aspx?jobId=LJA-85497987&list=SearchResultsJobsIds&index=2&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
-        "pub_date": "21-05-2024",
-        "title": "Frivillig chauffør/lager",
-        "company": "",
-        "location": "Aalborg SV",
-        "job_URL": "https://frivilligjob.dk/job/150015/frivillig-chauffor-lager"
-    },
-    {
         "pub_date": "17-05-2024",
         "title": "Vi søger to lagermedarbejdere",
         "company": "Nordic Computer A/S",
@@ -70,17 +63,17 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/h1469774/vi-soeger-to-lagermedarbejdere"
     },
     {
-        "pub_date": "17-05-2024",
-        "title": "Lagerekspedient",
-        "company": "Pedersen & Nielsen Automobilforretning",
-        "location": "Hjørring",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12499943/lagerekspedient"
-    },
-    {
         "pub_date": "08-05-2024",
         "title": "Lagermedarbejder",
         "company": "DSI Dantech",
         "location": "Aalborg",
         "job_URL": "https://dsidantech.com/career?hr=show-job%2F198132%26locale%3Dda_DK"
+    },
+    {
+        "pub_date": "04-06-2024",
+        "title": "Local surplus food organisation is looking for a refugee from Ukraine",
+        "company": "",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12539661/local-surplus-food-organisation-is-looking-for-a-refugee-from-ukraine"
     }
 ]
