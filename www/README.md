@@ -1,10 +1,10 @@
-# Global Lead, Digital Campaigns & Content
-14-05-2024
+# E-Commerce Lead Specialist
+27-05-2024
 
-Bavarian Nordic A/S
+Shaping New Tomorrow
 
-Switzerland, Germany, Denmark, or UK
+Aalborg
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1576&ProjectId=146862&DepartmentId=18964&MediaId=4625)
+Job URL: [link](https://career.shapingnewtomorrow.com/jobs/3717019-e-commerce-lead-specialist-web-merchandising)
 
 
