@@ -1,10 +1,10 @@
-# Local surplus food organisation is looking for a refugee from Ukraine
-04-06-2024
+# Lagermedarbejder
+06-06-2024
 
+Epoka A/S
 
+Svenstrup J
 
-Aalborg Øst
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12539661/local-surplus-food-organisation-is-looking-for-a-refugee-from-ukraine)
+Job URL: [link](https://epoka.emply.net/recruitment/vacancyAd.aspx?publishingId=ff106be4-543f-4ef2-b316-9cbbbb16e391)
 
 
