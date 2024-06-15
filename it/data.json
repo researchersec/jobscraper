@@ -14,6 +14,13 @@
         "job_URL": "https://itcn.dk/job/?id=992"
     },
     {
+        "pub_date": "30-05-2024",
+        "title": "Vi søger en kompetent og engageret Intune-specialist til vores Cloud & Mobility team",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12528964/vi-soeger-en-kompetent-og-engageret-intune-specialist-til-vores-cloud-mobility-team"
+    },
+    {
         "pub_date": "29-05-2024",
         "title": "Senior Security Manager",
         "company": "Continia Software A/S",
@@ -33,13 +40,6 @@
         "company": "Arctic Import A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1472774/ax-controller"
-    },
-    {
-        "pub_date": "28-05-2024",
-        "title": "AI-konsulent til By og Land",
-        "company": "Aalborg Kommune",
-        "location": "Nørresundby",
-        "job_URL": "https://aalborg.career.emply.com/ad/ai-konsulent-til-by-og-land-aalborg-kommune/jw9iz1/da"
     },
     {
         "pub_date": "28-05-2024",
@@ -68,13 +68,6 @@
         "company": "Netcompany A/S",
         "location": "Aalborg eller København K",
         "job_URL": "https://smrtr.io/gP-sr"
-    },
-    {
-        "pub_date": "17-05-2024",
-        "title": "Dygtig systemadministrator til Aalborg Universitets VMware-team",
-        "company": "Aalborg Universitet",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219003"
     },
     {
         "pub_date": "14-06-2024",
@@ -131,5 +124,12 @@
         "company": "IT Center Nord",
         "location": "Aalborg",
         "job_URL": "https://itcn.dk/job/?id=996"
+    },
+    {
+        "pub_date": "03-06-2024",
+        "title": "Vi søger en IT-supporter til det nye E-Team, hvor digitalisering skal gå hånd i hånd med sundhedsfaglige og pædagogiske kompe...",
+        "company": "Hjørring Kommune",
+        "location": "Hjørring",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12536679/vi-soeger-en-it-supporter-til-det-nye-e-team-hvor-digitalisering-skal-gaa-haand-i-haand-med-sundhedsfaglige-og-paedagogiske-kompe"
     }
 ]
