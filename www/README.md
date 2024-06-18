@@ -1,10 +1,10 @@
-# E-Commerce Lead Specialist
-27-05-2024
+# Senior Digital Designer (UX/UI) med sans for Service Design
+18-06-2024
 
-Shaping New Tomorrow
+Nykredit
 
-Aalborg
+København eller Aalborg
 
-Job URL: [link](https://career.shapingnewtomorrow.com/jobs/3717019-e-commerce-lead-specialist-web-merchandising)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1479104/senior-digital-designer-ux-ui-med-sans-for-service-design)
 
 
