@@ -1,10 +1,10 @@
-# UCN Servicecenter søger IT-supporter med kompetencer til at yde serviceorienteret support
+# Erfaren Operations Specialist
 07-06-2024
 
-Professionshøjskolen UCN
+Ahlsell
 
-Aalborg Ø
+Aalborg
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=180765&DepartmentId=10066&MediaId=59)
+Job URL: [link](https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16140)
 
 
