@@ -1,10 +1,10 @@
-# Infrastruktur-konsulent søges til itm8 i Skovlunde, Aalborg eller Viby
+# Data-specialist med flair for programmering
 10-06-2024
 
-Itm8
+Nordjyllands Trafikselskab
 
-Skovlunde, Viby J, Aalborg SØ
+Aalborg
 
-Job URL: [link](https://www.it-jobbank.dk/c?t=h1476593&ctx=j&utm_source=partner&utm_medium=jobindex&utm_campaign=jobannonce)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1476943/data-specialist-med-flair-for-programmering)
 
 
