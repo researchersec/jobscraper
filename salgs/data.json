@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "28-06-2024",
+        "title": "Delikatesseassistent",
+        "company": "Meny",
+        "location": "Klarup",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=146962&DepartmentId=19086&MediaId=4623"
+    },
+    {
         "pub_date": "21-06-2024",
         "title": "Vi søger Indretningskonsulent/Sælger til KVIK hos Tømmergaarden i Thisted",
         "company": "XL-BYG",
@@ -68,12 +75,5 @@
         "company": "Kvik A/S",
         "location": "Aalborg SV",
         "job_URL": "https://kvik.easycruit.com/vacancy/3330249/223417?iso=dk"
-    },
-    {
-        "pub_date": "04-06-2024",
-        "title": "Bliv salgsassistent",
-        "company": "Louis Nielsen A/S",
-        "location": "Thisted",
-        "job_URL": "https://www.jobindex.dk/jobannonce/reportage/1947/bliv-salgsassistent-thisted"
     }
 ]

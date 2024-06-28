@@ -1,10 +1,10 @@
-# Bliv salgsassistent
+# Resultatorienteret sælger med stort drive
 04-06-2024
 
-Louis Nielsen A/S
+Kvik A/S
 
-Thisted
+Aalborg SV
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1947/bliv-salgsassistent-thisted)
+Job URL: [link](https://kvik.easycruit.com/vacancy/3330249/223417?iso=dk)
 
 
