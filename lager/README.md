@@ -1,10 +1,10 @@
-# Lagermedarbejder
-06-06-2024
+# Bliv en del af on-demandkorpset i Aalborg & omegn
+01-07-2024
 
-Epoka A/S
 
-Svenstrup J
 
-Job URL: [link](https://epoka.emply.net/recruitment/vacancyAd.aspx?publishingId=ff106be4-543f-4ef2-b316-9cbbbb16e391)
+Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV, Aarhus C, Aarhus N, Aarhus V
+
+Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=189950)
 
 
