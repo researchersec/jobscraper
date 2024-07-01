@@ -1,10 +1,10 @@
-# Bliv en del af on-demandkorpset i Aalborg & omegn
+# Lagermedarbejder søges til vores Delivery Team i Aalborg
 01-07-2024
 
+Saferoad Traffic A/S
 
+Aalborg
 
-Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV, Aarhus C, Aarhus N, Aarhus V
-
-Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=189950)
+Job URL: [link](https://www.mestertidende.dk/job/view/686265/lagermedarbejder_soges_til_vores_delivery_team_i_aalborg)
 
 
