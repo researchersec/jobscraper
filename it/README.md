@@ -1,10 +1,10 @@
-# Data-specialist med flair for programmering
-10-06-2024
+# Customer Advisor - KMD Opus
+01-07-2024
 
-Nordjyllands Trafikselskab
+KMD A/S
 
 Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1476943/data-specialist-med-flair-for-programmering)
+Job URL: [link](https://jobs.kmd.net/default/job/Aalborg-Customer-Advisor-KMD-Opus-9000/1088890601/)
 
 
