@@ -1,10 +1,10 @@
-# E-commerce & Marketing Specialist
-28-06-2024
+# E-commerce Sales Specialist
+02-07-2024
 
-Tibnor A/S
+Sol og Strand Feriehusudlejning A/S
 
-Aalborg
+Blokhus
 
-Job URL: [link](https://recruitmentssab.csod.com/ux/ats/careersite/9/home/requisition/16646?c=recruitmentssab)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1482891/e-commerce-sales-specialist)
 
 
