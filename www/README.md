@@ -1,10 +1,10 @@
-# Senior Digital Designer (UX/UI) med sans for Service Design
-18-06-2024
+# E-commerce & Marketing Specialist
+28-06-2024
 
-Nykredit
+Tibnor A/S
 
-København eller Aalborg
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1479104/senior-digital-designer-ux-ui-med-sans-for-service-design)
+Job URL: [link](https://recruitmentssab.csod.com/ux/ats/careersite/9/home/requisition/16646?c=recruitmentssab)
 
 
