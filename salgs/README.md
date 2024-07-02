@@ -1,10 +1,10 @@
-# Bliv salgsassistent
-04-06-2024
+# Salgsassistenter
+02-07-2024
 
-Louis Nielsen A/S
+XL-BYG
 
-Thisted
+Hadsund
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/1947/bliv-salgsassistent-thisted)
+Job URL: [link](https://app.elvium.com/da/positions/26968/job_posting?referer_host=www.jobindex.dk)
 
 
