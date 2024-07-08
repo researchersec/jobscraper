@@ -84,11 +84,25 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/h1476943/data-specialist-med-flair-for-programmering"
     },
     {
-        "pub_date": "05-07-2024",
+        "pub_date": "08-07-2024",
         "title": "It Services på Aalborg Universitet søger medarbejder til Learning Management",
         "company": "Aalborg Universitet",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219152"
+    },
+    {
+        "pub_date": "08-07-2024",
+        "title": "Ahlsell søger lige nu en EDI konsulent til vores kontor i Aalborg",
+        "company": "Ahlsell",
         "location": "Aalborg",
-        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219152"
+        "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16151"
+    },
+    {
+        "pub_date": "08-07-2024",
+        "title": "IT-supporter til IT og Digitalisering",
+        "company": "Rebild Kommune",
+        "location": "Støvring",
+        "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1541&WebAdId=126580"
     },
     {
         "pub_date": "04-07-2024",
@@ -110,13 +124,6 @@
         "company": "BILA A/S",
         "location": "Nykøbing M",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144207&DepartmentId=18956&MediaId=4614"
-    },
-    {
-        "pub_date": "02-07-2024",
-        "title": "IT-supporter, der kan gøre support til en oplevelse",
-        "company": "Aalborg Forsyning",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12598319/it-supporter-der-kan-goere-support-til-en-oplevelse"
     },
     {
         "pub_date": "01-07-2024",
