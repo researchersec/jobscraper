@@ -1,10 +1,10 @@
-# Sales & Service Ambassadors til Mens Fashion Herre · Kongens Nytorv
+# SÆLGER – BOLIG (DELTID / TIDSBEGRÆNSET)
 05-07-2024
 
-Magasin
+BAHNE SØRENSEN A/S Fisketorvets Shopping Center
 
-Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus
+Aalborg
 
-Job URL: [link](https://karriere.magasin.dk/jobs/4704311-sales-service-ambassadors-til-mens-fashion)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12610815/saelger-bolig-deltid-tidsbegraenset)
 
 
