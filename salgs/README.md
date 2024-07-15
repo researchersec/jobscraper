@@ -1,10 +1,10 @@
-# Salgsassistenter
-02-07-2024
+# Sales & Service Ambassadors til Mens Fashion Herre · Kongens Nytorv
+05-07-2024
 
-XL-BYG
+Magasin
 
-Hadsund
+Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus
 
-Job URL: [link](https://app.elvium.com/da/positions/26968/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://karriere.magasin.dk/jobs/4704311-sales-service-ambassadors-til-mens-fashion)
 
 
