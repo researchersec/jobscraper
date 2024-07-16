@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "16-07-2024",
+        "title": "Personal Shopper Dame Fashion Dame · Kongens Nytorv",
+        "company": "Magasin",
+        "location": "Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus",
+        "job_URL": "https://karriere.magasin.dk/jobs/4699267-personal-shopper-dame-fashion"
+    },
+    {
+        "pub_date": "16-07-2024",
         "title": "Salgsassistent til Skagen Bageri & Café",
         "company": "",
         "location": "Skagen",
@@ -75,12 +82,5 @@
         "company": "Magasin",
         "location": "Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus",
         "job_URL": "https://karriere.magasin.dk/jobs/4714332-sales-service-ambassador-dame-fashion"
-    },
-    {
-        "pub_date": "05-07-2024",
-        "title": "ASSISTANCEMEDARBEJDER MODE / BOLIG",
-        "company": "BAHNE SØRENSEN A/S Fisketorvets Shopping Center",
-        "location": "Aalborg SV",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12610812/assistancemedarbejder-mode-bolig"
     }
 ]

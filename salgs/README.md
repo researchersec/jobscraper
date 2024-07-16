@@ -1,10 +1,10 @@
-# ASSISTANCEMEDARBEJDER MODE / BOLIG
-05-07-2024
+# Sales & Service Ambassador Dame Fashion Dame · Fields
+08-07-2024
 
-BAHNE SØRENSEN A/S Fisketorvets Shopping Center
+Magasin
 
-Aalborg SV
+Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12610812/assistancemedarbejder-mode-bolig)
+Job URL: [link](https://karriere.magasin.dk/jobs/4714332-sales-service-ambassador-dame-fashion)
 
 
