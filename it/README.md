@@ -1,10 +1,10 @@
-# Kontorchef til Motorregistret – Drift og Udvikling
-04-07-2024
+# IT-infrastrukturspecialist med sikkerhedsfokus søges til Aalborg Forsyning
+08-07-2024
 
-Motorstyrelsen
+Aalborg Forsyning
 
-Aalborg
+Vodskov
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=181615&DepartmentId=9409&MediaId=3191)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12613442/it-infrastrukturspecialist-med-sikkerhedsfokus-soeges-til-aalborg-forsyning)
 
 
