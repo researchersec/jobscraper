@@ -14,25 +14,11 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/r12626841/salgsassistent-til-skagen-bageri-caf"
     },
     {
-        "pub_date": "15-07-2024",
-        "title": "Kalder alle Natteravne! Circle K Nykøbing Mors søger en sælger på 30 timer til nattevagter",
-        "company": "Circle K Danmark A/S",
-        "location": "Nykøbing M",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12625324/kalder-alle-natteravne-circle-k-nykoebing-mors-soeger-en-saelger-paa-30-timer-til-nattevagter"
-    },
-    {
         "pub_date": "12-07-2024",
         "title": "Salgsassistent til Maxi Zoo Hobro, 30 timer om ugen",
         "company": "",
         "location": "Hobro",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12622333/salgsassistent-til-maxi-zoo-hobro-30-timer-om-ugen"
-    },
-    {
-        "pub_date": "11-07-2024",
-        "title": "Kalder alle supersælgere! Circle K Nykøbing Mors søger deres nye sælger til teamet på 30 timer om ugen",
-        "company": "Circle K Danmark A/S",
-        "location": "Nykøbing M",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12620107/kalder-alle-supersaelgere-circle-k-nykoebing-mors-soeger-deres-nye-saelger-til-teamet-paa-30-timer-om-ugen"
     },
     {
         "pub_date": "11-07-2024",
@@ -82,5 +68,19 @@
         "company": "Magasin",
         "location": "Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus",
         "job_URL": "https://karriere.magasin.dk/jobs/4714332-sales-service-ambassador-dame-fashion"
+    },
+    {
+        "pub_date": "05-07-2024",
+        "title": "ASSISTANCEMEDARBEJDER MODE / BOLIG",
+        "company": "BAHNE SØRENSEN A/S Fisketorvets Shopping Center",
+        "location": "Aalborg SV",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12610812/assistancemedarbejder-mode-bolig"
+    },
+    {
+        "pub_date": "05-07-2024",
+        "title": "SÆLGER – BOLIG (DELTID / TIDSBEGRÆNSET)",
+        "company": "BAHNE SØRENSEN A/S Fisketorvets Shopping Center",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12610815/saelger-bolig-deltid-tidsbegraenset"
     }
 ]

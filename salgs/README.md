@@ -1,10 +1,10 @@
-# Sales & Service Ambassador Dame Fashion Dame · Fields
-08-07-2024
+# SÆLGER – BOLIG (DELTID / TIDSBEGRÆNSET)
+05-07-2024
 
-Magasin
+BAHNE SØRENSEN A/S Fisketorvets Shopping Center
 
-Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus
+Aalborg
 
-Job URL: [link](https://karriere.magasin.dk/jobs/4714332-sales-service-ambassador-dame-fashion)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12610815/saelger-bolig-deltid-tidsbegraenset)
 
 
