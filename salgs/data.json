@@ -1,5 +1,19 @@
 [
     {
+        "pub_date": "17-07-2024",
+        "title": "Konditoriet Fjerritslev søger butiksmedhjælpere fra 30 til 37 timer",
+        "company": "",
+        "location": "Fjerritslev",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12628305/konditoriet-fjerritslev-soeger-butiksmedhjaelpere-fra-30-til-37-timer"
+    },
+    {
+        "pub_date": "17-07-2024",
+        "title": "Kasseassistent - Aalborg",
+        "company": "føtex",
+        "location": "Aalborg",
+        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/d0c1e91e-3bfa-4724-a58c-085af1febc8a"
+    },
+    {
         "pub_date": "16-07-2024",
         "title": "Personal Shopper Dame Fashion Dame · Kongens Nytorv",
         "company": "Magasin",
@@ -68,19 +82,5 @@
         "company": "Magasin",
         "location": "Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus",
         "job_URL": "https://karriere.magasin.dk/jobs/4714332-sales-service-ambassador-dame-fashion"
-    },
-    {
-        "pub_date": "05-07-2024",
-        "title": "ASSISTANCEMEDARBEJDER MODE / BOLIG",
-        "company": "BAHNE SØRENSEN A/S Fisketorvets Shopping Center",
-        "location": "Aalborg SV",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12610812/assistancemedarbejder-mode-bolig"
-    },
-    {
-        "pub_date": "05-07-2024",
-        "title": "SÆLGER – BOLIG (DELTID / TIDSBEGRÆNSET)",
-        "company": "BAHNE SØRENSEN A/S Fisketorvets Shopping Center",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12610815/saelger-bolig-deltid-tidsbegraenset"
     }
 ]
