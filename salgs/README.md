@@ -1,10 +1,10 @@
-# Assistancer til Magasin på Kongens Nytorv Kongens Nytorv
+# Butiksassistent under 18 år - Aalborg
 08-07-2024
 
-Magasin
+Netto
 
-Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus
+Aalborg
 
-Job URL: [link](https://karriere.magasin.dk/jobs/4703722-assistancer-til-magasin-paa-kongens-nytorv)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/dc2b2fd1-94a5-4e7c-85a2-78826844c1ee)
 
 
