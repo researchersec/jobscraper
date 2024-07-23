@@ -1,10 +1,10 @@
-# Lagermedarbejder søges til vores Delivery Team i Aalborg
+# Lagerkoordinator til CUBIC i Brønderslev – nathold
 01-07-2024
 
-Saferoad Traffic A/S
+MatchMind
 
-Aalborg
+Brønderslev
 
-Job URL: [link](https://www.mestertidende.dk/job/view/686265/lagermedarbejder_soges_til_vores_delivery_team_i_aalborg)
+Job URL: [link](https://matchmind.dk/ledige-jobs?hr=show-job/206776&linkref=213869&locale=da_DK)
 
 
