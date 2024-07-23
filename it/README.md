@@ -1,10 +1,10 @@
-# Ahlsell søger lige nu en EDI konsulent til vores kontor i Aalborg
+# It Services på Aalborg Universitet søger medarbejder til Learning Management
 08-07-2024
 
-Ahlsell
+Aalborg Universitet
 
-Aalborg
+Aalborg Øst
 
-Job URL: [link](https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16151)
+Job URL: [link](https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219152)
 
 
