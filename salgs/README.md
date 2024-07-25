@@ -1,10 +1,10 @@
-# Salgskonsulent, Mercedes-Benz varebiler
+# Butiksassistent under 18 år - Aalborg
 08-07-2024
 
-Ejner Hessel A/S
+Netto
 
-Aars
+Aalborg
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1302&ProjectId=144654&DepartmentId=18977&MediaId=4614)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/dc2b2fd1-94a5-4e7c-85a2-78826844c1ee)
 
 
