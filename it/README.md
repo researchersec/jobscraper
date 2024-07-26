@@ -1,10 +1,10 @@
-# Just do It! – få central rolle som Teknisk Product Owner
-09-07-2024
+# IT Service Manager til ServiceNow-udvikling i Digitalisering og IT
+10-07-2024
 
-Geodatastyrelsen
+Region Nordjylland
 
-Nørresundby
+Aalborg
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=181751&DepartmentId=8830&MediaId=2480)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12618066/it-service-manager-til-servicenow-udvikling-i-digitalisering-og-it)
 
 
