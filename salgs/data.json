@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "29-07-2024",
+        "title": "Butiksassistent - 30 timer - Aars",
+        "company": "Lidl Danmark",
+        "location": "Aars",
+        "job_URL": "https://karriere.lidl.dk/ledige-stillinger/butiksassistent-30-timer-aars-aars-444660"
+    },
+    {
+        "pub_date": "29-07-2024",
         "title": "Kasseassistent - Aalborg",
         "company": "føtex",
         "location": "Aalborg",
@@ -89,12 +96,5 @@
         "company": "",
         "location": "Hobro",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12622333/salgsassistent-til-maxi-zoo-hobro-30-timer-om-ugen"
-    },
-    {
-        "pub_date": "08-07-2024",
-        "title": "Salgskonsulent, Mercedes-Benz varebiler",
-        "company": "Ejner Hessel A/S",
-        "location": "Aars",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1302&ProjectId=144654&DepartmentId=18977&MediaId=4614"
     }
 ]
