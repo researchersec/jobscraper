@@ -1,10 +1,10 @@
-# IT Service Manager til ServiceNow-udvikling i Digitalisering og IT
+# MS365 konsulent
 10-07-2024
 
-Region Nordjylland
+Mariagerfjord Kommune
 
-Aalborg
+Hadsund
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12618066/it-service-manager-til-servicenow-udvikling-i-digitalisering-og-it)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12617889/ms365-konsulent)
 
 
