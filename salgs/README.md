@@ -1,10 +1,10 @@
-# Salgsassistent til Maxi Zoo Hobro, 30 timer om ugen
-12-07-2024
+# Personal Shopper Dame Fashion Dame · Kongens Nytorv
+16-07-2024
 
+Magasin
 
+Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus
 
-Hobro
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12622333/salgsassistent-til-maxi-zoo-hobro-30-timer-om-ugen)
+Job URL: [link](https://karriere.magasin.dk/jobs/4699267-personal-shopper-dame-fashion)
 
 
