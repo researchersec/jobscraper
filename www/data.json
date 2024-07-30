@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "30-07-2024",
+        "title": "E-commerce Sales Specialist",
+        "company": "Sol og Strand Feriehusudlejning A/S",
+        "location": "Blokhus",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1482891/e-commerce-sales-specialist"
+    },
+    {
         "pub_date": "26-07-2024",
         "title": "E-commerce & Marketing Specialist",
         "company": "Tibnor A/S",
@@ -12,12 +19,5 @@
         "company": "Nordiske Medier A/S",
         "location": "København N, Aalborg",
         "job_URL": "https://detnordjyskemediehus.dk/job-og-karriere/ledige-stillinger/job-detail/?vid=20240407-1&locationId=3911"
-    },
-    {
-        "pub_date": "02-07-2024",
-        "title": "E-commerce Sales Specialist",
-        "company": "Sol og Strand Feriehusudlejning A/S",
-        "location": "Blokhus",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1482891/e-commerce-sales-specialist"
     }
 ]

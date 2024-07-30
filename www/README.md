@@ -1,10 +1,10 @@
-# E-commerce Sales Specialist
-02-07-2024
+# Digital projektleder med kommerciel indsigt
+05-07-2024
 
-Sol og Strand Feriehusudlejning A/S
+Nordiske Medier A/S
 
-Blokhus
+København N, Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1482891/e-commerce-sales-specialist)
+Job URL: [link](https://detnordjyskemediehus.dk/job-og-karriere/ledige-stillinger/job-detail/?vid=20240407-1&locationId=3911)
 
 
