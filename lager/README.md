@@ -1,10 +1,10 @@
-# Lagerkoordinator til CUBIC i Brønderslev – nathold
-01-07-2024
+# Lagermedarbejder søges
+16-07-2024
 
-MatchMind
+Nordjysk Økonomi og HR ApS
 
-Brønderslev
+Støvring
 
-Job URL: [link](https://matchmind.dk/ledige-jobs?hr=show-job/206776&linkref=213869&locale=da_DK)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1486862/lagermedarbejder-soeges)
 
 
