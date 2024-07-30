@@ -1,10 +1,10 @@
-# Kasseassistent - Aalborg
+# Konditoriet Fjerritslev søger butiksmedhjælpere fra 30 til 37 timer
 17-07-2024
 
-føtex
 
-Aalborg
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/d0c1e91e-3bfa-4724-a58c-085af1febc8a)
+Fjerritslev
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12628305/konditoriet-fjerritslev-soeger-butiksmedhjaelpere-fra-30-til-37-timer)
 
 
