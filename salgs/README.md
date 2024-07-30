@@ -1,10 +1,10 @@
-# Personal Shopper Dame Fashion Dame · Kongens Nytorv
-16-07-2024
+# Kasseassistent - Aalborg
+17-07-2024
 
-Magasin
+føtex
 
-Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus
+Aalborg
 
-Job URL: [link](https://karriere.magasin.dk/jobs/4699267-personal-shopper-dame-fashion)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/d0c1e91e-3bfa-4724-a58c-085af1febc8a)
 
 
