@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "30-07-2024",
+        "title": "Systemadministrator til BILA IT",
+        "company": "BILA A/S",
+        "location": "Nykøbing M",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144207&DepartmentId=18956&MediaId=4614"
+    },
+    {
         "pub_date": "26-07-2024",
         "title": "GRC Specialist",
         "company": "MyDefence A/S",
@@ -131,12 +138,5 @@
         "company": "FastTrack Software ApS",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1485640/teknisk-supporter-med-hoejt-serviceniveau"
-    },
-    {
-        "pub_date": "10-07-2024",
-        "title": "MS365 konsulent",
-        "company": "Mariagerfjord Kommune",
-        "location": "Hadsund",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12617889/ms365-konsulent"
     }
 ]

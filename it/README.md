@@ -1,10 +1,10 @@
-# MS365 konsulent
+# Teknisk supporter med højt serviceniveau
 10-07-2024
 
-Mariagerfjord Kommune
+FastTrack Software ApS
 
-Hadsund
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12617889/ms365-konsulent)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1485640/teknisk-supporter-med-hoejt-serviceniveau)
 
 
