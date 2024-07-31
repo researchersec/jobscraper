@@ -1,10 +1,10 @@
-# Butiksassistent over 18 år Butik · Kirppu Aalborg
+# Personal Shopper
 19-07-2024
 
-Kirppu Danmark ApS
+CHANGE of Scandinavia A/S
 
 Aalborg
 
-Job URL: [link](https://jobs.kirppu.dk/jobs/4754884-butiksassistent-over-18-ar)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146192&DepartmentId=18982&MediaId=59)
 
 
