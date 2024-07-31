@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "31-07-2024",
+        "title": "Bagersvend, SuperBrugsen Løkken",
+        "company": "SuperBrugsen",
+        "location": "Løkken",
+        "job_URL": "https://jobs.coop.dk/job/Bagersvend%2C-SuperBrugsen-L%C3%B8kken/798274702/"
+    },
+    {
         "pub_date": "30-07-2024",
         "title": "Salgsassistenter (deltid) til Salling Ålborg",
         "company": "FRENCH PHARMACY ApS",
@@ -89,19 +96,5 @@
         "company": "Kirppu Danmark ApS",
         "location": "Aalborg",
         "job_URL": "https://jobs.kirppu.dk/jobs/4754884-butiksassistent-over-18-ar"
-    },
-    {
-        "pub_date": "18-07-2024",
-        "title": "Medarbejder til lille købmandsbutik",
-        "company": "",
-        "location": "Thisted",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12630727/medarbejder-til-lille-koebmandsbutik"
-    },
-    {
-        "pub_date": "17-07-2024",
-        "title": "Konditoriet Fjerritslev søger butiksmedhjælpere fra 30 til 37 timer",
-        "company": "",
-        "location": "Fjerritslev",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12628305/konditoriet-fjerritslev-soeger-butiksmedhjaelpere-fra-30-til-37-timer"
     }
 ]

@@ -1,10 +1,10 @@
-# Konditoriet Fjerritslev søger butiksmedhjælpere fra 30 til 37 timer
-17-07-2024
+# Butiksassistent over 18 år Butik · Kirppu Aalborg
+19-07-2024
 
+Kirppu Danmark ApS
 
+Aalborg
 
-Fjerritslev
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12628305/konditoriet-fjerritslev-soeger-butiksmedhjaelpere-fra-30-til-37-timer)
+Job URL: [link](https://jobs.kirppu.dk/jobs/4754884-butiksassistent-over-18-ar)
 
 
