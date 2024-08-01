@@ -1,10 +1,10 @@
-# Lagermedarbejder søges
-16-07-2024
+# Lagermedarbejder
+01-08-2024
 
-Nordjysk Økonomi og HR ApS
+GPV International A/S, Electronics
 
-Støvring
+Aars
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1486862/lagermedarbejder-soeges)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12647121/lagermedarbejder)
 
 

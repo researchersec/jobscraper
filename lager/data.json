@@ -1,12 +1,5 @@
 [
     {
-        "pub_date": "30-07-2024",
-        "title": "Lagermedarbejder",
-        "company": "GPV International A/S, Electronics",
-        "location": "Aars",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/lagermedarbejder-lja-85617727.aspx?jobId=LJA-85617727&list=SearchResultsJobsIds&index=14&querydesc=SearchJobQueryDescription&viewedfrom=1"
-    },
-    {
         "pub_date": "29-07-2024",
         "title": "Afdelingsleder Detailpakkeri nathold",
         "company": "Danpo A/S",
@@ -33,5 +26,12 @@
         "company": "Nordjysk Økonomi og HR ApS",
         "location": "Støvring",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1486862/lagermedarbejder-soeges"
+    },
+    {
+        "pub_date": "01-08-2024",
+        "title": "Lagermedarbejder",
+        "company": "GPV International A/S, Electronics",
+        "location": "Aars",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12647121/lagermedarbejder"
     }
 ]
