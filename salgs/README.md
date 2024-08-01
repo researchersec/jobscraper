@@ -1,10 +1,10 @@
-# Vi søger branchens bedste deltidssælger med passion for løb og outdoor
-22-07-2024
+# Personal Shopper
+19-07-2024
 
-Eventyrsport
+CHANGE of Scandinavia A/S
 
-Aalborg SV
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1487421/vi-soeger-branchens-bedste-fuldtidssaelger-med-passion-for-loeb-og-outdoor)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146192&DepartmentId=18982&MediaId=59)
 
 

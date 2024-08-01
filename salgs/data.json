@@ -1,13 +1,6 @@
 [
     {
         "pub_date": "31-07-2024",
-        "title": "Bagersvend, SuperBrugsen Løkken",
-        "company": "SuperBrugsen",
-        "location": "Løkken",
-        "job_URL": "https://jobs.coop.dk/job/Bagersvend%2C-SuperBrugsen-L%C3%B8kken/798274702/"
-    },
-    {
-        "pub_date": "31-07-2024",
         "title": "Kalder alle Natteravne! Circle K Thisted søger nu deres nye sælger på 25 timer til fast nattevagter",
         "company": "Circle K Danmark A/S",
         "location": "Thisted",
@@ -96,5 +89,12 @@
         "company": "Eventyrsport",
         "location": "Aalborg SV",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1487421/vi-soeger-branchens-bedste-fuldtidssaelger-med-passion-for-loeb-og-outdoor"
+    },
+    {
+        "pub_date": "19-07-2024",
+        "title": "Personal Shopper",
+        "company": "CHANGE of Scandinavia A/S",
+        "location": "Aalborg",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146192&DepartmentId=18982&MediaId=59"
     }
 ]
