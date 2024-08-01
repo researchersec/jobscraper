@@ -1,10 +1,10 @@
-# SharePoint Specialist
+# Senior Manager til Onsite Operations
 01-08-2024
 
-Wrist Ship Supply
+Atea A/S
 
-Nørresundby
+Aalborg, Kolding og Aarhus N
 
-Job URL: [link](https://www.wrist.com/en/join-us/job_at_wrist/sharepoint-specialist---noerresundby.htm)
+Job URL: [link](https://www.atea.dk/karriere/karriere-hos-atea/?id=434&name=Senior+Manager+til+Onsite+Operations&type=Country)
 
 
