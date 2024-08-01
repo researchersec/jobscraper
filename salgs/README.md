@@ -1,10 +1,10 @@
-# Butikssælger til håndværkerbutik i Thisted med korte åbningstider
+# Vis yderligere 15
 01-08-2024
 
-Würth Danmark A/S
+Magasin
 
-Thisted
+Aalborg, Aarhus
 
-Job URL: [link](https://wuerth.career.emply.com/ad/butikssaelger-til-handvaerkerbutik-i-thisted-med-korte-abningstider/in1h5e/da)
+Job URL: [link](https://karriere.magasin.dk/jobs/show_more?page=2)
 
 
