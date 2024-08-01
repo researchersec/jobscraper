@@ -1,10 +1,10 @@
-# Personal Shopper
-19-07-2024
+# Butikssælger til håndværkerbutik i Thisted med korte åbningstider
+01-08-2024
 
-CHANGE of Scandinavia A/S
+Würth Danmark A/S
 
-Aalborg
+Thisted
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146192&DepartmentId=18982&MediaId=59)
+Job URL: [link](https://wuerth.career.emply.com/ad/butikssaelger-til-handvaerkerbutik-i-thisted-med-korte-abningstider/in1h5e/da)
 
 
