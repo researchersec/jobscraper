@@ -1,10 +1,10 @@
-# Teknisk supporter med højt serviceniveau
-10-07-2024
+# SharePoint Specialist
+01-08-2024
 
-FastTrack Software ApS
+Wrist Ship Supply
 
-Aalborg
+Nørresundby
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1485640/teknisk-supporter-med-hoejt-serviceniveau)
+Job URL: [link](https://www.wrist.com/en/join-us/job_at_wrist/sharepoint-specialist---noerresundby.htm)
 
 
