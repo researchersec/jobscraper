@@ -1,5 +1,5 @@
 # Digital projektleder med kommerciel indsigt
-05-07-2024
+02-08-2024
 
 Nordiske Medier A/S
 
