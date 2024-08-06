@@ -1,10 +1,10 @@
-# Sales & Service Ambassador til Mens Fashion i Magasin Aalborg Herre · Aalborg
+# Butiksassistent over 18 år Butik · Kirppu Frederikshavn
 01-08-2024
 
-Magasin
+Kirppu Danmark ApS
 
-Aalborg
+Frederikshavn
 
-Job URL: [link](https://karriere.magasin.dk/jobs/4791400-sales-service-ambassador-til-mens-fashion-i-magasin-aalborg)
+Job URL: [link](https://jobs.kirppu.dk/jobs/4787173-butiksassistent-over-18-aar)
 
 
