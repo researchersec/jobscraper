@@ -1,10 +1,10 @@
-# Butiksassistent Frellsen Hjørring 25-30 timer
-02-08-2024
+# Medarbejder til delikatessen - Frederikshavn
+06-08-2024
 
+føtex
 
+Frederikshavn
 
-Hjørring
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12649343/butiksassistent-frellsen-hjoerring-25-30-timer)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/81e5e35b-0810-4398-847c-4874017eac84)
 
 
