@@ -1,10 +1,10 @@
-# Butiksassistent over 18 år Butik · Kirppu Frederikshavn
+# Butikssælger til håndværkerbutik i Thisted med korte åbningstider
 01-08-2024
 
-Kirppu Danmark ApS
+Würth Danmark A/S
 
-Frederikshavn
+Thisted
 
-Job URL: [link](https://jobs.kirppu.dk/jobs/4787173-butiksassistent-over-18-aar)
+Job URL: [link](https://wuerth.career.emply.com/ad/butikssaelger-til-handvaerkerbutik-i-thisted-med-korte-abningstider/in1h5e/da)
 
 
