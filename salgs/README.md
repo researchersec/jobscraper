@@ -1,10 +1,10 @@
-# Butikssælger til håndværkerbutik i Thisted med korte åbningstider
-01-08-2024
+# Butiksassistent Frellsen Hjørring 25-30 timer
+02-08-2024
 
-Würth Danmark A/S
 
-Thisted
 
-Job URL: [link](https://wuerth.career.emply.com/ad/butikssaelger-til-handvaerkerbutik-i-thisted-med-korte-abningstider/in1h5e/da)
+Hjørring
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12649343/butiksassistent-frellsen-hjoerring-25-30-timer)
 
 
