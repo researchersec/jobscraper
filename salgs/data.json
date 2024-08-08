@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "08-08-2024",
+        "title": "Ekspedient",
+        "company": "",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12658459/ekspedient"
+    },
+    {
         "pub_date": "07-08-2024",
         "title": "Erfaren sælger søges til en af Danmarks største sengeafdelinger",
         "company": "Erling Christensen Møbler A/S",
@@ -19,13 +26,6 @@
         "company": "SuperBrugsen",
         "location": "Svenstrup J",
         "job_URL": "https://jobs.coop.dk/job/Bagersvend%2C-SuperBrugsen-Svenstrup/800680502/"
-    },
-    {
-        "pub_date": "07-08-2024",
-        "title": "Ekspedient",
-        "company": "",
-        "location": "Aalborg",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/ekspedient-lja-85630112.aspx?jobId=LJA-85630112&list=SearchResultsJobsIds&index=1&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "pub_date": "07-08-2024",
@@ -110,12 +110,5 @@
         "company": "Magasin",
         "location": "Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus",
         "job_URL": "https://karriere.magasin.dk/jobs/4801079-mac-beauty-advisor"
-    },
-    {
-        "pub_date": "06-08-2024",
-        "title": "Medarbejder til delikatessen - Frederikshavn",
-        "company": "føtex",
-        "location": "Frederikshavn",
-        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/81e5e35b-0810-4398-847c-4874017eac84"
     }
 ]
