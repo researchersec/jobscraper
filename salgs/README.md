@@ -1,10 +1,10 @@
-# MAC - Beauty Advisor Skønhed · Fields
+# Kalder alle supersælgere! Circle K Hadsund søger en sælger på 25 timer til deres team
 06-08-2024
 
-Magasin
+CIRCLE K DANMARK A/S
 
-Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus
+Hadsund
 
-Job URL: [link](https://karriere.magasin.dk/jobs/4801079-mac-beauty-advisor)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12653570/kalder-alle-supersaelgere-circle-k-hadsund-soeger-en-saelger-paa-25-timer-til-deres-team)
 
 
