@@ -1,5 +1,19 @@
 [
     {
+        "pub_date": "09-08-2024",
+        "title": "Trælastsælger",
+        "company": "XL-BYG",
+        "location": "Thisted",
+        "job_URL": "https://app.elvium.com/da/positions/27268/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "pub_date": "09-08-2024",
+        "title": "Vi søger Indretningskonsulent/Sælger til KVIK hos Tømmergaarden i Thisted",
+        "company": "XL-BYG",
+        "location": "Thisted",
+        "job_URL": "https://app.elvium.com/da/positions/27265/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
         "pub_date": "08-08-2024",
         "title": "Ekspedient",
         "company": "",
@@ -82,19 +96,5 @@
         "company": "Billigblomst",
         "location": "Aalborg SV",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12653746/butiksassistent"
-    },
-    {
-        "pub_date": "06-08-2024",
-        "title": "Håndtering af krukker",
-        "company": "Billigblomst",
-        "location": "Aalborg SV",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12653745/haandtering-af-krukker"
-    },
-    {
-        "pub_date": "06-08-2024",
-        "title": "Kalder alle supersælgere! Circle K Hadsund søger en sælger på 25 timer til deres team",
-        "company": "CIRCLE K DANMARK A/S",
-        "location": "Hadsund",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12653570/kalder-alle-supersaelgere-circle-k-hadsund-soeger-en-saelger-paa-25-timer-til-deres-team"
     }
 ]
