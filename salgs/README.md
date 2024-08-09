@@ -1,10 +1,10 @@
-# Butiksassistent
-06-08-2024
+# Sales & Service Ambassador - Lingeri Lingeri & Nattøj · Fields
+07-08-2024
 
-Billigblomst
+Magasin
 
-Aalborg SV
+Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12653746/butiksassistent)
+Job URL: [link](https://karriere.magasin.dk/jobs/4805150-sales-service-ambassador-lingeri)
 
 
