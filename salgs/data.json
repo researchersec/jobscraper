@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "10-08-2024",
+        "title": "Kasseassistent - Hjørring",
+        "company": "føtex",
+        "location": "Hjørring",
+        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/db3a6aaa-18e9-42fa-8294-a0dd5b9e27a9"
+    },
+    {
         "pub_date": "09-08-2024",
         "title": "Trælastsælger",
         "company": "XL-BYG",
@@ -82,12 +89,5 @@
         "company": "Magasin",
         "location": "Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus",
         "job_URL": "https://karriere.magasin.dk/jobs/2567306-medarbejder-til-mad-vin"
-    },
-    {
-        "pub_date": "07-08-2024",
-        "title": "Sales & Service Ambassador - Lingeri Lingeri & Nattøj · Fields",
-        "company": "Magasin",
-        "location": "Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus",
-        "job_URL": "https://karriere.magasin.dk/jobs/4805150-sales-service-ambassador-lingeri"
     }
 ]
