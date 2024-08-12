@@ -1,5 +1,19 @@
 [
     {
+        "pub_date": "12-08-2024",
+        "title": "Medarbejder til kundeservice og kiosk - Aalborg SV",
+        "company": "Bilka",
+        "location": "Aalborg SV",
+        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/b2457124-8f50-40f3-94f7-f12829728ca5"
+    },
+    {
+        "pub_date": "12-08-2024",
+        "title": "Medarbejder til slagterafdelingen - Aalborg SV",
+        "company": "Bilka",
+        "location": "Aalborg SV",
+        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/2206d084-ab86-464c-898d-0eda5a18e0ba"
+    },
+    {
         "pub_date": "10-08-2024",
         "title": "Kasseassistent - Hjørring",
         "company": "føtex",
@@ -75,19 +89,5 @@
         "company": "Magasin",
         "location": "Aalborg",
         "job_URL": "https://karriere.magasin.dk/jobs/4804629-beauty-advisor-til-clinique"
-    },
-    {
-        "pub_date": "07-08-2024",
-        "title": "Beauty Advisor til MAC Cosmetics Skønhed · Aalborg",
-        "company": "Magasin",
-        "location": "Aalborg",
-        "job_URL": "https://karriere.magasin.dk/jobs/4804594-beauty-advisor-til-mac-cosmetics"
-    },
-    {
-        "pub_date": "07-08-2024",
-        "title": "Medarbejder til Mad & Vin Mad & Vin · Kongens Nytorv",
-        "company": "Magasin",
-        "location": "Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus",
-        "job_URL": "https://karriere.magasin.dk/jobs/2567306-medarbejder-til-mad-vin"
     }
 ]

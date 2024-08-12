@@ -1,10 +1,10 @@
-# Medarbejder til Mad & Vin Mad & Vin · Kongens Nytorv
+# Beauty Advisor til Clinique Skønhed · Aalborg
 07-08-2024
 
 Magasin
 
-Kgs. Lyngby, Odense, Rødovre, Aalborg, Aarhus
+Aalborg
 
-Job URL: [link](https://karriere.magasin.dk/jobs/2567306-medarbejder-til-mad-vin)
+Job URL: [link](https://karriere.magasin.dk/jobs/4804629-beauty-advisor-til-clinique)
 
 
