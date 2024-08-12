@@ -1,10 +1,10 @@
-# Beauty Advisor til Clinique Skønhed · Aalborg
+# REMA 1000 i Ålbæk - Kasseassistent
 07-08-2024
 
-Magasin
+KLAPjob
 
-Aalborg
+Ålbæk
 
-Job URL: [link](https://karriere.magasin.dk/jobs/4804629-beauty-advisor-til-clinique)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12656563/rema-1000-i-aalbaek-kasseassistent)
 
 

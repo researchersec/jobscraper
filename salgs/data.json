@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "12-08-2024",
+        "title": "Sælger til Byggecenter i Nykøbing",
+        "company": "XL-BYG",
+        "location": "Nykøbing M",
+        "job_URL": "https://app.elvium.com/da/positions/27279/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "pub_date": "12-08-2024",
         "title": "Medarbejder til kundeservice og kiosk - Aalborg SV",
         "company": "Bilka",
         "location": "Aalborg SV",
@@ -82,12 +89,5 @@
         "company": "KLAPjob",
         "location": "Ålbæk",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12656563/rema-1000-i-aalbaek-kasseassistent"
-    },
-    {
-        "pub_date": "07-08-2024",
-        "title": "Beauty Advisor til Clinique Skønhed · Aalborg",
-        "company": "Magasin",
-        "location": "Aalborg",
-        "job_URL": "https://karriere.magasin.dk/jobs/4804629-beauty-advisor-til-clinique"
     }
 ]
