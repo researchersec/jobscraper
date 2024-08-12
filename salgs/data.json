@@ -56,13 +56,6 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/r12658459/ekspedient"
     },
     {
-        "pub_date": "08-08-2024",
-        "title": "Vis yderligere 13",
-        "company": "Magasin",
-        "location": "Aalborg, Aarhus",
-        "job_URL": "https://karriere.magasin.dk/jobs/show_more?page=2"
-    },
-    {
         "pub_date": "07-08-2024",
         "title": "Erfaren sælger søges til en af Danmarks største sengeafdelinger",
         "company": "Erling Christensen Møbler A/S",
@@ -103,5 +96,12 @@
         "company": "Magasin",
         "location": "Aalborg",
         "job_URL": "https://karriere.magasin.dk/jobs/4804629-beauty-advisor-til-clinique"
+    },
+    {
+        "pub_date": "07-08-2024",
+        "title": "Beauty Advisor til MAC Cosmetics Skønhed · Aalborg",
+        "company": "Magasin",
+        "location": "Aalborg",
+        "job_URL": "https://karriere.magasin.dk/jobs/4804594-beauty-advisor-til-mac-cosmetics"
     }
 ]
