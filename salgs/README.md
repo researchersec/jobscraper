@@ -1,10 +1,10 @@
-# Beauty Advisor til MAC Cosmetics Skønhed · Aalborg
-07-08-2024
+# Butikssælger til håndværkerbutik i Thisted med korte åbningstider
+01-08-2024
 
-Magasin
+Würth Danmark A/S
 
-Aalborg
+Thisted
 
-Job URL: [link](https://karriere.magasin.dk/jobs/4804594-beauty-advisor-til-mac-cosmetics)
+Job URL: [link](https://wuerth.career.emply.com/ad/butikssaelger-til-handvaerkerbutik-i-thisted-med-korte-abningstider/in1h5e/da)
 
 
