@@ -1,10 +1,10 @@
-# Beauty Advisor til MAC Cosmetics Skønhed · Aalborg
+# REMA 1000 i Ålbæk - Kasseassistent
 07-08-2024
 
-Magasin
+KLAPjob
 
-Aalborg
+Ålbæk
 
-Job URL: [link](https://karriere.magasin.dk/jobs/4804594-beauty-advisor-til-mac-cosmetics)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12656563/rema-1000-i-aalbaek-kasseassistent)
 
 
