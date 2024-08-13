@@ -5,6 +5,6 @@ Atea A/S
 
 Aalborg, Kolding og Aarhus N
 
-Job URL: [link](https://www.atea.dk/karriere/karriere-hos-atea/?id=434&name=Senior+Manager+til+Onsite+Operations&type=Country)
+Job URL: [link](https://www.atea.dk/karriere/karriere-hos-atea/?id=434&type=Country&name=Senior+Manager+til+Onsite+Operations)
 
 
