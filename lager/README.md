@@ -1,10 +1,10 @@
-# Lagermedarbejder
-01-08-2024
+# Lagermedarbejder søges til deltidsstilling
+02-08-2024
 
-GPV International A/S, Electronics
+RTC Transport A/S
 
-Aars
+Støvring
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12647121/lagermedarbejder)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2566&ProjectId=143612&DepartmentId=18978&MediaId=4629)
 
 
