@@ -1,10 +1,10 @@
-# Digital projektleder med kommerciel indsigt
-02-08-2024
+# Content Creator
+07-08-2024
 
-Nordiske Medier A/S
+VisitNordvestkysten
 
-København N, Aalborg
+Aabybro
 
-Job URL: [link](https://detnordjyskemediehus.dk/job-og-karriere/ledige-stillinger/job-detail/?vid=20240407-1&locationId=3911)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1490510/content-creator)
 
 
