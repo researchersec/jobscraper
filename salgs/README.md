@@ -1,10 +1,10 @@
-# Butikssælger til håndværkerbutik i Thisted med korte åbningstider
-01-08-2024
+# Bagersvend, SuperBrugsen Svenstrup
+07-08-2024
 
-Würth Danmark A/S
+SuperBrugsen
 
-Thisted
+Svenstrup J
 
-Job URL: [link](https://wuerth.career.emply.com/ad/butikssaelger-til-handvaerkerbutik-i-thisted-med-korte-abningstider/in1h5e/da)
+Job URL: [link](https://jobs.coop.dk/job/Bagersvend%2C-SuperBrugsen-Svenstrup/800680502/)
 
 
