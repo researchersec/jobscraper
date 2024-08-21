@@ -1,10 +1,10 @@
-# Lagermedarbejder søges til deltidsstilling
-02-08-2024
+# Til fast stilling i vores produktion, søger vi en engageret medarbejder
+06-08-2024
 
-RTC Transport A/S
 
-Støvring
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2566&ProjectId=143612&DepartmentId=18978&MediaId=4629)
+Aalborg
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12653706/til-fast-stilling-i-vores-produktion-soeger-vi-en-engageret-medarbejder)
 
 
