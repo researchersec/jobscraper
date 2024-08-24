@@ -1,10 +1,10 @@
-# Content Creator
-07-08-2024
+# Digital forretningsudvikler med fokus på digitale kanaler og AI
+16-08-2024
 
-VisitNordvestkysten
+Spar Nord Bank A/S
 
-Aabybro
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1490510/content-creator)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1148&ProjectId=145035&DepartmentId=19209&MediaId=59)
 
 
