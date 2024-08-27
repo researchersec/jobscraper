@@ -1,10 +1,10 @@
-# Bagersvend, SuperBrugsen Svenstrup
+# Dynamisk og selvstændig Køkkenkonsulent
 07-08-2024
 
-SuperBrugsen
+Erling Christensen Møbler A/S
 
-Svenstrup J
+Sindal
 
-Job URL: [link](https://jobs.coop.dk/job/Bagersvend%2C-SuperBrugsen-Svenstrup/800680502/)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1490394/dynamisk-og-selvstaendig-koekkenkonsulent)
 
 
