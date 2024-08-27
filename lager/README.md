@@ -1,10 +1,10 @@
-# Til fast stilling i vores produktion, søger vi en engageret medarbejder
+# Vi søger Lagermedarbejder/Chauffør til Fjerritslev
 06-08-2024
 
+XL-BYG
 
+Fjerritslev
 
-Aalborg
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12653706/til-fast-stilling-i-vores-produktion-soeger-vi-en-engageret-medarbejder)
+Job URL: [link](https://app.elvium.com/da/positions/27218/job_posting?referer_host=www.jobindex.dk)
 
 
