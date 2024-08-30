@@ -1,10 +1,10 @@
-# Senior Manager til Onsite Operations
-01-08-2024
+# Proaktiv og engageret Bid Manager søges
+02-08-2024
 
-Atea A/S
+Econta Consulting Group P/S
 
-Aalborg, Kolding og Aarhus N
+Aalborg SØ
 
-Job URL: [link](https://www.atea.dk/karriere/karriere-hos-atea/?id=434&type=Country&name=Senior+Manager+til+Onsite+Operations)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1489635/proaktiv-og-engageret-bid-manager-soeges)
 
 
