@@ -1,10 +1,10 @@
-# Proaktiv og engageret Bid Manager søges
-02-08-2024
+# IT Manager
+08-08-2024
 
-Econta Consulting Group P/S
+CBRE Teknisk Servicepartner
 
-Aalborg SØ
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1489635/proaktiv-og-engageret-bid-manager-soeges)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1491085/it-manager)
 
 
