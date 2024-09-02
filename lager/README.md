@@ -1,10 +1,10 @@
-# Vi søger Lagermedarbejder/Chauffør til Fjerritslev
-06-08-2024
+# Lagerekspedient
+02-09-2024
 
-XL-BYG
+Pedersen & Nielsen Automobilforretning
 
-Fjerritslev
+Hjørring
 
-Job URL: [link](https://app.elvium.com/da/positions/27218/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12703384/lagerekspedient)
 
 
