@@ -1,10 +1,10 @@
-# IT Manager
-08-08-2024
+# Selvkørende og højtragende tekniker
+02-09-2024
 
-CBRE Teknisk Servicepartner
+Temp-Team A/S
 
-Aalborg
+Allingåbro
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1491085/it-manager)
+Job URL: [link](https://temp-team.dk/job-search/selvkorende-og-hojtragende-tekniker-soges-394336)
 
 
