@@ -70,13 +70,6 @@
         "job_URL": "https://itm8.dk/job?jobid=209852&locale=da_DK"
     },
     {
-        "pub_date": "16-08-2024",
-        "title": "Barselsvikar til Digitalisering og IT i Region Nordjylland",
-        "company": "Region Nordjylland",
-        "location": "Aalborg",
-        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=47474"
-    },
-    {
         "pub_date": "14-08-2024",
         "title": "IT-Supporter – få en hverdag uden så meget pis",
         "company": "Miit ApS",
@@ -131,5 +124,12 @@
         "company": "Temp-Team A/S",
         "location": "Allingåbro",
         "job_URL": "https://temp-team.dk/job-search/selvkorende-og-hojtragende-tekniker-soges-394336"
+    },
+    {
+        "pub_date": "02-09-2024",
+        "title": "Endpoint Consultant",
+        "company": "Fellowmind",
+        "location": "København, Odense, Aalborg, Aarhus",
+        "job_URL": "https://career.fellowmind.dk/jobs/4924913-endpoint-consultant"
     }
 ]
