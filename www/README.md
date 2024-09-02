@@ -1,10 +1,10 @@
-# Digital forretningsudvikler med fokus på digitale kanaler og AI
-16-08-2024
+# Selvkørende og højtragende tekniker
+02-09-2024
 
-Spar Nord Bank A/S
+Temp-Team A/S
 
-Aalborg
+Allingåbro
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1148&ProjectId=145035&DepartmentId=19209&MediaId=59)
+Job URL: [link](https://temp-team.dk/job-search/selvkorende-og-hojtragende-tekniker-soges-394336)
 
 
