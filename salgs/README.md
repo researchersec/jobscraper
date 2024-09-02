@@ -1,10 +1,10 @@
-# Dynamisk og selvstændig Køkkenkonsulent
-07-08-2024
+# Delikatesseassistent, SuperBrugsen Støvring
+02-09-2024
 
-Erling Christensen Møbler A/S
+SuperBrugsen
 
-Sindal
+Støvring
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1490394/dynamisk-og-selvstaendig-koekkenkonsulent)
+Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen-St%C3%B8vring/802200702/)
 
 
