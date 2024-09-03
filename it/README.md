@@ -1,10 +1,10 @@
-# Endpoint Consultant
+# Selvkørende og højtragende tekniker
 02-09-2024
 
-Fellowmind
+Temp-Team A/S
 
-København, Odense, Aalborg, Aarhus
+Allingåbro
 
-Job URL: [link](https://career.fellowmind.dk/jobs/4924913-endpoint-consultant)
+Job URL: [link](https://temp-team.dk/job-search/selvkorende-og-hojtragende-tekniker-soges-394336)
 
 
