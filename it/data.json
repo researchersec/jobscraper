@@ -64,13 +64,6 @@
     },
     {
         "pub_date": "13-08-2024",
-        "title": "Servicetekniker",
-        "company": "E-vet",
-        "location": "Haderslev",
-        "job_URL": "https://covetrus.wd5.myworkdayjobs.com/CovetrusCareers/job/Haderslev-Southern-Denmark-DK/Service-Technician_R-10906-1"
-    },
-    {
-        "pub_date": "13-08-2024",
         "title": "IT-supporter",
         "company": "Netic A/S",
         "location": "Aalborg Øst",
@@ -131,5 +124,12 @@
         "company": "Temp-Team A/S",
         "location": "Allingåbro",
         "job_URL": "https://temp-team.dk/job-search/selvkorende-og-hojtragende-tekniker-soges-394336"
+    },
+    {
+        "pub_date": "02-09-2024",
+        "title": "Endpoint Consultant",
+        "company": "Fellowmind",
+        "location": "København, Odense, Aalborg, Aarhus",
+        "job_URL": "https://career.fellowmind.dk/jobs/4924913-endpoint-consultant"
     }
 ]
