@@ -1,10 +1,10 @@
-# Delikatesseassistent, SuperBrugsen Støvring
+# Sælgere og assistenter i forbindelse med åbning af afdeling i Magasin Aalborg
 02-09-2024
 
-SuperBrugsen
+INTERSPORT
 
-Støvring
+Aalborg
 
-Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen-St%C3%B8vring/802200702/)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1497054/saelgere-og-assistenter-i-forbindelse-med-aabning-af-afdeling-i-magasin-aalborg)
 
 
