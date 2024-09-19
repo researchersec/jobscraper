@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "19-09-2024",
+        "title": "Butikskonsulent",
+        "company": "3",
+        "location": "Aalborg",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1328&ProjectId=145981&DepartmentId=18965&MediaId=4620"
+    },
+    {
         "pub_date": "18-09-2024",
         "title": "Sælger til Byggecenter i Nykøbing",
         "company": "XL-BYG",
@@ -68,12 +75,5 @@
         "company": "Løvbjerg Supermarked A/S",
         "location": "Frederikshavn",
         "job_URL": "https://lovbjerg.emply.net/recruitment/vacancyAd.aspx?publishingId=6053e711-f6ea-4e81-82e9-bd22b52587d3"
-    },
-    {
-        "pub_date": "02-09-2024",
-        "title": "Sælgere og assistenter i forbindelse med åbning af afdeling i Magasin Aalborg",
-        "company": "INTERSPORT",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1497054/saelgere-og-assistenter-i-forbindelse-med-aabning-af-afdeling-i-magasin-aalborg"
     }
 ]

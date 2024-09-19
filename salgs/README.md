@@ -1,10 +1,10 @@
-# Sælgere og assistenter i forbindelse med åbning af afdeling i Magasin Aalborg
-02-09-2024
+# Delikatesseassistent
+03-09-2024
 
-INTERSPORT
+Løvbjerg Supermarked A/S
 
-Aalborg
+Frederikshavn
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1497054/saelgere-og-assistenter-i-forbindelse-med-aabning-af-afdeling-i-magasin-aalborg)
+Job URL: [link](https://lovbjerg.emply.net/recruitment/vacancyAd.aspx?publishingId=6053e711-f6ea-4e81-82e9-bd22b52587d3)
 
 
