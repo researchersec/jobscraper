@@ -1,10 +1,10 @@
-# Engageret lagermedarbejder søges til XL-BYG Hadsund ekspeditionslager
-05-09-2024
+# Lagerekspedient
+02-09-2024
 
-XL-BYG
+Pedersen & Nielsen Automobilforretning
 
-Hadsund
+Hjørring
 
-Job URL: [link](https://app.elvium.com/da/positions/27571/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12703384/lagerekspedient)
 
 
