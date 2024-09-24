@@ -1,10 +1,10 @@
-# Selvkørende og højtragende tekniker
-02-09-2024
+# IT-Supporter, Thisted - Bliv en del af en spændende og dynamisk virksomhed
+05-09-2024
 
-Temp-Team A/S
+Tican Fresh Meat A/S
 
-Allingåbro
+Thisted
 
-Job URL: [link](https://temp-team.dk/job-search/selvkorende-og-hojtragende-tekniker-soges-394336)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1498029/it-supporter-thisted-bliv-en-del-af-en-spaendende-og-dynamisk-virksomhed)
 
 
