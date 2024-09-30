@@ -1,5 +1,19 @@
 [
     {
+        "pub_date": "27-09-2024",
+        "title": "Butiksassistent til Aalborg C (deltid)",
+        "company": "GEjSER - Aalborg",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12755912/butiksassistent-til-aalborg-c-deltid"
+    },
+    {
+        "pub_date": "27-09-2024",
+        "title": "Butiksassistent - 30 timer - Hirtshals",
+        "company": "Lidl Danmark",
+        "location": "Hirtshals",
+        "job_URL": "https://karriere.lidl.dk/ledige-stillinger/butiksassistent-30-timer-hirtshals-hirtshals-472495"
+    },
+    {
         "pub_date": "25-09-2024",
         "title": "Varemodtager",
         "company": "Bygma",
@@ -50,13 +64,6 @@
     },
     {
         "pub_date": "12-09-2024",
-        "title": "Delikatesseassistent, SuperBrugsen Vejgård, Aalborg",
-        "company": "SuperBrugsen",
-        "location": "Aalborg",
-        "job_URL": "https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen-Vejg%C3%A5rd%2C-Aalborg/803013002/"
-    },
-    {
-        "pub_date": "12-09-2024",
         "title": "Bliv salgsassistent",
         "company": "Louis Nielsen A/S",
         "location": "Aalborg SV",
@@ -89,5 +96,12 @@
         "company": "Løvbjerg Supermarked A/S",
         "location": "Frederikshavn",
         "job_URL": "https://lovbjerg.emply.net/recruitment/vacancyAd.aspx?publishingId=6053e711-f6ea-4e81-82e9-bd22b52587d3"
+    },
+    {
+        "pub_date": "02-09-2024",
+        "title": "Sælgere og assistenter i forbindelse med åbning af afdeling i Magasin Aalborg",
+        "company": "INTERSPORT",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1497054/saelgere-og-assistenter-i-forbindelse-med-aabning-af-afdeling-i-magasin-aalborg"
     }
 ]
