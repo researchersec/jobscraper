@@ -5,5 +5,19 @@
         "company": "Aalborg Forsyning",
         "location": "Vodskov",
         "job_URL": "https://aalborgforsyning.emply.net/recruitment/vacancyAd.aspx?publishingId=3be6e3a6-46e2-45ed-a3a9-dc812c278896"
+    },
+    {
+        "pub_date": "01-10-2024",
+        "title": "Lead Frontend Udvikler",
+        "company": "SoftControl A/S",
+        "location": "Vodskov",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1504515/lead-frontend-udvikler"
+    },
+    {
+        "pub_date": "01-10-2024",
+        "title": "Marketing Koordinator - Lyngsoe Systems (12-måneders barselsvikariat)",
+        "company": "Hviid & Larsen ApS",
+        "location": "Aars",
+        "job_URL": "https://www.hviidoglarsen.dk/jobs?hr=show-job/218933&linkref=234681&locale=da_DK"
     }
 ]

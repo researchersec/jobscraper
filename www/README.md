@@ -1,10 +1,10 @@
-# UX Designer
-26-09-2024
+# Marketing Koordinator - Lyngsoe Systems (12-måneders barselsvikariat)
+01-10-2024
 
-Aalborg Forsyning
+Hviid & Larsen ApS
 
-Vodskov
+Aars
 
-Job URL: [link](https://aalborgforsyning.emply.net/recruitment/vacancyAd.aspx?publishingId=3be6e3a6-46e2-45ed-a3a9-dc812c278896)
+Job URL: [link](https://www.hviidoglarsen.dk/jobs?hr=show-job/218933&linkref=234681&locale=da_DK)
 
 
