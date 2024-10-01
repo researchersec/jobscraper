@@ -35,13 +35,6 @@
         "job_URL": "https://jobs.bygma.dk/job/Aalborg-Pladsmedarbejder-til-Bygma-Aalborg-C-9000/991600955/"
     },
     {
-        "pub_date": "11-09-2024",
-        "title": "Vi søger en lagerchef, er det dig?",
-        "company": "",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12723492/vi-soeger-en-lagerchef-er-det-dig"
-    },
-    {
         "pub_date": "10-09-2024",
         "title": "Pladsmedarbejder",
         "company": "Bygma",
@@ -64,10 +57,24 @@
     },
     {
         "pub_date": "01-10-2024",
+        "title": "Lagersouschef",
+        "company": "Dragsbæk A/S",
+        "location": "Thisted",
+        "job_URL": "https://dragsbaek.dk/job.aspx?hr=show-job/218894&linkref=234617&locale=da_DK"
+    },
+    {
+        "pub_date": "01-10-2024",
         "title": "Frysehusmedarbejder m/k",
         "company": "Lineage",
         "location": "Hirtshals",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1504082/frysehusmedarbejder-m-k"
+    },
+    {
+        "pub_date": "01-10-2024",
+        "title": "Afdelingsleder, Aalborg Distributionscenter",
+        "company": "Coop Logistik",
+        "location": "Aalborg SV",
+        "job_URL": "https://jobs.coop.dk/job/Afdelingsleder%2C-Aalborg-Distributionscenter/804285002/"
     },
     {
         "pub_date": "01-10-2024",
