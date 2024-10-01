@@ -1,10 +1,10 @@
-# Engageret lagermedarbejder søges til XL-BYG Hadsund ekspeditionslager
-05-09-2024
+# Lagerkoordinator
+01-10-2024
 
-XL-BYG
+MatchMind
 
-Hadsund
+Brønderslev
 
-Job URL: [link](https://app.elvium.com/da/positions/27571/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://matchmind.dk/ledige-jobs?hr=show-job/218637&linkref=234213&locale=da_DK)
 
 
