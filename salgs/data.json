@@ -7,13 +7,6 @@
         "job_URL": "https://pwt.youngcrm.com/jobportal/10346?utm_source=youngcrm&utm_medium=notification&utm_campaign=media"
     },
     {
-        "pub_date": "30-09-2024",
-        "title": "Kalder alle supersælgere! Circle K Hobro søger en sælger på 25 timer til både dag, aften og nattevagter",
-        "company": "CIRCLE K DANMARK A/S",
-        "location": "Hobro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12760452/kalder-alle-supersaelgere-circle-k-hobro-soeger-en-saelger-paa-25-timer-til-baade-dag-aften-og-nattevagter"
-    },
-    {
         "pub_date": "25-09-2024",
         "title": "Varemodtager",
         "company": "Bygma",
@@ -78,10 +71,31 @@
     },
     {
         "pub_date": "02-10-2024",
+        "title": "Salgsassistent til Imerco Aalborg Nytorv",
+        "company": "Imerco",
+        "location": "Aalborg",
+        "job_URL": "https://job.imerco.dk/ad/salgsassistent-til-imerco-aalborg-nytorv/dm11i3/da"
+    },
+    {
+        "pub_date": "02-10-2024",
+        "title": "REMA 1000 i Ålbæk - Kasseassistent",
+        "company": "KLAPjob",
+        "location": "Ålbæk",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12765054/rema-1000-i-aalbaek-kasseassistent"
+    },
+    {
+        "pub_date": "02-10-2024",
         "title": "Medarbejder til delikatessen - Aalborg",
         "company": "føtex",
         "location": "Aalborg",
         "job_URL": "https://sallinggroup.com/job/ledige-stillinger/a31553a7-dce3-483e-8585-af22ec76d983"
+    },
+    {
+        "pub_date": "02-10-2024",
+        "title": "Salgsassistent til Nonfood - Aalborg Øst",
+        "company": "føtex",
+        "location": "Aalborg Øst",
+        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/f8d45e9e-d877-4168-856a-808012833cf8"
     },
     {
         "pub_date": "01-10-2024",
@@ -96,19 +110,5 @@
         "company": "",
         "location": "Fjerritslev",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12762216/konditoriet-fjerritslev-soeger-butiksmedhjaelpere-fra-30-til-37-timer-om-ugen"
-    },
-    {
-        "pub_date": "01-10-2024",
-        "title": "Butiksassistent - 30 timer - Hadsund",
-        "company": "Lidl Danmark",
-        "location": "Hadsund",
-        "job_URL": "https://karriere.lidl.dk/ledige-stillinger/butiksassistent-30-timer-hadsund-hadsund-472109"
-    },
-    {
-        "pub_date": "01-10-2024",
-        "title": "VIKARIAT - Butiksmedhjælper",
-        "company": "",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12762254/vikariat-butiksmedhjaelper"
     }
 ]
