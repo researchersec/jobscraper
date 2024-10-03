@@ -1,10 +1,10 @@
-# Sælger til Hobro
+# Konditoriet Fjerritslev søger butiksmedhjælpere fra 30 til 37 timer om ugen
 01-10-2024
 
-JYSK
 
-Hobro
 
-Job URL: [link](https://jobs.smartrecruiters.com/JYSK/744000017396195-s-lger-til-hobro?trid=9c834889-bbb7-437c-a553-3bcb9710b121)
+Fjerritslev
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12762216/konditoriet-fjerritslev-soeger-butiksmedhjaelpere-fra-30-til-37-timer-om-ugen)
 
 
