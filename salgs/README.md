@@ -1,10 +1,10 @@
-# Sælger til Hobro
-01-10-2024
+# Salgsassistent til Imerco Aalborg Nytorv
+02-10-2024
 
-JYSK
+Imerco
 
-Hobro
+Aalborg
 
-Job URL: [link](https://jobs.smartrecruiters.com/JYSK/744000017396195-s-lger-til-hobro?trid=9c834889-bbb7-437c-a553-3bcb9710b121)
+Job URL: [link](https://job.imerco.dk/ad/salgsassistent-til-imerco-aalborg-nytorv/dm11i3/da)
 
 
