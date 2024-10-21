@@ -1,10 +1,10 @@
-# Marketing Koordinator - Lyngsoe Systems (12-måneders barselsvikariat)
+# Lead Frontend Udvikler
 01-10-2024
 
-Hviid & Larsen ApS
+SoftControl A/S
 
-Aars
+Vodskov
 
-Job URL: [link](https://www.hviidoglarsen.dk/jobs?hr=show-job/218933&linkref=234681&locale=da_DK)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1504515/lead-frontend-udvikler)
 
 
