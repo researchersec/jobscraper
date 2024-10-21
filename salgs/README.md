@@ -1,10 +1,10 @@
-# Salgsassistent til Imerco Aalborg Nytorv
-02-10-2024
+# Salgsassistent til Frugt og Grønt Salling Aalborg
+04-10-2024
 
-Imerco
+Salling
 
 Aalborg
 
-Job URL: [link](https://job.imerco.dk/ad/salgsassistent-til-imerco-aalborg-nytorv/dm11i3/da)
+Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/1d4a04ac-4237-4719-89a0-456e7a18f3f5)
 
 
