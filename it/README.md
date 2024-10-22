@@ -1,10 +1,10 @@
-# 1st. level IT-Supporter
-02-10-2024
+# IT-supporter
+03-10-2024
 
-Power People
+Beritech A/S
 
-Aalborg Øst
+Nørresundby
 
-Job URL: [link](https://PowerPeopleDanmarkApS.reqruiting.com/job.aspx?id=21444)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143679&DepartmentId=18956&MediaId=4620)
 
 
