@@ -1,12 +1,5 @@
 [
     {
-        "pub_date": "25-09-2024",
-        "title": "Varemodtager",
-        "company": "Bygma",
-        "location": "Hjørring",
-        "job_URL": "https://jobs.bygma.dk/job/Hj%C3%B8rring-Varemodtager-til-Bygma-Hj%C3%B8rring-9800/992204955/"
-    },
-    {
         "pub_date": "21-10-2024",
         "title": "Lagermedarbejder søges til køle- frysehus",
         "company": "",
@@ -57,13 +50,6 @@
     },
     {
         "pub_date": "14-10-2024",
-        "title": "Lager- og kundeservicemedarbejder til værktøj og værktøjsmaskiner",
-        "company": "GLOBALTOOLS ApS",
-        "location": "Støvring",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12791529/lager-og-kundeservicemedarbejder-til-vaerktoej-og-vaerktoejsmaskiner"
-    },
-    {
-        "pub_date": "14-10-2024",
         "title": "Forklift driver for night and morning shift, 37 hours per week, Aalborg",
         "company": "IKEA",
         "location": "Aalborg SV",
@@ -89,6 +75,13 @@
         "company": "Pajo-Bolte A/S",
         "location": "Hobro",
         "job_URL": "https://www.metal-supply.dk/job/view/699158/pajobolte_soger_en_malrettet_og_engageret_lagerchef"
+    },
+    {
+        "pub_date": "03-10-2024",
+        "title": "NOWAS A/S søger en lagermedarbejder",
+        "company": "",
+        "location": "Løgstør",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12768375/nowas-a-s-soeger-en-lagermedarbejder"
     },
     {
         "pub_date": "02-10-2024",
