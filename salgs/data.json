@@ -1,12 +1,5 @@
 [
     {
-        "pub_date": "25-09-2024",
-        "title": "Varemodtager",
-        "company": "Bygma",
-        "location": "Hjørring",
-        "job_URL": "https://jobs.bygma.dk/job/Hj%C3%B8rring-Varemodtager-til-Bygma-Hj%C3%B8rring-9800/992204955/"
-    },
-    {
         "pub_date": "24-09-2024",
         "title": "Sælger på fuld tid",
         "company": "Tøjeksperten A/S",
@@ -40,6 +33,13 @@
         "company": "Bilka",
         "location": "Aalborg SV",
         "job_URL": "https://sallinggroup.com/job/ledige-stillinger/7d8ffd5f-88e1-4fd6-ac3e-2a9f15c9b2dd"
+    },
+    {
+        "pub_date": "18-10-2024",
+        "title": "Salgsassistent til bageriudsalget - Aalborg Øst",
+        "company": "føtex",
+        "location": "Aalborg Øst",
+        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/3c7e3813-b487-4a01-9b45-092a679ef896"
     },
     {
         "pub_date": "11-10-2024",
