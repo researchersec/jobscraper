@@ -1,10 +1,10 @@
-# Lagerkoordinator
+# Afdelingsleder, Aalborg Distributionscenter
 01-10-2024
 
-MatchMind
+Coop Logistik
 
-Brønderslev
+Aalborg SV
 
-Job URL: [link](https://matchmind.dk/ledige-jobs?hr=show-job/218637&linkref=234213&locale=da_DK)
+Job URL: [link](https://jobs.coop.dk/job/Afdelingsleder%2C-Aalborg-Distributionscenter/804285002/)
 
 
