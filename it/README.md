@@ -1,10 +1,10 @@
-# IT-supporter til IT- og digitaliseringsafdeling
+# 1st. level IT-Supporter
 02-10-2024
 
-Nordværk I/S
+Power People
 
 Aalborg Øst
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143690&DepartmentId=18973&MediaId=4629)
+Job URL: [link](https://PowerPeopleDanmarkApS.reqruiting.com/job.aspx?id=21444)
 
 
