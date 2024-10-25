@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "25-10-2024",
+        "title": "Vi søger dygtig kollega til installationsteamet i Aalborg",
+        "company": "AV CENTER Aalborg ApS",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1510943/vi-soeger-dygtig-kollega-til-installationsteamet-i-aalborg"
+    },
+    {
         "pub_date": "22-10-2024",
         "title": "Systemkonsulent",
         "company": "Power People",
@@ -103,19 +110,5 @@
         "company": "Netcompany A/S",
         "location": "Aalborg eller København K",
         "job_URL": "https://smrtr.io/gP-sr"
-    },
-    {
-        "pub_date": "04-10-2024",
-        "title": "Business Central Software Engineer – Continia Document Capture Solution",
-        "company": "Continia Software A/S",
-        "location": "Copenhagen, Nørresundby or Vilnius (LT)",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143664&DepartmentId=18972&MediaId=5"
-    },
-    {
-        "pub_date": "03-10-2024",
-        "title": "IT-supporter",
-        "company": "Beritech A/S",
-        "location": "Nørresundby",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143679&DepartmentId=18956&MediaId=4620"
     }
 ]
