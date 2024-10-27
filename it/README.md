@@ -1,10 +1,10 @@
-# Linux Operations Engineer
-07-10-2024
+# IT-supporter
+03-10-2024
 
-Netcompany A/S
+Beritech A/S
 
-Aalborg eller København K
+Nørresundby
 
-Job URL: [link](https://smrtr.io/gP-sr)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143679&DepartmentId=18956&MediaId=4620)
 
 
