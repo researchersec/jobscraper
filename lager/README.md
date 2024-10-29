@@ -1,10 +1,10 @@
-# Afdelingsleder, Aalborg Distributionscenter
-01-10-2024
+# Energisk medarbejder til frysehus i Hirtshals
+09-10-2024
 
-Coop Logistik
+Lineage
 
-Aalborg SV
+Hirtshals
 
-Job URL: [link](https://jobs.coop.dk/job/Afdelingsleder%2C-Aalborg-Distributionscenter/804285002/)
+Job URL: [link](https://mit.moment.dk/jobopslag/vis?no=192767)
 
 
