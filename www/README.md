@@ -1,10 +1,10 @@
-# Lead Frontend Udvikler
-01-10-2024
+# Creative Content Manager
+03-10-2024
 
-SoftControl A/S
+Myextensions
 
-Vodskov
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1504515/lead-frontend-udvikler)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1504655/creative-content-manager)
 
 
