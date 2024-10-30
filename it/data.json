@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "30-10-2024",
+        "title": "Dygtig IT-administrator",
+        "company": "Hviid & Larsen ApS",
+        "location": "Støvring",
+        "job_URL": "http://www.hviidoglarsen.dk/jobs?hr=show-job/223390&linkref=242027&locale=da_DK"
+    },
+    {
         "pub_date": "29-10-2024",
         "title": "Support- og forretningskonsulent - Education i KMD",
         "company": "KMD A/S",
@@ -103,12 +110,5 @@
         "company": "Continia Software A/S",
         "location": "Copenhagen, Nørresundby or Vilnius (LT)",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143664&DepartmentId=18972&MediaId=5"
-    },
-    {
-        "pub_date": "03-10-2024",
-        "title": "IT-supporter",
-        "company": "Beritech A/S",
-        "location": "Nørresundby",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143679&DepartmentId=18956&MediaId=4620"
     }
 ]

@@ -1,10 +1,10 @@
-# IT-supporter
-03-10-2024
+# Business Central Software Engineer – Continia Document Capture Solution
+04-10-2024
 
-Beritech A/S
+Continia Software A/S
 
-Nørresundby
+Copenhagen, Nørresundby or Vilnius (LT)
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143679&DepartmentId=18956&MediaId=4620)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143664&DepartmentId=18972&MediaId=5)
 
 
