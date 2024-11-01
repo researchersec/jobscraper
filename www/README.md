@@ -1,10 +1,10 @@
-# Erfaren React-udvikler
-08-10-2024
+# Creative Content Manager
+01-11-2024
 
-Intellis A/S
+Myextensions
 
 Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1506096/erfaren-react-udvikler)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1512571/creative-content-manager)
 
 
