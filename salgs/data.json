@@ -42,25 +42,11 @@
         "job_URL": "https://boxit.hr-on.com/show-job/223244?linkref=241859&locale=da_DK"
     },
     {
-        "pub_date": "29-10-2024",
-        "title": "JULEASSISTANCE DELTID / TIDSBEGRÆNSET PERIODE",
-        "company": "BAHNE SØRENSEN A/S Fisketorvets Shopping Center",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12816688/juleassistance-deltid-tidsbegraenset-periode"
-    },
-    {
         "pub_date": "28-10-2024",
         "title": "Kasseassistent - Hobro",
         "company": "føtex",
         "location": "Hobro",
         "job_URL": "https://sallinggroup.com/job/ledige-stillinger/0d7fd0b7-c82f-4b9d-a54b-2127f3b52a36"
-    },
-    {
-        "pub_date": "26-10-2024",
-        "title": "Kasseassistent - Aalborg Øst",
-        "company": "føtex",
-        "location": "Aalborg Øst",
-        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/6cc0ca44-4bab-4a70-81ed-7332518b4a2d"
     },
     {
         "pub_date": "25-10-2024",
@@ -96,5 +82,19 @@
         "company": "SPORT 24 A/S",
         "location": "Aalborg SV",
         "job_URL": "https://app.elvium.com/da/positions/27994/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "pub_date": "04-11-2024",
+        "title": "Salgsassistenter (deltid) til Salling Ålborg",
+        "company": "FRENCH PHARMACY ApS",
+        "location": "Aalborg",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/salgsassistenter-deltid-til-salling-aalborg-lja-85782223.aspx?jobId=LJA-85782223&list=SearchResultsJobsIds&index=7&querydesc=SearchJobQueryDescription&viewedfrom=1"
+    },
+    {
+        "pub_date": "04-11-2024",
+        "title": "Vi leder efter en deltids butikssælger til Glitter i Aalborg Storcenter",
+        "company": "GLITTER ApS",
+        "location": "Aalborg SV",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/vi-leder-efter-en-deltids-butikssaelger-til-glitter-i-aalborg-storcenter-lja-85782193.aspx?jobId=LJA-85782193&list=SearchResultsJobsIds&index=20&querydesc=SearchJobQueryDescription&viewedfrom=1"
     }
 ]
