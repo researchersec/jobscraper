@@ -21,13 +21,6 @@
         "job_URL": "https://jobs.ikea.com/da/job/aalborg/salgsmedarbejder-til-sovev-relsesm-bler-og-b-rnenes-ikea-37-antal-timer-pr-uge-aalborg/24107/72120302816"
     },
     {
-        "pub_date": "30-10-2024",
-        "title": "REMA 1000 i Løvvangcentret søger Servicemedarbejder til kolonial",
-        "company": "KLAPjob",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12818789/rema-1000-i-loevvangcentret-soeger-servicemedarbejder-til-kolonial"
-    },
-    {
         "pub_date": "29-10-2024",
         "title": "Visual Merchandiser",
         "company": "PWT Group A/S",
@@ -40,13 +33,6 @@
         "company": "BOXIT",
         "location": "Aalborg",
         "job_URL": "https://boxit.hr-on.com/show-job/223244?linkref=241859&locale=da_DK"
-    },
-    {
-        "pub_date": "28-10-2024",
-        "title": "Kasseassistent - Hobro",
-        "company": "føtex",
-        "location": "Hobro",
-        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/0d7fd0b7-c82f-4b9d-a54b-2127f3b52a36"
     },
     {
         "pub_date": "25-10-2024",
@@ -85,16 +71,30 @@
     },
     {
         "pub_date": "05-11-2024",
+        "title": "Store Assistant 20-25 timer, Hjøring",
+        "company": "VERO MODA",
+        "location": "Hjørring",
+        "job_URL": "https://bestseller-as.contactrh.com/jobs/10895/42955388/da_DK"
+    },
+    {
+        "pub_date": "05-11-2024",
+        "title": "Sælger",
+        "company": "Bygma",
+        "location": "Støvring",
+        "job_URL": "https://jobs.bygma.dk/job/St%C3%B8vring-S%C3%A6lger-til-Bygma-St%C3%B8vring-9530/1135865555/"
+    },
+    {
+        "pub_date": "05-11-2024",
+        "title": "Salgsassistenter (deltid) til Salling Ålborg",
+        "company": "FRENCH PHARMACY ApS",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12830472/salgsassistenter-deltid-til-salling-aalborg"
+    },
+    {
+        "pub_date": "05-11-2024",
         "title": "Vi leder efter en deltids butikssælger til Glitter i Aalborg Storcenter",
         "company": "GLITTER ApS",
         "location": "Aalborg SV",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12830165/vi-leder-efter-en-deltids-butikssaelger-til-glitter-i-aalborg-storcenter"
-    },
-    {
-        "pub_date": "04-11-2024",
-        "title": "Salgsassistenter (deltid) til Salling Ålborg",
-        "company": "FRENCH PHARMACY ApS",
-        "location": "Aalborg",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/salgsassistenter-deltid-til-salling-aalborg-lja-85782223.aspx?jobId=LJA-85782223&list=SearchResultsJobsIds&index=7&querydesc=SearchJobQueryDescription&viewedfrom=1"
     }
 ]
