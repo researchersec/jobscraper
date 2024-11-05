@@ -1,10 +1,10 @@
-# Vi leder efter en deltids butikssælger til Glitter i Aalborg Storcenter
+# Salgsassistenter (deltid) til Salling Ålborg
 04-11-2024
 
-GLITTER ApS
+FRENCH PHARMACY ApS
 
-Aalborg SV
+Aalborg
 
-Job URL: [link](https://www.nordjyskejob.dk/resultat/vi-leder-efter-en-deltids-butikssaelger-til-glitter-i-aalborg-storcenter-lja-85782193.aspx?jobId=LJA-85782193&list=SearchResultsJobsIds&index=20&querydesc=SearchJobQueryDescription&viewedfrom=1)
+Job URL: [link](https://www.nordjyskejob.dk/resultat/salgsassistenter-deltid-til-salling-aalborg-lja-85782223.aspx?jobId=LJA-85782223&list=SearchResultsJobsIds&index=7&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
