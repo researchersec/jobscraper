@@ -7,20 +7,6 @@
         "job_URL": "https://www.deichmann-jobs.dk/job/?rmpage=job&rmjob=1220&s&rmlang=DK"
     },
     {
-        "pub_date": "31-10-2024",
-        "title": "Kalder alle Natteravne! Circle K Nykøbing Mors søger en sælger på 28-30 timer til nattevagter",
-        "company": "Circle K Danmark A/S",
-        "location": "Nykøbing M",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12821532/kalder-alle-natteravne-circle-k-nykoebing-mors-soeger-en-saelger-paa-28-30-timer-til-nattevagter"
-    },
-    {
-        "pub_date": "30-10-2024",
-        "title": "Salgsmedarbejder til Soveværelsesmøbler og Børnenes IKEA, 37 antal timer pr. uge, Aalborg",
-        "company": "IKEA",
-        "location": "Aalborg SV",
-        "job_URL": "https://jobs.ikea.com/da/job/aalborg/salgsmedarbejder-til-sovev-relsesm-bler-og-b-rnenes-ikea-37-antal-timer-pr-uge-aalborg/24107/72120302816"
-    },
-    {
         "pub_date": "29-10-2024",
         "title": "Visual Merchandiser",
         "company": "PWT Group A/S",
@@ -85,6 +71,13 @@
     },
     {
         "pub_date": "05-11-2024",
+        "title": "Butiksmedarbejder over 18 år søges",
+        "company": "",
+        "location": "Aalborg",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/butiksmedarbejder-over-18-aar-soeges-lja-85783945.aspx?jobId=LJA-85783945&list=SearchResultsJobsIds&index=20&querydesc=SearchJobQueryDescription&viewedfrom=1"
+    },
+    {
+        "pub_date": "05-11-2024",
         "title": "Salgsassistenter (deltid) til Salling Ålborg",
         "company": "FRENCH PHARMACY ApS",
         "location": "Aalborg",
@@ -96,5 +89,12 @@
         "company": "GLITTER ApS",
         "location": "Aalborg SV",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12830165/vi-leder-efter-en-deltids-butikssaelger-til-glitter-i-aalborg-storcenter"
+    },
+    {
+        "pub_date": "05-11-2024",
+        "title": "Butiksassistent - 25 timer - Skagen",
+        "company": "Lidl Danmark",
+        "location": "Skagen",
+        "job_URL": "https://karriere.lidl.dk/ledige-stillinger/butiksassistent-25-timer-skagen-skagen-485993"
     }
 ]
