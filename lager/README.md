@@ -1,10 +1,10 @@
-# Lager- og logistikmedarbejder
-14-10-2024
+# Lagermedarbejder primært til plukning og pakning søges
+06-11-2024
 
-Larsen HR
 
-Gistrup
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2279&ProjectId=143655&DepartmentId=18989&MediaId=4614)
+Svenstrup J
+
+Job URL: [link](https://www.nordjyskejob.dk/resultat/lagermedarbejder-primaert-til-plukning-og-pakning-soeges-lja-85785718.aspx?jobId=LJA-85785718&list=SearchResultsJobsIds&index=7&querydesc=SearchJobQueryDescription&viewedfrom=1)
 
 
