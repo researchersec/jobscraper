@@ -1,10 +1,10 @@
-# Butiksassistent - 25 timer - Skagen
+# Vi leder efter en deltids butikssælger til Glitter i Aalborg Storcenter
 05-11-2024
 
-Lidl Danmark
+GLITTER ApS
 
-Skagen
+Aalborg SV
 
-Job URL: [link](https://karriere.lidl.dk/ledige-stillinger/butiksassistent-25-timer-skagen-skagen-485993)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12830165/vi-leder-efter-en-deltids-butikssaelger-til-glitter-i-aalborg-storcenter)
 
 
