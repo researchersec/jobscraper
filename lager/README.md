@@ -1,10 +1,10 @@
-# Lagermedarbejder primært til plukning og pakning søges
+# Warehouse Lead for Nordic MV
 07-11-2024
 
+Nordic Mv ApS
 
+Aalborg
 
-Svenstrup J
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12836176/lagermedarbejder-primaert-til-plukning-og-pakning-soeges)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1514244/warehouse-lead-for-nordic-mv)
 
 
