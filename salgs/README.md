@@ -1,10 +1,10 @@
-# Vi leder efter en deltids butikssælger til Glitter i Aalborg Storcenter
+# Sælger
 05-11-2024
 
-GLITTER ApS
+Bygma
 
-Aalborg SV
+Støvring
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12830165/vi-leder-efter-en-deltids-butikssaelger-til-glitter-i-aalborg-storcenter)
+Job URL: [link](https://jobs.bygma.dk/job/St%C3%B8vring-S%C3%A6lger-til-Bygma-St%C3%B8vring-9530/1135865555/)
 
 

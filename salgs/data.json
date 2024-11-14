@@ -35,6 +35,13 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/r12850465/dygtig-butiksassistent-med-passion-for-camping-soeges"
     },
     {
+        "pub_date": "14-11-2024",
+        "title": "Butiksassistent - 30 timer - Aars",
+        "company": "Lidl Danmark",
+        "location": "Aars",
+        "job_URL": "https://karriere.lidl.dk/ledige-stillinger/butiksassistent-30-timer-aars-aars-488744"
+    },
+    {
         "pub_date": "13-11-2024",
         "title": "REMA 1000 i Hadsund - Butiksmedhjælper",
         "company": "KLAPjob",
@@ -75,12 +82,5 @@
         "company": "Bygma",
         "location": "Støvring",
         "job_URL": "https://jobs.bygma.dk/job/St%C3%B8vring-S%C3%A6lger-til-Bygma-St%C3%B8vring-9530/1135865555/"
-    },
-    {
-        "pub_date": "05-11-2024",
-        "title": "Vi leder efter en deltids butikssælger til Glitter i Aalborg Storcenter",
-        "company": "GLITTER ApS",
-        "location": "Aalborg SV",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12830165/vi-leder-efter-en-deltids-butikssaelger-til-glitter-i-aalborg-storcenter"
     }
 ]
