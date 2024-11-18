@@ -1,10 +1,10 @@
-# Creative Content Manager
-01-11-2024
+# SEO & SEM specialist
+05-11-2024
 
-Myextensions
+Digital Partners ApS
 
 Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1512571/creative-content-manager)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1513271/seo-sem-specialist)
 
 
