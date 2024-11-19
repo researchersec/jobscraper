@@ -1,10 +1,10 @@
-# Business Central Software Engineer – Continia Document Capture Solution
-04-10-2024
+# Linux Operations Engineer
+04-11-2024
 
-Continia Software A/S
+Netcompany A/S
 
-Copenhagen, Nørresundby or Vilnius (LT)
+Aalborg eller København K
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143664&DepartmentId=18972&MediaId=5)
+Job URL: [link](https://smrtr.io/gP-sr)
 
 
