@@ -1,10 +1,10 @@
-# Store Assistant 20-25 timer, Hjøring
-05-11-2024
+# Salgsassistent til Aalborg Station DSB 7-Eleven (6 timer om ugen)
+15-11-2024
 
-VERO MODA
+DSB
 
-Hjørring
+Aalborg
 
-Job URL: [link](https://bestseller-as.contactrh.com/jobs/10895/42955388/da_DK)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=14&ProjectId=192423&DepartmentId=20079&MediaId=5)
 
 
