@@ -1,10 +1,10 @@
-# SEO & SEM specialist
-05-11-2024
+# Merchandiseansvarlig til Aalborg Håndbold
+02-12-2024
 
-Digital Partners ApS
+Career
 
-Aalborg
+Aalborg Øst
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1513271/seo-sem-specialist)
+Job URL: [link](https://career.jks.dk/Default.aspx?ID=56972)
 
 
