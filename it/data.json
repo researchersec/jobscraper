@@ -1,12 +1,5 @@
 [
     {
-        "pub_date": "30-11-2024",
-        "title": "IT Serverspecialist",
-        "company": "Aalborg Kommune",
-        "location": "Aalborg",
-        "job_URL": "https://www.aalborg.dk/job-og-karriere/vis-job?id=20616"
-    },
-    {
         "pub_date": "29-11-2024",
         "title": "Billing Product Owner - Vær med til at definere fremtidens afregning for Norlys Energi",
         "company": "Norlys",
@@ -54,13 +47,6 @@
         "company": "Aalborg Forsyning",
         "location": "Vodskov",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12875907/bliv-en-del-af-en-nytaenkende-it-organisation-som-dynamics-365-systemkonsulent"
-    },
-    {
-        "pub_date": "28-11-2024",
-        "title": "IT-Infrastrukturspecialist – Sæt faglig retning for vores Infrastruktur og sikkerhed!",
-        "company": "Aalborg Forsyning",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12875906/it-infrastrukturspecialist-saet-faglig-retning-for-vores-infrastruktur-og-sikkerhed"
     },
     {
         "pub_date": "27-11-2024",
@@ -124,5 +110,19 @@
         "company": "Netcompany A/S",
         "location": "Aalborg eller København K",
         "job_URL": "https://smrtr.io/gP-sr"
+    },
+    {
+        "pub_date": "02-12-2024",
+        "title": "Microsoft Azure-platformspecialist",
+        "company": "Aalborg Kommune",
+        "location": "Aalborg",
+        "job_URL": "https://aalborg.career.emply.com/ad/microsoft-azure-platformspecialist/wb5eff/da"
+    },
+    {
+        "pub_date": "02-12-2024",
+        "title": "IT-serverspecialist",
+        "company": "Aalborg Kommune",
+        "location": "Aalborg",
+        "job_URL": "https://aalborg.career.emply.com/ad/it-serverspecialist/i6ncvb/da"
     }
 ]

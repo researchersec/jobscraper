@@ -1,10 +1,10 @@
-# Linux Operations Engineer
-04-11-2024
+# IT-serverspecialist
+02-12-2024
 
-Netcompany A/S
+Aalborg Kommune
 
-Aalborg eller København K
+Aalborg
 
-Job URL: [link](https://smrtr.io/gP-sr)
+Job URL: [link](https://aalborg.career.emply.com/ad/it-serverspecialist/i6ncvb/da)
 
 
