@@ -1,10 +1,10 @@
-# Salgsassistent til Aalborg Station DSB 7-Eleven (6 timer om ugen)
-15-11-2024
+# Pladsmedarbejder
+19-11-2024
 
-DSB
+Bygma
 
 Aalborg
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=14&ProjectId=192423&DepartmentId=20079&MediaId=5)
+Job URL: [link](https://jobs.bygma.dk/job/Aalborg-Pladsmedarbejder-til-Bygma-Aalborg-C-9000/1137005255/)
 
 
