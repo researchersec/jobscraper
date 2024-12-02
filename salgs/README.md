@@ -1,10 +1,10 @@
-# Pladsmedarbejder
-19-11-2024
+# Sælgere internt til XL-BYG i Tårs og Hjørring
+02-12-2024
 
-Bygma
+XL-BYG
 
-Aalborg
+Tårs og Hjørring
 
-Job URL: [link](https://jobs.bygma.dk/job/Aalborg-Pladsmedarbejder-til-Bygma-Aalborg-C-9000/1137005255/)
+Job URL: [link](https://app.elvium.com/da/positions/28575/job_posting?referer_host=www.jobindex.dk)
 
 
