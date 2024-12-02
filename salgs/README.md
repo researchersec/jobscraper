@@ -1,10 +1,10 @@
-# Sælgere internt til XL-BYG i Tårs og Hjørring
+# Kasseassistent søges til Superbrugsen Strandby Plads, Esbjerg
 02-12-2024
 
-XL-BYG
+SuperBrugsen
 
-Tårs og Hjørring
+Esbjerg, Strandby
 
-Job URL: [link](https://app.elvium.com/da/positions/28575/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=153832)
 
 
