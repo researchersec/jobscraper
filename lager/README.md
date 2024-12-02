@@ -1,10 +1,10 @@
-# Erfaren lagermedarbejder søges
-02-12-2024
+# Er du Scandinavian Medical Solution A/S’ nye Lagermedarbejder?
+08-11-2024
 
-ERLING CHRISTENSEN MØBLER A/S
+Scandinavian Medical Solutions A/S
 
-Sindal
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12881735/erfaren-lagermedarbejder-soeges)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1514612/er-du-scandinavian-medical-solution-a-s-nye-lagermedarbejder)
 
 
