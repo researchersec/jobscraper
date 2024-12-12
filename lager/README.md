@@ -1,10 +1,10 @@
-# Pakkerimedarbejder til webshop pakkeri søges
-04-12-2024
+# Frisk truckfører til teglproduktion
+10-12-2024
 
-ERLING CHRISTENSEN MØBLER A/S
+Randers Tegl A/S
 
-Sindal
+Hobro
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r12886740/pakkerimedarbejder-til-webshop-pakkeri-soeges)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1522190/frisk-truckfoerer-til-teglproduktion)
 
 
