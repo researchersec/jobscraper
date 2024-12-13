@@ -42,6 +42,13 @@
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3010&ProjectId=143691&DepartmentId=18981&MediaId=4646"
     },
     {
+        "pub_date": "13-12-2024",
+        "title": "Barselsvikariat: Vil du være med til at uddanne fremtidens IT-supportere og datateknikere?:",
+        "company": "TECHCOLLEGE",
+        "location": "Aalborg",
+        "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1032"
+    },
+    {
         "pub_date": "11-12-2024",
         "title": "Lead System Architect",
         "company": "RTX A/S",
@@ -77,13 +84,6 @@
         "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219343"
     },
     {
-        "pub_date": "06-12-2024",
-        "title": "Job hos TECHNICON",
-        "company": "TECHNICON A/S",
-        "location": "Hobro",
-        "job_URL": "https://jobbank.dk/job/2703313/technicon-as/job-hos-technicon"
-    },
-    {
         "pub_date": "05-12-2024",
         "title": "Systemkonsulent",
         "company": "Power People",
@@ -99,7 +99,7 @@
     },
     {
         "pub_date": "03-12-2024",
-        "title": "ECM Operations Specialist",
+        "title": "OnBase Operations Specialist",
         "company": "Eurowind Energy A/S",
         "location": "Hobro",
         "job_URL": "https://eurowindenergy.com/career?hr=show-job/228475&locale=da_DK#hrskyen"
