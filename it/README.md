@@ -1,10 +1,10 @@
-# IT-serverspecialist
-02-12-2024
+# OnBase Operations Specialist
+03-12-2024
 
-Aalborg Kommune
+Eurowind Energy A/S
 
-Aalborg
+Hobro
 
-Job URL: [link](https://aalborg.career.emply.com/ad/it-serverspecialist/i6ncvb/da)
+Job URL: [link](https://eurowindenergy.com/career?hr=show-job/228475&locale=da_DK#hrskyen)
 
 
