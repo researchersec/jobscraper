@@ -1,10 +1,10 @@
-# Merchandiseansvarlig til Aalborg Håndbold
-02-12-2024
+# Erfarne full stack Java Developers søges til spændende arbejde med strategiske kunder
+10-12-2024
 
-Career
+CGI Danmark A/S
 
-Aalborg Øst
+Aalborg, Aarhus eller Ballerup
 
-Job URL: [link](https://career.jks.dk/Default.aspx?ID=56972)
+Job URL: [link](https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1224-0436&BRID=1176998&lang=10)
 
 
