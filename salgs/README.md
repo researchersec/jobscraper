@@ -1,10 +1,10 @@
-# Trælastsælger, XL-BYG Hadsund
-03-12-2024
+# Bliv salgsassistent
+05-12-2024
 
-XL-BYG
+Louis Nielsen A/S
 
-Hadsund
+Frederikshavn
 
-Job URL: [link](https://app.elvium.com/da/positions/28599/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/2164/assistent-til-louis-nielsen-frederikshavn)
 
 
