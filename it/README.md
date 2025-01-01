@@ -1,10 +1,10 @@
-# OnBase Operations Specialist
-03-12-2024
+# DevOps – til maritime tracking-systemer
+01-01-2025
 
-Eurowind Energy A/S
+Gatehouse Maritime
 
-Hobro
+Nørresundby
 
-Job URL: [link](https://eurowindenergy.com/career?hr=show-job/228475&locale=da_DK#hrskyen)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1520815/devops-til-maritime-tracking-systemer)
 
 

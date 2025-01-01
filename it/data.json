@@ -91,13 +91,6 @@
         "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Application-Consultant-med-fokus-p%C3%A5-drift%2C-support-og-optimering-9000/1151690801/"
     },
     {
-        "pub_date": "13-12-2024",
-        "title": "Barselsvikariat: Vil du være med til at uddanne fremtidens IT-supportere og datateknikere?:",
-        "company": "TECHCOLLEGE",
-        "location": "Aalborg",
-        "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1032"
-    },
-    {
         "pub_date": "11-12-2024",
         "title": "Lead System Architect",
         "company": "RTX A/S",
@@ -112,17 +105,24 @@
         "job_URL": "https://powerpeopledanmarkaps.reqruiting.com/job.aspx?id=20896"
     },
     {
-        "pub_date": "04-12-2024",
-        "title": "DevOps – til maritime tracking-systemer",
-        "company": "Gatehouse Maritime",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1520815/devops-til-maritime-tracking-systemer"
-    },
-    {
         "pub_date": "03-12-2024",
         "title": "OnBase Operations Specialist",
         "company": "Eurowind Energy A/S",
         "location": "Hobro",
         "job_URL": "https://eurowindenergy.com/career?hr=show-job/228475&locale=da_DK#hrskyen"
+    },
+    {
+        "pub_date": "01-01-2025",
+        "title": "Microsoft Business Central Forretningskonsulent",
+        "company": "Jobindex",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1526282/microsoft-business-central-forretningskonsulent"
+    },
+    {
+        "pub_date": "01-01-2025",
+        "title": "DevOps – til maritime tracking-systemer",
+        "company": "Gatehouse Maritime",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1520815/devops-til-maritime-tracking-systemer"
     }
 ]
