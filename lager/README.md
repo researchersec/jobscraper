@@ -1,10 +1,10 @@
-# Frisk truckfører til teglproduktion
-10-12-2024
+# Snerydning
+03-01-2025
 
-Randers Tegl A/S
 
-Hobro
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1522190/frisk-truckfoerer-til-teglproduktion)
+Brønderslev
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r12945709/snerydning)
 
 
