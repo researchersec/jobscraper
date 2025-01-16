@@ -1,10 +1,10 @@
-# Senior Service Advisor
-02-01-2025
+# Sælgere internt til XL-BYG i Tårs og Hjørring
+03-01-2025
 
-Elgiganten A/S
+XL-BYG
 
-Aalborg SV
+Tårs og Hjørring
 
-Job URL: [link](https://web103.reachmee.com/ext/I022/2126/job?site=15&lang=DK&validator=3cc71ec923ccaf7527e8b30ecbdf32c0&job_id=2876)
+Job URL: [link](https://app.elvium.com/da/positions/28575/job_posting?referer_host=www.jobindex.dk)
 
 
