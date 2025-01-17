@@ -1,6 +1,20 @@
 [
     {
         "pub_date": "17-01-2025",
+        "title": "Senior Compliance Manager",
+        "company": "Continia Software A/S",
+        "location": "Copenhagen or Nørresundby",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143671&DepartmentId=18974&MediaId=5"
+    },
+    {
+        "pub_date": "17-01-2025",
+        "title": "Business Central Support Engineer - Document Capture Support Team",
+        "company": "Continia Software A/S",
+        "location": "Copenhagen or Nørresundby",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143670&DepartmentId=18974&MediaId=5"
+    },
+    {
+        "pub_date": "17-01-2025",
         "title": "IT-Netværksspecialist",
         "company": "Aalborg Kommune",
         "location": "Aalborg",
@@ -19,13 +33,6 @@
         "company": "Aalborg Portland",
         "location": "Aalborg Øst",
         "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3452689/130141/jobindex&iso=dk/"
-    },
-    {
-        "pub_date": "15-01-2025",
-        "title": "IT-konsulent til Digitalisering og IT",
-        "company": "Region Nordjylland",
-        "location": "Aalborg",
-        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=49174"
     },
     {
         "pub_date": "14-01-2025",
@@ -124,12 +131,5 @@
         "company": "Telenor",
         "location": "Aalborg",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145864&DepartmentId=18957&MediaId=5"
-    },
-    {
-        "pub_date": "01-01-2025",
-        "title": "DevOps – til maritime tracking-systemer",
-        "company": "Gatehouse Maritime",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1520815/devops-til-maritime-tracking-systemer"
     }
 ]

@@ -1,10 +1,10 @@
-# DevOps – til maritime tracking-systemer
-01-01-2025
+# Technical Solution Architect
+06-01-2025
 
-Gatehouse Maritime
+Telenor
 
-Nørresundby
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1520815/devops-til-maritime-tracking-systemer)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145864&DepartmentId=18957&MediaId=5)
 
 
