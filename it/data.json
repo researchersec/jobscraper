@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "20-01-2025",
+        "title": "IT-Supporter",
+        "company": "Sjørring Maskinfabrik A/S",
+        "location": "Thisted",
+        "job_URL": "https://www.sjorring.com/career?hr=show-job%2F234479%26locale%3Den_US"
+    },
+    {
         "pub_date": "17-01-2025",
         "title": "Senior Compliance Manager",
         "company": "Continia Software A/S",
@@ -124,12 +131,5 @@
         "company": "RTX A/S",
         "location": "Nørresundby",
         "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
-    },
-    {
-        "pub_date": "06-01-2025",
-        "title": "Technical Solution Architect",
-        "company": "Telenor",
-        "location": "Aalborg",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145864&DepartmentId=18957&MediaId=5"
     }
 ]
