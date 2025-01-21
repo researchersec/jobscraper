@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "21-01-2025",
+        "title": "Sælger deltid 8 timer/uge til Farver & Belysning i BAUHAUS Hjørring",
+        "company": "BAUHAUS",
+        "location": "Hjørring",
+        "job_URL": "https://bauhausdk.easycruit.com/vacancy/3447535/28568?iso=dk"
+    },
+    {
         "pub_date": "16-01-2025",
         "title": "Ansvarlig for krukker",
         "company": "Billigblomst A/S",
@@ -75,12 +82,5 @@
         "company": "XL-BYG",
         "location": "Hadsund",
         "job_URL": "https://app.elvium.com/da/positions/28857/job_posting?referer_host=www.jobindex.dk"
-    },
-    {
-        "pub_date": "03-01-2025",
-        "title": "Bliv salgsassistent",
-        "company": "Louis Nielsen A/S",
-        "location": "Frederikshavn",
-        "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2164/assistent-til-louis-nielsen-frederikshavn"
     }
 ]

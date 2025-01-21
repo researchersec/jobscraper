@@ -1,10 +1,10 @@
-# Bliv salgsassistent
+# Salgsassistent med ansvar for haveafdeling til XL-BYG Hadsunds byggecenter
 03-01-2025
 
-Louis Nielsen A/S
+XL-BYG
 
-Frederikshavn
+Hadsund
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/2164/assistent-til-louis-nielsen-frederikshavn)
+Job URL: [link](https://app.elvium.com/da/positions/28857/job_posting?referer_host=www.jobindex.dk)
 
 
