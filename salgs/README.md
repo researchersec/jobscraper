@@ -1,10 +1,10 @@
-# Sælgere internt til XL-BYG i Tårs og Hjørring
+# Bliv salgsassistent
 03-01-2025
 
-XL-BYG
+Louis Nielsen A/S
 
-Tårs og Hjørring
+Frederikshavn
 
-Job URL: [link](https://app.elvium.com/da/positions/28575/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/2164/assistent-til-louis-nielsen-frederikshavn)
 
 
