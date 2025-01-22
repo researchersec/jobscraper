@@ -1,10 +1,10 @@
-# Salgsassistent med ansvar for haveafdeling til XL-BYG Hadsunds byggecenter
-03-01-2025
+# Salgsassistent
+06-01-2025
 
-XL-BYG
+Dagrofa Foodservice
 
-Hadsund
+Hjørring
 
-Job URL: [link](https://app.elvium.com/da/positions/28857/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147364&DepartmentId=19005&MediaId=4623)
 
 
