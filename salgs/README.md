@@ -1,10 +1,10 @@
-# Trælastsælger, XL-BYG Hadsund
+# Sælger
 07-01-2025
 
-XL-BYG
+Bygma
 
-Hadsund
+Aalborg SV
 
-Job URL: [link](https://app.elvium.com/da/positions/28599/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://jobs.bygma.dk/job/Aalborg-SV-S%C3%A6lger-til-Bygma-Aalborg-9200/1142789155/)
 
 

@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "23-01-2025",
+        "title": "Sælger til Butiksteamet - STARK Aabybro",
+        "company": "STARK Danmark",
+        "location": "Aabybro",
+        "job_URL": "https://stark.wd3.myworkdayjobs.com/STARK-Denmark/job/Aabybro/Slger-til-Butiksteamet---STARK-Aabybro_JR25933"
+    },
+    {
+        "pub_date": "23-01-2025",
         "title": "Sælger til håndværkerbutik i Hurup",
         "company": "XL-BYG",
         "location": "Hurup Thy",
@@ -89,12 +96,5 @@
         "company": "Bygma",
         "location": "Aalborg SV",
         "job_URL": "https://jobs.bygma.dk/job/Aalborg-SV-S%C3%A6lger-til-Bygma-Aalborg-9200/1142789155/"
-    },
-    {
-        "pub_date": "07-01-2025",
-        "title": "Trælastsælger, XL-BYG Hadsund",
-        "company": "XL-BYG",
-        "location": "Hadsund",
-        "job_URL": "https://app.elvium.com/da/positions/28599/job_posting?referer_host=www.jobindex.dk"
     }
 ]
