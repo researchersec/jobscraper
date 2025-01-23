@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "23-01-2025",
+        "title": "IT-driftsmedarbejder",
+        "company": "IT Center Nord",
+        "location": "Aalborg",
+        "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1036"
+    },
+    {
         "pub_date": "20-01-2025",
         "title": "IT-Supporter",
         "company": "Sjørring Maskinfabrik A/S",
@@ -124,12 +131,5 @@
         "company": "RTX A/S",
         "location": "Nørresundby",
         "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
-    },
-    {
-        "pub_date": "01-01-2025",
-        "title": "DevOps – til maritime tracking-systemer",
-        "company": "Gatehouse Maritime",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1520815/devops-til-maritime-tracking-systemer"
     }
 ]
