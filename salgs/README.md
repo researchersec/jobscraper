@@ -1,10 +1,10 @@
-# Salgsassistent
-06-01-2025
+# Trælastsælger, XL-BYG Hadsund
+07-01-2025
 
-Dagrofa Foodservice
+XL-BYG
 
-Hjørring
+Hadsund
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147364&DepartmentId=19005&MediaId=4623)
+Job URL: [link](https://app.elvium.com/da/positions/28599/job_posting?referer_host=www.jobindex.dk)
 
 
