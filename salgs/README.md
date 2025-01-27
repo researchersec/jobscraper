@@ -1,10 +1,10 @@
-# Sælger
+# Timelønsansat
 07-01-2025
 
-Bygma
+CHANGE of Scandinavia A/S
 
-Aalborg SV
+Thisted
 
-Job URL: [link](https://jobs.bygma.dk/job/Aalborg-SV-S%C3%A6lger-til-Bygma-Aalborg-9200/1142789155/)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146406&DepartmentId=18982&MediaId=59)
 
 
