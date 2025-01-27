@@ -1,10 +1,10 @@
-# Timelønsansat
-07-01-2025
+# Intern sælger til XL-BYG i Elling
+13-01-2025
 
-CHANGE of Scandinavia A/S
+XL-BYG
 
-Thisted
+Frederikshavn
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146406&DepartmentId=18982&MediaId=59)
+Job URL: [link](https://app.elvium.com/da/positions/28997/job_posting?referer_host=www.jobindex.dk)
 
 
