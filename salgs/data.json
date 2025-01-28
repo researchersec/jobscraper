@@ -1,5 +1,19 @@
 [
     {
+        "pub_date": "28-01-2025",
+        "title": "Slagtersvend Løvbjerg Frederikshavn",
+        "company": "Løvbjerg Supermarked A/S",
+        "location": "Frederikshavn",
+        "job_URL": "https://lovbjerg.emply.net/recruitment/vacancyAd.aspx?publishingId=b81813b7-8a79-4a2f-8596-34de6485edaf"
+    },
+    {
+        "pub_date": "28-01-2025",
+        "title": "Assistance Vinafdelingen - Aalborg",
+        "company": "Salling",
+        "location": "Aalborg",
+        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/49bec200-0cf9-446e-821b-cbda52ceff25"
+    },
+    {
         "pub_date": "27-01-2025",
         "title": "Sælger fuldtid SPORT 24, 32-37 timer",
         "company": "SPORT 24 A/S",
@@ -75,19 +89,5 @@
         "company": "Brugsen",
         "location": "Hadsund",
         "job_URL": "https://jobs.coop.dk/job/Delikatesseassistent%2C-Brugsen-%C3%98ster-Hurup/154257-da_DK"
-    },
-    {
-        "pub_date": "14-01-2025",
-        "title": "Delikatesseassistent",
-        "company": "Meny",
-        "location": "Sæby",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147390&DepartmentId=19134&MediaId=4623"
-    },
-    {
-        "pub_date": "13-01-2025",
-        "title": "Butiksmedarbejdere",
-        "company": "BigDollar",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1530094/butiksmedarbejdere"
     }
 ]
