@@ -1,10 +1,10 @@
-# Intern sælger til XL-BYG i Elling
+# Butiksmedarbejdere
 13-01-2025
 
-XL-BYG
+BigDollar
 
-Frederikshavn
+Aalborg
 
-Job URL: [link](https://app.elvium.com/da/positions/28997/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1530094/butiksmedarbejdere)
 
 
