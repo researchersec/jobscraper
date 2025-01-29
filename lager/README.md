@@ -1,10 +1,10 @@
-# Lagerekspedienter, Coop Logistik, Aalborg Distributions Center
-08-01-2025
+# Chauffør- og lagermedarbejder
+10-01-2025
 
-Coop Danmark
+Viggo Laursen A/S
 
-Aalborg
+Aalborg Øst
 
-Job URL: [link](https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=154155)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1529516/chauffoer-og-lagermedarbejder)
 
 
