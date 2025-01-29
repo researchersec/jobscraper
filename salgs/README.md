@@ -1,10 +1,10 @@
-# Delikatesseassistent, Brugsen Øster Hurup
-16-01-2025
+# Sælger deltid 8 timer/uge til Farver & Belysning i BAUHAUS Hjørring
+21-01-2025
 
-Brugsen
+BAUHAUS
 
-Hadsund
+Hjørring
 
-Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-Brugsen-%C3%98ster-Hurup/154257-da_DK)
+Job URL: [link](https://bauhausdk.easycruit.com/vacancy/3447535/28568?iso=dk)
 
 
