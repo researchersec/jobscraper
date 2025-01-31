@@ -1,10 +1,10 @@
-# Sælger deltid 8 timer/uge til Farver & Belysning i BAUHAUS Hjørring
-21-01-2025
+# Kom med i haven i BAUHAUS Aalborg på deltid
+22-01-2025
 
 BAUHAUS
 
-Hjørring
+Aalborg SV
 
-Job URL: [link](https://bauhausdk.easycruit.com/vacancy/3447535/28568?iso=dk)
+Job URL: [link](https://bauhausdk.easycruit.com/vacancy/3453487/10038?iso=dk)
 
 

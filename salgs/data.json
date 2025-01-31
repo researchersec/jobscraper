@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "31-01-2025",
+        "title": "Job Posting Title Kunderådgiver - gør karriere inden for salg og kundeservice, deltid 10 timer til vores butik i Hjørring",
+        "company": "Telia Danmark",
+        "location": "Hjørring",
+        "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2253/kunderaadgiver-deltid-10-timer-til-vores-butik-i-hjoerring"
+    },
+    {
+        "pub_date": "31-01-2025",
         "title": "Slagtersvend - Thisted",
         "company": "føtex",
         "location": "Thisted",
@@ -89,12 +96,5 @@
         "company": "BAUHAUS",
         "location": "Aalborg SV",
         "job_URL": "https://bauhausdk.easycruit.com/vacancy/3453487/10038?iso=dk"
-    },
-    {
-        "pub_date": "21-01-2025",
-        "title": "Sælger deltid 8 timer/uge til Farver & Belysning i BAUHAUS Hjørring",
-        "company": "BAUHAUS",
-        "location": "Hjørring",
-        "job_URL": "https://bauhausdk.easycruit.com/vacancy/3447535/28568?iso=dk"
     }
 ]
