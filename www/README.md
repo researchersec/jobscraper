@@ -1,10 +1,10 @@
-# Arkitekt /Senior Frontendudvikler
-02-01-2025
+# Erfarne full stack Java Developers søges til spændende arbejde med strategiske kunder
+07-01-2025
 
-KMD A/S
+CGI Danmark A/S
 
-Aalborg
+Aalborg, Aarhus eller Ballerup
 
-Job URL: [link](https://jobs.kmd.net/default/job/Aalborg-Arkitekt-Senior-Frontendudvikler-9000/1154440201/?utm_source=jobindex)
+Job URL: [link](https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1224-0436&BRID=1176998&lang=10)
 
 
