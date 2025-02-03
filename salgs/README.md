@@ -1,10 +1,10 @@
-# Kom med i haven i BAUHAUS Aalborg på deltid
-22-01-2025
+# Kunderådgiver – gør karriere inden for salg og kundeservice, deltid 10 timer til vores butik i Hjørring
+03-02-2025
 
-BAUHAUS
+Telia Danmark
 
-Aalborg SV
+Hjørring
 
-Job URL: [link](https://bauhausdk.easycruit.com/vacancy/3453487/10038?iso=dk)
+Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/2253/kunderaadgiver-deltid-10-timer-til-vores-butik-i-hjoerring)
 
 
