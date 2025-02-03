@@ -1,10 +1,10 @@
-# Erfarne full stack Java Developers søges til spændende arbejde med strategiske kunder
-07-01-2025
+# Senior Software Developer (PHP)
+03-02-2025
 
-CGI Danmark A/S
+Cykelgear A/S
 
-Aalborg, Aarhus eller Ballerup
+Terndrup, Aarhus C eller Jebjerg
 
-Job URL: [link](https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1224-0436&BRID=1176998&lang=10)
+Job URL: [link](https://job.cykelgear.dk/jobs/2780916-senior-software-developer-php)
 
 
