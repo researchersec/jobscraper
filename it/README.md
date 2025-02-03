@@ -1,10 +1,10 @@
-# Lead System Architect
-08-01-2025
+# Barselsvikariat: Vil du være med til at uddanne fremtidens IT-supportere og datateknikere?
+03-02-2025
 
-RTX A/S
+TECHCOLLEGE
 
-Nørresundby
+Aalborg Øst
 
-Job URL: [link](https://rtx.easycruit.com/vacancy/3439477/164407?iso=us)
+Job URL: [link](https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1038)
 
 
