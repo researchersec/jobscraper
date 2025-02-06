@@ -1,10 +1,10 @@
-# Complea søger i øjeblikket passionerede Support Consultants, der drives af at levere sublim kundeservice og teknisk support på et højt niveau
+# Barselsvikariat: Vil du være med til at uddanne fremtidens IT-supportere og datateknikere?
 03-02-2025
 
-Complea
+TECHCOLLEGE
 
-Nørresundby
+Aalborg Øst
 
-Job URL: [link](https://www.complea.dk/jobs/complea-soeger-i-oejeblikket-passionerede-support-consultants-der-drives-af-at-levere-sublim-kundeservice-og-teknisk-sup)
+Job URL: [link](https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1038)
 
 
