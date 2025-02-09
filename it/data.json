@@ -42,13 +42,6 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/h1516801/5g-devops-testing-and-integration-engineer"
     },
     {
-        "pub_date": "23-01-2025",
-        "title": "IT-driftsmedarbejder",
-        "company": "IT Center Nord",
-        "location": "Aalborg",
-        "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1036"
-    },
-    {
         "pub_date": "20-01-2025",
         "title": "IT-Supporter",
         "company": "Sjørring Maskinfabrik A/S",
@@ -82,6 +75,13 @@
         "company": "CS WIND Offshore A/S",
         "location": "Aalborg Ø",
         "job_URL": "https://www.cswoffshore.com/join-us/job-openings/vacancy?id=13-01-2025&culture=da-DK"
+    },
+    {
+        "pub_date": "13-01-2025",
+        "title": "Solution Architect – sæt dit præg på Netics infrastruktur",
+        "company": "Netic A/S",
+        "location": "Aalborg eller Aarhus N",
+        "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK"
     },
     {
         "pub_date": "07-02-2025",
