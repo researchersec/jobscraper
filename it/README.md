@@ -1,10 +1,10 @@
-# Serviceminded IT-supporter til vores kontor i Hjørring
+# IT Supporter
 04-02-2025
 
-Altiden
+DSI Dantech
 
-Hjørring
+Aalborg
 
-Job URL: [link](https://jobs.altiden.dk/jobs/5501921-altiden-soger-serviceminded-it-supporter-til-vores-kontor-i-hjorring)
+Job URL: [link](https://dsidantech.com/career?hr=show-job%2F238546%26locale%3Dda_DK)
 
 
