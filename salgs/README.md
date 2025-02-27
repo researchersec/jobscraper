@@ -1,10 +1,10 @@
-# Sælger til XL-PRO center i Thisted
-04-02-2025
+# Optometrist til Louis Nielsen Frederikshavn
+05-02-2025
 
-XL-BYG
+Louis Nielsen A/S
 
-Thisted
+Frederikshavn
 
-Job URL: [link](https://app.elvium.com/da/positions/29250/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-frederikshavn/)
 
 
