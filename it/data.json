@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "27-02-2025",
+        "title": "Linux Operations Engineer",
+        "company": "Netcompany A/S",
+        "location": "København, Aarhus eller Aalborg",
+        "job_URL": "https://smrtr.io/nkDkK"
+    },
+    {
         "pub_date": "25-02-2025",
         "title": "Do you want to start a career within enterprise IT equipment?",
         "company": "Nordic Computer A/S",
@@ -110,12 +117,5 @@
         "company": "RTX A/S",
         "location": "Nørresundby",
         "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
-    },
-    {
-        "pub_date": "04-02-2025",
-        "title": "IT Supporter",
-        "company": "DSI Dantech",
-        "location": "Aalborg",
-        "job_URL": "https://dsidantech.com/career?hr=show-job%2F238546%26locale%3Dda_DK"
     }
 ]

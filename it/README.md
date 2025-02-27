@@ -1,10 +1,10 @@
-# IT Supporter
-04-02-2025
+# Lead System Architect
+05-02-2025
 
-DSI Dantech
+RTX A/S
 
-Aalborg
+Nørresundby
 
-Job URL: [link](https://dsidantech.com/career?hr=show-job%2F238546%26locale%3Dda_DK)
+Job URL: [link](https://rtx.easycruit.com/vacancy/3439477/164407?iso=us)
 
 
