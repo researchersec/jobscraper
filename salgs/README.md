@@ -1,10 +1,10 @@
-# Handelstrainee med speciale i salg
-05-02-2025
+# Sælger til Byggecenter i Hune
+06-02-2025
 
-Carl Ras A/S
+XL-BYG
 
-Aalborg eller Aarhus
+Blokhus
 
-Job URL: [link](https://app.jobmatchprofile.com/6ye57d/carl-ras-as/75chpd/handelstrainee-med-speciale-i-salg)
+Job URL: [link](https://app.elvium.com/da/positions/29314/job_posting?referer_host=www.jobindex.dk)
 
 
