@@ -1,10 +1,10 @@
-# Optometrist til Louis Nielsen Frederikshavn
+# Handelstrainee med speciale i salg
 05-02-2025
 
-Louis Nielsen A/S
+Carl Ras A/S
 
-Frederikshavn
+Aalborg eller Aarhus
 
-Job URL: [link](https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-frederikshavn/)
+Job URL: [link](https://app.jobmatchprofile.com/6ye57d/carl-ras-as/75chpd/handelstrainee-med-speciale-i-salg)
 
 
