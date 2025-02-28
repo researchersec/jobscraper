@@ -8,6 +8,13 @@
     },
     {
         "pub_date": "28-02-2025",
+        "title": "Sælger",
+        "company": "Bygma",
+        "location": "Aalborg SV",
+        "job_URL": "https://jobs.bygma.dk/job/Aalborg-S%C3%A6lger-til-Bygma-Aalborg-C-Tr%C3%A6last-9000/1149218555/"
+    },
+    {
+        "pub_date": "28-02-2025",
         "title": "Kunderådgiver – gør karriere inden for salg og kundeservice, fuldtid til vores butik i Frederikshavn",
         "company": "Telia Danmark",
         "location": "Frederikshavn",
@@ -22,14 +29,14 @@
     },
     {
         "pub_date": "26-02-2025",
-        "title": "Sælger til Bygma Hirtshals",
+        "title": "Sælger",
         "company": "Bygma",
         "location": "Hirtshals",
         "job_URL": "https://jobs.bygma.dk/job/Hirtshals-S%C3%A6lger-til-Bygma-Hirtshals-9850/1148914155/"
     },
     {
         "pub_date": "26-02-2025",
-        "title": "Sælger til Bygma Aalborg C Butik",
+        "title": "Sælger",
         "company": "Bygma",
         "location": "Aalborg",
         "job_URL": "https://jobs.bygma.dk/job/Aalborg-S%C3%A6lger-til-Bygma-Aalborg-C-Butik-9000/1148877755/"
@@ -75,12 +82,5 @@
         "company": "SuperBrugsen",
         "location": "Hadsund",
         "job_URL": "https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Hadsund/154467-da_DK"
-    },
-    {
-        "pub_date": "06-02-2025",
-        "title": "Sælger til Byggecenter i Hune",
-        "company": "XL-BYG",
-        "location": "Blokhus",
-        "job_URL": "https://app.elvium.com/da/positions/29314/job_posting?referer_host=www.jobindex.dk"
     }
 ]

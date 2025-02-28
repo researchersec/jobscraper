@@ -1,10 +1,10 @@
-# Sælger til Byggecenter i Hune
-06-02-2025
+# Delikatesseassistent, SuperBrugsen, Hadsund
+07-02-2025
 
-XL-BYG
+SuperBrugsen
 
-Blokhus
+Hadsund
 
-Job URL: [link](https://app.elvium.com/da/positions/29314/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Hadsund/154467-da_DK)
 
 
