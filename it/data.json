@@ -21,6 +21,13 @@
         "job_URL": "https://smrtr.io/nkDkK"
     },
     {
+        "pub_date": "27-02-2025",
+        "title": "Dygtig databaseadministrator med godt Linux-kendskab",
+        "company": "Aalborg Universitet",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219499"
+    },
+    {
         "pub_date": "25-02-2025",
         "title": "Do you want to start a career within enterprise IT equipment?",
         "company": "Nordic Computer A/S",
@@ -63,20 +70,6 @@
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143679&DepartmentId=18974&MediaId=5"
     },
     {
-        "pub_date": "14-02-2025",
-        "title": "Senior Compliance Manager",
-        "company": "Continia Software A/S",
-        "location": "Copenhagen or Nørresundby",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143671&DepartmentId=18974&MediaId=5"
-    },
-    {
-        "pub_date": "14-02-2025",
-        "title": "Business Central Support Engineer - Document Capture Support Team",
-        "company": "Continia Software A/S",
-        "location": "Copenhagen or Nørresundby",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143670&DepartmentId=18974&MediaId=5"
-    },
-    {
         "pub_date": "13-02-2025",
         "title": "Løn- og supportkonsulent",
         "company": "KMD A/S",
@@ -117,5 +110,12 @@
         "company": "Ølandhus ApS",
         "location": "Aabybro",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1538031/it-supporter-med-microsoft-365-erfaring-soeges-til-spaendende-rolle-med-ansvar"
+    },
+    {
+        "pub_date": "05-02-2025",
+        "title": "Lead System Architect",
+        "company": "RTX A/S",
+        "location": "Nørresundby",
+        "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
     }
 ]
