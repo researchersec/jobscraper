@@ -1,10 +1,10 @@
-# Delikatesseassistent, SuperBrugsen, Hadsund
-07-02-2025
+# Sælger til Byggecenter/Malerafdeling i Nykøbing
+03-03-2025
 
-SuperBrugsen
+XL-BYG
 
-Hadsund
+Nykøbing M
 
-Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Hadsund/154467-da_DK)
+Job URL: [link](https://app.elvium.com/da/positions/29610/job_posting?referer_host=www.jobindex.dk)
 
 
