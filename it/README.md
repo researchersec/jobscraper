@@ -1,10 +1,10 @@
-# Lead System Architect
-05-02-2025
+# Head of IT & Business Systems
+03-03-2025
 
-RTX A/S
+Continia Software A/S
 
-Nørresundby
+Copenhagen or Nørresundby
 
-Job URL: [link](https://rtx.easycruit.com/vacancy/3439477/164407?iso=us)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143674&DepartmentId=18974&MediaId=5)
 
 

@@ -21,13 +21,6 @@
         "job_URL": "https://smrtr.io/nkDkK"
     },
     {
-        "pub_date": "27-02-2025",
-        "title": "Dygtig databaseadministrator med godt Linux-kendskab",
-        "company": "Aalborg Universitet",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219499"
-    },
-    {
         "pub_date": "25-02-2025",
         "title": "Do you want to start a career within enterprise IT equipment?",
         "company": "Nordic Computer A/S",
@@ -105,17 +98,24 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/h1537660/vi-soeger-dygtig-kollega-til-installationsteamet-i-aalborg"
     },
     {
-        "pub_date": "07-02-2025",
-        "title": "IT-supporter med Microsoft 365-erfaring søges til spændende rolle med ansvar",
-        "company": "Ølandhus ApS",
-        "location": "Aabybro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1538031/it-supporter-med-microsoft-365-erfaring-soeges-til-spaendende-rolle-med-ansvar"
+        "pub_date": "03-03-2025",
+        "title": "Intern IT-Konsulent",
+        "company": "Arctic Import A/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1544235/intern-it-konsulent"
     },
     {
-        "pub_date": "05-02-2025",
-        "title": "Lead System Architect",
-        "company": "RTX A/S",
-        "location": "Nørresundby",
-        "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
+        "pub_date": "03-03-2025",
+        "title": "Network Solution Architect",
+        "company": "Telenor",
+        "location": "Aalborg",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145880&DepartmentId=18957&MediaId=5"
+    },
+    {
+        "pub_date": "03-03-2025",
+        "title": "Head of IT & Business Systems",
+        "company": "Continia Software A/S",
+        "location": "Copenhagen or Nørresundby",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143674&DepartmentId=18974&MediaId=5"
     }
 ]
