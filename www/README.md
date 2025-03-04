@@ -1,10 +1,10 @@
-# Senior Software Developer (PHP)
-03-02-2025
+# Power Platform Konsulent
+03-03-2025
 
-Cykelgear A/S
+Nav-Vision ApS
 
-Terndrup, Aarhus C eller Jebjerg
+Viborg eller Aalborg
 
-Job URL: [link](https://job.cykelgear.dk/jobs/2780916-senior-software-developer-php)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1543871/power-platform-konsulent)
 
 
