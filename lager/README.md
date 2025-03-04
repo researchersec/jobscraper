@@ -1,10 +1,10 @@
-# Frysehusmedarbejder m/k
-03-02-2025
+# Lager, oprydning og vedligeholdsmedarbejder søges hurtigst muligt
+03-03-2025
 
-Lineage
 
-Hirtshals
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1536209/frysehusmedarbejder-m-k)
+Aars
+
+Job URL: [link](https://www.jobindex.dk/jobannonce/r13038416/lager-oprydning-og-vedligeholdsmedarbejder-soeges-hurtigst-muligt)
 
 
