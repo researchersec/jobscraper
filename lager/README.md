@@ -1,10 +1,10 @@
-# Lager, oprydning og vedligeholdsmedarbejder søges hurtigst muligt
+# Lagerekspedienter, Coop Logistik,  Aalborg Distributions Center
 03-03-2025
 
+Coop Logistik
 
+Aalborg SV
 
-Aars
-
-Job URL: [link](https://www.jobindex.dk/jobannonce/r13038416/lager-oprydning-og-vedligeholdsmedarbejder-soeges-hurtigst-muligt)
+Job URL: [link](https://jobs.coop.dk/job/Lagerekspedienter%2C-Coop-Logistik%2C-Aalborg-Distributions-Center/154623-da_DK)
 
 
