@@ -1,10 +1,10 @@
-# Intern IT-Konsulent
-03-03-2025
+# Manager til Quality Assurance - Tag kvaliteten til nye højder sammen med os
+06-03-2025
 
-Arctic Import A/S
+Norlys
 
-Aalborg Øst
+Aalborg, Tranbjerg J eller København K
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1544235/intern-it-konsulent)
+Job URL: [link](https://www.job-karriere.dk/Norlys/job/Tranbjerg-Manager-til-Quality-Assurance-Tag-kvaliteten-til-nye-h%C3%B8jder-sammen-med-os-8310/1178465201/)
 
 

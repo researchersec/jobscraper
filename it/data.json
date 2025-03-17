@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "17-03-2025",
+        "title": "Network & Security Product Architect",
+        "company": "Telenor",
+        "location": "Aalborg",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145887&DepartmentId=18957&MediaId=5"
+    },
+    {
+        "pub_date": "17-03-2025",
         "title": "Solution Architect (Infrastruktur)",
         "company": "Telenor",
         "location": "Aalborg",
@@ -26,6 +33,13 @@
         "company": "Continia Software A/S",
         "location": "Copenhagen or Aalborg",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143679&DepartmentId=18974&MediaId=5"
+    },
+    {
+        "pub_date": "17-03-2025",
+        "title": "Cloud Security Consultant",
+        "company": "NetNordic Denmark A/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1548481/cloud-security-consultant"
     },
     {
         "pub_date": "12-03-2025",
@@ -103,19 +117,5 @@
         "company": "Norlys",
         "location": "Aalborg, Tranbjerg J eller København K",
         "job_URL": "https://www.job-karriere.dk/Norlys/job/Tranbjerg-Manager-til-Quality-Assurance-Tag-kvaliteten-til-nye-h%C3%B8jder-sammen-med-os-8310/1178465201/"
-    },
-    {
-        "pub_date": "05-03-2025",
-        "title": "Driftsspecialist",
-        "company": "KMD A/S",
-        "location": "Aalborg",
-        "job_URL": "https://jobs.kmd.net/default/job/Aalborg-Driftsspecialist-9000/1178243301/?utm_source=jobindex"
-    },
-    {
-        "pub_date": "03-03-2025",
-        "title": "Intern IT-Konsulent",
-        "company": "Arctic Import A/S",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1544235/intern-it-konsulent"
     }
 ]
