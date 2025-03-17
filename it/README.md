@@ -1,10 +1,10 @@
-# Head of IT & Business Systems
+# Intern IT-Konsulent
 03-03-2025
 
-Continia Software A/S
+Arctic Import A/S
 
-Copenhagen or Nørresundby
+Aalborg Øst
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143674&DepartmentId=18974&MediaId=5)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1544235/intern-it-konsulent)
 
 
