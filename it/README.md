@@ -1,10 +1,10 @@
-# Manager til Quality Assurance - Tag kvaliteten til nye højder sammen med os
-06-03-2025
+# Driftsspecialist
+05-03-2025
 
-Norlys
+KMD A/S
 
-Aalborg, Tranbjerg J eller København K
+Aalborg
 
-Job URL: [link](https://www.job-karriere.dk/Norlys/job/Tranbjerg-Manager-til-Quality-Assurance-Tag-kvaliteten-til-nye-h%C3%B8jder-sammen-med-os-8310/1178465201/)
+Job URL: [link](https://jobs.kmd.net/default/job/Aalborg-Driftsspecialist-9000/1178243301/?utm_source=jobindex)
 
 
