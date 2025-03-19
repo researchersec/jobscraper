@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "19-03-2025",
+        "title": "Technical Service Engineer",
+        "company": "Norlys",
+        "location": "Aalborg, København K",
+        "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Technical-Service-Engineer-9000/1183345101/"
+    },
+    {
         "pub_date": "17-03-2025",
         "title": "Network & Security Product Architect",
         "company": "Telenor",
@@ -110,12 +117,5 @@
         "company": "Norlys",
         "location": "Aalborg, Tranbjerg J eller København K",
         "job_URL": "https://www.job-karriere.dk/Norlys/job/Tranbjerg-Manager-til-Quality-Assurance-Tag-kvaliteten-til-nye-h%C3%B8jder-sammen-med-os-8310/1178465201/"
-    },
-    {
-        "pub_date": "05-03-2025",
-        "title": "Driftsspecialist",
-        "company": "KMD A/S",
-        "location": "Aalborg",
-        "job_URL": "https://jobs.kmd.net/default/job/Aalborg-Driftsspecialist-9000/1178243301/?utm_source=jobindex"
     }
 ]
