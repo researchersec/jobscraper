@@ -1,10 +1,10 @@
-# Sælger til Byggecenter/Malerafdeling i Nykøbing
-03-03-2025
+# Bliv salgsassistent
+04-03-2025
 
-XL-BYG
+Louis Nielsen A/S
 
-Nykøbing M
+Aalborg
 
-Job URL: [link](https://app.elvium.com/da/positions/29610/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/2297/assistent-til-louis-nielsen-aalborg)
 
 
