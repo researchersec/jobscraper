@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "24-03-2025",
+        "title": "Delikatessemedarbejder, Brugsen Kongerslev",
+        "company": "Brugsen",
+        "location": "Kongerslev",
+        "job_URL": "https://jobs.coop.dk/job/Delikatessemedarbejder%2C-Brugsen-Kongerslev/154889-da_DK"
+    },
+    {
+        "pub_date": "24-03-2025",
         "title": "Deltidssælger til Boligtilbehør til ILVA Aalborg SV",
         "company": "ILVA",
         "location": "Aalborg SV",
@@ -96,12 +103,5 @@
         "company": "Louis Nielsen A/S",
         "location": "Aalborg",
         "job_URL": "https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-aalborg/"
-    },
-    {
-        "pub_date": "04-03-2025",
-        "title": "Bliv salgsassistent",
-        "company": "Louis Nielsen A/S",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2297/assistent-til-louis-nielsen-aalborg"
     }
 ]
