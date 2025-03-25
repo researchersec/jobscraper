@@ -1,10 +1,10 @@
-# Manager til Quality Assurance - Tag kvaliteten til nye højder sammen med os
-06-03-2025
+# Hardware-tekniker
+07-03-2025
 
-Norlys
+Nordic Computer A/S
 
-Aalborg, Tranbjerg J eller København K
+Nørresundby
 
-Job URL: [link](https://www.job-karriere.dk/Norlys/job/Tranbjerg-Manager-til-Quality-Assurance-Tag-kvaliteten-til-nye-h%C3%B8jder-sammen-med-os-8310/1178465201/)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1545662/hardware-tekniker)
 
 
