@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "25-03-2025",
+        "title": "Butiksassistent Land & Fritid Thisted",
+        "company": "Land & Fritid",
+        "location": "Thisted",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=363&ProjectId=189123&DepartmentId=22873&MediaId=5"
+    },
+    {
         "pub_date": "24-03-2025",
         "title": "Delikatessemedarbejder, Brugsen Kongerslev",
         "company": "Brugsen",
@@ -96,12 +103,5 @@
         "company": "Louis Nielsen A/S",
         "location": "Brønderslev",
         "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2298/assistent-til-louis-nielsen-broenderselv"
-    },
-    {
-        "pub_date": "04-03-2025",
-        "title": "Optometrist til Louis Nielsen Aalborg",
-        "company": "Louis Nielsen A/S",
-        "location": "Aalborg",
-        "job_URL": "https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-aalborg/"
     }
 ]

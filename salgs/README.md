@@ -1,10 +1,10 @@
-# Optometrist til Louis Nielsen Aalborg
-04-03-2025
+# Bliv salgsassistent
+05-03-2025
 
 Louis Nielsen A/S
 
-Aalborg
+Brønderslev
 
-Job URL: [link](https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-aalborg/)
+Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/2298/assistent-til-louis-nielsen-broenderselv)
 
 
