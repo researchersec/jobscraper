@@ -1,10 +1,10 @@
-# Bliv salgsassistent
+# Handelstrainee med speciale i salg
 05-03-2025
 
-Louis Nielsen A/S
+Carl Ras A/S
 
-Brønderslev
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/reportage/2298/assistent-til-louis-nielsen-broenderselv)
+Job URL: [link](https://app.jobmatchprofile.com/6ye57d/carl-ras-as/75chpd/handelstrainee-med-speciale-i-salg)
 
 
