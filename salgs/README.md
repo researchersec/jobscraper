@@ -1,10 +1,10 @@
-# Handelstrainee med speciale i salg
-05-03-2025
+# Indretningsarkitekt med passion for eksklusive kundeoplevelser
+06-03-2025
 
-Carl Ras A/S
+Svane Køkkenet
 
-Aalborg
+Aalborg SV
 
-Job URL: [link](https://app.jobmatchprofile.com/6ye57d/carl-ras-as/75chpd/handelstrainee-med-speciale-i-salg)
+Job URL: [link](https://www.jobindex.dk/img/pdf/stilling_indretningsarkitekt_aalborg-7.pdf)
 
 
