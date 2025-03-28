@@ -1,10 +1,10 @@
-# Optometrist til Louis Nielsen Skalborg
-10-03-2025
+# Indretningskonsulent til KVIK hos Tømmergaarden i Thisted
+11-03-2025
 
-Louis Nielsen A/S
+XL-BYG
 
-Aalborg SV
+Thisted
 
-Job URL: [link](https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-skalborg/)
+Job URL: [link](https://app.elvium.com/da/positions/29718/job_posting?referer_host=www.jobindex.dk)
 
 

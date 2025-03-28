@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "28-03-2025",
+        "title": "Sælger",
+        "company": "Bygma",
+        "location": "Aalborg",
+        "job_URL": "https://jobs.bygma.dk/job/Aalborg-S%C3%A6lger-til-Bygma-Aalborg-C-Tr%C3%A6last-9000/1149218555/"
+    },
+    {
+        "pub_date": "28-03-2025",
         "title": "Butiksassistent under 18 år - Aalborg",
         "company": "Netto",
         "location": "Aalborg",
@@ -75,12 +82,5 @@
         "company": "XL-BYG",
         "location": "Thisted",
         "job_URL": "https://app.elvium.com/da/positions/29718/job_posting?referer_host=www.jobindex.dk"
-    },
-    {
-        "pub_date": "10-03-2025",
-        "title": "Optometrist til Louis Nielsen Skalborg",
-        "company": "Louis Nielsen A/S",
-        "location": "Aalborg SV",
-        "job_URL": "https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-skalborg/"
     }
 ]
