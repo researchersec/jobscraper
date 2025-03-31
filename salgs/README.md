@@ -1,10 +1,10 @@
-# Indretningskonsulent til KVIK hos Tømmergaarden i Thisted
-11-03-2025
+# Delikatesseassistent, SuperBrugsen Terndrup
+12-03-2025
 
-XL-BYG
+SuperBrugsen
 
-Thisted
+Terndrup
 
-Job URL: [link](https://app.elvium.com/da/positions/29718/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen-Terndrup/154761-da_DK)
 
 
