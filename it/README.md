@@ -1,10 +1,10 @@
-# Cloud Security Consultant
-17-03-2025
+# Senior DevOps Full Stack Developer .Net
+12-03-2025
 
-NetNordic Denmark A/S
+KMD A/S
 
-Aalborg Øst
+Aalborg, Aarhus N
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1548481/cloud-security-consultant)
+Job URL: [link](https://jobs.kmd.net/default/job/Aalborg-Senior-DevOps-Full-Stack-Developer-_Net-9000/1153700301/?utm_source=jobindex)
 
 
