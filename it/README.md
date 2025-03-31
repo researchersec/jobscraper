@@ -1,10 +1,10 @@
-# Senior DevOps Full Stack Developer .Net
-12-03-2025
+# Senior Cyber Security Specialist
+11-03-2025
 
-KMD A/S
+Itm8
 
-Aalborg, Aarhus N
+Viby J, Aalborg SØ eller Herning
 
-Job URL: [link](https://jobs.kmd.net/default/job/Aalborg-Senior-DevOps-Full-Stack-Developer-_Net-9000/1153700301/?utm_source=jobindex)
+Job URL: [link](https://dk.career.itm8.com/jobs/5665085-senior-cyber-security-specialist-viby-j-alborg-eller-herning-itm8?promotion=1377783-jobindex)
 
 
