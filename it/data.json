@@ -57,20 +57,6 @@
     },
     {
         "pub_date": "17-03-2025",
-        "title": "Cloud Administrator",
-        "company": "Continia Software A/S",
-        "location": "Copenhagen or Aalborg",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143678&DepartmentId=18974&MediaId=5"
-    },
-    {
-        "pub_date": "17-03-2025",
-        "title": "Senior Cloud Engineer",
-        "company": "Continia Software A/S",
-        "location": "Copenhagen or Aalborg",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143679&DepartmentId=18974&MediaId=5"
-    },
-    {
-        "pub_date": "17-03-2025",
         "title": "Cloud Security Consultant",
         "company": "NetNordic Denmark A/S",
         "location": "Aalborg Øst",
@@ -96,5 +82,19 @@
         "company": "Netic A/S",
         "location": "Aalborg eller Aarhus N",
         "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK"
+    },
+    {
+        "pub_date": "07-03-2025",
+        "title": "IT/OT Specialist til Aalborg Portland A/S – Electrical Maintenance",
+        "company": "Aalborg Portland",
+        "location": "Aalborg",
+        "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3475383/130141/jobindex&iso=dk/"
+    },
+    {
+        "pub_date": "01-04-2025",
+        "title": "NetSuite Administrator",
+        "company": "Trackunit ApS",
+        "location": "Copenhagen, Kolding, Aarhus or Aalborg, Hybrid position",
+        "job_URL": "https://careers.trackunit.com/jobs/5751306-netsuite-administrator"
     }
 ]

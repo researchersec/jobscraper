@@ -1,10 +1,10 @@
-# Solution Architect – sæt dit præg på Netics infrastruktur
-10-03-2025
+# NetSuite Administrator
+01-04-2025
 
-Netic A/S
+Trackunit ApS
 
-Aalborg eller Aarhus N
+Copenhagen, Kolding, Aarhus or Aalborg, Hybrid position
 
-Job URL: [link](https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK)
+Job URL: [link](https://careers.trackunit.com/jobs/5751306-netsuite-administrator)
 
 
