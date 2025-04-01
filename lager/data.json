@@ -56,13 +56,6 @@
         "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=49962"
     },
     {
-        "pub_date": "14-03-2025",
-        "title": "Front Liner/Reservedele",
-        "company": "",
-        "location": "Thisted",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r13059295/front-liner-reservedele"
-    },
-    {
         "pub_date": "13-03-2025",
         "title": "Engageret Lagermedarbejder søges til XL-BYG Farsøs lager",
         "company": "XL-BYG",
@@ -77,13 +70,6 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/h1546432/leder-til-service-og-lager-hos-oticon-i-snedsted"
     },
     {
-        "pub_date": "06-03-2025",
-        "title": "Lagermedarbejder",
-        "company": "Trinol A/S",
-        "location": "Nørresundby, Hobro",
-        "job_URL": "https://trinol.dk/karriere/job-detalje?jobId=145098"
-    },
-    {
         "pub_date": "01-04-2025",
         "title": "Er du vores nye kollega, som kan køre Reach Truck?",
         "company": "Constellation Cold Logistics Denmark A/S",
@@ -96,5 +82,12 @@
         "company": "",
         "location": "Frederikshavn",
         "job_URL": "https://www.jobindex.dk/jobannonce/r13085104/lager-og-logistikmedarbejder-i-frederikshavn-nathold"
+    },
+    {
+        "pub_date": "01-04-2025",
+        "title": "Plads medarbejder søges nær Sæby",
+        "company": "",
+        "location": "Sæby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r13085644/plads-medarbejder-soeges-naer-saeby"
     }
 ]

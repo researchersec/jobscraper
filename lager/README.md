@@ -1,10 +1,10 @@
-# Lager- og logistikmedarbejder i Frederikshavn - Nathold
+# Plads medarbejder søges nær Sæby
 01-04-2025
 
 
 
-Frederikshavn
+Sæby
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r13085104/lager-og-logistikmedarbejder-i-frederikshavn-nathold)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r13085644/plads-medarbejder-soeges-naer-saeby)
 
 
