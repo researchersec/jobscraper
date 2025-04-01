@@ -63,17 +63,24 @@
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1213&ProjectId=146164&DepartmentId=18982&MediaId=59"
     },
     {
-        "pub_date": "12-03-2025",
-        "title": "Delikatesseassistent, SuperBrugsen Terndrup",
-        "company": "SuperBrugsen",
-        "location": "Terndrup",
-        "job_URL": "https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen-Terndrup/154761-da_DK"
+        "pub_date": "01-04-2025",
+        "title": "Salgsleder",
+        "company": "REMA 1000",
+        "location": "Mariager",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1030&ProjectId=72385&DepartmentId=8612&MediaId=5"
     },
     {
-        "pub_date": "11-03-2025",
-        "title": "Indretningskonsulent til KVIK hos Tømmergaarden i Thisted",
-        "company": "XL-BYG",
-        "location": "Thisted",
-        "job_URL": "https://app.elvium.com/da/positions/29718/job_posting?referer_host=www.jobindex.dk"
+        "pub_date": "01-04-2025",
+        "title": "Salgsassistent",
+        "company": "REMA 1000",
+        "location": "Mariager",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1030&ProjectId=72386&DepartmentId=8612&MediaId=5"
+    },
+    {
+        "pub_date": "01-04-2025",
+        "title": "Sælger",
+        "company": "Bygma",
+        "location": "Støvring",
+        "job_URL": "https://jobs.bygma.dk/job/St%C3%B8vring-S%C3%A6lger-til-Bygma-St%C3%B8vring-9530/1153364155/"
     }
 ]
