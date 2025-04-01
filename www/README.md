@@ -1,10 +1,10 @@
-# Power Platform Konsulent
-03-03-2025
+# SISSEL EDELBO ApS søger en IT-specialist
+01-04-2025
 
-Nav-Vision ApS
 
-Viborg eller Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1543871/power-platform-konsulent)
+Aalborg
+
+Job URL: [link](https://ase-rekruttering.career.emply.com/ad/sissel-edelbo-aps-soger-en-it-specialist/rfjqnu/da)
 
 
