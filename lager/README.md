@@ -1,10 +1,10 @@
-# Sabbatsårsmedarbejder teknik/lager
-03-03-2025
+# Lagermedarbejder
+06-03-2025
 
-Epoka A/S
+Trinol A/S
 
-Svenstrup J
+Nørresundby, Hobro
 
-Job URL: [link](https://epoka.emply.net/recruitment/vacancyAd.aspx?publishingId=92f8d8fc-feb9-4921-9f05-82e90015b982)
+Job URL: [link](https://trinol.dk/karriere/job-detalje?jobId=145098)
 
 
