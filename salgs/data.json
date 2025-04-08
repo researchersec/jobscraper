@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "08-04-2025",
+        "title": "Butiksassistent over 18 år",
+        "company": "Hi Five",
+        "location": "Hjørring",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1555252/butiksassistent-over-18-aar"
+    },
+    {
+        "pub_date": "08-04-2025",
         "title": "Optometrist til Louis Nielsen Skalborg",
         "company": "Louis Nielsen A/S",
         "location": "Aalborg SV",
@@ -117,12 +124,5 @@
         "company": "REMA 1000",
         "location": "Mariager",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1030&ProjectId=72385&DepartmentId=8612&MediaId=5"
-    },
-    {
-        "pub_date": "01-04-2025",
-        "title": "Salgsassistent",
-        "company": "REMA 1000",
-        "location": "Mariager",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1030&ProjectId=72386&DepartmentId=8612&MediaId=5"
     }
 ]
