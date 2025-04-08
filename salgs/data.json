@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "08-04-2025",
+        "title": "Optometrist til Louis Nielsen Skalborg",
+        "company": "Louis Nielsen A/S",
+        "location": "Aalborg SV",
+        "job_URL": "https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-skalborg/"
+    },
+    {
         "pub_date": "07-04-2025",
         "title": "Slagtersvend",
         "company": "Meny",
@@ -117,12 +124,5 @@
         "company": "REMA 1000",
         "location": "Mariager",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1030&ProjectId=72386&DepartmentId=8612&MediaId=5"
-    },
-    {
-        "pub_date": "01-04-2025",
-        "title": "Sælger",
-        "company": "Bygma",
-        "location": "Støvring",
-        "job_URL": "https://jobs.bygma.dk/job/St%C3%B8vring-S%C3%A6lger-til-Bygma-St%C3%B8vring-9530/1153364155/"
     }
 ]

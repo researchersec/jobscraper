@@ -1,10 +1,10 @@
-# Sælger
+# Salgsassistent
 01-04-2025
 
-Bygma
+REMA 1000
 
-Støvring
+Mariager
 
-Job URL: [link](https://jobs.bygma.dk/job/St%C3%B8vring-S%C3%A6lger-til-Bygma-St%C3%B8vring-9530/1153364155/)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1030&ProjectId=72386&DepartmentId=8612&MediaId=5)
 
 
