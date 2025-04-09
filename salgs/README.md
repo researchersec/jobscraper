@@ -1,10 +1,10 @@
-# Salgsleder
-01-04-2025
+# Optometrist til Louis Nielsen Aalborg
+02-04-2025
 
-REMA 1000
+Louis Nielsen A/S
 
-Mariager
+Aalborg
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1030&ProjectId=72385&DepartmentId=8612&MediaId=5)
+Job URL: [link](https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-aalborg/)
 
 

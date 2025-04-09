@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "09-04-2025",
+        "title": "Butiksassistent - Brønderslev",
+        "company": "jem & fix A/S",
+        "location": "Brønderslev",
+        "job_URL": "https://career.jemogfix.dk/jobs/5792584-butiksassistent-broenderslev?promotion=1421066-jobindex"
+    },
+    {
         "pub_date": "08-04-2025",
         "title": "Butiksassistent over 18 år",
         "company": "Hi Five",
@@ -117,12 +124,5 @@
         "company": "Louis Nielsen A/S",
         "location": "Aalborg",
         "job_URL": "https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-aalborg/"
-    },
-    {
-        "pub_date": "01-04-2025",
-        "title": "Salgsleder",
-        "company": "REMA 1000",
-        "location": "Mariager",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1030&ProjectId=72385&DepartmentId=8612&MediaId=5"
     }
 ]
