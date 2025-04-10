@@ -1,19 +1,5 @@
 [
     {
-        "pub_date": "26-03-2025",
-        "title": "Medarbejder til lager og vareudlevering - Aalborg SV",
-        "company": "Bilka",
-        "location": "Aalborg SV",
-        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/b2a4da2f-3e7c-489c-85a1-d7bd7d350618"
-    },
-    {
-        "pub_date": "25-03-2025",
-        "title": "Produktionsmedarbejder til pakketerminal PostNord Danmark i Pakketerminal Aalborg - deltid",
-        "company": "PostNord",
-        "location": "Aalborg",
-        "job_URL": "https://emp.jobylon.com/jobs/283384-postnord-danmark-produktionsmedarbejder-til-pakketerminal-postnord-danmark-i-pakketerminal-aalborg-deltid/"
-    },
-    {
         "pub_date": "24-03-2025",
         "title": "Sommerferiejob på NØRAGER MEJERI",
         "company": "NORDEX FOOD A/S",
@@ -43,10 +29,45 @@
     },
     {
         "pub_date": "10-04-2025",
+        "title": "Lagerassistent til Tranemo Danmarks nye lager",
+        "company": "Tranemo Workwear Danmark A/S",
+        "location": "Hjørring",
+        "job_URL": "https://www.tranemoworkwear.dk/da_dk/lagerassistent"
+    },
+    {
+        "pub_date": "10-04-2025",
+        "title": "Lagermedarbejder med servicegen og teamånd",
+        "company": "Nordic Computer A/S",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1556108/lagermedarbejder-med-servicegen-og-teamaand"
+    },
+    {
+        "pub_date": "10-04-2025",
+        "title": "Salgs- og lagerekspedient til Hals",
+        "company": "XL-BYG",
+        "location": "Hals",
+        "job_URL": "https://app.elvium.com/da/positions/30171/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "pub_date": "10-04-2025",
         "title": "Vi søger Lagermedarbejder",
         "company": "XL-BYG",
         "location": "Hurup Thy",
         "job_URL": "https://app.elvium.com/da/positions/30137/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "pub_date": "10-04-2025",
+        "title": "Forklift driver for hybrid shift, 37 hours per week, Aalborg",
+        "company": "IKEA",
+        "location": "Aalborg SV",
+        "job_URL": "https://jobs.ikea.com/da/job/aalborg/forklift-driver-for-hybrid-shift-37-hours-per-week-aalborg/24107/79639159968"
+    },
+    {
+        "pub_date": "10-04-2025",
+        "title": "Truckfører",
+        "company": "Scandic Pelagic A/S",
+        "location": "Skagen",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r13102529/truckfoerer"
     },
     {
         "pub_date": "08-04-2025",
@@ -68,12 +89,5 @@
         "company": "Scandinavian Medical Solutions A/S",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1553137/er-du-vores-nye-lagermedarbejder"
-    },
-    {
-        "pub_date": "01-04-2025",
-        "title": "Er du vores nye kollega, som kan køre Reach Truck?",
-        "company": "Constellation Cold Logistics Denmark A/S",
-        "location": "Hobro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r13085162/er-du-vores-nye-kollega-som-kan-koere-reach-truck"
     }
 ]
