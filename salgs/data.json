@@ -15,13 +15,6 @@
     },
     {
         "pub_date": "09-04-2025",
-        "title": "Servicemedarbejder",
-        "company": "Bygma",
-        "location": "Sæby",
-        "job_URL": "https://jobs.bygma.dk/job/S%C3%A6by-Servicemedarbejder-til-Bygma-S%C3%A6by-9300/1154459755/"
-    },
-    {
-        "pub_date": "09-04-2025",
         "title": "Butiksassistent - Brønderslev",
         "company": "jem & fix A/S",
         "location": "Brønderslev",
@@ -124,5 +117,12 @@
         "company": "Carl Ras A/S",
         "location": "Aalborg",
         "job_URL": "https://app.jobmatchprofile.com/6ye57d/carl-ras-as/75chpd/handelstrainee-med-speciale-i-salg"
+    },
+    {
+        "pub_date": "02-04-2025",
+        "title": "1. assistent 20 timer/ugen- Hurup Thy",
+        "company": "Netto",
+        "location": "Hurup Thy",
+        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/47fed6ea-18c6-46a6-87f5-3a4a5b508fef"
     }
 ]
