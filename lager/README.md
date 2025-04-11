@@ -1,10 +1,10 @@
-# Er du vores nye Lagermedarbejder?
-02-04-2025
+# Er du vores nye kollega, som kan køre Reach Truck?
+01-04-2025
 
-Scandinavian Medical Solutions A/S
+Constellation Cold Logistics Denmark A/S
 
-Aalborg
+Hobro
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1553137/er-du-vores-nye-lagermedarbejder)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r13085162/er-du-vores-nye-kollega-som-kan-koere-reach-truck)
 
 
