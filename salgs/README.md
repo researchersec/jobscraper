@@ -1,10 +1,10 @@
-# Handelstrainee med speciale i salg
+# Servicemedarbejder under 18 år, Aabybro
 02-04-2025
 
-Carl Ras A/S
+harald nyborg
 
-Aalborg
+Aabybro
 
-Job URL: [link](https://app.jobmatchprofile.com/6ye57d/carl-ras-as/75chpd/handelstrainee-med-speciale-i-salg)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1453&ProjectId=145307&DepartmentId=20087&MediaId=4616)
 
 

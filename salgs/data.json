@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "11-04-2025",
+        "title": "Sælger",
+        "company": "Wunderwear A/S",
+        "location": "Aalborg eller Aarhus C",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1556849/saelger"
+    },
+    {
+        "pub_date": "11-04-2025",
         "title": "Spil sammen med SPORT 24 OUTLET Frederikshavn og Skagen som vores nye sælger",
         "company": "SPORT 24 A/S",
         "location": "Skagen og Frederikshavn",
@@ -117,12 +124,5 @@
         "company": "harald nyborg",
         "location": "Aabybro",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1453&ProjectId=145307&DepartmentId=20087&MediaId=4616"
-    },
-    {
-        "pub_date": "02-04-2025",
-        "title": "Handelstrainee med speciale i salg",
-        "company": "Carl Ras A/S",
-        "location": "Aalborg",
-        "job_URL": "https://app.jobmatchprofile.com/6ye57d/carl-ras-as/75chpd/handelstrainee-med-speciale-i-salg"
     }
 ]
