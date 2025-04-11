@@ -1,10 +1,10 @@
-# 1. assistent 20 timer/ugen- Hurup Thy
+# Handelstrainee med speciale i salg
 02-04-2025
 
-Netto
+Carl Ras A/S
 
-Hurup Thy
+Aalborg
 
-Job URL: [link](https://sallinggroup.com/job/ledige-stillinger/47fed6ea-18c6-46a6-87f5-3a4a5b508fef)
+Job URL: [link](https://app.jobmatchprofile.com/6ye57d/carl-ras-as/75chpd/handelstrainee-med-speciale-i-salg)
 
 
