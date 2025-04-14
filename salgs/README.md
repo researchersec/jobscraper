@@ -1,10 +1,10 @@
-# Servicemedarbejder under 18 år, Aabybro
+# Spil sammen med SPORT 24 som vores nye sportssælger
 02-04-2025
 
-harald nyborg
+SPORT 24 A/S
 
-Aabybro
+Aalborg SV
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1453&ProjectId=145307&DepartmentId=20087&MediaId=4616)
+Job URL: [link](https://app.elvium.com/da/positions/30035/job_posting?referer_host=www.jobindex.dk)
 
 
