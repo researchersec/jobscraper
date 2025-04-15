@@ -1,10 +1,10 @@
-# Spil sammen med SPORT 24 som vores nye sportssælger
+# Servicemedarbejder under 18 år, Hobro
 02-04-2025
 
-SPORT 24 A/S
+harald nyborg
 
-Aalborg SV
+Hobro
 
-Job URL: [link](https://app.elvium.com/da/positions/30035/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1453&ProjectId=145312&DepartmentId=20169&MediaId=4616)
 
 
