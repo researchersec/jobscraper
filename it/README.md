@@ -1,10 +1,10 @@
-# NetSuite Administrator
+# Vil du være med til at uddanne fremtidens bedste datateknikere?
 01-04-2025
 
-Trackunit ApS
+TECHCOLLEGE
 
-Copenhagen, Kolding, Aarhus or Aalborg, Hybrid position
+Aalborg
 
-Job URL: [link](https://careers.trackunit.com/jobs/5751306-netsuite-administrator)
+Job URL: [link](https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1047)
 
 
