@@ -1,10 +1,10 @@
-# Servicemedarbejder under 18 år, Hobro
+# Personal Shopper
 02-04-2025
 
-harald nyborg
+CHANGE of Scandinavia A/S
 
-Hobro
+Aalborg
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1453&ProjectId=145312&DepartmentId=20169&MediaId=4616)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146527&DepartmentId=18981&MediaId=59)
 
 

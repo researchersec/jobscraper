@@ -1,5 +1,19 @@
 [
     {
+        "pub_date": "16-04-2025",
+        "title": "Sælger",
+        "company": "Wunderwear A/S",
+        "location": "Aalborg SV",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1558034/saelger"
+    },
+    {
+        "pub_date": "16-04-2025",
+        "title": "Bliv en del af vores farverige team i XL-BYG Hadsund!",
+        "company": "XL-BYG",
+        "location": "Hadsund",
+        "job_URL": "https://app.elvium.com/da/positions/30235/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
         "pub_date": "14-04-2025",
         "title": "Butiksassistent under 18 år - Aalborg",
         "company": "Netto",
@@ -12,13 +26,6 @@
         "company": "Brugsen",
         "location": "Kongerslev",
         "job_URL": "https://jobs.coop.dk/job/Delikatessemedarbejder%2C-Brugsen-Kongerslev/154889-da_DK"
-    },
-    {
-        "pub_date": "11-04-2025",
-        "title": "Sælger",
-        "company": "Wunderwear A/S",
-        "location": "Aarhus C, Aalborg SV",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1556849/saelger"
     },
     {
         "pub_date": "11-04-2025",
@@ -117,12 +124,5 @@
         "company": "CHANGE of Scandinavia A/S",
         "location": "Aalborg",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146527&DepartmentId=18981&MediaId=59"
-    },
-    {
-        "pub_date": "02-04-2025",
-        "title": "Servicemedarbejder under 18 år, Hobro",
-        "company": "harald nyborg",
-        "location": "Hobro",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1453&ProjectId=145312&DepartmentId=20169&MediaId=4616"
     }
 ]
