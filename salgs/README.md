@@ -1,10 +1,10 @@
-# Personal Shopper
-02-04-2025
+# Servicemedarbejder u. 18 år
+04-04-2025
 
-CHANGE of Scandinavia A/S
+jem & fix A/S
 
-Thisted
+Nørresundby
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146528&DepartmentId=18982&MediaId=59)
+Job URL: [link](https://career.jemogfix.dk/jobs/5768490-servicemedarbejder-u-18-ar)
 
 
