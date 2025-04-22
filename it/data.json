@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "28-03-2025",
+        "title": "Product Owner - vær med til at forbinde IT og forretningen",
+        "company": "Norlys",
+        "location": "Aalborg",
+        "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Product-Owner-v%C3%A6r-med-til-at-forbinde-IT-og-forretningen-9000/1186872101/"
+    },
+    {
         "pub_date": "16-04-2025",
         "title": "System & Product Owner to Procurement",
         "company": "Norlys",
@@ -98,13 +105,6 @@
         "job_URL": "https://xci.teamtailor.com/jobs/5760498-devops-team-lead?promotion=1410017-jobindex"
     },
     {
-        "pub_date": "02-04-2025",
-        "title": "DevOps Engineer til cloud-team i IT-afdelingen på Aalborg Universitet",
-        "company": "Aalborg Universitet",
-        "location": "Aalborg Øst og mulighed for hjemmearbejde",
-        "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219557"
-    },
-    {
         "pub_date": "01-04-2025",
         "title": "IT System Administrator",
         "company": "Blue Power Partners A/S",
@@ -113,9 +113,9 @@
     },
     {
         "pub_date": "01-04-2025",
-        "title": "Vil du være med til at uddanne fremtidens bedste datateknikere?",
-        "company": "TECHCOLLEGE",
-        "location": "Aalborg",
-        "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1047"
+        "title": "NetSuite Administrator",
+        "company": "Trackunit ApS",
+        "location": "Copenhagen, Kolding, Aarhus or Aalborg, Hybrid position",
+        "job_URL": "https://careers.trackunit.com/jobs/5751306-netsuite-administrator"
     }
 ]
