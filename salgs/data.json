@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "22-04-2025",
+        "title": "Salgsassistent med lukkeansvar, Hobro",
+        "company": "harald nyborg",
+        "location": "Hobro",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1453&ProjectId=145319&DepartmentId=20169&MediaId=4616"
+    },
+    {
         "pub_date": "16-04-2025",
         "title": "Sælger",
         "company": "Wunderwear A/S",
@@ -117,12 +124,5 @@
         "company": "CHANGE of Scandinavia A/S",
         "location": "Thisted",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146528&DepartmentId=18982&MediaId=59"
-    },
-    {
-        "pub_date": "02-04-2025",
-        "title": "Personal Shopper",
-        "company": "CHANGE of Scandinavia A/S",
-        "location": "Aalborg",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146527&DepartmentId=18981&MediaId=59"
     }
 ]
