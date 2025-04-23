@@ -1,10 +1,10 @@
-# SISSEL EDELBO ApS søger en IT-specialist
-01-04-2025
+# Digital Marketing Specialist
+02-04-2025
 
+AGITO Medical A/S
 
+Nørresundby
 
-Aalborg
-
-Job URL: [link](https://ase-rekruttering.career.emply.com/ad/sissel-edelbo-aps-soger-en-it-specialist/rfjqnu/da)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1553180/digital-marketing-specialist)
 
 
