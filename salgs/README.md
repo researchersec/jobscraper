@@ -1,10 +1,10 @@
-# Servicemedarbejder u. 18 år
+# Køkkenmedhjælper
 04-04-2025
 
-jem & fix A/S
+Meny
 
-Nørresundby
+Løkken
 
-Job URL: [link](https://career.jemogfix.dk/jobs/5768490-servicemedarbejder-u-18-ar)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147588&DepartmentId=19093&MediaId=4623)
 
 
