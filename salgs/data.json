@@ -7,6 +7,13 @@
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147625&DepartmentId=19073&MediaId=4623"
     },
     {
+        "pub_date": "24-04-2025",
+        "title": "Delikatesseassistent, SuperBrugsen Støvring",
+        "company": "SuperBrugsen",
+        "location": "Støvring",
+        "job_URL": "https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen-St%C3%B8vring/155269-da_DK"
+    },
+    {
         "pub_date": "22-04-2025",
         "title": "Salgsassistent med lukkeansvar, Hobro",
         "company": "harald nyborg",
@@ -103,12 +110,5 @@
         "company": "Meny",
         "location": "Aabybro",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147592&DepartmentId=19150&MediaId=4623"
-    },
-    {
-        "pub_date": "04-04-2025",
-        "title": "Køkkenmedhjælper",
-        "company": "Meny",
-        "location": "Løkken",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147588&DepartmentId=19093&MediaId=4623"
     }
 ]

@@ -1,10 +1,10 @@
-# Køkkenmedhjælper
-04-04-2025
+# Slagtersvend
+07-04-2025
 
 Meny
 
-Løkken
+Aabybro
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147588&DepartmentId=19093&MediaId=4623)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147592&DepartmentId=19150&MediaId=4623)
 
 
