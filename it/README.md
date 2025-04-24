@@ -1,10 +1,10 @@
-# NetSuite Administrator
-01-04-2025
+# DevOps Team Lead
+02-04-2025
 
-Trackunit ApS
+XCI A/S
 
-Copenhagen, Kolding, Aarhus or Aalborg, Hybrid position
+Aalborg
 
-Job URL: [link](https://careers.trackunit.com/jobs/5751306-netsuite-administrator)
+Job URL: [link](https://xci.teamtailor.com/jobs/5760498-devops-team-lead?promotion=1410017-jobindex)
 
 
