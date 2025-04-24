@@ -1,10 +1,10 @@
-# DevOps Team Lead
+# Infrastrukturspecialist til Team Hardware & Systems
 02-04-2025
 
-XCI A/S
+Unik System Design A/S
 
-Aalborg
+Vejle, Aalborg SV
 
-Job URL: [link](https://xci.teamtailor.com/jobs/5760498-devops-team-lead?promotion=1410017-jobindex)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143767&DepartmentId=18965&MediaId=4617)
 
 
