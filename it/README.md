@@ -1,10 +1,10 @@
-# Infrastrukturspecialist til Team Hardware & Systems
-02-04-2025
+# Infrastructure Architect
+03-04-2025
 
-Unik System Design A/S
+KMD A/S
 
-Vejle, Aalborg SV
+Ballerup, Aalborg, Odense M og mulighed for hjemmearbejde
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143767&DepartmentId=18965&MediaId=4617)
+Job URL: [link](https://jobs.kmd.net/job/Ballerup-Infrastructure-Architect-2750/1188484401/)
 
 
