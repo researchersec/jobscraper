@@ -1,10 +1,10 @@
-# Slagtersvend
-07-04-2025
+# Butiksassistent over 18 år
+08-04-2025
 
-Meny
+Hi Five
 
-Aabybro
+Hjørring
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147592&DepartmentId=19150&MediaId=4623)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1555252/butiksassistent-over-18-aar)
 
 

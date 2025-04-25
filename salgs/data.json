@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "25-04-2025",
+        "title": "Fuldtidssælger med relevant erfaring, ILVA Aalborg SV",
+        "company": "ILVA",
+        "location": "Aalborg SV",
+        "job_URL": "https://ilva.youngcrm.com/jobportal/11224"
+    },
+    {
         "pub_date": "24-04-2025",
         "title": "Slagtersvend/Pølsemager",
         "company": "Meny",
@@ -103,12 +110,5 @@
         "company": "Hi Five",
         "location": "Hjørring",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1555252/butiksassistent-over-18-aar"
-    },
-    {
-        "pub_date": "07-04-2025",
-        "title": "Slagtersvend",
-        "company": "Meny",
-        "location": "Aabybro",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147592&DepartmentId=19150&MediaId=4623"
     }
 ]
