@@ -1,10 +1,10 @@
-# Butiksassistent over 18 år
-08-04-2025
+# Salgs- og lagerekspedient til Hals
+10-04-2025
 
-Hi Five
+XL-BYG
 
-Hjørring
+Hals
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1555252/butiksassistent-over-18-aar)
+Job URL: [link](https://app.elvium.com/da/positions/30171/job_posting?referer_host=www.jobindex.dk)
 
 
