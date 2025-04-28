@@ -1,10 +1,10 @@
-# Salgs- og lagerekspedient til Hals
+# Slagtersvend
 10-04-2025
 
-XL-BYG
+Meny
 
-Hals
+Klarup
 
-Job URL: [link](https://app.elvium.com/da/positions/30171/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147599&DepartmentId=19086&MediaId=4623)
 
 

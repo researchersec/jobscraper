@@ -1,5 +1,12 @@
 [
     {
+        "pub_date": "28-04-2025",
+        "title": "Slagtersvend, SuperBrugsen Nordhavnen",
+        "company": "SuperBrugsen",
+        "location": "Nørresundby",
+        "job_URL": "https://jobs.coop.dk/job/Slagtersvend%2C-SuperBrugsen-Nordhavnen/155286-da_DK"
+    },
+    {
         "pub_date": "25-04-2025",
         "title": "Fuldtidssælger med relevant erfaring, ILVA Aalborg SV",
         "company": "ILVA",
@@ -96,12 +103,5 @@
         "company": "Meny",
         "location": "Klarup",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147599&DepartmentId=19086&MediaId=4623"
-    },
-    {
-        "pub_date": "10-04-2025",
-        "title": "Salgs- og lagerekspedient til Hals",
-        "company": "XL-BYG",
-        "location": "Hals",
-        "job_URL": "https://app.elvium.com/da/positions/30171/job_posting?referer_host=www.jobindex.dk"
     }
 ]
