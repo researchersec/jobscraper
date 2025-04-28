@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "28-04-2025",
+        "title": "Butiksassistent",
+        "company": "jem & fix A/S",
+        "location": "Løgstør",
+        "job_URL": "https://career.jemogfix.dk/jobs/5858914-butiksassistent-loegstoer?promotion=1447695-jobindex"
+    },
+    {
+        "pub_date": "28-04-2025",
         "title": "Slagtersvend, SuperBrugsen Nordhavnen",
         "company": "SuperBrugsen",
         "location": "Nørresundby",
@@ -96,12 +103,5 @@
         "company": "VERO MODA",
         "location": "Aars",
         "job_URL": "https://bestseller-as.contactrh.com/jobs/10895/43306559/da_DK"
-    },
-    {
-        "pub_date": "10-04-2025",
-        "title": "Slagtersvend",
-        "company": "Meny",
-        "location": "Klarup",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147599&DepartmentId=19086&MediaId=4623"
     }
 ]

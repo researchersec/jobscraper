@@ -1,10 +1,10 @@
-# Slagtersvend
-10-04-2025
+# Salgsassistent
+11-04-2025
 
-Meny
+VERO MODA
 
-Klarup
+Aars
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147599&DepartmentId=19086&MediaId=4623)
+Job URL: [link](https://bestseller-as.contactrh.com/jobs/10895/43306559/da_DK)
 
 
