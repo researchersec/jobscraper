@@ -1,10 +1,10 @@
-# Salgsassistent
-11-04-2025
+# Salgs- og lagerekspedient til Hals
+10-04-2025
 
-VERO MODA
+XL-BYG
 
-Aars
+Hals
 
-Job URL: [link](https://bestseller-as.contactrh.com/jobs/10895/43306559/da_DK)
+Job URL: [link](https://app.elvium.com/da/positions/30171/job_posting?referer_host=www.jobindex.dk)
 
 
