@@ -1,10 +1,10 @@
-# Senior Cyber Security Specialist
-08-04-2025
+# Økonomikonsulent – NAV & BC
+09-04-2025
 
-Itm8
+Nav-Vision ApS
 
-Viby J, Aalborg SØ eller Herning
+Viborg eller Aalborg og mulighed for hjemmearbejde
 
-Job URL: [link](https://dk.career.itm8.com/jobs/5665085-senior-cyber-security-specialist-viby-j-alborg-eller-herning-itm8?promotion=1377783-jobindex)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1555845/oekonomikonsulent-nav-bc)
 
 
