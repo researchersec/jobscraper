@@ -1,10 +1,10 @@
-# Supporter – ServiceDesk
+# Senior Cyber Security Specialist
 08-04-2025
 
-Hviid & Larsen ApS
+Itm8
 
-Aars og mulighed for hjemmearbejde
+Viby J, Aalborg SØ eller Herning
 
-Job URL: [link](http://www.hviidoglarsen.dk/jobs?hr=show-job/252609&linkref=291914&locale=da_DK)
+Job URL: [link](https://dk.career.itm8.com/jobs/5665085-senior-cyber-security-specialist-viby-j-alborg-eller-herning-itm8?promotion=1377783-jobindex)
 
 
