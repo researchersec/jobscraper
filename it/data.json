@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "30-04-2025",
+        "title": "Web Specialist – optimering og digitale brugeroplevelser",
+        "company": "VELA",
+        "location": "Aalborg SV",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1560547/web-specialist-optimering-og-digitale-brugeroplevelser"
+    },
+    {
+        "pub_date": "30-04-2025",
         "title": "Infrastrukturspecialist til Team Hardware & Systems",
         "company": "Unik System Design A/S",
         "location": "Vejle, Aalborg SV",
@@ -117,12 +124,5 @@
         "company": "XCI A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://xci.teamtailor.com/jobs/5798632-senior-it-infrastructure-engineer?promotion=1423164-jobindex"
-    },
-    {
-        "pub_date": "09-04-2025",
-        "title": "Økonomikonsulent – NAV & BC",
-        "company": "Nav-Vision ApS",
-        "location": "Viborg eller Aalborg og mulighed for hjemmearbejde",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1555845/oekonomikonsulent-nav-bc"
     }
 ]

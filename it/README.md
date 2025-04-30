@@ -1,10 +1,10 @@
-# Økonomikonsulent – NAV & BC
-09-04-2025
+# Senior IT/Infrastructure Engineer
+10-04-2025
 
-Nav-Vision ApS
+XCI A/S
 
-Viborg eller Aalborg og mulighed for hjemmearbejde
+Aalborg Øst
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1555845/oekonomikonsulent-nav-bc)
+Job URL: [link](https://xci.teamtailor.com/jobs/5798632-senior-it-infrastructure-engineer?promotion=1423164-jobindex)
 
 
