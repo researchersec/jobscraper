@@ -1,10 +1,10 @@
-# Er du vores nye Lagermedarbejder?
-02-04-2025
+# Vi søger Lagermedarbejder
+10-04-2025
 
-Scandinavian Medical Solutions A/S
+XL-BYG
 
-Aalborg
+Hurup Thy
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1553137/er-du-vores-nye-lagermedarbejder)
+Job URL: [link](https://app.elvium.com/da/positions/30137/job_posting?referer_host=www.jobindex.dk)
 
 
