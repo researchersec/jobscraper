@@ -1,10 +1,10 @@
-# E-commerce Manager med drive, resultater og ambitioner
-09-04-2025
+# CEGO søger erfaren Spiludvikler til vores Client-team
+11-04-2025
 
-DrinxSjøbeck
+CEGO A/S
 
-Frederikshavn
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1555599/e-commerce-manager-med-drive-resultater-og-ambitioner)
+Job URL: [link](https://www.jobindex.dk/jobannonce/r13104816/cego-soeger-erfaren-spiludvikler-til-vores-client-team)
 
 
