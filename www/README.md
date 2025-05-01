@@ -1,10 +1,10 @@
-# Digital Marketing Specialist
-02-04-2025
+# E-commerce Manager med drive, resultater og ambitioner
+09-04-2025
 
-AGITO Medical A/S
+DrinxSjøbeck
 
-Nørresundby
+Frederikshavn
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1553180/digital-marketing-specialist)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1555599/e-commerce-manager-med-drive-resultater-og-ambitioner)
 
 
