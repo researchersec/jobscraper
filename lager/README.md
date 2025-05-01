@@ -1,10 +1,10 @@
-# Vi søger Lagermedarbejder
-10-04-2025
+# Lagermedarbejder med stærke IT-kompetencer
+01-05-2025
 
-XL-BYG
+Global Boiler Services
 
-Hurup Thy
+Svenstrup J
 
-Job URL: [link](https://app.elvium.com/da/positions/30137/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1560971/lagermedarbejder-med-staerke-it-kompetencer)
 
 
