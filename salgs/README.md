@@ -1,10 +1,10 @@
-# Salgsassistent
-11-04-2025
+# Proff værktøjssælger til XL-BYG Hadsund
+01-05-2025
 
-VERO MODA
+XL-BYG
 
-Aars
+Hadsund
 
-Job URL: [link](https://bestseller-as.contactrh.com/jobs/10895/43306559/da_DK)
+Job URL: [link](https://app.elvium.com/da/positions/30353/job_posting?referer_host=www.jobindex.dk)
 
 
