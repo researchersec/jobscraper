@@ -1,10 +1,10 @@
-# Senior IT/Infrastructure Engineer
-10-04-2025
+# Microsoft Business Central Forretningskonsulent
+02-05-2025
 
-XCI A/S
+Jobindex
 
-Aalborg Øst
+Aalborg
 
-Job URL: [link](https://xci.teamtailor.com/jobs/5798632-senior-it-infrastructure-engineer?promotion=1423164-jobindex)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1554148/microsoft-business-central-forretningskonsulent)
 
 
