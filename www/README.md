@@ -1,10 +1,10 @@
-# CEGO søger erfaren Spiludvikler til vores Client-team
+# Are you our next Junior Mission Designer?
 11-04-2025
 
-CEGO A/S
+Slipgate Ironworks ApS
 
-Aalborg
+Aalborg SV
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/r13104816/cego-soeger-erfaren-spiludvikler-til-vores-client-team)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1556612/are-you-our-next-junior-mission-designer)
 
 
