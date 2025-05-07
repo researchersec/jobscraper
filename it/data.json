@@ -95,7 +95,7 @@
         "title": "Network Solution Architect",
         "company": "Telenor",
         "location": "Aalborg og mulighed for hjemmearbejde",
-        "job_URL": "https://karriere.telenor.dk/da/jobs/5890202-network-solution-architect?utm_campaign=jobs-widget&utm_source=karriere.telenor.dk&utm_content=jobs&utm_medium=web&_gl=1*gslpxp*_ga*MTEwMzgyMDM1Ni4xNzQ2MDEyNzUw*_ga_9M87DZWEBZ*czE3NDY2MTY2OTkkbzIkZzEkdDE3NDY2MTcwOTgkajAkbDAkaDA."
+        "job_URL": "https://karriere.telenor.dk/da/jobs/5890202-network-solution-architect?utm_campaign=jobs-widget&utm_source=karriere.telenor.dk&utm_content=jobs&utm_medium=web"
     },
     {
         "pub_date": "06-05-2025",
@@ -120,6 +120,13 @@
     },
     {
         "pub_date": "02-05-2025",
+        "title": "Vil du være med til at uddanne fremtidens bedste datateknikere? (Genopslag)",
+        "company": "TECHCOLLEGE",
+        "location": "Aalborg",
+        "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1051"
+    },
+    {
+        "pub_date": "02-05-2025",
         "title": "Vi søger dygtig kollega til installationsteamet i Aalborg",
         "company": "AV CENTER Aalborg ApS",
         "location": "Nørresundby",
@@ -131,12 +138,5 @@
         "company": "Jobindex",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1554148/microsoft-business-central-forretningskonsulent"
-    },
-    {
-        "pub_date": "02-05-2025",
-        "title": "Vil du være med til at uddanne fremtidens bedste datateknikere? (Genopslag)",
-        "company": "TECHCOLLEGE",
-        "location": "Aalborg",
-        "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1051"
     }
 ]

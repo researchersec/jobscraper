@@ -1,10 +1,10 @@
-# Vil du være med til at uddanne fremtidens bedste datateknikere? (Genopslag)
+# Microsoft Business Central Forretningskonsulent
 02-05-2025
 
-TECHCOLLEGE
+Jobindex
 
 Aalborg
 
-Job URL: [link](https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1051)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1554148/microsoft-business-central-forretningskonsulent)
 
 
