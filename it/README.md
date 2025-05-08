@@ -1,10 +1,10 @@
-# Vi søger dygtig kollega til installationsteamet i Aalborg
+# Microsoft Business Central Forretningskonsulent
 02-05-2025
 
-AV CENTER Aalborg ApS
+Jobindex
 
-Nørresundby
+Aalborg
 
-Job URL: [link](https://www.jobindex.dk/jobannonce/h1561412/vi-soeger-dygtig-kollega-til-installationsteamet-i-aalborg)
+Job URL: [link](https://www.jobindex.dk/jobannonce/h1554148/microsoft-business-central-forretningskonsulent)
 
 
