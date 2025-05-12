@@ -1,10 +1,10 @@
-# Proff værktøjssælger til XL-BYG Hadsund
+# Salgsassistent til Byggecenter i Løkken
 01-05-2025
 
 XL-BYG
 
-Hadsund
+Løkken
 
-Job URL: [link](https://app.elvium.com/da/positions/30353/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://app.elvium.com/da/positions/30354/job_posting?referer_host=www.jobindex.dk)
 
 

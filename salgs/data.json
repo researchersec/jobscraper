@@ -1,6 +1,13 @@
 [
     {
         "pub_date": "12-05-2025",
+        "title": "Sælger til XL-PRO center i Thisted",
+        "company": "XL-BYG",
+        "location": "Thisted",
+        "job_URL": "https://app.elvium.com/da/positions/30485/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "pub_date": "12-05-2025",
         "title": "Kasseassistent til Servicelinjen, Plantorama Aalborg",
         "company": "Plantorama",
         "location": "Aalborg SV",
@@ -110,12 +117,5 @@
         "company": "XL-BYG",
         "location": "Løkken",
         "job_URL": "https://app.elvium.com/da/positions/30354/job_posting?referer_host=www.jobindex.dk"
-    },
-    {
-        "pub_date": "01-05-2025",
-        "title": "Proff værktøjssælger til XL-BYG Hadsund",
-        "company": "XL-BYG",
-        "location": "Hadsund",
-        "job_URL": "https://app.elvium.com/da/positions/30353/job_posting?referer_host=www.jobindex.dk"
     }
 ]
