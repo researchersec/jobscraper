@@ -1,10 +1,10 @@
-# Salgsassistent til Byggecenter i Løkken
-01-05-2025
+# Salgsassistent med lukkeansvar, Aars
+02-05-2025
 
-XL-BYG
+harald nyborg
 
-Løkken
+Aars
 
-Job URL: [link](https://app.elvium.com/da/positions/30354/job_posting?referer_host=www.jobindex.dk)
+Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1453&ProjectId=145332&DepartmentId=20095&MediaId=4616)
 
 
