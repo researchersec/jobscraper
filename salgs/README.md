@@ -1,10 +1,10 @@
-# Salgsassistent med lukkeansvar, Aars
-02-05-2025
+# Slagter mestersvend, Kvickly Hjørring
+05-05-2025
 
-harald nyborg
+Kvickly
 
-Aars
+Hjørring
 
-Job URL: [link](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1453&ProjectId=145332&DepartmentId=20095&MediaId=4616)
+Job URL: [link](https://jobs.coop.dk/job/Slagter-mestersvend%2C-Kvickly-Hj%C3%B8rring/155387-da_DK)
 
 
