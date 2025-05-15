@@ -1,10 +1,10 @@
-# Slagter mestersvend, Kvickly Hjørring
+# Optometrist til Louis Nielsen Frederikshavn
 05-05-2025
 
-Kvickly
+Louis Nielsen A/S
 
-Hjørring
+Frederikshavn
 
-Job URL: [link](https://jobs.coop.dk/job/Slagter-mestersvend%2C-Kvickly-Hj%C3%B8rring/155387-da_DK)
+Job URL: [link](https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-frederikshavn/)
 
 
